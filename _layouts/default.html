@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- Bootstrap core CSS -->
+        <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.min.css">
+
+        <link rel="icon" type="image/png" href="{{ site.url }}/assets/favicon.png"/>
+
+        <!-- Custom styles for this template -->
+        <link href="{{ site.url }}/bootstrap/css/starter-template.css" rel="stylesheet">
+        <link href="{{ site.url }}/bootstrap/css/sticky-footer.css" rel="stylesheet">
+        <link rel="stylesheet" href="{{ site.url }}/css/master.css">
+
+    </head>
+    <body>
+        <div id="wrap">
+            <div class="navbar navbar-inverse navbar-fixed-top" style="background-color: rgb(25, 121, 168)">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="{{ site.url }}/"> <img src="{{ site.url }}/assets/logo.gif"/></a>
+                    </div><!-- /navbar-header -->
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav">
+                            <li><a href="{{ site.url }}/research">Research</a></li>
+                            <li><a href="{{ site.url }}/teaching">Teaching</a></li>
+                            <li><a href="{{ site.url }}/publications">Publications</a></li>
+                            <li><a href="{{ site.url }}/software">Software</a></li>
+                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects<b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="{{ site.url }}/projects/hotnet">HotNet</a></li>
+                                    <li><a href="{{ site.url }}/projects/dendrix">Dendrix</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="{{ site.url }}/people">People</a></li>
+                            <li><a href="{{ site.url }}/news">News</a></li>
+                            <li><a href="{{ site.url }}/jobs">Jobs</a></li>
+                        </ul>
+                    </div><!-- /navbar-collapse -->
+                </div>
+            </div><!-- /navbar -->
+            <div class="container">
+                <div class="site">
+                    {{ content }}
+                </div><!-- /site -->
+            </div>
+        </div>
+
+        <div class="container">
+            <hr/>
+        <footer>
+            <p>&copy; Raphael Research Group 2014</p>
+            <img src="{{ site.url }}/assets/brown.jpeg" style="height:60px; float:left; margin-right: 10px"/>
+            <p>Brown University<br/>
+            Department of Computer Science<br/>
+            Center for Computational Molecular Biology</p>
+        </footer>
+    </div>
+        
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    </body>
+</html>
