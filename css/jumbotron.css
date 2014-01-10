@@ -20,6 +20,13 @@ body {
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 500;
 }
+.col-md-4 h2 {
+  color: #3f3f3f;
+  border-bottom: none;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 500;
+  font-size: 30px;
+}
 .jumbotron a {
   color: #ffffff;
 }
