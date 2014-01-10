@@ -21,9 +21,9 @@ We study the role of structural variation (genome rearrangements, segmental dupl
 ##Sequencing Structural Variants
 We are developing scalable and robust algorithms to identify structural variants in individual genomes and to compare structural variants across individuals using various second and third generation DNA sequencing technologies. We introduced [Geometric Analysis of Structural Variants (GASV)](/projects/structvar) a geometric method that explicitly computes the information that each measurement reveals about the boundaries (breakpoints) of a structural variant and quantifies the uncertainty associated with this measurement.
 
-We are designing algorithms to maximize the effectiveness of emerging single-molecule sequencing technologies for detecting and assembling complex structural variants and for de novo genome assembly. In particular, we are designing algorithms for strobe reads, a generalization of paired reads that consist of more than two reads from a single DNA fragment, and are being commercialized by Pacific Biosciences.
+We are designing algorithms to maximize the effectiveness of emerging single-molecule sequencing technologies for detecting and assembling complex structural variants and for de novo genome assembly. In particular, we are designing algorithms for strobe reads, a generalization of paired reads that consist of more than two reads from a single DNA fragment, and are being commercialized by [Pacific Biosciences](http://www.pacificbiosciences.com/).
 
 ##Biological Sequence Analysis
 We develop algorithms for analysis and annotation of DNA and protein sequences. Earlier work includues methods for multiple sequence alignment with block rearrangements, motif finding, analysis of high-copy number repeats in the human genome, and metagenomic studies of protein family diversity.
 
-See the publications page for further details.
+See the [publications page]({{ site.url }}/publications) for further details.
