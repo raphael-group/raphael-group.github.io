@@ -1,10 +1,52 @@
+/* Set navbar collapse to 992px */ 
+@media (max-width: 991px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+/* Reset CSS */
+html,body{
+    background:rgb(255, 255, 255);
+    font-family: 'Calibri', sans-serif;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+    padding-top:4px;
+}
+
+h1, h2, h3, h4, h5{
+    margin:0;
+    padding:0;
+}
+
 h1{
 	font-size: 35px;
 	margin-bottom: 15px;
 	color: #CCC;
 	border-bottom: 1px solid #F2F2F2;
-    font-family: Georgia, "Times New Roman", Times, serif;	
 	font-weight: normal;
+	margin-top:60px;
 }
 
 h2 {
@@ -14,12 +56,62 @@ h2 {
 	border-bottom: 1px solid #CCC;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 h3 {
 	font-size: 14px;
 	margin: 0;
 	font-weight: bold;
-	font-family: Georgia, "Times New Roman", Times, serif;
 }
+
+/* Publications */
+div.publications h4{
+	float:right;
+	margin-top:10px;
+}
+
+div.publications h3{
+    width:100%;
+    background:#777777;
+    color:#fff;
+    font-weight:bold;
+    padding:5px;
+    clear:both;
+    margin:10px 0px 10px 0px;
+}
+
+div.publications p{
+	padding:0;
+	margin:0;
+}
+
+div.publications ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    margin-top:10px;
+}
+
+div.publications ul li{
+    clear:both;
+    margin-bottom:10px;
+    overflow:auto;
+    font-weight:lighter;
+}
+
+div.publications img{
+    border:1px solid #ddd;
+    padding:3px;
+    height:100px;
+    width:77px;
+    margin-right:10px;
+    margin-bottom:10px;
+    float:left;
+}
+
+div.publications img:hover{
+    border:1px solid #aaa;
+}
+
+div.publications span a{ color:#fff; }
+div.publications span{ margin-right:7px;}
