@@ -30,6 +30,12 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio.cs.brown.edu/people/BRa
 * Jason Shum (Computational Biology)
 * Jovian Yu (Statistics)
 
+<a id="jobs"></a>  
+##Jobs
+There are currently openings in the group for outstanding postdoctoral fellows, staff programmers, graduate students or undergraduate students. Contact me for further information. Please include in your email your CV and, if you are a student, a list of courses you are taking this year. If you are interesting in applying to Brown Computer Science, more information is [available here](http://cs.brown.edu/).
+
+*Undergraduates*: We are recruiting undergraduate research assistants (URAs). Please see our [URA Program Page](http://compbio.cs.brown.edu/ura) for more information.
+
 ##Alumni
 ###Graduate Students and Postdoctoral Fellows
 * Brendan Hickey (Sc.M. 2009) [Now at Google]
@@ -51,7 +57,8 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio.cs.brown.edu/people/BRa
 * Erik Corona (undergraduate) [Now at Stanford Biomedical Informatics Ph.D. Program]
 * Ray Brown (undergraduate)
 * Malinda Yeh (undergraduate)
- 
+
+
 ##Ben Raphael Scientific Biography
 Ben Raphael joined Brown University in September 2006 as an Assistant Professor in the Department of Computer Science and Center for Computational Molecular Biology. His research focuses on the design of combinatorial and statistical algorithms for the interpretation of genomes. Current research interests include next-generation DNA sequencing, structural variation, genome rearrangements in cancer and evolution, and network analysis of somatic mutations in cancer. Earlier research included topics in comparative genomics, multiple sequence alignment, and motif finding. He is the recipient of a National Science Foundation CAREER Award and an Alfred P. Sloan Research Fellowship.
 
