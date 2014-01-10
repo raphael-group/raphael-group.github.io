@@ -16,6 +16,9 @@ body {
 }
 .jumbotron h1 {
   color: #3f3f3f;
+  border-bottom: none;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 500;
 }
 .jumbotron a {
   color: #ffffff;

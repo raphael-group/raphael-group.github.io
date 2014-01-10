@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Raphael Lab // Software
+container_css_class: container
 ---
 
 #software

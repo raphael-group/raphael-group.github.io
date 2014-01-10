@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Raphael Lab // News
+container_css_class: container
 ---
 
 #news

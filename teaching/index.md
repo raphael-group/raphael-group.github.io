@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Raphael Lab // Teaching
+container_css_class: container
 ---
 
 #teaching

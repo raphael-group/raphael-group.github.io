@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Raphael Lab // Jobs
+container_css_class: container
 ---
 
 #jobs

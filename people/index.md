@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Raphael Lab // People
+container_css_class: container
 ---
 
 #people

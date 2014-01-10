@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Raphael Lab // Publications
+container_css_class: container
 ---
 
 #publications
