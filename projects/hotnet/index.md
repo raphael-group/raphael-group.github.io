@@ -9,19 +9,19 @@ container_css_class: container
 ##About
 HotNet is an algorithm for finding significantly altered subnetworks in a large gene interaction network.  HotNet2 improves on this algorithm in several respects. While originally developed for use with cancer mutation data, the current release of HotNet also supports any application in which scores can be assigned to genes in the network (this version of the algorithm is called generalizedHotNet - see Vandin et al., PSB 2012).
 
-People (strict random order): Fabio Vandin, Hsin-Ta Wu, Edward Rice, Layla Oesper, Adrien Deschamps, Max Leiserson, Jonathan Eldridge, Jason Schum, Eli Upfal, Ben Raphael.
+**People** (strict random order): Fabio Vandin, Hsin-Ta Wu, Edward Rice, Layla Oesper, Adrien Deschamps, Max Leiserson, Jonathan Eldridge, Jason Schum, Eli Upfal, Ben Raphael.
 
 ##Download
 A new version of HotNet (v1.1.0; August 25th, 2013) is now available:
 
-Download: [HotNet\_v1.1.0.zip]()  
-Source code: [github.com/raphael-group/hotnet](https://github.com/raphael-group/hotnet)  
-Influence matrix files: [influence_matrix\_files.zip]()  
+* Download: [HotNet\_v1.1.0.zip](http://compbio.cs.brown.edu/projects/hotnet/HotNet_v1.1.0.zip)
+* Influence matrix files: [influence\_matrix\_files.zip](http://compbio.cs.brown.edu/projects/hotnet/influence_matrix_files.zip)
+* Source repository: [github.com/raphael-group/hotnet](https://github.com/raphael-group/hotnet)  
 
 ##Support
-Detailed instructions for running HotNet are provided in the included README.
+Detailed instructions for running HotNet are provided in the included [README](https://github.com/raphael-group/hotnet/blob/master/README.md).
 
-For additional support, please see the [HotNet Google Group]().
+For additional support, please see the [HotNet Google Group](http://localhost:4000/projects/hotnet/).
 
 ##References
 The HotNet algorithm is described in the following publications:
@@ -44,6 +44,13 @@ Moreover, we have used HotNet in the following publications:
 
 
 ##Previous versions
-You can also download previous versions of HotNet here.
+These are for archival purposes. It is recommended to download the latest version from the link above.
 
-A Cytoscape plug-in for viewing HotNet and Dendrix results.
+* [HotNet version 1.0.0 (July 13th, 2012)](http://compbio.cs.brown.edu/software/HotNet/HotNet_v1.0.0.zip)  
+  This new version merges the old HotNet and Generalized HotNet methods, requires a new, cleaner representation for copy number aberrations, and adds a number of new features - see the README.txt in archive download for details.
+
+* [HotNet (ver0.9.1, June 29, 2011)](http://compbio.cs.brown.edu/software/HotNet/HotNet_v0.9.1.zip)  
+  For finding significantly mutated subnetworks using single nucleotide mutations (and indels) and copy number aberrations (that is, the statistical test performed by HotNet is designed for these types of data).
+
+* [Generalized HotNet (ver0.9.1, June 29, 2011)](http://compbio.cs.brown.edu/software/HotNet/GeneralizedHotNet_v0.9.1.zip)  
+  A general version of HotNet that allows for arbitrary gene scores. (The statistical test is a general test that can be used with any score.)
