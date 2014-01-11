@@ -5,6 +5,7 @@ container_css_class: container
 ---
 
 #Gremlin
+##About
 Gremlin is an interactive visualization model for the comparative analysis of structural variation in human and cancer genomes.
 The model is described in the paper referenced below.
 
