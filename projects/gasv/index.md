@@ -13,31 +13,39 @@ GASVPro is a probabilistic version of our original GASV algorithm. GASVPro combi
 
 
 ##Downloads
-GASVPro is availabile at the GASV GoogleCode site. Download.) We also provide an Example Data Set for analysis with GASVPro.
+* Latest Versions: [GASV Google Code Downloads](http://code.google.com/p/gasv/downloads/list)
+* GASVPro sample data set: [VenterChr17.tar.gz](http://cs.brown.edu/~braphael/software/GASVPro/VenterChr17.tar.gz)
 
-Description of the software: README.  
-Latest release is located on GoogleCode.
+##Support
+Please see the [GASV Google Code site](https://code.google.com/p/gasv/).
+
+For further support, contact gasv [at] cs.brown.edu.
 
 ##References
 The GASVPro algorithm is described in the following paper:
 
->S. Sindi, S. Onal, L. Peng, H. Wu and B.J. Raphael. (2012)
->An Integrative Model for Identification of Structural Variation in Sequencing Data. *Genome Biology* (In Press)
+>S. Sindi, S. Onal, L. Peng, H. Wu, B.J. Raphael. (2012)
+>An Integrative Probabilistic Model for Identification of Structural Variation in Sequencing Data.
+>*Genome Biology* 13(3):R22. [[Publisher link]](http://genomebiology.com/2012/13/3/R22/abstract)
 
 The original GASV method is described in the following paper:
 
 >S. Sindi, E. Helman, A. Bashir, B.J. Raphael. (2009)
->A Geometric Approach for  Classification and Comparison of Structural Variants. *Bioinformatics(. 25: i222-i230. (Special issue for the Joint 17th Annual International >Conference on Intelligent Systems in Molecular Biology and 8th Annual International European Conference on Computational Biology (ISMB/ECCB 09)). Publisher Link
+>A Geometric Approach for  Classification and Comparison of Structural Variants.
+>*Bioinformatics*. 25: i222-i230.
+>(Special issue for the Joint 17th Annual International >Conference on Intelligent Systems in Molecular Biology and 8th Annual International European Conference on Computational Biology (ISMB/ECCB 09)). [[Publisher Link]](http://dx.doi.org/10.1093/bioinformatics/btp208)
 
 ##Previous versions
+These are for archival purposes. It is recommended to download the latest version from link above.
 
-Old versions. These are for archival purposes. It is recommended to download the latest version from link above.
+* Version 1.4 (3/5/2010): [Download](http://cs.brown.edu/~braphael/software/StructVar/GASV_RELEASE_1.4.tgz) | [Release notes](http://cs.brown.edu/~braphael/software/StructVar/RELEASE_NOTES.txt)  
+What's new: see release notes
 
-Version 1.4 (3/5/2010) . Download  
-Version 1.3 (1/19/2010) . Download  
-Example BAM file  
-Version 1.2 (11/30/2009) . Download: software  
-New in Version 1.4: Release notes.  
-New in Version 1.3: New output formats, streamlining of BAM file handling, bug fixes.  
-New in Version 1.2 (11/30/2009): Improved handling of SAM/BAM alignment files, speed improvements, maxCliqueSize option.  
-New in Version 1.1: a preprocessor for SAM/BAM files, aCGH comparison, fusion gene detection, and more.
+* Version 1.3 (1/19/2010): [Download](http://cs.brown.edu/~braphael/software/StructVar/GASV_RELEASE_1.3.tgz) | [Example BAM file](http://cs.brown.edu/~braphael/software/StructVar/Example.bam)  
+What's new: New output formats, streamlining of BAM file handling, bug fixes.
+
+* Version 1.2 (11/30/2009): [Download](http://cs.brown.edu/~braphael/software/StructVar/GASV_RELEASE_1.2.tgz)  
+What's new: Improved handling of SAM/BAM alignment files, speed improvements, maxCliqueSize option.
+
+* Version 1.1 (10/30/2009): [Download](http://cs.brown.edu/~braphael/software/StructVar/GASV_RELEASE_1.1.tgz)  
+What's new: a preprocessor for SAM/BAM files, aCGH comparison, fusion gene detection, and more.
