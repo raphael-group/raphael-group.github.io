@@ -18,7 +18,7 @@ HotNet2 is an algorithm for the discovery of significantly mutated subnetworks i
 	<a href="/projects/hotnet">Download (GitHub)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/hotnet">Reference</a>
+	<a href="/projects/hotnet#reference">Reference</a>
 </span>
 
 <br/>
