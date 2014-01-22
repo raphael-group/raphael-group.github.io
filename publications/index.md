@@ -9,6 +9,17 @@ container_css_class: container publications
 
 ### 2014
 ##### Journal Articles
+* [![Network GWAS Paper](../assets/img/papers/somatic-germline-ov.gif)](http://www.nature.com/ncomms/2014/140122/ncomms4156/pdf/ncomms4156.pdf) 
+	**Integrated analysis of germline and somatic variants in ovarian cancer** 
+
+	K.L. Kanchi, K.J. Johnson, C. Lu, M.D. McLellan, M.D.M. Leiserson, M.C. Wendl, Q. Zhang, D.C. Koboldt, M. Xie, C. Kandoth, J.F. McMichael, M.A. Wyczalkowski, D.E. Larson, H.K. Schmidt, C.A. Miller, R.S. Fulton, P.T. Spellman, E.R. Mardis, T.E. Druley, T.A Graubert, P.J. Goodfellow, B.J. Raphael, R. K. Wilson, L. Ding.
+	
+	*Nature Communications* 
+
+	<span class="label label-primary">
+		<a href="http://www.nature.com/ncomms/2014/140122/ncomms4156/full/ncomms4156.html", target="_new">PubLink</a>
+	</span>
+
 * [![Structural Variation Paper](../assets/img/papers/)]() 
 	**Identification of Structural Variation** 
 

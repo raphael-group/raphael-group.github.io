@@ -23,7 +23,7 @@ Detailed instructions for running HotNet are provided in the included [README](h
 
 For additional support, please see the [HotNet Google Group](http://localhost:4000/projects/hotnet/).
 
-<a id="reference"></a>
+<a name="reference"></a>
 ##References
 The HotNet algorithm is described in the following publications:
 

@@ -56,6 +56,7 @@ h2 {
 	border-bottom: 1px solid #CCC;
 	margin-top: 10px;
 	margin-bottom: 10px;
+    padding-top:10px;
 }
 
 h3 {
@@ -63,6 +64,14 @@ h3 {
 	margin: 0;
 	font-weight: bold;
 }
+
+/* Make sure all anchors have correct padding */
+a[name] {
+  padding-top: 40px;
+  margin-top: -40px;
+  display: inline-block; /* required for webkit browsers */
+}
+
 
 /* Publications */
 div.publications h4{
