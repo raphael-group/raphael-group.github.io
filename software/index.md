@@ -15,7 +15,7 @@ HotNet2 is an algorithm for the discovery of significantly mutated subnetworks i
 	<a href="/projects/hotnet">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="/projects/hotnet">Download (GitHub)</a>
+	<a href="https://github.com/raphael-group/hotnet2">Download (GitHub)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/hotnet#reference">Reference</a>
@@ -30,10 +30,10 @@ Multi-Dendrix is an algorithm for the simultaneous discovery of multiple driver 
 	<a href="/projects/multi-dendrix">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="/projects/multi-dendrix">Download (GitHub)</a>
+	<a href="http://mdml.github.com/multi-dendrix">Download (GitHub)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/multi-dendrix">Reference</a>
+	<a href="/projects/multi-dendrix#reference">Reference</a>
 </span>
 
 <br/>
@@ -45,10 +45,10 @@ Dendrix is an algorithm for discovery of mutated driver pathways in cancer using
 	<a href="/projects/dendrix">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="/projects/dendrix">Download (ZIP)</a>
+	<a href="TODO">Download (ZIP)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/dendrix">Reference</a>
+	<a href="/projects/dendrix#reference">Reference</a>
 </span>
 <span class="label label-info">
 	<a href="http://ccmbweb.ccv.brown.edu/dendrix/">Web server</a>
@@ -57,16 +57,16 @@ Dendrix is an algorithm for discovery of mutated driver pathways in cancer using
 <br/>
 
 #####HotNet: Finding Altered Subnetworks
-HotNet is an algorithm for finding significanlty altered subnetworks in a large gene interaction network. 
+HotNet is an algorithm for finding significantly altered subnetworks in a large gene interaction network. 
 
 <span class="label label-primary">
 	<a href="/projects/hotnet">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="/projects/hotnet">Download (GitHub)</a>
+	<a href="https://github.com/raphael-group/hotnet">Download (GitHub)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/hotnet">Reference</a>
+	<a href="/projects/hotnet#reference">Reference</a>
 </span>
 
 <br/>
@@ -81,10 +81,10 @@ This algorithm estimates tumor purity and clonal/subclonal copy number aberratio
 	<a href="/projects/theta">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="/projects/theta">Download (TAR)</a>
+	<a href="TODO">Download (TAR)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/theta">Reference</a>
+	<a href="/projects/theta#reference">Reference</a>
 </span>
 
 <br/>
@@ -96,10 +96,10 @@ This algorithm reconstructs a cancer genome as a rearrangement of segments, or i
 	<a href="/projects/prego">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="/projects/prego">Download (TAR)</a>
+	<a href="TODO">Download (TAR)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/prego">Reference</a>
+	<a href="/projects/prego#reference">Reference</a>
 </span>
 
 <br/>
@@ -114,7 +114,7 @@ GASVPro is a probabilistic version of our original GASV algorithm.
 	<a href="http://code.google.com/p/gasv/">Download (Google Code)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/gasv">Reference</a>
+	<a href="/projects/gasv#reference">Reference</a>
 </span>
 
 <br/>
@@ -129,7 +129,7 @@ Software for analysis of structural variation from paired-end sequencing and/or 
 	<a href="http://code.google.com/p/gasv/">Download (Google Code)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/gasv">Reference</a>
+	<a href="/projects/gasv#reference">Reference</a>
 </span>
 
 <br/>
@@ -141,10 +141,10 @@ This software finds recurrent rearrangement breakpoints in DNA copy number data.
 	<a href="/projects/nbc">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="/projects/nbc">Download (ZIP)</a>
+	<a href="TODO">Download (ZIP)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/nbc">Reference</a>
+	<a href="/projects/nbc#reference">Reference</a>
 </span>
 
 <br/>
@@ -156,10 +156,10 @@ Gremlin is an interactive visualization model for the comparative analysis of st
 	<a href="/projects/gremlin">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="/projects/gremlin">Download (Coming Soon)</a>
+	<a href="/projects/gremlin#download">Download (Coming Soon)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/gremlin">Reference</a>
+	<a href="/projects/gremlin#reference">Reference</a>
 </span>
 
 <br/>
@@ -174,10 +174,10 @@ One-sentence description of what this is.
 	<a href="/projects/survival">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="/projects/survival">Download (ZIP)</a>
+	<a href="/projects/survival#download">Download (ZIPs)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/survival">Reference</a>
+	<a href="/projects/survival#reference">Reference</a>
 </span>
 
 <br/>
@@ -192,7 +192,7 @@ MoDL finds mutliple motifs in a set of phosphorylated peptides.
 	<a href="http://code.google.com/p/gasv/">Download (TAR)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/gasv">Reference</a>
+	<a href="/projects/gasv#reference">Reference</a>
 </span>
 
 <br/>

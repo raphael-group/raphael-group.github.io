@@ -17,6 +17,7 @@ aCGH computes the ratio of test:reference DNA for probes located on the referenc
 * Latest release: [NBCcode.tgz](http://cs.brown.edu/~braphael/software/NBC/NBCcode.tgz)  
 * Instructions: [README.txt](http://cs.brown.edu/~braphael/software/NBC/README.txt)
 
+<a name="reference"></a>
 ##Reference
 >A. Ritz, P.L. Paris, M.M. Ittmann, C. Collins, and B.J. Raphael. (2011)
 >Detection of Recurrent Rearrangement Breakpoints from Copy Number Data.

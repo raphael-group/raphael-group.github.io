@@ -21,6 +21,7 @@ Please see the [GASV Google Code site](https://code.google.com/p/gasv/).
 
 For further support, contact gasv [at] cs.brown.edu.
 
+<a name="reference"></a>
 ##References
 The GASVPro algorithm is described in the following paper:
 

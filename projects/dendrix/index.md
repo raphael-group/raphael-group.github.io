@@ -23,6 +23,7 @@ Detailed instructions for running Dendrix are provided in the README.txt file in
 
 For additional support, contact dendrix [at] cs.brown.edu.
 
+<a name="reference"></a>
 ##References
 The Dendrix algorithm is described in the following publications:
 

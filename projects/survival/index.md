@@ -15,6 +15,7 @@ A different p-value can be computed using a different null distribution (called 
 
 * [exact conditional test in Matlab](http://compbio.cs.brown.edu/projects/exactlogrank/exact_conditional.zip)
 
+<a name="download"></a>
 ##Downloads
 * [ExaLT in C++, and R](http://compbio.cs.brown.edu/projects/exactlogrank/ExaLT.zip)
 * [exact conditional test in Matlab](http://compbio.cs.brown.edu/projects/exactlogrank/exact_conditional.zip)
@@ -23,6 +24,7 @@ A different p-value can be computed using a different null distribution (called 
 
 For more information, contact Fabio Vandin at vandinfa [at] cs.brown.edu. 
 
+<a name="reference"></a>
 ##Reference
 If you use our method in your research, please cite: 
 

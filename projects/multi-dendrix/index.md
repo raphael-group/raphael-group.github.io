@@ -44,6 +44,7 @@ For full documentation of the Multi-Dendrix package, please see our [documentati
 
 For additional support, contact {mdml, braphael} [at] cs.brown.edu.
 
+<a name="reference"></a>
 ##References
 The Multi-Dendrix algorithm is described in the following paper:
 
