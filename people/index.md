@@ -30,7 +30,7 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio.cs.brown.edu/people/BRa
 * Jason Shum (Computational Biology)
 * Jovian Yu (Statistics)
 
-<a id="jobs"></a>  
+<a name="jobs"></a>  
 ##Jobs
 There are currently openings in the group for outstanding postdoctoral fellows, staff programmers, graduate students or undergraduate students. Contact me for further information. Please include in your email your CV and, if you are a student, a list of courses you are taking this year. If you are interesting in applying to Brown Computer Science, more information is [available here](http://cs.brown.edu/).
 
