@@ -48,7 +48,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 ####Undergraduate and Visiting Students
 * Sarah Aerni (Visting from Stanford BMI)
-* Ali Bashir [Now at Mount Sinai School of Medicine] (Visiting from UCSD Bioinformatics)
+* Ali Bashir (Visiting from UCSD Bioinformatics) [Now at Mount Sinai School of Medicine]
 * Nadiva Brown (High School, Summer 2011) [Soon at Providence College]
 * Ryan Drebin (Sc.B. Computational Biology, 2012) [Now at Yelp]
 * Jonathan Eldridge (Sc.B. 2011) [Now at Microsoft]

@@ -20,7 +20,7 @@ container_css_class: container publications
 		<a href="http://www.nature.com/ncomms/2014/140122/ncomms4156/full/ncomms4156.html", target="_new">PubLink</a>
 	</span>
 
-* [![Structural Variation Paper](../assets/img/papers/)]() 
+* [![Structural Variation Paper](../assets/img/papers/missing.svg)]() 
 	**Identification of Structural Variation** 
 
 	S.S. Sindi, B.J. Raphael
@@ -28,7 +28,7 @@ container_css_class: container publications
 	*Genome Analysis: Current Procedures* (In Press)
 
 ##### Conference Proceedings
-* [![RECOMB2014 Paper](../assets/img/papers/)]() 
+* [![RECOMB2014 Paper](../assets/img/papers/missing.svg)]() 
 	**Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
 
 	B.J. Raphael, F. Vandin
