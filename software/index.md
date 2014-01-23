@@ -20,6 +20,9 @@ HotNet2 is an algorithm for the discovery of significantly mutated subnetworks i
 <span class="label label-success">
 	<a href="/projects/hotnet#reference">Reference</a>
 </span>
+<span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/hotnet-users">Google Group</a>
+</span>
 
 <br/>
 
@@ -34,6 +37,9 @@ Multi-Dendrix is an algorithm for the simultaneous discovery of multiple driver 
 </span>
 <span class="label label-success">
 	<a href="/projects/multi-dendrix#reference">Reference</a>
+</span>
+<span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/dendrix">Google Group</a>
 </span>
 
 <br/>
@@ -67,6 +73,9 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 </span>
 <span class="label label-success">
 	<a href="/projects/hotnet#reference">Reference</a>
+</span>
+<span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/hotnet-users">Google Group</a>
 </span>
 
 <br/>
