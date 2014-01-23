@@ -6,7 +6,7 @@ container_css_class: container publications
 
 #software
 
-###2014
+###Genetic Heterogeneity: Networks and Pathways
 
 #####HotNet2: Network Analysis of Mutation Data
 HotNet2 is an algorithm for the discovery of significantly mutated subnetworks in a protein-protein interaction network.
@@ -23,38 +23,6 @@ HotNet2 is an algorithm for the discovery of significantly mutated subnetworks i
 
 <br/>
 
-###2013
-
-#####Accurate Genome-Wide Survival Analysis
-One-sentence description of what this is.
-
-<span class="label label-primary">
-	<a href="/projects/survival">More information</a>
-</span>
-<span class="label label-danger">
-	<a href="/projects/survival">Download (ZIP)</a>
-</span>
-<span class="label label-success">
-	<a href="/projects/survival">Reference</a>
-</span>
-
-<br/>
-
-#####THeTA: Tumor Heterogeneity Analysis
-This algorithm estimates tumor purity and clonal/subclonal copy number aberrations directly from high-throughput DNA sequencing data.
-
-<span class="label label-primary">
-	<a href="/projects/theta">More information</a>
-</span>
-<span class="label label-danger">
-	<a href="/projects/theta">Download (TAR)</a>
-</span>
-<span class="label label-success">
-	<a href="/projects/theta">Reference</a>
-</span>
-
-<br/>
-
 #####Multi-Dendrix: (Multiple Pathway De novo Driver Exclusivity)
 Multi-Dendrix is an algorithm for the simultaneous discovery of multiple driver pathways using only somatic mutation data from a cohort of samples.
 
@@ -66,23 +34,6 @@ Multi-Dendrix is an algorithm for the simultaneous discovery of multiple driver 
 </span>
 <span class="label label-success">
 	<a href="/projects/multi-dendrix">Reference</a>
-</span>
-
-<br/>
-
-###2012
-
-#####PREGO: Paired-End Reconstruction of Genome Organization
-This algorithm reconstructs a cancer genome as a rearrangement of segments, or intervals, from the reference genome using paired end sequencing data.
-
-<span class="label label-primary">
-	<a href="/projects/prego">More information</a>
-</span>
-<span class="label label-danger">
-	<a href="/projects/prego">Download (TAR)</a>
-</span>
-<span class="label label-success">
-	<a href="/projects/prego">Reference</a>
 </span>
 
 <br/>
@@ -105,6 +56,54 @@ Dendrix is an algorithm for discovery of mutated driver pathways in cancer using
 
 <br/>
 
+#####HotNet: Finding Altered Subnetworks
+HotNet is an algorithm for finding significanlty altered subnetworks in a large gene interaction network. 
+
+<span class="label label-primary">
+	<a href="/projects/hotnet">More information</a>
+</span>
+<span class="label label-danger">
+	<a href="/projects/hotnet">Download (GitHub)</a>
+</span>
+<span class="label label-success">
+	<a href="/projects/hotnet">Reference</a>
+</span>
+
+<br/>
+
+###Structural Variation and Genome Analysis
+
+
+#####THeTA: Tumor Heterogeneity Analysis
+This algorithm estimates tumor purity and clonal/subclonal copy number aberrations directly from high-throughput DNA sequencing data.
+
+<span class="label label-primary">
+	<a href="/projects/theta">More information</a>
+</span>
+<span class="label label-danger">
+	<a href="/projects/theta">Download (TAR)</a>
+</span>
+<span class="label label-success">
+	<a href="/projects/theta">Reference</a>
+</span>
+
+<br/>
+
+#####PREGO: Paired-End Reconstruction of Genome Organization
+This algorithm reconstructs a cancer genome as a rearrangement of segments, or intervals, from the reference genome using paired end sequencing data.
+
+<span class="label label-primary">
+	<a href="/projects/prego">More information</a>
+</span>
+<span class="label label-danger">
+	<a href="/projects/prego">Download (TAR)</a>
+</span>
+<span class="label label-success">
+	<a href="/projects/prego">Reference</a>
+</span>
+
+<br/>
+
 #####GASVPro: Geometric Analysis of Structural Variants
 GASVPro is a probabilistic version of our original GASV algorithm.
 
@@ -120,19 +119,17 @@ GASVPro is a probabilistic version of our original GASV algorithm.
 
 <br/>
 
-###2011
-
-#####HotNet: Finding Altered Subnetworks
-HotNet is an algorithm for finding significanlty altered subnetworks in a large gene interaction network. 
+#####GASV: Geometric Analysis of Structural Variants
+Software for analysis of structural variation from paired-end sequencing and/or array-CGH data
 
 <span class="label label-primary">
-	<a href="/projects/hotnet">More information</a>
+	<a href="/projects/gasv">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="/projects/hotnet">Download (GitHub)</a>
+	<a href="http://code.google.com/p/gasv/">Download (Google Code)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/hotnet">Reference</a>
+	<a href="/projects/gasv">Reference</a>
 </span>
 
 <br/>
@@ -152,8 +149,6 @@ This software finds recurrent rearrangement breakpoints in DNA copy number data.
 
 <br/>
 
-###2010
-
 #####Gremlin: Genome Rearrangement Explorer with Multi-Scale, Linked Interactions
 Gremlin is an interactive visualization model for the comparative analysis of structural variation in human and cancer genomes.
 
@@ -169,19 +164,20 @@ Gremlin is an interactive visualization model for the comparative analysis of st
 
 <br/>
 
-###2009
 
-#####GASV: Geometric Analysis of Structural Variants
-Software for analysis of structural variation from paired-end sequencing and/or array-CGH data
+###Additional software
+
+#####Accurate Genome-Wide Survival Analysis
+One-sentence description of what this is.
 
 <span class="label label-primary">
-	<a href="/projects/gasv">More information</a>
+	<a href="/projects/survival">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="http://code.google.com/p/gasv/">Download (Google Code)</a>
+	<a href="/projects/survival">Download (ZIP)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/gasv">Reference</a>
+	<a href="/projects/survival">Reference</a>
 </span>
 
 <br/>
