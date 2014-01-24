@@ -513,3 +513,101 @@ container_css_class: container publications
 		<a href="http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_RECOMB_2010.pdf", target="_new">PDF</a>
 	</span>
 
+###2009
+##### Journal Articles
+
+* [![Nguyen2009 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1074/mcp.8/11/2418)
+	**A New Approach for Quantitative Phosphoproteomic Dissection of Signaling Pathways Applied to T cell Receptor Activation** 
+
+	V. Nguyen, L. Cao, J.T. Lin, N. Hung, _A. Ritz_, K. Yu, R. Jianu, S.P. Ulin, _B.J. Raphael_, D.H. Laidlaw, L.Brossay, A.R. Salomon 
+	
+	*Molecular Cell Proteomics*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1074/mcp.8/11/2418", target="_new">PubLink</a>
+	</span>
+
+* [![Sindi2009 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1093/bioinformatics/btp208)
+	**A Geometric Approach for Classification and Comparison of Structural Variants** 
+
+	_S. Sindi_, E. Helman, A. Bashir, _B.J. Raphael_
+	
+	*Bioinformatics*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1093/bioinformatics/btp208", target="_new">PubLink</a>
+	</span>
+
+	[Special issue for the Joint 17th Annual International Conference on Intelligent Systems in Molecular Biology and 8th Annual International European Conference on Computational Biology (ISMB/ECCB 09)]
+
+* [![Messmer2009 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1016/j.leukres.2008.05.022)
+	**Computational Identification Of CDR3 Sequence Archetypes Among Immunoglobulin Sequences in Chronic Lymphocytic Leukemia** 
+
+	B.T Messmer, _B.J. Raphael_, S.J Aerni, G.F Widhopf, L.Z Rassenti, T.L Toy, T.J Kipps
+	
+	*Leukemia Research*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1016/j.leukres.2008.05.022", target="_new">PubLink</a>
+	</span>
+
+* [![Ritz2009 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1093/bioinformatics/btn569)
+	**Discovery of Phosphorylation Motif Mixtures in Phosphoproteomics Data** 
+
+	_A. Ritz_, G. Shakhnarovich, A.R. Salomon, and _B.J. Raphael_
+	
+	*Bioinformatics*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1093/bioinformatics/btn569", target="_new">PubLink</a>
+	</span>
+
+##### Conference Proceedings
+
+* [![Kahn2009 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1007/978-3-642-04241-6_15)
+	**Efficient Algorithms for Analyzing Segmental Duplications, Deletions, and Inversions in Genomes** 
+
+	_C.L. Kahn_, S. Mozes, and _B.J. Raphael_
+	
+	*Proceedings of the 9th Workshop on Algorithms in Bioinformatics (WABI)*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1007/978-3-642-04241-6_15", target="_new">PubLink</a>
+	</span>
+
+* [![Sindi2009 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1007/978-3-642-02008-7_30)
+	**Identification and Frequency Estimation of Inversion Polymorphisms from Haplotype Data** 
+
+	_S. Sindi_, _B.J. Raphael_
+	
+	*Proceedings of the 13th Annual International Conference on Research in Computational Molecular Biology (RECOMB)*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1007/978-3-642-02008-7_30", target="_new">PubLink</a>
+	</span>
+
+* [![Bashir2009 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1007/978-3-642-02008-7_17)
+	**Optimizing PCR assays for DNA based cancer diagnostics** 
+
+	A. Bashir, Q. Liu, _B.J. Raphael_, D. Carson, Y.T. Liu, V. Bafna
+	
+	*Proceedings of the 13th Annual International Conference on Research in Computational Molecular Biology (RECOMB)*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1007/978-3-642-02008-7_17", target="_new">PubLink</a>
+	</span>
+
+* [![Kahn2009 Paper](../assets/img/papers/missing.svg)](http://psb.stanford.edu/psb-online/proceedings/psb09/kahn.pdf)
+	**A Parsimony Approach to Analysis of Human Segmental Duplications** 
+
+	_C.L. Kahn_, _B.J. Raphael_
+	
+	*Pacific Symposium on Biocomputing*
+
+	<span class="label label-primary">
+		<a href="http://psb.stanford.edu/psb-online/proceedings/psb09/kahn.pdf", target="_new">PubLink</a>
+	</span>
+	<span class="label label-default">
+		<a href="http://compbio.cs.brown.edu/publications/papers/Kahn_camera_revised.pdf", target="_new">Corrected version</a>
+	</span>
+
