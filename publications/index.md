@@ -657,3 +657,66 @@ container_css_class: container publications
 	<span class="label label-primary">
 		<a href="http://books.google.com/books?id=3rBUySnUI4QC&lpg=PP9&ots=m4ctgeaiPp&dq=benjamin%20raphael&lr=&pg=PP1#v=onepage&q=&f=false", target="_new">Google Books Link</a>
 	</span>
+
+###2007
+##### Journal Articles
+
+* [![Bashir2007 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1093/bioinformatics/btm390)
+	**Optimization of primer design for the detection of variable genomic lesions in cancer** 
+
+	A. Bashir A, Y.T. Liu, _B.J. Raphael_, D. Carson, V. Bafna
+	
+	*Bioinformatics*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1093/bioinformatics/btm390", target="_new">PubLink</a>
+	</span>
+
+* [![Cao2007 Paper](../assets/img/papers/missing.svg)](http://www.jimmunol.org/cgi/content/abstract/179/9/5864)
+	**Quantitative Time-Resolved Phosphoproteomic Analysis of Mast Cell Signaling** 
+
+	L. Cao, K. Yu, V. Nguyen, A. Ritz, _B.J. Raphael_, Y. Kawakami, T. Kawakami, A.R. Salomon
+	
+	*Journal of Immunology*
+
+	<span class="label label-primary">
+		<a href="http://www.jimmunol.org/cgi/content/abstract/179/9/5864", target="_new">PubLink</a>
+	</span>
+
+* [![Yooseph2007 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1371/journal.pbio.0050016)
+	**The *Sorcerer II* Global Ocean Sampling Expedition: Expanding the Universe of Protein Families** 
+
+	S. Yooseph, G. Sutton, D.B. Rusch, A.L. Halpern, S.J. Williamson, K.Remington, J.A. Eisen, K..B. Heidelberg, G. Manning, W. Li, L. Jaroszewski, P. Cieplak, C.S. Miller, H. Li, S. T. Mashiyama, M. P. Joachimiak, C. van Belle, J. Chandonia, D. A. Soergel, Y. Zhai, K. Natarajan, S. Lee, _B.J. Raphael_, V. Bafna, R. Friedman, S. E. Brenner, A. Godzik, D. Eisenberg, J.E. Dixon, S. S. Taylor, R.L. Strausberg, M. Frazier, J.C. Venter
+	
+	*PLoS Biology*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1371/journal.pbio.0050016", target="_new">PubLink</a>
+	</span>
+
+* [![Raphael2007 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1371/journal.pbio.0050016)
+	**Analysis of Genomic Alterations in Cancer** 
+
+	_B.J. Raphael_, S. Volik, C. Collins
+	
+	*Genome Sequencing Technology and Algorithms*, H. Tang, S. Kim, E. Mardis (eds)
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1371/journal.pbio.0050016", target="_new">PubLink</a>
+	</span>
+
+##### Conference Proceedings
+
+* [![Corona2007 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1007/978-3-540-71681-5_25)
+	**Identifying Deletion Polymorphisms from Haplotypes** 
+
+	E. Corona, _B.J. Raphael_, E. Eskin
+	
+	*Proceedings of the 11Th Annual International Conference on Research in Computational Biology (RECOMB 2007)*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1007/978-3-540-71681-5_25", target="_new">PubLink</a>
+	</span>
+
+
+
