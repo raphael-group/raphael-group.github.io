@@ -200,3 +200,221 @@ container_css_class: container publications
 	<span class="label label-primary">
 		<a href="http://psb.stanford.edu/psb-online/proceedings/psb13/wkshp-modeling.pdf", target="_new">PubLink</a>
 	</span>
+
+###2012
+##### Journal Articles
+
+* [![Structural Variation & Medical Genomics Chapter](../assets/img/papers/missing.svg)](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002821)
+	**Structural Variation and Medical Genomics** 
+
+	_B.J. Raphael_
+	
+	*PLOS Computational Biology*
+
+	<span class="label label-primary">
+		<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002821", target="_new">PubLink</a>
+	</span>
+
+* [![AMB Driver Pathways Paper](../assets/img/papers/missing.svg)](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002821)
+	**Finding Driver Pathways in Cancer: Models and Algorithms** 
+
+	_F. Vandin_, E. Upfal, _B.J. Raphael_
+	
+	*Algorithms for Molecular Biology*
+
+	<span class="label label-primary">
+		<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002821", target="_new">PubLink</a>
+	</span>
+
+* [![Quantitative Phosphoproteomics Paper](../assets/img/papers/missing.svg)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0046725)
+	**Quantitative Phosphoproteomics Reveals SLP-76 Dependent Regulation of PAG and Src Family Kinases in T Cells** 
+
+	L. Cao, Y. Ding, N. Hung, K. Yu, _A. Ritz_, _B.J. Raphael_, A.R. Salomon
+	
+	*PLOS One*
+
+	<span class="label label-primary">
+		<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0046725", target="_new">PubLink</a>
+	</span>
+
+* [![Alcohol Genetics Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1016/j.drugalcdep.2012.07.005)
+	**The genetics of alcohol dependence: Advancing towards systems-based approaches** 
+
+	R.H. Palmer, J.E. McGeary, S. Francazio, _B.J. Raphael_, A.D. Lander, A.C. Heath, V.S. Knopik
+	
+	*Drug and Alcohol Dependence*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1016/j.drugalcdep.2012.07.005", target="_new">PubLink</a>
+	</span>
+
+* [![Prostate Cancer Paper](../assets/img/papers/missing.svg)](http://www.nature.com/nature/journal/v487/n7406/full/nature11125.html)
+	**The Mutational Landscape of Lethal Castrate Resistant Prostate Cancer** 
+
+	C. Grasso, Y. Wu, D. Robinson, X. Cao, S. Dhanasekaran, A. Khan, M. Quist, X. Jing, R. Lonigro, J.C. Brenner, I. Asangani, B. Ateeq, S. Chun, J. Siddiqui, L. Sam, M. Anstett, R. Mehra, J. Prensner, N. Palanisamy, G. Ryslik, _F. Vandin_, _B.J. Raphael_, L. Kunju, D. Rhodes, K. Pienta, A. M. Chinnaiyan, S.A. Tomlins
+	
+	*Nature*
+
+	<span class="label label-primary">
+		<a href="http://www.nature.com/nature/journal/v487/n7406/full/nature11125.html", target="_new">PubLink</a>
+	</span>
+
+* [![GASVPro Paper](../assets/img/papers/missing.svg)](http://genomebiology.com/2012/13/3/R22/abstract)
+	**An Integrative Probabilistic Model for Identification of Structural Variation in Sequencing Data** 
+
+	_S. Sindi_, _S. Onal_, _L. Peng_, _H. Wu_, _B.J. Raphael_
+	
+	*Genome Biology*
+
+	<span class="label label-primary">
+		<a href="http://genomebiology.com/2012/13/3/R22/abstract", target="_new">PubLink</a>
+	</span>
+
+* [![IEEE Driver Pathways Paper](../assets/img/papers/missing.svg)](http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_IEEEComputer.pdf)
+	**Algorithms and Genome Sequencing: Identifying Driver Pathways in Cancer** 
+
+	_F. Vandin_, E. Upfal, _B.J. Raphael_
+	
+	*IEEE Computer*
+
+	<span class="label label-primary">
+		<a href="http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_IEEEComputer.pdf", target="_new">PDF</a>
+	</span>
+
+* [![Polymorphic Inversions Paper](../assets/img/papers/missing.svg)](http://www.biomedcentral.com/1471-2105/13/28)
+	**Identification of Polymorphic Inversions from Genotypes** 
+
+	A. Caceres, _S.S Sindi_, _B.J Raphael_, M. Caceres and J.R Gonzalez
+	
+	*BMC Bioinformatics*
+
+	<span class="label label-primary">
+		<a href="http://www.biomedcentral.com/1471-2105/13/28", target="_new">PubLink</a>
+	</span>
+
+* [![Dendrix Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1101/gr.120477.111)
+	**De novo Discovery of Mutated Driver Pathways in Cancer** 
+
+	_F. Vandin_, E. Upfal, _B.J. Raphael_
+	
+	*Genome Research*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1101/gr.120477.111, target="_new">PubLink</a>
+	</span>
+
+	[Preliminary version accepted at 15th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2011)]
+
+##### Conference Proceedings
+
+* [![Genome Mixtures Paper](../assets/img/papers/missing.svg)](http://www.biomedcentral.com/1471-2105/13/S19/S9)
+	**Reconstructing Genome Mixtures From Partial Adjacencies** 
+
+	_A. Mahmoody_, _C.L. Kahn_, _B.J. Raphael_
+	
+	*Proceedings of the Tenth Annual RECOMB Satellite Workshop on Comparative Genomics*
+
+	<span class="label label-primary">
+		<a href="http://www.biomedcentral.com/1471-2105/13/S19/S9", target="_new">PubLink</a>
+	</span>
+
+* [![WABI Proceedings](../assets/img/papers/missing.svg)](http://link.springer.com/book/10.1007/978-3-642-33122-0/page/1)
+	**Algorithms in Bioinformatics - 12th International Workshop, WABI 2012, Ljubljana, Slovenia, September 10-12, 2012. Proceedings.** 
+
+	_B.J. Raphael_, J. Tang (Eds.)
+	
+	*Lecture Notes in Computer Science*
+
+	<span class="label label-primary">
+		<a href="http://link.springer.com/book/10.1007/978-3-642-33122-0/page/1", target="_new">PubLink</a>
+	</span>
+
+* [![PREGO Paper](../assets/img/papers/missing.svg)](http://www.biomedcentral.com/1471-2105/13/S6/S10)
+	**Reconstructing Cancer Genome Organization** 
+
+	_L. Oesper_, _A. Ritz_, _S.J. Aerni_, _R. Drebin_, _B.J. Raphael_
+	
+	*BMC Bioinformatics (Proceedings of 2nd RECOMB Satellite Workshop on Massively Parallel Sequencing (RECOMB-seq))*
+
+	<span class="label label-primary">
+		<a href="http://www.biomedcentral.com/1471-2105/13/S6/S10", target="_new">PubLink</a>
+	</span>
+
+* [![HotNet Survival Paper](../assets/img/papers/missing.svg)](http://psb.stanford.edu/psb-online/proceedings/psb12/vandin.pdf)
+	**Discovery of Mutated Subnetworks Associated with Clinical Data in Cancer** 
+
+	_F. Vandin_, _P. Clay_, E. Upfal, _B.J. Raphael_
+	
+	*Pacific Symposium on Biocomputing*
+
+	<span class="label label-primary">
+		<a href="http://psb.stanford.edu/psb-online/proceedings/psb12/vandin.pdf", target="_new">PDF</a>
+	</span>
+
+###2011
+##### Journal Articles
+
+* [![TCGA Ovarian Paper](../assets/img/papers/missing.svg)](http://www.nature.com/nature/journal/v474/n7353/full/nature10166.html)
+	**Integrated Genomic Analyses of Ovarian Carcinoma** 
+
+	The Cancer Genome Atlas Research Network
+	
+	*Nature*
+
+	<span class="label label-primary">
+		<a href="http://www.nature.com/nature/journal/v474/n7353/full/nature10166.html", target="_new">PubLink</a>
+	</span>
+
+* [![Ovarian BMC Cancer Paper](../assets/img/papers/missing.svg)](http://www.biomedcentral.com/1471-2407/11/308)
+	**Integrated Genomics of Ovarian Xenograft Tumor Progression and Chemotherapy Response** 
+
+	A. Stuckey, A. Fischer, D.H. Miller, S. Hillenmeyer, K.K. Kim, _A. Ritz_, R.K. Singh, _B.J. Raphael_, L. Brard and A.S. Brodsky
+	
+	*BMC Cancer*
+
+	<span class="label label-primary">
+		<a href="http://www.biomedcentral.com/1471-2407/11/308", target="_new">PubLink</a>
+	</span>
+
+* [![RNA Splicing Paper](../assets/img/papers/missing.svg)](http://www.pnas.org/content/early/2011/06/06/1101135108.abstract)
+	**Using positional distribution to identify splicing elements and predict mRNA processing defects in human genes** 
+
+	K.H. Lim, L. Ferraris, M. Filloux, _B.J. Raphael_, W. Fairbrother
+	
+	*Proceedings of the National Academy of Sciences (PNAS)*
+
+	<span class="label label-primary">
+		<a href="http://www.pnas.org/content/early/2011/06/06/1101135108.abstract", target="_new">PubLink</a>
+	</span>
+
+* [![NBC Paper](../assets/img/papers/missing.svg)](http://www.biomedcentral.com/1471-2105/12/114)
+	**Detection of Recurrent Rearrangement Breakpoints from Copy Number Data** 
+
+	_A. Ritz_, P.L. Paris, M.M. Ittmann, C. Collins, _B.J. Raphael_
+	
+	*BMC Bioinformatics*
+
+	<span class="label label-primary">
+		<a href="http://www.biomedcentral.com/1471-2105/12/114", target="_new">PubLink</a>
+	</span>
+
+* [![HotNet Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1089/cmb.2010.0265)
+	**Algorithms for Detecting Significantly Mutated Pathways in Cancer** 
+
+	_F. Vandin, E. Upfal, _B.J. Raphael_
+	
+	*Journal of Computational Biology*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1089/cmb.2010.0265", target="_new">PubLink</a>
+	</span>
+
+##### Conference Proceedings
+
+* [![WABI Driver Pathways Paper](../assets/img/papers/missing.svg)](http://www.nature.com/nature/journal/v474/n7353/full/nature10166.html)
+	**Finding Driver Pathways in Cancer: Models and Algorithms** 
+
+	_F. Vandin_, E. Upfal, _B.J. Raphael_
+	
+	*Proceedings of the 11th Workshop on Algorithms in Bioinformatics (WABI)*
+
