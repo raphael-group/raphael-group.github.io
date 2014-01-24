@@ -11,6 +11,7 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 
 **People** (strict random order): Fabio Vandin, Hsin-Ta Wu, Edward Rice, Layla Oesper, Adrien Deschamps, Max Leiserson, Jonathan Eldridge, Jason Schum, Eli Upfal, Ben Raphael.
 
+<a name="download"></a>
 ##Download
 A new version of HotNet (v1.1.0; August 25th, 2013) is now available:
 

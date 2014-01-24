@@ -29,6 +29,7 @@ The Multi-Dendrix Python package includes the Multi-Dendrix algorithm, as well a
  
 **People** (strict random order): Max Leiserson, Dima Blokh, Roded Sharan, Ben Raphael.
  
+ <a name="download"></a>
 ##Downloads
 Full version of the Multi-Dendrix pipeline is available via the [Multi-Dendrix GitHub](http://mdml.github.com/multi-dendrix).
 

@@ -100,6 +100,9 @@ container_css_class: container publications
 	<span class="label label-primary">
 		<a href="http://dx.doi.org/doi:10.1186/gb-2013-14-7-r80", target="_new">PubLink</a>
 	</span>
+	<span class="label label-danger">
+		<a href="/projects/theta#download">Software Release</a>
+	</span>
 
 * [![TCGA Renal Cell Paper](../assets/img/papers/missing.svg)](http://www.nature.com/nature/journal/v499/n7456/full/nature12222.html)
 	**Comprehensive molecular characterization of clear cell renal cell carcinoma** 
@@ -189,6 +192,9 @@ container_css_class: container publications
 	<span class="label label-primary">
 		<a href="http://link.springer.com/chapter/10.1007%2F978-3-642-37195-0_26", target="_new">PubLink</a>
 	</span>
+	<span class="label label-danger">
+		<a href="/projects/survival#download">Software Release</a>
+	</span>
 
 * [![PSB Heterogeneity Paper](../assets/img/papers/missing.svg)](http://psb.stanford.edu/psb-online/proceedings/psb13/wkshp-modeling.pdf)
 	**Modeling cell heterogeneity: from single-cell variations to mixed cells** 
@@ -269,6 +275,9 @@ container_css_class: container publications
 	<span class="label label-primary">
 		<a href="http://genomebiology.com/2012/13/3/R22/abstract", target="_new">PubLink</a>
 	</span>
+	<span class="label label-danger">
+		<a href="/projects/gasv#download">Software Release</a>
+	</span>
 
 * [![IEEE Driver Pathways Paper](../assets/img/papers/missing.svg)](http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_IEEEComputer.pdf)
 	**Algorithms and Genome Sequencing: Identifying Driver Pathways in Cancer** 
@@ -292,7 +301,7 @@ container_css_class: container publications
 		<a href="http://www.biomedcentral.com/1471-2105/13/28", target="_new">PubLink</a>
 	</span>
 
-* [![Dendrix Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1101/gr.120477.111)
+* [![Dendrix Paper](../assets/img/papers/missing.svg)](http://genome.cshlp.org/cgi/pmidlookup?view=long&pmid=21653252)
 	**De novo Discovery of Mutated Driver Pathways in Cancer** 
 
 	_F. Vandin_, E. Upfal, _B.J. Raphael_
@@ -300,7 +309,10 @@ container_css_class: container publications
 	*Genome Research*
 
 	<span class="label label-primary">
-		<a href="http://dx.doi.org/10.1101/gr.120477.111, target="_new">PubLink</a>
+		<a href="http://genome.cshlp.org/cgi/pmidlookup?view=long&pmid=21653252, target="_new">PubLink</a>
+	</span>
+	<span class="label label-danger">
+		<a href="/projects/dendrix#download">Software Release</a>
 	</span>
 
 	[Preliminary version at 15th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2011)]
@@ -338,6 +350,9 @@ container_css_class: container publications
 
 	<span class="label label-primary">
 		<a href="http://www.biomedcentral.com/1471-2105/13/S6/S10", target="_new">PubLink</a>
+	</span>
+	<span class="label label-danger">
+		<a href="/projects/prego#download">Software Release</a>
 	</span>
 
 * [![HotNet Survival Paper](../assets/img/papers/missing.svg)](http://psb.stanford.edu/psb-online/proceedings/psb12/vandin.pdf)
@@ -397,16 +412,22 @@ container_css_class: container publications
 	<span class="label label-primary">
 		<a href="http://www.biomedcentral.com/1471-2105/12/114", target="_new">PubLink</a>
 	</span>
+	<span class="label label-danger">
+		<a href="/projects/nbc#download">Software Release</a>
+	</span>
 
 * [![HotNet Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1089/cmb.2010.0265)
 	**Algorithms for Detecting Significantly Mutated Pathways in Cancer** 
 
-	_F. Vandin, E. Upfal, _B.J. Raphael_
+	_F. Vandin_, E. Upfal, _B.J. Raphael_
 	
 	*Journal of Computational Biology*
 
 	<span class="label label-primary">
 		<a href="http://dx.doi.org/10.1089/cmb.2010.0265", target="_new">PubLink</a>
+	</span>
+	<span class="label label-danger">
+		<a href="/projects/hotnet#download">Software Release</a>
 	</span>
 
 ##### Conference Proceedings
@@ -430,6 +451,9 @@ container_css_class: container publications
 
 	<span class="label label-primary">
 		<a href="http://www.computer.org/csdl/trans/tg/2010/06/ttg2010060918-abs.html", target="_new">PubLink</a>
+	</span>
+	<span class="label label-danger">
+		<a href="/projects/gremlin#download">Software Release</a>
 	</span>
 
 * [![Bioinformatics Parsimony Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1093/bioinformatics/btq368)
@@ -560,6 +584,9 @@ container_css_class: container publications
 
 	<span class="label label-primary">
 		<a href="http://dx.doi.org/10.1093/bioinformatics/btn569", target="_new">PubLink</a>
+	</span>
+	<span class="label label-danger">
+		<a href="/projects/modl#download">Software Release</a>
 	</span>
 
 ##### Conference Proceedings
