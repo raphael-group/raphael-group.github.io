@@ -176,8 +176,8 @@ Gremlin is an interactive visualization model for the comparative analysis of st
 
 ###Additional software
 
-#####Accurate Genome-Wide Survival Analysis
-One-sentence description of what this is.
+#####ExALT: Accurate Genome-Wide Survival Analysis
+ExALT is an algorithm to compute a rigorous approximation to the log-rank p-value that avoids false discoveries compared to standard tools.
 
 <span class="label label-primary">
 	<a href="/projects/survival">More information</a>
