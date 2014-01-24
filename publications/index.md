@@ -773,3 +773,65 @@ container_css_class: container publications
 	E. Eskin, T. Ideker, _B.J. Raphael_, C. Workman (eds.)
 	
 	*Lecture Notes in Computer Science*
+
+###2002 - 2005
+##### Journal Articles
+
+* [![Raphael2004 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1093/bioinformatics/bth931)
+	**Reconstructing Tumor Amplisomes** 
+
+	_B.J. Raphael_, P. Pevzner 
+	
+	*Bioinformatics*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1093/bioinformatics/bth931", target="_new">PubLink</a>
+	</span>
+
+* [![Raphael2004 Paper](../assets/img/papers/missing.svg)](http://genome.cshlp.org/cgi/content/full/14/11/2336)
+	**A Novel Method for Multiple Alignment of Sequences with Repeated and Shuffled Domains** 
+
+	_B.J. Raphael_, D. Zhi, H. Tang, P. Pevzner
+	
+	*Genome Research*
+
+	<span class="label label-primary">
+		<a href="http://genome.cshlp.org/cgi/content/full/14/11/2336", target="_new">PubLink</a>
+	</span>
+
+* [![Raphael2004 Paper](../assets/img/papers/missing.svg)](http://csdl.computer.org/comp/trans/tb/2004/02/n0091abs.htm)
+	**A Uniform Projection Method for the Motif Discovery Problem**
+
+	_B.J. Raphael_, L. Liu, and G. Varghese
+	
+	*IEEE Transactions on Computational Biology and Bioinformatics*
+
+	<span class="label label-primary">
+		<a href="http://csdl.computer.org/comp/trans/tb/2004/02/n0091abs.htm", target="_new">PubLink</a>
+	</span>
+
+* [![Raphael2003 Paper](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/19/suppl_2/ii162)
+	**Reconstructing Tumor Genome Architectures**
+
+	_B.J. Raphael_, S. Volik, C. Collins, P. Pevzner
+	
+	*Bioinformatics* (Special ECCB 2003 Issue)
+
+	<span class="label label-primary">
+		<a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/19/suppl_2/ii162", target="_new">PubLink</a>
+	</span>
+
+	[Recognized by the [Faculty of 1000](http://www.facultyof1000.com/)]
+
+##### Other Publications
+
+* [![Raphael2002 Paper](../assets/img/papers/missing.svg)](http://roger.ucsd.edu/record=b4374801~S9)
+	**A Computational Investigation Of Spectral Sets And Rational Dilations Over Multiply-Connected Domains**
+
+	_B.J. Raphael_
+	
+	*Ph.D. Thesis*
+
+	<span class="label label-primary">
+		<a href="http://roger.ucsd.edu/record=b4374801~S9", target="_new">Link</a>
+	</span>
