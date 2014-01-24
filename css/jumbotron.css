@@ -1,17 +1,16 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
-  padding-top: 50px;
-  padding-bottom: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .jumbotron {
   background-color: rgb(241,234,154);
-  background-image: url('/assets/jumbotron-splash.png');
   background-position: center;
   background-repeat: no-repeat;
 }
 .jumbotron .container {
-  background-color: rgba(241,234,154,.75);
+  background-color: rgb(241,234,154);
   padding: 30px;
 }
 .jumbotron h1 {
@@ -28,5 +27,5 @@ body {
   font-size: 30px;
 }
 .jumbotron a {
-  color: #ffffff;
+  color: rgb(25, 121, 168);
 }
