@@ -718,5 +718,58 @@ container_css_class: container publications
 		<a href="http://dx.doi.org/10.1007/978-3-540-71681-5_25", target="_new">PubLink</a>
 	</span>
 
+###2006
+##### Journal Articles
 
+* [![Chaisson2006 Paper](../assets/img/papers/missing.svg)](http://www.pnas.org/content/103/52/19824)
+	**Micro-inversions in Mammalian Evolution** 
 
+	M. Chaisson, _B.J. Raphael_, and P. Pevzner
+	
+	*Proceedings of the National Academy of Sciences, USA*
+
+	<span class="label label-primary">
+		<a href="http://www.pnas.org/content/103/52/19824", target="_new">PubLink</a>
+	</span>
+
+* [![Volik2006 Paper](../assets/img/papers/missing.svg)](http://genome.cshlp.org/cgi/content/full/16/3/394)
+	**Decoding the Fine-scale Structure of a Breast Cancer Genome and Transcriptome** 
+
+	S. Volik, _B.J. Raphael_, et al.
+	
+	*Genome Research*
+
+	<span class="label label-primary">
+		<a href="http://genome.cshlp.org/cgi/content/full/16/3/394", target="_new">PubLink</a>
+	</span>
+
+* [![Jones2006 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1093/nar/gkl288)
+	**AliWABA: Alignment on the Web through an A-Bruijn Approach** 
+
+	N.C. Jones, D. Zhi, _B.J. Raphael_
+	
+	*Nucleic Acids Research*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1093/nar/gkl288", target="_new">PubLink</a>
+	</span>
+
+* [![Zhi2006 Paper](../assets/img/papers/missing.svg)](http://genomebiology.com/2006/7/1/R7)
+	**Identifying Repeat Domains in Large Genomes** 
+
+	D.Zhi, _B.J. Raphael_, A.Price, H. Tang, P. Pevzner 
+	
+	*Genome Biology*
+
+	<span class="label label-primary">
+		<a href="http://genomebiology.com/2006/7/1/R7", target="_new">PubLink</a>
+	</span>
+
+##### Conference Proceedings
+
+* ![Eskin2006 Paper](../assets/img/papers/missing.svg)
+	**Systems Biology and Regulatory Genomics. Joint Annual RECOMB 2005 Satellite Workshops on Systems Biology and on Regulatory Genomics** 
+
+	E. Eskin, T. Ideker, _B.J. Raphael_, C. Workman (eds.)
+	
+	*Lecture Notes in Computer Science*
