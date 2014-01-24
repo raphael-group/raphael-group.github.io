@@ -303,7 +303,7 @@ container_css_class: container publications
 		<a href="http://dx.doi.org/10.1101/gr.120477.111, target="_new">PubLink</a>
 	</span>
 
-	[Preliminary version accepted at 15th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2011)]
+	[Preliminary version at 15th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2011)]
 
 ##### Conference Proceedings
 
@@ -417,4 +417,99 @@ container_css_class: container publications
 	_F. Vandin_, E. Upfal, _B.J. Raphael_
 	
 	*Proceedings of the 11th Workshop on Algorithms in Bioinformatics (WABI)*
+
+###2010
+##### Journal Articles
+
+* [![Gremlin Paper](../assets/img/papers/missing.svg)](http://www.computer.org/csdl/trans/tg/2010/06/ttg2010060918-abs.html)
+	**Gremlin: An Interactive Visualization Model for Analyzing Genomic Rearrangements** 
+
+	T. O'Brien, _A. Ritz_, _B.J. Raphael_, D.H. Laidlaw
+	
+	*IEEE Transactions on Visualization and Computer Graphics*
+
+	<span class="label label-primary">
+		<a href="http://www.computer.org/csdl/trans/tg/2010/06/ttg2010060918-abs.html", target="_new">PubLink</a>
+	</span>
+
+* [![Bioinformatics Parsimony Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1093/bioinformatics/btq368)
+	**Parsimony and Likelihood Reconstruction of Human Segmental Duplications** 
+
+	_C.L. Kahn_, _B.H. Hristov_, and _B.J. Raphael_
+	
+	*Bioinformatics*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1093/bioinformatics/btq368", target="_new">PubLink</a>
+	</span>
+
+	[Preliminary version at the 9th European Conference on Computational Biology (ECCB)
+
+* [![ICGC Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1038/nature08987)
+	**International network of cancer genome projects** 
+
+	International Cancer Genome Consortium
+	
+	*Nature*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1038/nature08987", target="_new">PubLink</a>
+	</span>
+
+* [![HITSEQ Structural Analysis Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1093/bioinformatics/btq153)
+	**Structural Variation Analysis with Strobe Reads** 
+
+	_A. Ritz_, A. Bashir, and _B.J. Raphael_
+	
+	*Bioinformatics*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1093/bioinformatics/btq153", target="_new">PubLink</a>
+	</span>
+
+* [![Inversion Prediction Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1089/cmb.2009.0185)
+	**Identification and Frequency Estimation of Inversion Polymorphisms from Haplotype Data** 
+
+	_S. Sindi_ and _B.J. Raphael_
+	
+	*Journal of Computational Biology*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1089/cmb.2009.0185", target="_new">PubLink</a>
+	</span>
+
+* [![PCR Assays Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1089/cmb.2009.0203)
+	**Optimizing PCR assays for DNA based cancer diagnostics** 
+
+	A. Bashir, Q. Liu, _B.J. Raphael_, D. Carson, Y.T. Liu, V. Bafna
+	
+	*Journal of Computational Biology*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1089/cmb.2009.0203", target="_new">PubLink</a>
+	</span>
+
+* [![Segmental Duplications Paper](../assets/img/papers/missing.svg)](http://www.almob.org/content/5/1/11)
+	**Efficient Algorithms for Analyzing Segmental Duplications with Deletions and Inversions in Genomes** 
+
+	_C.L. Kahn_, S. Mozes, and _B.J. Raphael_
+	
+	*Algorithms for Molecular Biology*
+
+	<span class="label label-primary">
+		<a href="http://www.almob.org/content/5/1/11", target="_new">PubLink</a>
+	</span>
+
+##### Conference Proceedings
+
+* [![HotNet RECOMB Paper](../assets/img/papers/missing.svg)](http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_RECOMB_2010.pdf)
+	**Algorithms for Detecting Significantly Mutated Pathways in Cancer** 
+
+	_F. Vandin_, E. Upfal, and _B.J. Raphael_
+	
+	*Proceedings of the 14th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2010)*
+
+	<span class="label label-primary">
+		<a href="http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_RECOMB_2010.pdf", target="_new">PDF</a>
+	</span>
 
