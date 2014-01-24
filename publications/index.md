@@ -611,3 +611,49 @@ container_css_class: container publications
 		<a href="http://compbio.cs.brown.edu/publications/papers/Kahn_camera_revised.pdf", target="_new">Corrected version</a>
 	</span>
 
+###2008
+##### Journal Articles
+
+* [![Kahn2008 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1093/bioinformatics/btn292)
+	**Analysis of Segmental Duplications via Duplication Distance** 
+
+	_C.L. Kahn_, _B.J. Raphael_
+	
+	*Bioinformatics (Proceedings of the European Conference on Computational Biology)*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1093/bioinformatics/btn292", target="_new">PubLink</a>
+	</span>
+
+* [![Kahn2008 Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1371/journal.pcbi.1000051)
+	**Evaluation of Paired-end Sequencing Strategies for Detection of Genome Rearrangements in Cancer** 
+
+	A. Bashir, S. Volik, C.C. Collins, V. Bafna, _B.J. Raphael_
+	
+	*PLoS Computational Biology*
+
+	<span class="label label-primary">
+		<a href="http://dx.doi.org/10.1371/journal.pcbi.1000051", target="_new">PubLink</a>
+	</span>
+
+* [![Raphael2008 Paper](../assets/img/papers/missing.svg)](http://genomebiology.com/2008/9/3/R59)
+	**A sequence-based survey of the complex structural organization of tumor genomes** 
+
+	_B.J. Raphael_, S. Volik, Guiqing Huang, F.Waldman, J. Costello, S.Aerni, R.P. Brown, A. Bashir, K. Pienta, G. Mills, K. Bajsarowicz, P. Paris, Q. Tao, W. Kuo, J.W. Gray, J. Cheng, M. Nefedov, P. de Jong, and C. Collins
+	
+	*Genome Biology*
+
+	<span class="label label-primary">
+		<a href="http://genomebiology.com/2008/9/3/R59", target="_new">PubLink</a>
+	</span>
+
+* [![Agler2008 Paper](../assets/img/papers/missing.svg)](http://genomebiology.com/2008/9/3/R59)
+	**Classical Function Theory, Operator Dilation Theory, and Machine Computation on Multiply-Connected Domains** 
+
+	J. Agler, J. Harland, _B.J. Raphael_
+	
+	*Memoirs of the American Mathematical Society*
+
+	<span class="label label-primary">
+		<a href="http://books.google.com/books?id=3rBUySnUI4QC&lpg=PP9&ots=m4ctgeaiPp&dq=benjamin%20raphael&lr=&pg=PP1#v=onepage&q=&f=false", target="_new">Google Books Link</a>
+	</span>
