@@ -13,6 +13,7 @@ Dendrix (_De_ _no_vo _Dri_ver E_x_clusivity) is an algorithm for discovery of mu
 
 **People** (strict random order): Fabio Vandin, Hsin-Ta Wu, Eli Upfal, Ben Raphael.
 
+<a name="download"></a>
 ##Downloads
 
 * Latest release: [ver0.3, February 4, 2013](http://bio.cs.brown.edu/software/Dendrix/Dendrix_v0.3.zip)
@@ -23,6 +24,7 @@ Detailed instructions for running Dendrix are provided in the README.txt file in
 
 For additional support, contact dendrix [at] cs.brown.edu.
 
+<a name="reference"></a>
 ##References
 The Dendrix algorithm is described in the following publications:
 

@@ -1,19 +1,18 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
-body {
-  padding-top: 50px;
-  padding-bottom: 20px;
-}
+
 
 .jumbotron {
-  background-color: rgb(241,234,154);
-  background-image: url('/assets/jumbotron-splash3.png');
+  background-color: rgb(254, 252, 169);
   background-position: center;
   background-repeat: no-repeat;
+  background-image: url('/assets/jumbotron-splash.png');
+  background-size: 110%;
 }
 .jumbotron .container {
-  background-color: rgba(241,234,154,.75);
-  padding: 30px;
+  padding: 20px;
+  font-weight: bolder;
 }
+
 .jumbotron h1 {
   color: #3f3f3f;
   border-bottom: none;
@@ -28,5 +27,5 @@ body {
   font-size: 30px;
 }
 .jumbotron a {
-  color: #ffffff;
+  color: rgb(25, 121, 168);
 }

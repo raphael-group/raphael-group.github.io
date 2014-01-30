@@ -30,7 +30,7 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio.cs.brown.edu/people/BRa
 * Jason Shum (Computational Biology)
 * Jovian Yu (Statistics)
 
-<a id="jobs"></a>  
+<a name="jobs"></a>  
 ##Jobs
 There are currently openings in the group for outstanding postdoctoral fellows, staff programmers, graduate students or undergraduate students. Contact me for further information. Please include in your email your CV and, if you are a student, a list of courses you are taking this year. If you are interesting in applying to Brown Computer Science, more information is [available here](http://cs.brown.edu/).
 
@@ -48,7 +48,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 ####Undergraduate and Visiting Students
 * Sarah Aerni (Visting from Stanford BMI)
-* Ali Bashir [Now at Mount Sinai School of Medicine] (Visiting from UCSD Bioinformatics)
+* Ali Bashir (Visiting from UCSD Bioinformatics) [Now at Mount Sinai School of Medicine]
 * Nadiva Brown (High School, Summer 2011) [Soon at Providence College]
 * Ryan Drebin (Sc.B. Computational Biology, 2012) [Now at Yelp]
 * Jonathan Eldridge (Sc.B. 2011) [Now at Microsoft]

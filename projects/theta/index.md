@@ -11,10 +11,12 @@ THeTA (_T_umor _Het_erogeneity _A_nalysis)) is an algorithm that estimates the t
 
 [<img src="theta.jpg" style="width: 600px"/>](theta.jpg)
 
+<a name="download"></a>
 ##Downloads 
 
 * Current Release: [THetA 0.51 (10/16/2013)](http://cs.brown.edu/~braphael/software/THetA/THetA_0.51.tar.gz)
 
+<a name="reference"></a>
 ##References
 THeTA is described in the following publications:
 
