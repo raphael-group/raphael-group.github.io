@@ -140,7 +140,7 @@ container_css_class: container publications
 		<a href="http://mdml.github.io/multi-dendrix", target="_new">Software Release</a>
 	</span>
 	<span class="label label-success">
-		<a href="http://compbio.cs.brown.edu/projects/multi-dendrix", target="_new">Website</a>
+		<a href="http://compbio-research.cs.brown.edu/projects/multi-dendrix", target="_new">Website</a>
 	</span>
 
 * [![TCGA AML Paper](../assets/img/papers/missing.svg)](http://www.nejm.org/doi/full/10.1056/NEJMoa1301689)
@@ -154,7 +154,7 @@ container_css_class: container publications
 		<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1301689", target="_new">PubLink</a>
 	</span>
 	<span class="label label-warning">
-		<a href="http://compbio.cs.brown.edu/aml_tcga/", target="_new">Interactive Visualization</a>
+		<a href="http://compbio-research.cs.brown.edu/aml_tcga/", target="_new">Interactive Visualization</a>
 	</span>
 
 * [![Clonal Evolution Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/10.1016/j.canlet.2012.12.028)
@@ -279,7 +279,7 @@ container_css_class: container publications
 		<a href="/projects/gasv#download">Software Release</a>
 	</span>
 
-* [![IEEE Driver Pathways Paper](../assets/img/papers/missing.svg)](http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_IEEEComputer.pdf)
+* [![IEEE Driver Pathways Paper](../assets/img/papers/missing.svg)](http://compbio-research.cs.brown.edu/publications/papers/VandinUpfalRaphael_IEEEComputer.pdf)
 	**Algorithms and Genome Sequencing: Identifying Driver Pathways in Cancer** 
 
 	_F. Vandin_, E. Upfal, _B.J. Raphael_
@@ -287,7 +287,7 @@ container_css_class: container publications
 	*IEEE Computer*
 
 	<span class="label label-primary">
-		<a href="http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_IEEEComputer.pdf", target="_new">PDF</a>
+		<a href="http://compbio-research.cs.brown.edu/publications/papers/VandinUpfalRaphael_IEEEComputer.pdf", target="_new">PDF</a>
 	</span>
 
 * [![Polymorphic Inversions Paper](../assets/img/papers/missing.svg)](http://www.biomedcentral.com/1471-2105/13/28)
@@ -526,7 +526,7 @@ container_css_class: container publications
 
 ##### Conference Proceedings
 
-* [![HotNet RECOMB Paper](../assets/img/papers/missing.svg)](http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_RECOMB_2010.pdf)
+* [![HotNet RECOMB Paper](../assets/img/papers/missing.svg)](http://compbio-research.cs.brown.edu/publications/papers/VandinUpfalRaphael_RECOMB_2010.pdf)
 	**Algorithms for Detecting Significantly Mutated Pathways in Cancer** 
 
 	_F. Vandin_, E. Upfal, and _B.J. Raphael_
@@ -534,7 +534,7 @@ container_css_class: container publications
 	*Proceedings of the 14th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2010)*
 
 	<span class="label label-primary">
-		<a href="http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_RECOMB_2010.pdf", target="_new">PDF</a>
+		<a href="http://compbio-research.cs.brown.edu/publications/papers/VandinUpfalRaphael_RECOMB_2010.pdf", target="_new">PDF</a>
 	</span>
 
 ###2009
@@ -635,7 +635,7 @@ container_css_class: container publications
 		<a href="http://psb.stanford.edu/psb-online/proceedings/psb09/kahn.pdf", target="_new">PubLink</a>
 	</span>
 	<span class="label label-default">
-		<a href="http://compbio.cs.brown.edu/publications/papers/Kahn_camera_revised.pdf", target="_new">Corrected version</a>
+		<a href="http://compbio-research.cs.brown.edu/publications/papers/Kahn_camera_revised.pdf", target="_new">Corrected version</a>
 	</span>
 
 ###2008

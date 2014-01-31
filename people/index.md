@@ -8,7 +8,7 @@ container_css_class: container
 
 ##Current Group Members
 ###PI
-Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio.cs.brown.edu/people/BRaphael_CV.pdf)
+Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
 
 ###Ph.D. Students
 * Max Leiserson (Computational Biology) [NSF Graduate Research Fellowship, 2012-2015]
@@ -34,7 +34,7 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio.cs.brown.edu/people/BRa
 ##Jobs
 There are currently openings in the group for outstanding postdoctoral fellows, staff programmers, graduate students or undergraduate students. Contact me for further information. Please include in your email your CV and, if you are a student, a list of courses you are taking this year. If you are interesting in applying to Brown Computer Science, more information is [available here](http://cs.brown.edu/).
 
-*Undergraduates*: We are recruiting undergraduate research assistants (URAs). Please see our [URA Program Page](http://compbio.cs.brown.edu/ura) for more information.
+*Undergraduates*: We are recruiting undergraduate research assistants (URAs). Please see our [URA Program Page](http://compbio-research.cs.brown.edu/ura) for more information.
 
 ##Alumni
 ###Graduate Students and Postdoctoral Fellows
@@ -68,16 +68,16 @@ He received his Ph.D. in Mathematics from the University of California, San Dieg
 
 He received an S.B. in Mathematics with a minor in Biology from the Massachusetts Institute of Technology in 1996.  As an undergraduate, he worked with Jim Propp on problems in combinatorics, and worked in the laboratory of David Page at the Whitehead Institute for Biomedical Research.
 
-Curriculum Vitae: [PDF](http://compbio.cs.brown.edu/people/BRaphael_CV.pdf)
+Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
 
 ##Group Photos:
-![Welcome dinner for Iman](http://compbio.cs.brown.edu/people/images/January2013_cropped.jpg)  
+![Welcome dinner for Iman](http://compbio-research.cs.brown.edu/people/images/January2013_cropped.jpg)  
 January 2013 - Welcome dinner for Iman
 
-![Group Retreat 2012](http://compbio.cs.brown.edu/people/images/Retreat2012_cropped.jpg)  
+![Group Retreat 2012](http://compbio-research.cs.brown.edu/people/images/Retreat2012_cropped.jpg)  
 Group Retreat 2012 - Lake Winnipesaukee, NH
 
-![Group Retreat 2011](http://compbio.cs.brown.edu/people/images/Retreat2011_cropped.jpeg)  
+![Group Retreat 2011](http://compbio-research.cs.brown.edu/people/images/Retreat2011_cropped.jpeg)  
 Group Retreat 2011 - Ludlow, VT
 
-[View More Photos in Interactive Gallery](http://compbio.cs.brown.edu/people/gallery.html)
+[View More Photos in Interactive Gallery](http://compbio-research.cs.brown.edu/people/gallery.html)

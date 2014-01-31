@@ -7,8 +7,8 @@ container_css_class: container
 #news
 
 ##September 2, 2013
-An [article in Biotechniques](http://compbio.cs.brown.edu/news/BioTechniquesNetworksSept2013.pdf) describes
-our [HotNet](http://compbio.cs.brown.edu/projects/hotnet) algorithm.
+An [article in Biotechniques](http://compbio-research.cs.brown.edu/news/BioTechniquesNetworksSept2013.pdf) describes
+our [HotNet](http://compbio-research.cs.brown.edu/projects/hotnet) algorithm.
 
 ##September 1, 2013
 Group receives an R01 grant from NIH/NHGRI for "Computational Characterization of Genetic Heterogeneity."
@@ -44,7 +44,7 @@ Max Leiserson receives [NSF Graduate Research Fellowship](http://www.nsfgrfp.org
 [Dendrix]({{ site.url }}/projects/dendrix) algorithm.
 
 ##Feb. 8, 2012
-Quoted in [Nature Methods article](http://compbio.cs.brown.edu/news/NatureMethodsSV.pdf) on structural variation.
+Quoted in [Nature Methods article](http://compbio-research.cs.brown.edu/news/NatureMethodsSV.pdf) on structural variation.
 
 ##Nov. 30, 2011
 Talk at The Cancer Genome Atlas Symposium on [YouTube](http://www.youtube.com/watch?v=8JoFOsuheO4).
@@ -78,7 +78,7 @@ Ben Raphael and Eli Upfal receive NSF grant:
 [III: Small: Algorithmic Approaches for Pathway and Gene Group Analysis in Genetic Studies](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1016648).
 
 ##July 18, 2010
-[GenomeWeb article](http://compbio.cs.brown.edu/news/PacBioISMBNews.pdf) on strobe sequencing collaboration with Pacific Biosciences.
+[GenomeWeb article](http://compbio-research.cs.brown.edu/news/PacBioISMBNews.pdf) on strobe sequencing collaboration with Pacific Biosciences.
 
 ##June 24-25, 2010
 [RECOMB Computational Cancer Biology (RECOMB-CCB 2010)](http://bioinfo.cs.technion.ac.il/people/zohar/recombccb2010/)
@@ -115,4 +115,4 @@ Genome Technology names Ben Raphael one of [Tomorrow's PIs](http://www.genome-te
 
 [Genome Rearrangements and Cancer](http://www.jacobsschool.ucsd.edu/news/news_releases/2003/20030616.shtml).
 
-[Article on the Graduate Mathematics Consulting Group](http://compbio.cs.brown.edu/news/MathStorm.pdf).
+[Article on the Graduate Mathematics Consulting Group](http://compbio-research.cs.brown.edu/news/MathStorm.pdf).
