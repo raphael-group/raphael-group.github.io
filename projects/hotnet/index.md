@@ -18,7 +18,7 @@ You can download the latest version of HotNet from the [releases page](https://g
 ##Support
 Detailed instructions for running HotNet are provided in the included [README](https://github.com/raphael-group/hotnet/blob/master/README.md).
 
-For additional support, please see the [HotNet Google Group](http://localhost:4000/projects/hotnet/).
+For additional support, please see the [HotNet Google Group](https://groups.google.com/forum/#!forum/hotnet-users).
 
 <a name="reference"></a>
 ##References
