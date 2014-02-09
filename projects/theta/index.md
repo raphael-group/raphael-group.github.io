@@ -4,21 +4,23 @@ title:  Raphael Lab // THeTA
 container_css_class: container
 ---
 
-#THeTA: Tumor Heterogeneity Analysis
+#THetA: Tumor Heterogeneity Analysis
 
 ##About
-THeTA (_T_umor _Het_erogeneity _A_nalysis)) is an algorithm that estimates the tumor purity and clonal/sublconal copy number aberrations directly from high-throughput DNA sequencing data.
+THetA (_T_umor _Het_erogeneity _A_nalysis)) is an algorithm that estimates the tumor purity and clonal/sublconal copy number aberrations directly from high-throughput DNA sequencing data.
 
 [<img src="theta.jpg" style="width: 600px"/>](theta.jpg)
 
 <a name="download"></a>
 ##Downloads 
+You can download the latest version of THetA from the [THetA GitHub project](https://github.com/raphael-group/THetA).
 
-* Current Release: [THetA 0.51 (10/16/2013)](http://cs.brown.edu/~braphael/software/THetA/THetA_0.51.tar.gz)
+##Support
+For support, please see the [THetA Google Group](https://groups.google.com/forum/#!forum/theta-users).
 
 <a name="reference"></a>
 ##References
-THeTA is described in the following publications:
+THetA is described in the following publications:
 
 >L. Oesper, A. Mahmoody, and B.J. Raphael. (2013)
 >Inferring Intra-Tumor Heterogeneity from High-Throughput DNA Sequencing Data. (Abstract)
@@ -32,7 +34,7 @@ THeTA is described in the following publications:
 ##Previous versions
 These are for archival purposes. It is strongly recommended to download the latest version from the link above.
 
-* THetA 0.5 (9/10/2013): [Download](http://cs.brown.edu/~braphael/software/THetA/THetA_0.5.tar.gz)
-* THetA Beta 0.03 (6/14/2013): [Download](http://cs.brown.edu/~braphael/software/THetA/THetA_Beta_0.03.tar.gz)
-* THetA Beta 0.02 (1/22/2013): [Download](http://cs.brown.edu/~braphael/software/THetA/THetA_Beta_0.02.tar.gz)
-* THetA Beta 0.01 (10/18/2012): [Download](http://cs.brown.edu/~braphael/software/THetA/Heterogeneity_Beta_0.01.tar.gz)
+* THetA 0.5 (9/10/2013): [Download](http://compbio-research.cs.brown.edu/software/THetA/THetA_0.5.tar.gz)
+* THetA Beta 0.03 (6/14/2013): [Download](http://compbio-research.cs.brown.edu/software/THetA/THetA_Beta_0.03.tar.gz)
+* THetA Beta 0.02 (1/22/2013): [Download](http://compbio-research.cs.brown.edu/software/THetA/THetA_Beta_0.02.tar.gz)
+* THetA Beta 0.01 (10/18/2012): [Download](http://compbio-research.cs.brown.edu/software/THetA/Heterogeneity_Beta_0.01.tar.gz)

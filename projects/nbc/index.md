@@ -15,8 +15,8 @@ aCGH computes the ratio of test:reference DNA for probes located on the referenc
 
 <a name="download"></a>
 ##Download
-* Latest release: [NBCcode.tgz](http://cs.brown.edu/~braphael/software/NBC/NBCcode.tgz)  
-* Instructions: [README.txt](http://cs.brown.edu/~braphael/software/NBC/README.txt)
+* Latest release: [NBCcode.tgz](http://compbio-research.cs.brown.edu/software/NBC/NBCcode.tgz)  
+* Instructions: [README.txt](http://compbio-research.cs.brown.edu/software/NBC/README.txt)
 
 <a name="reference"></a>
 ##Reference

@@ -51,7 +51,7 @@ Dendrix is an algorithm for discovery of mutated driver pathways in cancer using
 	<a href="/projects/dendrix">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="TODO">Download (ZIP)</a>
+	<a href="http://compbio-research.cs.brown.edu/software/Dendrix/Dendrix_v0.3.zip">Download (ZIP)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/dendrix#reference">Reference</a>
@@ -90,10 +90,13 @@ This algorithm estimates tumor purity and clonal/subclonal copy number aberratio
 	<a href="/projects/theta">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="TODO">Download (TAR)</a>
+	<a href="https://github.com/raphael-group/THetA">Download (GitHub)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/theta#reference">Reference</a>
+</span>
+<span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/theta-users">Google Group</a>
 </span>
 
 <br/>
@@ -105,7 +108,7 @@ This algorithm reconstructs a cancer genome as a rearrangement of segments, or i
 	<a href="/projects/prego">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="TODO">Download (TAR)</a>
+	<a href="http://compbio-research.cs.brown.edu/software/PREGO/PREGO_1.2.tar.gz">Download (TAR)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/prego#reference">Reference</a>
@@ -150,7 +153,7 @@ This software finds recurrent rearrangement breakpoints in DNA copy number data.
 	<a href="/projects/nbc">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="TODO">Download (ZIP)</a>
+	<a href="http://compbio-research.cs.brown.edu/software/NBC/NBCcode.tgz">Download (TAR)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/nbc#reference">Reference</a>
@@ -195,13 +198,13 @@ ExaLT is an algorithm to compute a rigorous approximation to the log-rank p-valu
 MoDL finds mutliple motifs in a set of phosphorylated peptides.
 
 <span class="label label-primary">
-	<a href="/projects/gasv">More information</a>
+	<a href="/projects/modl">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="http://code.google.com/p/gasv/">Download (TAR)</a>
+	<a href="http://compbio-research.cs.brown.edu/software/MoDL/MoDL.tar.gz">Download (TAR)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/gasv#reference">Reference</a>
+	<a href="/projects/modl#reference">Reference</a>
 </span>
 
 <br/>

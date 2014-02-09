@@ -12,7 +12,7 @@ PREGO is an algorithm that reconstructs a cancer genome as a rearrangement of se
 [<img src="prego.jpg" style="width: 500px;"/>](prego.jpg)
 
 ##Download
-* Current Release: [PREGO Version 1.2 (5/29/2013)](http://cs.brown.edu/~braphael/software/PREGO/PREGO_1.2.tar.gz)
+* Current Release: [PREGO Version 1.2 (5/29/2013)](http://compbio-research.cs.brown.edu/software/PREGO/PREGO_1.2.tar.gz)
 
 <a name="reference"></a>
 ##Reference
@@ -27,5 +27,5 @@ Preliminary version accepted at 2nd Annual RECOMB Satellite Workshop on Massivel
 ##Previous versions
 These are for archival purposes. It is recommended to download the latest version from the link above.
 
-* PREGO Version 1.1: [Download](http://compbio.cs.brown.edu/software/PREGO/PREGO_1.1.tar.gz)
-* PREGO Version 1.0: [Download](http://compbio.cs.brown.edu/software/PREGO/PREGO_1.0.tar.gz)
+* PREGO Version 1.1: [Download](http://compbio-research.cs.brown.edu/software/PREGO/PREGO_1.1.tar.gz)
+* PREGO Version 1.0: [Download](http://compbio-research.cs.brown.edu/software/PREGO/PREGO_1.0.tar.gz)
