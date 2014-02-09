@@ -51,7 +51,7 @@ Dendrix is an algorithm for discovery of mutated driver pathways in cancer using
 	<a href="/projects/dendrix">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="TODO">Download (ZIP)</a>
+	<a href="http://compbio-research.cs.brown.edu/software/Dendrix/Dendrix_v0.3.zip">Download (ZIP)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/dendrix#reference">Reference</a>

@@ -16,8 +16,8 @@ Dendrix (_De_ _no_vo _Dri_ver E_x_clusivity) is an algorithm for discovery of mu
 <a name="download"></a>
 ##Downloads
 
-* Latest release: [ver0.3, February 4, 2013](http://bio.cs.brown.edu/software/Dendrix/Dendrix_v0.3.zip)
-* Visualization: [Cytoscape plugin](http://bio.cs.brown.edu/software/HotNet/HotNetCytoscape.tar.gz)
+* Latest release: [ver0.3, February 4, 2013](http://compbio-research.cs.brown.edu/software/Dendrix/Dendrix_v0.3.zip)
+* Visualization: [Cytoscape plugin](http://compbio-research.cs.brown.edu/software/HotNet/HotNetCytoscape.tar.gz)
 
 ##Support
 Detailed instructions for running Dendrix are provided in the README.txt file in the release above.
