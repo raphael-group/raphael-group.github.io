@@ -11,8 +11,8 @@ MoDL finds mutliple motifs in a set of phosphorylated peptides.
 
 <a name="download"></a>
 ##Downloads
-* Current release: [MoDL.tar.gz](http://compbio.cs.brown.edu/software/MoDL/MoDL.tar.gz)
-* Instructions: [README](http://compbio.cs.brown.edu/software/MoDL/README)
+* Current release: [MoDL.tar.gz](http://compbio-research.cs.brown.edu/software/MoDL/MoDL.tar.gz)
+* Instructions: [README](http://compbio-research.cs.brown.edu/software/MoDL/README)
 
 <a name="reference"></a>
 ##Reference

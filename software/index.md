@@ -195,13 +195,13 @@ ExaLT is an algorithm to compute a rigorous approximation to the log-rank p-valu
 MoDL finds mutliple motifs in a set of phosphorylated peptides.
 
 <span class="label label-primary">
-	<a href="/projects/gasv">More information</a>
+	<a href="/projects/modl">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="http://code.google.com/p/gasv/">Download (TAR)</a>
+	<a href="http://compbio-research.cs.brown.edu/software/MoDL/MoDL.tar.gz">Download (TAR)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/gasv#reference">Reference</a>
+	<a href="/projects/modl#reference">Reference</a>
 </span>
 
 <br/>
