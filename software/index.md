@@ -95,6 +95,9 @@ This algorithm estimates tumor purity and clonal/subclonal copy number aberratio
 <span class="label label-success">
 	<a href="/projects/theta#reference">Reference</a>
 </span>
+<span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/theta-users">Google Group</a>
+</span>
 
 <br/>
 

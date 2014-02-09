@@ -15,6 +15,9 @@ THetA (_T_umor _Het_erogeneity _A_nalysis)) is an algorithm that estimates the t
 ##Downloads 
 You can download the latest version of THetA from the [THetA GitHub project](https://github.com/raphael-group/THetA).
 
+##Support
+For support, please see the [THetA Google Group](https://groups.google.com/forum/#!forum/theta-users).
+
 <a name="reference"></a>
 ##References
 THetA is described in the following publications:
