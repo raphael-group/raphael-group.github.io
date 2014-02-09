@@ -153,7 +153,7 @@ This software finds recurrent rearrangement breakpoints in DNA copy number data.
 	<a href="/projects/nbc">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="TODO">Download (ZIP)</a>
+	<a href="http://compbio-research.cs.brown.edu/software/NBC/NBCcode.tgz">Download (TAR)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/nbc#reference">Reference</a>
