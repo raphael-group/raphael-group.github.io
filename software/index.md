@@ -15,7 +15,7 @@ HotNet2 is an algorithm for the discovery of significantly mutated subnetworks i
 	<a href="/projects/hotnet">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="https://github.com/raphael-group/hotnet2">Download (GitHub)</a>
+	<a href="https://github.com/raphael-group/hotnet2/releases">Download (GitHub)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/hotnet#reference">Reference</a>
@@ -69,7 +69,7 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 	<a href="/projects/hotnet">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="https://github.com/raphael-group/hotnet">Download (GitHub)</a>
+	<a href="https://github.com/raphael-group/hotnet/releases">Download (GitHub)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/hotnet#reference">Reference</a>
