@@ -108,7 +108,7 @@ This algorithm reconstructs a cancer genome as a rearrangement of segments, or i
 	<a href="/projects/prego">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="TODO">Download (TAR)</a>
+	<a href="http://compbio-research.cs.brown.edu/software/PREGO/PREGO_1.2.tar.gz">Download (TAR)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/prego#reference">Reference</a>
