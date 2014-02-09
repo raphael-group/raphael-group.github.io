@@ -83,7 +83,7 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 ###Structural Variation and Genome Analysis
 
 
-#####THeTA: Tumor Heterogeneity Analysis
+#####THetA: Tumor Heterogeneity Analysis
 This algorithm estimates tumor purity and clonal/subclonal copy number aberrations directly from high-throughput DNA sequencing data.
 
 <span class="label label-primary">
