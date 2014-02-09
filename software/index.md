@@ -90,7 +90,7 @@ This algorithm estimates tumor purity and clonal/subclonal copy number aberratio
 	<a href="/projects/theta">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="TODO">Download (TAR)</a>
+	<a href="https://github.com/raphael-group/THetA">Download (GitHub)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/theta#reference">Reference</a>
