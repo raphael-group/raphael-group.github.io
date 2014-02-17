@@ -44,11 +44,11 @@ Moreover, we have used HotNet in the following publications:
 ##Previous versions
 These are for archival purposes. It is recommended to download the latest version from the link above.
 
-* [HotNet version 1.0.0 (July 13th, 2012)](http://compbio.cs.brown.edu/software/HotNet/HotNet_v1.0.0.zip)  
+* [HotNet version 1.0.0 (July 13th, 2012)](http://compbio-research.cs.brown.edu/software/HotNet/HotNet_v1.0.0.zip)  
   This new version merges the old HotNet and Generalized HotNet methods, requires a new, cleaner representation for copy number aberrations, and adds a number of new features - see the README.txt in archive download for details.
 
-* [HotNet (ver0.9.1, June 29, 2011)](http://compbio.cs.brown.edu/software/HotNet/HotNet_v0.9.1.zip)  
+* [HotNet (ver0.9.1, June 29, 2011)](http://compbio-research.cs.brown.edu/software/HotNet/HotNet_v0.9.1.zip)  
   For finding significantly mutated subnetworks using single nucleotide mutations (and indels) and copy number aberrations (that is, the statistical test performed by HotNet is designed for these types of data).
 
-* [Generalized HotNet (ver0.9.1, June 29, 2011)](http://compbio.cs.brown.edu/software/HotNet/GeneralizedHotNet_v0.9.1.zip)  
+* [Generalized HotNet (ver0.9.1, June 29, 2011)](http://compbio-research.cs.brown.edu/software/HotNet/GeneralizedHotNet_v0.9.1.zip)  
   A general version of HotNet that allows for arbitrary gene scores. (The statistical test is a general test that can be used with any score.)
