@@ -5,6 +5,8 @@ container_css_class: container
 ---
 
 #news
+##February 18, 2014
+We have a new group website! Please take a look around and [let us know](mailto:browncompbio@gmail.com) if you see anything broken.
 
 ##September 2, 2013
 An [article in Biotechniques](http://compbio-research.cs.brown.edu/news/BioTechniquesNetworksSept2013.pdf) describes
