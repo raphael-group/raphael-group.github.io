@@ -33,6 +33,7 @@ html,body{
         -webkit-text-size-adjust: 100%;
         -ms-text-size-adjust: 100%;
     padding-top:4px;
+    font-size: 12pt;
 }
 
 h1, h2, h3, h4, h5{
