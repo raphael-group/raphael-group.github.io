@@ -13,18 +13,18 @@ container_css_class: container publications
 * [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
 	**Detecting independent and recurrent copy number aberrations using interval graphs**
 	
-	_H. Wu_, _I. Hajirasouliha_, _B.J. Raphael
+	_H. Wu_, _I. Hajirasouliha_, _B.J. Raphael_
 
-	*ISMB/Bioinformatics* (To appear).
+	*22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)/Bioinformatics* (To appear).
 
 * [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
 	**A combinatorial approach for analyzing intra-tumor heterogeneity from high-throughput sequencing data**
 	
-	_I. Hajirasouliha_, _A. Mahmoody_,_B.J. Raphael
+	_I. Hajirasouliha_, _A. Mahmoody_, _B.J. Raphael_
 
-	*ISMB/Bioinformatics* (To appear).
+	*22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB) 2014/Bioinformatics* (To appear).
 
-* [![Structural Variation Paper](../assailets/img/papers/missing.svg)](#)
+* [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
 	**Identifying driver mutations in sequenced cancer genomes: computational approaches to enable precision medicine**
 
 	_B.J. Raphael_, _J.R. Dobson_, _L. Oesper_, _F. Vandin_
