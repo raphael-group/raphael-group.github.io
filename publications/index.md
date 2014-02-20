@@ -15,14 +15,18 @@ container_css_class: container publications
 	
 	_H. Wu_, _I. Hajirasouliha_, _B.J. Raphael_
 
-	*22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)/Bioinformatics* (To appear).
+	*Bioinformatics* (To appear).
+
+	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
 * [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
 	**A combinatorial approach for analyzing intra-tumor heterogeneity from high-throughput sequencing data**
 	
 	_I. Hajirasouliha_, _A. Mahmoody_, _B.J. Raphael_
 
-	*22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB) 2014/Bioinformatics* (To appear).
+	*Bioinformatics* (To appear).
+
+        *Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
 * [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
 	**Identifying driver mutations in sequenced cancer genomes: computational approaches to enable precision medicine**
