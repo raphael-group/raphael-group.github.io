@@ -26,7 +26,7 @@ container_css_class: container publications
 
 	*Bioinformatics* (To appear).
 
-        *Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
+	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
 * [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
 	**Identifying driver mutations in sequenced cancer genomes: computational approaches to enable precision medicine**
