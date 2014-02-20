@@ -11,7 +11,7 @@ container_css_class: container
 Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
 
 ###Ph.D. Students
-* Max Leiserson (Computational Biology) [NSF Graduate Research Fellowship, 2012-2015]
+* [Max Leiserson](http://maxleiserson.com) (Computational Biology) [NSF Graduate Research Fellowship, 2012-2015]
 * Ahmad Mahmoody (Computer Science)
 * Layla Oesper (Computer Science) [NSF Graduate Research Fellowship, 2011-2014]
 * Alexandra Papoutsaki (Computer Science)
