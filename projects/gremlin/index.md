@@ -11,9 +11,9 @@ The model is described in the paper referenced below.
 
 <a name="download"></a>
 ##Downloads
-* Description of the visualization views: [GremlinOverview.pdf](http://cs.brown.edu/~braphael/software/Gremlin/GremlinOverview.pdf)
-* Description of the visualization interaction: [GremlinInteraction.pdf](http://cs.brown.edu/~braphael/software/Gremlin/GremlinInteraction.pdf)
-* [Gremlin Demo](http://compbio.cs.brown.edu/software/Gremlin/geneVisDemo.html)
+* Description of the visualization views: [GremlinOverview.pdf](http://compbio-research.cs.brown.edu/software/Gremlin/GremlinOverview.pdf)
+* Description of the visualization interaction: [GremlinInteraction.pdf](http://compbio-research.cs.brown.edu/software/Gremlin/GremlinInteraction.pdf)
+* [Gremlin Demo](http://compbio-research.cs.brown.edu/software/Gremlin/geneVisDemo.html)
 * Gremlin download coming soon!
 
 <a name="reference"></a>
