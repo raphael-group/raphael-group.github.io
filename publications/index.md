@@ -11,6 +11,24 @@ container_css_class: container publications
 ##### Journal Articles
 
 * [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
+	**Detecting independent and recurrent copy number aberrations using interval graphs**
+	
+	_H. Wu_, _I. Hajirasouliha_, _B.J. Raphael_
+
+	*Bioinformatics* (To appear).
+
+	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
+
+* [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
+	**A combinatorial approach for analyzing intra-tumor heterogeneity from high-throughput sequencing data**
+	
+	_I. Hajirasouliha_, _A. Mahmoody_, _B.J. Raphael_
+
+	*Bioinformatics* (To appear).
+
+	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
+
+* [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
 	**Identifying driver mutations in sequenced cancer genomes: computational approaches to enable precision medicine**
 
 	_B.J. Raphael_, _J.R. Dobson_, _L. Oesper_, _F. Vandin_
@@ -90,7 +108,7 @@ container_css_class: container publications
 		<a href="http://dx.doi.org/10.1038/nmeth.2704", target="_new">PubLink</a>
 	</span>
 
-* [![THeTA Paper](../assets/img/papers/missing.svg)](http://dx.doi.org/doi:10.1186/gb-2013-14-7-r80)
+* [![THeTA Paper](../assets/img/papers/THetA-GenomeBiology.jpg)](http://dx.doi.org/doi:10.1186/gb-2013-14-7-r80)
 	**THetA: Inferring intra-tumor heterogeneity from high-throughput DNA sequencing data** 
 
 	_L. Oesper_, _A. Mahmoody_, _B.J. Raphael_
@@ -171,8 +189,8 @@ container_css_class: container publications
 
 ##### Conference Proceedings
 
-* [![THeTA RECOMB Paper](../assets/img/papers/missing.svg)](http://link.springer.com/chapter/10.1007%2F978-3-642-37195-0_14)
-	**Estimating Tumor Purity and Cancer Subpopulations from High-Throughput DNA Sequencing Data** 
+* [![THeTA RECOMB Paper](../assets/img/papers/THetA-RECOMB.jpg)](http://link.springer.com/chapter/10.1007%2F978-3-642-37195-0_14)
+	**Inferring Intra-Tumor Heterogeneity from High-Throughput DNA Sequencing Data** 
 
 	_L. Oesper_, _A. Mahmoody_, _B.J. Raphael_
 	
@@ -341,7 +359,7 @@ container_css_class: container publications
 		<a href="http://link.springer.com/book/10.1007/978-3-642-33122-0/page/1", target="_new">PubLink</a>
 	</span>
 
-* [![PREGO Paper](../assets/img/papers/missing.svg)](http://www.biomedcentral.com/1471-2105/13/S6/S10)
+* [![PREGO Paper](../assets/img/papers/PREGO.jpg)](http://www.biomedcentral.com/1471-2105/13/S6/S10)
 	**Reconstructing Cancer Genome Organization** 
 
 	_L. Oesper_, _A. Ritz_, _S.J. Aerni_, _R. Drebin_, _B.J. Raphael_
