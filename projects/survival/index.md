@@ -9,16 +9,16 @@ container_css_class: container
 ##About
 Current implementations of the log-rank test (R survdiff, SAS LIFETEST, etc.) are based on an asymptotic approximation for the distribution of the log-rank statistic that is not appropriate when the two populations to be compared are unbalanced, as it is the case when testing the association of a mutation with survival in genomic studies. This asymptotic approximation results in p-values that can be very different from the exact p-values, up to 7 orders of magnitude, and a large number of false discoveries are reported because of this difference. We have designed and implemented a method, now called ExaLT (Exact Log-rank Test) to compute a conservative approximation of the exact p-value. In particular, our method computes the p-value for the exact permutational p-value, that is more appropriate for testing the association of mutations with survival.
 
-* [ExaLT in C++, and R](http://compbio.cs.brown.edu/projects/exactlogrank/ExaLT.zip)
+* [ExaLT in C++, and R](http://compbio-research.cs.brown.edu/projects/exactlogrank/ExaLT.zip)
 
 A different p-value can be computed using a different null distribution (called conditional); while we suggest to compute the p-value from the permutational distribution (with the code above), we note that efficient implementations to compute the exact p-value from the conditional distribution are not available, and provide such an implementation in Matlab below:
 
-* [exact conditional test in Matlab](http://compbio.cs.brown.edu/projects/exactlogrank/exact_conditional.zip)
+* [exact conditional test in Matlab](http://compbio-research.cs.brown.edu/projects/exactlogrank/exact_conditional.zip)
 
 <a name="download"></a>
 ##Downloads
-* [ExaLT in C++, and R](http://compbio.cs.brown.edu/projects/exactlogrank/ExaLT.zip)
-* [exact conditional test in Matlab](http://compbio.cs.brown.edu/projects/exactlogrank/exact_conditional.zip)
+* [ExaLT in C++, and R](http://compbio-research.cs.brown.edu/projects/exactlogrank/ExaLT.zip)
+* [exact conditional test in Matlab](http://compbio-research.cs.brown.edu/projects/exactlogrank/exact_conditional.zip)
 
 ##Support
 
