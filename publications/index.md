@@ -28,12 +28,16 @@ container_css_class: container publications
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
-* [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
+* [![Structural Variation Paper](../assets/img/papers/driver-review.jpg)](http://genomemedicine.com/content/6/1/5)
 	**Identifying driver mutations in sequenced cancer genomes: computational approaches to enable precision medicine**
 
 	_B.J. Raphael_, _J.R. Dobson_, _L. Oesper_, _F. Vandin_
 
-	*Genome Medicine* (In Press).
+	*Genome Medicine*
+
+	<span class="label label-primary">
+		<a href="http://compbio-research.cs.brown.edu/publications/papers/Raphael_etAl_IdentifyingDriverMutations_GM.pdf", target="_new">PDF</a>
+	</span>
 
 * [![Network GWAS Paper](../assets/img/papers/somatic-germline-ov.gif)](http://www.nature.com/ncomms/2014/140122/ncomms4156/pdf/ncomms4156.pdf) 
 	**Integrated analysis of germline and somatic variants in ovarian cancer** 

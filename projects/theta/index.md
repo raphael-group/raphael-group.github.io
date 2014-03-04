@@ -29,7 +29,7 @@ THetA is described in the following publications:
 
 >L. Oesper, A. Mahmoody, and B.J. Raphael. (2013)
 >THetA: Inferring intra-tumor heterogeneity from high-throughput DNA sequencing data.
->*Genome Biology*. 14:R80. [[Publisher Link](http://genomebiology.com/2013/14/7/R80/abstract) | [Supplemental Material](http://cs.brown.edu/~braphael/projects/theta/docs/THetA_GB_Final_Supplemental.pdf)]
+>*Genome Biology*. 14:R80. [[Publisher Link](http://genomebiology.com/2013/14/7/R80/abstract) | [Supplemental Material](http://compbio-research.cs.brown.edu/projects/theta/docs/THetA_GB_Final_Supplemental.pdf)]
 
 ##Previous versions
 These are for archival purposes. It is strongly recommended to download the latest version from the link above.
