@@ -15,6 +15,8 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 ##Download
 You can download the latest version of HotNet from the [releases page](https://github.com/raphael-group/hotnet/releases) of the [HotNet GitHub project](https://github.com/raphael-group/hotnet).
 
+Influence matrix files: [influence\_matrix\_files.zip](http://compbio-research.cs.brown.edu/projects/hotnet/influence_matrix_files.zip)
+
 ##Support
 Detailed instructions for running HotNet are provided in the included [README](https://github.com/raphael-group/hotnet/blob/master/README.md).
 
