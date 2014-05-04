@@ -6,7 +6,7 @@ container_css_class: container
 
 #news
 ##March 14, 2014
-Iman Hajirasoulia receives a [NSERC Postdoctoral Fellowship](http://cs.brown.edu/news/2014/03/14/iman-hajirasouliha-receives-nserc-fellowship/).  Congratulations, Iman! 
+Iman Hajirasouliha receives a [NSERC Postdoctoral Fellowship](http://cs.brown.edu/news/2014/03/14/iman-hajirasouliha-receives-nserc-fellowship/).  Congratulations, Iman! 
 
 
 ##February 18, 2014
