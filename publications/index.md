@@ -28,7 +28,17 @@ container_css_class: container publications
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
-* [![Structural Variation Paper](../assets/img/papers/driver-review.jpg)](http://genomemedicine.com/content/6/1/5)
+* [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
+** Expression profiling of primary and metastatic ovarian tumors reveals differences indicative of aggressive disease.**
+
+A.S. Brodsky, A. Fischer, Miller DH, Vang S, Maclaughlan S, _Wu HT_, Yu J, Steinhoff M, Collins C, Smith PJ, _B.J. Raphael_, Brard L.
+
+*PLoS One*. 
+
+*(2014) 9(4):e94476.*
+
+
+* [![Genome Medicine Review](../assets/img/papers/driver-review.jpg)](http://genomemedicine.com/content/6/1/5)
 	**Identifying driver mutations in sequenced cancer genomes: computational approaches to enable precision medicine**
 
 	_B.J. Raphael_, _J.R. Dobson_, _L. Oesper_, _F. Vandin_
