@@ -10,7 +10,7 @@ container_css_class: container publications
 ### 2014
 ##### Journal Articles
 
-* [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
+* [![RAIG Paper](../assets/img/papers/missing.svg)](#)
 	**Detecting independent and recurrent copy number aberrations using interval graphs**
 	
 	_H. Wu_, _I. Hajirasouliha_, _B.J. Raphael_
@@ -28,15 +28,12 @@ container_css_class: container publications
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
-* [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
-** Expression profiling of primary and metastatic ovarian tumors reveals differences indicative of aggressive disease.**
+* [![Brodsky PLOSOne Paper](../assets/img/papers/missing.svg)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0094476)
+  	     **Expression profiling of primary and metastatic ovarian tumors reveals differences indicative of aggressive disease**
 
-A.S. Brodsky, A. Fischer, Miller DH, Vang S, Maclaughlan S, _Wu HT_, Yu J, Steinhoff M, Collins C, Smith PJ, _B.J. Raphael_, Brard L.
+	A.S. Brodsky, A. Fischer, D.H. Miller, S.Vang, S.Maclaughlan, _H.T. Wu_, J.Yu, M.Steinhoff, C.Collins, P.J.Smith, _B.J. Raphael_, L.Brard
 
-*PLoS One*. 
-
-*(2014) 9(4):e94476.*
-
+	*PLoS One.* (2014) 9(4):e94476.
 
 * [![Genome Medicine Review](../assets/img/papers/driver-review.jpg)](http://genomemedicine.com/content/6/1/5)
 	**Identifying driver mutations in sequenced cancer genomes: computational approaches to enable precision medicine**
