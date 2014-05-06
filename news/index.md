@@ -5,6 +5,9 @@ container_css_class: container
 ---
 
 #news
+##May 5, 2014
+The Raphael research group successfully defends the [Watson Cup](http://watson-cup.cs.brown.edu/archive/2014/)!
+
 ##March 14, 2014
 Iman Hajirasouliha receives a [NSERC Postdoctoral Fellowship](http://cs.brown.edu/news/2014/03/14/iman-hajirasouliha-receives-nserc-fellowship/).  Congratulations, Iman! 
 
