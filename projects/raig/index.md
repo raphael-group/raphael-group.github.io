@@ -17,7 +17,7 @@ You can download the latest version of RAIG from [RAIG version 1.0](http://compb
 
 <a name="reference"></a>
 ##References
-THetA is described in the following publications:
+RAIG is described in the following publications:
 
 >H. Wu, I. Hajirasouliha, B.J. Raphael (2014).
 >Detecting independent and recurrent copy number aberrations using interval graphs. 
