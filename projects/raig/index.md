@@ -21,7 +21,6 @@ THetA is described in the following publications:
 
 >H. Wu, I. Hajirasouliha, B.J. Raphael (2014).
 >Detecting independent and recurrent copy number aberrations using interval graphs. 
->*Bioinformatics.
->Vol. 30 ISMB2014, pages i195-i203.
+>*Bioinformatics*. vol. 30 ISMB2014, pages i195-i203.
 >[[Publisher Link]](http://bioinformatics.oxfordjournals.org/content/30/12/i195.full.pdf)	
 
