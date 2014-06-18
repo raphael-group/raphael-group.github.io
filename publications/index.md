@@ -10,7 +10,7 @@ container_css_class: container publications
 ### 2014
 ##### Journal Articles
 
-* [![RAIG Paper](../assets/img/papers/missing.svg)](#)
+* [![RAIG Paper](../assets/img/papers/raig.jpg)](#)
 	**Detecting independent and recurrent copy number aberrations using interval graphs**
 	
 	_H. Wu_, _I. Hajirasouliha_, _B.J. Raphael_
@@ -19,7 +19,11 @@ container_css_class: container publications
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
-* [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
+	<span class="label label-primary">
+        <a href="http://bioinformatics.oxfordjournals.org/content/30/12/i195.full.pdf", target="_new">PubLink</a>
+    </span>
+
+* [![Structural Variation Paper](../assets/img/papers/btp.jpg)](#)
 	**A combinatorial approach for analyzing intra-tumor heterogeneity from high-throughput sequencing data**
 	
 	_I. Hajirasouliha_, _A. Mahmoody_, _B.J. Raphael_
@@ -27,6 +31,10 @@ container_css_class: container publications
 	*Bioinformatics* (To appear).
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
+
+	<span class="label label-primary">
+        <a href="http://bioinformatics.oxfordjournals.org/content/30/12/i78.full.pdf", target="_new">PubLink</a>
+    </span>
 
 * [![Brodsky PLOSOne Paper](../assets/img/papers/missing.svg)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0094476)
   	     **Expression profiling of primary and metastatic ovarian tumors reveals differences indicative of aggressive disease**
