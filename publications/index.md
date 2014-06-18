@@ -15,7 +15,7 @@ container_css_class: container publications
 	
 	_H. Wu_, _I. Hajirasouliha_, _B.J. Raphael_
 
-	*Bioinformatics* (To appear).
+	*Bioinformatics*.
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
@@ -28,7 +28,7 @@ container_css_class: container publications
 	
 	_I. Hajirasouliha_, _A. Mahmoody_, _B.J. Raphael_
 
-	*Bioinformatics* (To appear).
+	*Bioinformatics*.
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
