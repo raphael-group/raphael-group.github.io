@@ -77,7 +77,7 @@ container_css_class: container publications
 * [![WABI2014 Paper](../assets/img/papers/missing.svg)](#) 
 	**Reconstructing mutational history in multiply sampled tumors using perfect phylogeny mixtures**
 
-	_I. Hajirasouliha_,_B.J. Raphael_
+	_I. Hajirasouliha_, _B.J. Raphael_
 	
 	*14th Workshop on Algorithms in Bioinformatics (WABI)* (In Press).
 

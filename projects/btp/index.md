@@ -9,9 +9,12 @@ container_css_class: container
 ##About
 Binary Tree Partition (BTP) is a novel combinatorial formulation of the problem of constructing the subpopulations of tumor cells from the variant allele frequencies of somatic mutations. 
 
+
+[<img src="simple.jpg" style="width: 600px"/>](simple.jpg)
+
 <a name="download"></a>
 ##Downloads 
-You can download the latest version of rec-BTP from [rec-BTP version 1.0](http://compbio-research.cs.brown.edu/software/BTP/rec-btp.1.0.tar.gz).
+You can download the latest version of rec-BTP from [rec-BTP version 1.0](http://compbio-research.cs.brown.edu/software/BTP/rec-btp-1.0.tar.gz).
 
 <a name="reference"></a>
 ##References
