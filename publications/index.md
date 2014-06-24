@@ -15,7 +15,7 @@ container_css_class: container publications
 	
 	_H. Wu_, _I. Hajirasouliha_, _B.J. Raphael_
 
-	*Bioinformatics*.
+	*Bioinformatics 30 (12), i195-i203*.
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
@@ -28,7 +28,7 @@ container_css_class: container publications
 	
 	_I. Hajirasouliha_, _A. Mahmoody_, _B.J. Raphael_
 
-	*Bioinformatics*.
+	*Bioinformatics  30 (12), i78-i86*.
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
@@ -73,6 +73,14 @@ container_css_class: container publications
 	*Genome Analysis: Current Procedures* (In Press)
 
 ##### Conference Proceedings
+
+* [![WABI2014 Paper](../assets/img/papers/missing.svg)](#) 
+	**Reconstructing mutational history in multiply sampled tumors using perfect phylogeny mixtures**
+
+	_I. Hajirasouliha_,_B.J. Raphael_
+	
+	*14th Workshop on Algorithms in Bioinformatics (WABI)* (In Press).
+
 * [![RECOMB2014 Paper](../assets/img/papers/missing.svg)](#) 
 	**Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
 
