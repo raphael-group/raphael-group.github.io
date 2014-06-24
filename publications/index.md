@@ -10,7 +10,7 @@ container_css_class: container publications
 ### 2014
 ##### Journal Articles
 
-* [![RAIG Paper](../assets/img/papers/raig.jpg)](#)
+* [![RAIG Paper](../assets/img/papers/raig.jpg)](http://bioinformatics.oxfordjournals.org/content/30/12/i195.full)
 	**Detecting independent and recurrent copy number aberrations using interval graphs**
 	
 	_H. Wu_, _I. Hajirasouliha_, _B.J. Raphael_
@@ -23,7 +23,7 @@ container_css_class: container publications
         <a href="http://bioinformatics.oxfordjournals.org/content/30/12/i195.full.pdf", target="_new">PubLink</a>
     </span>
 
-* [![Structural Variation Paper](../assets/img/papers/btp.jpg)](#)
+* [![Structural Variation Paper](../assets/img/papers/btp.jpg)](http://bioinformatics.oxfordjournals.org/content/30/12/i78.full)
 	**A combinatorial approach for analyzing intra-tumor heterogeneity from high-throughput sequencing data**
 	
 	_I. Hajirasouliha_, _A. Mahmoody_, _B.J. Raphael_
