@@ -97,6 +97,22 @@ RAIG is an algorithm for identifying recurrent and independent copy number aberr
 
 <br/>
 
+
+#####rec-BTP: 
+rec-BTP is a recursive algorithm for analyzing intra-tumor heterogeneity from high-throughput sequencing data.
+
+<span class="label label-primary">
+	<a href="/projects/BTP">More information</a>
+</span>
+<span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/BTP/rec-btp.1.0.tar.gz">Download (TAR)</a>
+</span>
+<span class="label label-success">
+	<a href="/projects/BTP#reference">Reference</a>
+</span>
+
+<br/>
+
 #####THetA: Tumor Heterogeneity Analysis
 This algorithm estimates tumor purity and clonal/subclonal copy number aberrations directly from high-throughput DNA sequencing data.
 
