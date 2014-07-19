@@ -5,6 +5,16 @@ container_css_class: container
 ---
 
 #news
+##July 12, 2014
+[Layla Oesper](http://cs.brown.edu/people/layla/) wins "Best Presentation" at the [HiT-Seq workshop](http://hitseq.org) for her presentation "Quantifying Tumor Heterogeneity in Whole-Genome and Whole-Exome Sequencing Data".  Congratulations, Layla!
+ 
+##July 8, 2014
+Current and former students and postdocs of the Raphael Lab to [present 5 research talks](http://blog.cs.brown.edu/2014/07/08/brown-cs-and-ccmb-enjoy-record-participation-ismb-2014/) at the [ISMB 2014](http://www.iscb.org/ismb2014).  Congratulations to all!
+ 
+##June 30, 2014
+Our high school summer research program, funded by an [NSF CAREER grant](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1053753) is underway!  
+This year's participants include Ava Brignol from [Nobel and Greenough School](http://www.nobles.edu) in Dedham, MA, and Anthony Rolland from the [Julia R. Masterman School](http://www.mastermanschool.org) in Philadelphia, PA.
+
 ##March 14, 2014
 Iman Hajirasouliha receives a [NSERC Postdoctoral Fellowship](http://cs.brown.edu/news/2014/03/14/iman-hajirasouliha-receives-nserc-fellowship/).  Congratulations, Iman! 
 
