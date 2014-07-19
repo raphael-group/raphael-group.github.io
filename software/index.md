@@ -82,6 +82,36 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 
 ###Structural Variation and Genome Analysis
 
+#####RAIG: Recurrent Aberrations from Interval Graph
+RAIG is an algorithm for identifying recurrent and independent copy number aberrations.
+
+<span class="label label-primary">
+	<a href="/projects/raig">More information</a>
+</span>
+<span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.0.tar.gz">Download (TAR)</a>
+</span>
+<span class="label label-success">
+	<a href="/projects/raig#reference">Reference</a>
+</span>
+
+<br/>
+
+
+#####rec-BTP: 
+rec-BTP is a recursive algorithm for analyzing intra-tumor heterogeneity from high-throughput sequencing data.
+
+<span class="label label-primary">
+	<a href="/projects/btp">More information</a>
+</span>
+<span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/BTP/rec-btp-1.0.tar.gz">Download (TAR)</a>
+</span>
+<span class="label label-success">
+	<a href="/projects/btp#reference">Reference</a>
+</span>
+
+<br/>
 
 #####THetA: Tumor Heterogeneity Analysis
 This algorithm estimates tumor purity and clonal/subclonal copy number aberrations directly from high-throughput DNA sequencing data.
@@ -178,6 +208,15 @@ Gremlin is an interactive visualization model for the comparative analysis of st
 
 
 ###Additional software
+
+#####MAGI: Mutation Annotation & Genome Interpretation
+MAGI is a publicly available web application to explore and annotate cancer genomics data.
+
+<span class="label label-primary">
+	<a href="http://magi.cs.brown.edu">More information</a>
+</span>
+
+<br/>
 
 #####ExaLT: Accurate Genome-Wide Survival Analysis
 ExaLT is an algorithm to compute a rigorous approximation to the log-rank p-value that avoids false discoveries compared to standard tools.

@@ -15,6 +15,9 @@ Current and former students and postdocs of the Raphael Lab to [present 5 resear
 Our high school summer research program, funded by an [NSF CAREER grant](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1053753) is underway!  
 This year's participants include Ava Brignol from [Nobel and Greenough School](http://www.nobles.edu) in Dedham, MA, and Anthony Rolland from the [Julia R. Masterman School](http://www.mastermanschool.org) in Philadelphia, PA.
 
+##May 5, 2014
+The Raphael research group successfully defends the [Watson Cup](http://watson-cup.cs.brown.edu/archive/2014/)!
+
 ##March 14, 2014
 Iman Hajirasouliha receives a [NSERC Postdoctoral Fellowship](http://cs.brown.edu/news/2014/03/14/iman-hajirasouliha-receives-nserc-fellowship/).  Congratulations, Iman! 
 

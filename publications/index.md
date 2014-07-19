@@ -10,23 +10,31 @@ container_css_class: container publications
 ### 2014
 ##### Journal Articles
 
-* [![RAIG Paper](../assets/img/papers/missing.svg)](#)
+* [![RAIG Paper](../assets/img/papers/raig.jpg)](http://bioinformatics.oxfordjournals.org/content/30/12/i195.full)
 	**Detecting independent and recurrent copy number aberrations using interval graphs**
 	
 	_H. Wu_, _I. Hajirasouliha_, _B.J. Raphael_
 
-	*Bioinformatics* (To appear).
+	*Bioinformatics 30 (12), i195-i203*.
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
 
-* [![Structural Variation Paper](../assets/img/papers/missing.svg)](#)
+	<span class="label label-primary">
+        <a href="http://bioinformatics.oxfordjournals.org/content/30/12/i195.full.pdf", target="_new">PubLink</a>
+    </span>
+
+* [![Structural Variation Paper](../assets/img/papers/btp.jpg)](http://bioinformatics.oxfordjournals.org/content/30/12/i78.full)
 	**A combinatorial approach for analyzing intra-tumor heterogeneity from high-throughput sequencing data**
 	
 	_I. Hajirasouliha_, _A. Mahmoody_, _B.J. Raphael_
 
-	*Bioinformatics* (To appear).
+	*Bioinformatics  30 (12), i78-i86*.
 
 	*Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)*
+
+	<span class="label label-primary">
+        <a href="http://bioinformatics.oxfordjournals.org/content/30/12/i78.full.pdf", target="_new">PubLink</a>
+    </span>
 
 * [![Brodsky PLOSOne Paper](../assets/img/papers/missing.svg)](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0094476)
   	     **Expression profiling of primary and metastatic ovarian tumors reveals differences indicative of aggressive disease**
@@ -65,6 +73,14 @@ container_css_class: container publications
 	*Genome Analysis: Current Procedures* (In Press)
 
 ##### Conference Proceedings
+
+* [![WABI2014 Paper](../assets/img/papers/missing.svg)](#) 
+	**Reconstructing mutational history in multiply sampled tumors using perfect phylogeny mixtures**
+
+	_I. Hajirasouliha_, _B.J. Raphael_
+	
+	*14th Workshop on Algorithms in Bioinformatics (WABI)* (In Press).
+
 * [![RECOMB2014 Paper](../assets/img/papers/missing.svg)](#) 
 	**Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
 
