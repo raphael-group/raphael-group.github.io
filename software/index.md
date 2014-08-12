@@ -89,7 +89,7 @@ RAIG is an algorithm for identifying recurrent and independent copy number aberr
 	<a href="/projects/raig">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.0.tar.gz">Download (TAR)</a>
+	<a href="http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.01.tar.gz">Download (TAR)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/raig#reference">Reference</a>
