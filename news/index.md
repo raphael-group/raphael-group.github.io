@@ -5,6 +5,9 @@ container_css_class: container
 ---
 
 #news
+##Aug 1, 2014
+Matt Reyna joins the group from Rensselaer Polytechnic Institute. Welcome, Matt!
+
 ##July 12, 2014
 [Layla Oesper](http://cs.brown.edu/people/layla/) wins "Best Presentation" at the [HiT-Seq workshop](http://hitseq.org) for her presentation "Quantifying Tumor Heterogeneity in Whole-Genome and Whole-Exome Sequencing Data".  Congratulations, Layla!
  
