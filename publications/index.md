@@ -10,6 +10,28 @@ container_css_class: container publications
 ### 2014
 ##### Journal Articles
 
+* [![Pan-Cancer Subtypes](../assets/img/papers/tcga-pancancer-subtypes.jpg)](http://www.cell.com/cell/pdf/S0092-8674\(14\)00876-9.pdf)
+
+	**Multiplatform Analysis of 12 Cancer Types Reveals Molecular Classification within and across Tissues of Origin**
+	<br/>
+	K.A. Hoadley, C. Yau, D.M. Wolf, A.D. Cherniack, D. Tamborero, S. Ng, _M.D.M. Leiserson_, B. Niu, M.D. McLellan, V. Uzunangelov, J. Zhang, C. Kandoth, R. Akbani, H. Shen, L. Omberg, A. Chu, A.A. Margolin, L.J. van’t Veer, N. Lopez-Bigas, P.W. Laird, _B.J. Raphael_, L. Ding, A.G. Robertson, L.A. Byers, G.B. Mills, J.N. Weinstein, C. Van Waes, Z. Chen, E.A. Collisson, The Cancer Genome Atlas Research Network, C.C. Benze, C.M. Peroue, J.M. Stuart
+
+	*Cell*, 158(4):929-944.
+	<span class="label label-primary">
+        <a href="http://www.cell.com/cell/abstract/S0092-8674(14)00876-9", target="_new">PubLink</a>
+    </span>
+
+* [![TCGA STAD](../assets/img/papers/tcga-stad.gif)](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature13480.pdf)
+	**Comprehensive molecular characterization of gastric adenocarcinoma**
+	
+	The Cancer Genome Atlas Research Network
+
+	*Nature* (online preprint).
+
+	<span class="label label-primary">
+        <a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13480.html", target="_new">PubLink</a>
+    </span>
+
 * [![RAIG Paper](../assets/img/papers/raig.jpg)](http://bioinformatics.oxfordjournals.org/content/30/12/i195.full)
 	**Detecting independent and recurrent copy number aberrations using interval graphs**
 	
