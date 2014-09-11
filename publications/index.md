@@ -21,7 +21,7 @@ container_css_class: container publications
         <a href="http://www.cell.com/cell/abstract/S0092-8674(14)00876-9", target="_new">PubLink</a>
     </span>
 
-* [![TCGA STAD](../assets/img/papers/tcga-stad.gif)](http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature13480.pdf)
+* [![TCGA STAD](../assets/img/papers/tcga-stad.gif)](http://www.nature.com/nature/journal/v513/n7517/pdf/nature13480.pdf)
 	**Comprehensive molecular characterization of gastric adenocarcinoma**
 	
 	The Cancer Genome Atlas Research Network
