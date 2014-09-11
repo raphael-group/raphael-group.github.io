@@ -26,10 +26,10 @@ container_css_class: container publications
 	
 	The Cancer Genome Atlas Research Network
 
-	*Nature* (online preprint).
+	*Nature* 513:202-209.
 
 	<span class="label label-primary">
-        <a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13480.html", target="_new">PubLink</a>
+        <a href="http://www.nature.com/nature/journal/v513/n7517/full/nature13480.html?WT.ec_id=NATURE-20140911", target="_new">PubLink</a>
     </span>
 
 * [![RAIG Paper](../assets/img/papers/raig.jpg)](http://bioinformatics.oxfordjournals.org/content/30/12/i195.full)
