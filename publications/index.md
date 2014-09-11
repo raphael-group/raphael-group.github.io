@@ -10,6 +10,17 @@ container_css_class: container publications
 ### 2014
 ##### Journal Articles
 
+* [![Chromothripsis Paper](../assets/img/papers/missing.svg)](http://www.biomedcentral.com/1471-2164/15/S6/S4/abstract)
+
+	**Open adjacencies and k-breaks: detecting simultaneous rearrangements in cancer genomes**
+	<br/>
+	
+	_C. Weinreb_, _L. Oesper_, _B.J. Raphael_
+
+	*BMC Genomics (In Press)*
+
+	*Special issue for the 12th Annual Research in Computational Molecular Biology (RECOMB) Satellite Workshop on Comparative Genomics (RECOMB-CG 2014)*
+
 * [![Pan-Cancer Subtypes](../assets/img/papers/tcga-pancancer-subtypes.jpg)](http://www.cell.com/cell/pdf/S0092-8674\(14\)00876-9.pdf)
 
 	**Multiplatform Analysis of 12 Cancer Types Reveals Molecular Classification within and across Tissues of Origin**
