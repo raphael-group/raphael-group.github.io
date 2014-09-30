@@ -10,6 +10,18 @@ container_css_class: container publications
 ### 2014
 ##### Journal Articles
 
+* [![THetA2 Paper](../assets/img/papers/missing.svg)](#)
+	**Quantifying Tumor Heterogeneity in Whole-Genome and Whole-Exome Sequencing Data**
+	<br/>
+
+	_L. Oesper_, _G. Satas_, _B.J. Raphael_
+
+	*Bioinformatics (In Press)*
+
+	<span class="label label-danger">
+	<a href="/projects/theta#download">Software Release</a>
+    </span>
+
 * [![Chromothripsis Paper](../assets/img/papers/missing.svg)](http://www.biomedcentral.com/1471-2164/15/S6/S4/abstract)
 
 	**Open adjacencies and k-breaks: detecting simultaneous rearrangements in cancer genomes**
