@@ -87,7 +87,7 @@ Software for structural variation analysis from next-generation paired end data,
 long read data, or data from a combination of sequencing platforms.
 
 <span class="label label-danger">
-	<a href="http://compbio-research.cs.brown.edu/software/MultiBreakSV/MultiBreakSV.tgz">Download (TAR)</a>
+	<a href="https://github.com/raphael-group/multibreak-sv">Download (GitHub)</a>
 </span>
 
 <br/>
