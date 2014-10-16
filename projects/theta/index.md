@@ -37,6 +37,12 @@ THetA is described in the following publications:
 >THetA: Inferring intra-tumor heterogeneity from high-throughput DNA sequencing data.
 >*Genome Biology*. 14:R80. [[Publisher Link](http://genomebiology.com/2013/14/7/R80/abstract) | [Supplemental Material](http://genomebiology.com/content/supplementary/gb-2013-14-7-r80-s1.pdf)]
 
+##Related Files
+The THetA2 paper includes a likelihood model fo BAF which may be used to distinguish between multiple reconstruction returned using read depth only.  The latest release includes code to compute this likelihood model.  The following are support files which may be helpful when computing this likelihood model for observed BAFs.
+
+* [Affymetrix SNP 6.0 Positions for hg18](http://compbio-research.cs.brown.edu/projects/theta/data/AffySNP6.0_hg18.txt.formatted)
+* [Affymetrix SNP 6.0 Positions for hg19](http://compbio-research.cs.brown.edu/projects/theta/data/AffySNP6.0_hg19.txt.formatted)
+
 ##Previous versions
 These are for archival purposes. It is strongly recommended to download the latest version from the link above.
 
