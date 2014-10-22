@@ -8,6 +8,18 @@ container_css_class: container publications
 
 ###Genetic Heterogeneity: Networks and Pathways
 
+#####CoMEt: Combinations of Exclusive Alterations
+CoMEt identifies combinations of exclusive mutations <i>de novo</i> using a statistical score for exclusivity.
+
+
+
+
+<span class="label label-primary">
+	<a href="/projects/comet">More information</a>
+</span>Software release coming soon!
+
+<br/>
+
 #####HotNet2: Network Analysis of Mutation Data
 HotNet2 is an algorithm for the discovery of significantly mutated subnetworks in a protein-protein interaction network.
 
