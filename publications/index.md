@@ -22,16 +22,19 @@ container_css_class: container publications
 	<a href="/projects/theta#download">Software Release</a>
     </span>
 
-* [![Chromothripsis Paper](../assets/img/papers/missing.svg)](http://www.biomedcentral.com/1471-2164/15/S6/S4/abstract)
+* [![Chromothripsis Paper](../assets/img/papers/Chromothripsis_RECOMB_CG_2014.jpg)](http://www.biomedcentral.com/1471-2164/15/S6/S4/abstract)
 
 	**Open adjacencies and k-breaks: detecting simultaneous rearrangements in cancer genomes**
 	<br/>
 	
 	_C. Weinreb_, _L. Oesper_, _B.J. Raphael_
 
-	*BMC Genomics (In Press)*
+	*BMC Genomics*, 15(Suppl 6):S4.
 
 	*Special issue for the 12th Annual Research in Computational Molecular Biology (RECOMB) Satellite Workshop on Comparative Genomics (RECOMB-CG 2014)*
+	<span class="label label-primary">
+	<a href="http://www.biomedcentral.com/1471-2164/15/S6/S4/", target="_new">PubLink</a>
+	</span>
 
 * [![Pan-Cancer Subtypes](../assets/img/papers/tcga-pancancer-subtypes.jpg)](http://www.cell.com/cell/pdf/S0092-8674\(14\)00876-9.pdf)
 
