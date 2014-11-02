@@ -18,7 +18,7 @@ container_css_class: container publications
 	*Bioinformatics (In Press)*
 
 	<span class="label label-danger">
-        <a href="/projects/">Software Release</a>
+        <a href="https://github.com/raphael-group/multibreak-sv">Software Release</a>
     </span>
 
 
