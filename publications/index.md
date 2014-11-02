@@ -9,6 +9,18 @@ container_css_class: container publications
 
 ### 2014
 ##### Journal Articles
+* [![Ritz Single Molecule](../assets/img/papers/missing.svg)](#)
+        **Characterization of Structural Variants with Single Molecule and Hybrid Sequencing Approaches**
+        <br/>
+
+	_A Ritz_, A. Bashir, _S. Sindi_, D. Hsu, _I. Hajirasouliha_, _B.J. Raphael_
+	
+	*Bioinformatics (In Press)*
+
+	<span class="label label-danger">
+        <a href="/projects/">Software Release</a>
+    </span>
+
 
 * [![THetA2 Paper](../assets/img/papers/missing.svg)](#)
 	**Quantifying Tumor Heterogeneity in Whole-Genome and Whole-Exome Sequencing Data**
@@ -21,6 +33,14 @@ container_css_class: container publications
 	<span class="label label-danger">
 	<a href="/projects/theta#download">Software Release</a>
     </span>
+    
+* [![TCGA Thyroid](../assets/img/papers/missing.svg)](http://)
+**Integrated Genomic Characterization of Papillary Thyroid Carcinoma**
+<br/>
+
+	_The Cancer Genomic Atlas Research Network_
+	
+	*Cell.* (2014) (In Press).
 
 * [![Chromothripsis Paper](../assets/img/papers/Chromothripsis_RECOMB_CG_2014.jpg)](http://www.biomedcentral.com/1471-2164/15/S6/S4/abstract)
 
@@ -40,12 +60,22 @@ container_css_class: container publications
 
 	**Multiplatform Analysis of 12 Cancer Types Reveals Molecular Classification within and across Tissues of Origin**
 	<br/>
-	K.A. Hoadley, C. Yau, D.M. Wolf, A.D. Cherniack, D. Tamborero, S. Ng, _M.D.M. Leiserson_, B. Niu, M.D. McLellan, V. Uzunangelov, J. Zhang, C. Kandoth, R. Akbani, H. Shen, L. Omberg, A. Chu, A.A. Margolin, L.J. van’t Veer, N. Lopez-Bigas, P.W. Laird, _B.J. Raphael_, L. Ding, A.G. Robertson, L.A. Byers, G.B. Mills, J.N. Weinstein, C. Van Waes, Z. Chen, E.A. Collisson, The Cancer Genome Atlas Research Network, C.C. Benze, C.M. Peroue, J.M. Stuart
+	K.A. Hoadley, C. Yau, D.M. Wolf, A.D. Cherniack, D. Tamborero, S. Ng, _M.D.M. Leiserson_, B. Niu, M.D. McLellan, V. Uzunangelov, J. Zhang, C. Kandoth, R. Akbani, H. Shen, L. Omberg, A. Chu, A.A. Margolin, L.J. van’t Veer, N. Lopez-Bigas, P.W. Laird, _B.J. Raphael_, L. Ding, A.G. Robertson, L.A. Byers, G.B. Mills, J.N. Weinstein, C. Van Waes, Z. Chen, E.A. Collisson, The Cancer Genome Atlas Research Network, C.C. Benz, C.M. Perou, J.M. Stuart
 
 	*Cell*, 158(4):929-944.
 	<span class="label label-primary">
         <a href="http://www.cell.com/cell/abstract/S0092-8674(14)00876-9", target="_new">PubLink</a>
     </span>
+
+
+* [![NRG Review](../assets/img/papers/missing.svg)](http://)
+**Expanding the computational toolbox for mining cancer genomes.**
+<br/>
+
+	L. Ding, M.C. Wendl, J.F. McMichael, _B.J. Raphael_
+	
+	*Nature Reviews Genetics.* (2014) 15(8):556-70.
+
 
 * [![TCGA STAD](../assets/img/papers/tcga-stad.gif)](http://www.nature.com/nature/journal/v513/n7517/pdf/nature13480.pdf)
 	**Comprehensive molecular characterization of gastric adenocarcinoma**
