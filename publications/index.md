@@ -15,7 +15,7 @@ container_css_class: container publications
 
 	_A Ritz_, A. Bashir, _S. Sindi_, D. Hsu, _I. Hajirasouliha_, _B.J. Raphael_
 	
-	*Bioinformatics (In Press)*
+	*Bioinformatics*, (2014) 30(24):3458-66.
 
 	<span class="label label-danger">
         <a href="https://github.com/raphael-group/multibreak-sv">Software Release</a>
@@ -28,7 +28,7 @@ container_css_class: container publications
 
 	_L. Oesper_, _G. Satas_, _B.J. Raphael_
 
-	*Bioinformatics (In Press)*
+	*Bioinformatics*, (2014) 30(24):3532-40. 
 
 	<span class="label label-danger">
 	<a href="/projects/theta#download">Software Release</a>
@@ -40,7 +40,7 @@ container_css_class: container publications
 
 	_The Cancer Genomic Atlas Research Network_
 	
-	*Cell.* (2014) (In Press).
+	*Cell*, (2014) 159(3):676-90.
 
 * [![Chromothripsis Paper](../assets/img/papers/Chromothripsis_RECOMB_CG_2014.jpg)](http://www.biomedcentral.com/1471-2164/15/S6/S4/abstract)
 
@@ -49,7 +49,7 @@ container_css_class: container publications
 	
 	_C. Weinreb_, _L. Oesper_, _B.J. Raphael_
 
-	*BMC Genomics*, 15(Suppl 6):S4.
+	*BMC Genomics*, (2014) 15(Suppl 6):S4.
 
 	*Special issue for the 12th Annual Research in Computational Molecular Biology (RECOMB) Satellite Workshop on Comparative Genomics (RECOMB-CG 2014)*
 	<span class="label label-primary">
