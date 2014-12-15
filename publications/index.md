@@ -9,6 +9,31 @@ container_css_class: container publications
 
 ### 2014
 ##### Journal Articles
+* [![HotNet2](../assets/img/papers/missing.svg)](#)
+        **Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes**
+        <br/>
+
+	_M.D.M Leiserson*_, _F. Vandin*_, _H. Wu_, _J.R. Dobson_, _J.V. Eldridge_, _J.L. Thomas_, _A. Papoutsaki_, _Y. Kim_, B. Niu, M. McLellan, M.S. Lawrence, A. Gonzalez-Perez, D. Tamborero, Y. Cheng, G.A. Ryslik, N. Lopez-Bigas, G. Getz, L. Ding, _B.J Raphael_
+	
+	*Nature Genetics*, (2014) (In Press).
+
+* [![Progression JCB](../assets/img/papers/missing.svg)](#)
+        **Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
+        <br/>
+
+	_B.J. Raphael_, _F. Vandin_
+	
+	*Journal of Computational Biology*, (2014) (In Press).
+
+* [![Survival PLOS CB](../assets/img/papers/missing.svg)](#)
+        **Accurate Computation of Survival Statistics in Genome-wide Studies**
+        <br/>
+
+	_F. Vandin_, _A. Papoutsaki_, _B.J. Raphael*_, E. Upfal*
+	
+	*PLOS Computational Biology*, (2014) (In Press).
+
+
 * [![Ritz Single Molecule](../assets/img/papers/missing.svg)](#)
         **Characterization of Structural Variants with Single Molecule and Hybrid Sequencing Approaches**
         <br/>
