@@ -13,7 +13,7 @@ container_css_class: container publications
         **On the Sample Complexity of Cancer Pathways Identification**
         <br/>
 
-	_F. Vandin_, _B.J. Raphael_, _E. Upfal_
+	_F. Vandin_, _B.J. Raphael_, E. Upfal
 	
 	*RECOMB*, (2015) (To appear).
 
