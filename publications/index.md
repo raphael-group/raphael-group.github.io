@@ -7,15 +7,23 @@ container_css_class: container publications
 #### [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=%28raphael+bj+%5Bau%5D+OR+raphael+bj+%5BInvestigator%5D%29+OR+21720365%5Buid%5D+OR+17048384+%5Buid%5D+OR+15520295+%5Buid%5D) | [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Raphael:Benjamin_J=.html)
 # publications
 
-### 2014
-##### Journal Articles
-* [![HotNet2](../assets/img/papers/missing.svg)](#)
-        **Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes**
+### In press ###
+
+* [![SampleComplexity](../assets/img/papers/missing.svg)](#)
+        **On the Sample Complexity of Cancer Pathways Identification**
         <br/>
 
-	_M.D.M Leiserson*_, _F. Vandin*_, _H. Wu_, _J.R. Dobson_, _J.V. Eldridge_, _J.L. Thomas_, _A. Papoutsaki_, _Y. Kim_, B. Niu, M. McLellan, M.S. Lawrence, A. Gonzalez-Perez, D. Tamborero, Y. Cheng, G.A. Ryslik, N. Lopez-Bigas, G. Getz, L. Ding, _B.J Raphael_
+	_F. Vandin_, _B.J. Raphael_, _E. Upfal_
 	
-	*Nature Genetics*, (2014) (In Press).
+	*RECOMB*, (2015) (To appear).
+
+* [![CoMEtRECOMB](../assets/img/papers/missing.svg)](#)
+        **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
+        <br/>
+
+	_M.D.M. Leiserson_, _H-T. Wu_, _F. Vandin_, _B.J. Raphael_
+	
+	*RECOMB*, (2015) (To appear).
 
 * [![Progression JCB](../assets/img/papers/missing.svg)](#)
         **Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
@@ -33,6 +41,23 @@ container_css_class: container publications
 	
 	*PLOS Computational Biology*, (2014) (In Press).
 
+
+### 2014
+##### Journal Articles
+* [![HotNet2](../assets/img/papers/hotnet2.jpg)](#)
+        **Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes**
+        <br/>
+
+	_M.D.M Leiserson*_, _F. Vandin*_, _H. Wu_, _J.R. Dobson_, _J.V. Eldridge_, _J.L. Thomas_, _A. Papoutsaki_, _Y. Kim_, B. Niu, M. McLellan, M.S. Lawrence, A. Gonzalez-Perez, D. Tamborero, Y. Cheng, G.A. Ryslik, N. Lopez-Bigas, G. Getz, L. Ding, _B.J Raphael_
+	
+	*Nature Genetics*, (2014) ([Advance Online Preprint](http://rdcu.be/bPmc)).
+
+	<span class="label label-success">
+		<a href="http://compbio.cs.brown.edu/pancancer/hotnet2", target="_new">Website</a>
+	</span>
+	<span class="label label-danger">
+        <a href="https://github.com/raphael-group/hotnet2">Software Release</a>
+    </span>
 
 * [![Ritz Single Molecule](../assets/img/papers/missing.svg)](#)
         **Characterization of Structural Variants with Single Molecule and Hybrid Sequencing Approaches**
