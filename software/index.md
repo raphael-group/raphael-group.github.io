@@ -24,13 +24,13 @@ CoMEt identifies combinations of exclusive mutations <i>de novo</i> using a stat
 HotNet2 is an algorithm for the discovery of significantly mutated subnetworks in a protein-protein interaction network.
 
 <span class="label label-primary">
-	<a href="/projects/hotnet">More information</a>
+	<a href="/projects/hotnet2">More information</a>
 </span>
 <span class="label label-danger">
 	<a href="https://github.com/raphael-group/hotnet2/releases">Download (GitHub)</a>
 </span>
 <span class="label label-success">
-	<a href="/projects/hotnet#reference">Reference</a>
+	<a href="/projects/hotnet2#reference">Reference</a>
 </span>
 <span class="label label-warning">
 	<a href="https://groups.google.com/forum/#!forum/hotnet-users">Google Group</a>

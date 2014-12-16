@@ -7,15 +7,18 @@ container_css_class: container
 #HotNet
 
 ##About
-HotNet is an algorithm for finding significantly altered subnetworks in a large gene interaction network.  HotNet2 improves on this algorithm in several respects. While originally developed for use with cancer mutation data, the current release of HotNet also supports any application in which scores can be assigned to genes in the network (this version of the algorithm is called generalizedHotNet - see Vandin et al., PSB 2012).
+HotNet is an algorithm for finding significantly altered subnetworks in a large gene interaction network.  While originally developed for use with cancer mutation data, the current release of HotNet also supports any application in which scores can be assigned to genes in the network (this version of the algorithm is called generalizedHotNet - see Vandin et al., PSB 2012).
 
 **People** (strict random order): Fabio Vandin, Hsin-Ta Wu, Edward Rice, Layla Oesper, Adrien Deschamps, Max Leiserson, Jonathan Eldridge, Jason Schum, Eli Upfal, Ben Raphael.
 
 <a name="download"></a>
 ##Download
-You can download the latest version of HotNet from the [releases page](https://github.com/raphael-group/hotnet/releases) of the [HotNet GitHub project](https://github.com/raphael-group/hotnet).
 
-Influence matrix files: [influence\_matrix\_files.zip](http://compbio-research.cs.brown.edu/projects/hotnet/influence_matrix_files.zip)
+*Deprecated:* The HotNet software is deprecated. However, you can run HotNet from the latest [HotNet2 software release](https://github.com/raphael-group/hotnet2).
+
+<strike>You can download the latest version of HotNet from the [releases page](https://github.com/raphael-group/hotnet/releases) of the [HotNet GitHub project](https://github.com/raphael-group/hotnet).
+
+Influence matrix files: [influence\_matrix\_files.zip](http://compbio-research.cs.brown.edu/projects/hotnet/influence_matrix_files.zip)</strike>
 
 ##Support
 Detailed instructions for running HotNet are provided in the included [README](https://github.com/raphael-group/hotnet/blob/master/README.md).
