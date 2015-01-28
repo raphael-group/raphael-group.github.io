@@ -98,8 +98,14 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 Software for structural variation analysis from next-generation paired end data, third-generation
 long read data, or data from a combination of sequencing platforms.
 
+<span class="label label-primary">
+	<a href="/projects/multibreaksv">More information</a>
+</span>
 <span class="label label-danger">
 	<a href="https://github.com/raphael-group/multibreak-sv">Download (GitHub)</a>
+</span>
+<span class="label label-success">
+	<a href="/projects/multibreaksv#reference">Reference</a>
 </span>
 
 <br/>

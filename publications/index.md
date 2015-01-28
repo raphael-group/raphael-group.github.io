@@ -21,7 +21,7 @@ container_css_class: container publications
         **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
         <br/>
 
-	_M.D.M. Leiserson_, _H-T. Wu_, _F. Vandin_, _B.J. Raphael_
+	_M.D.M. Leiserson*_, _H-T. Wu*_, _F. Vandin_, _B.J. Raphael_
 	
 	*RECOMB*, (2015) (To appear).
 
