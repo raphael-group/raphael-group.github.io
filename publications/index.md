@@ -42,15 +42,15 @@ container_css_class: container publications
 	*PLOS Computational Biology*, (2014) (In Press).
 
 
-### 2014
+### 2015
 ##### Journal Articles
-* [![HotNet2](../assets/img/papers/hotnet2.jpg)](#)
+* [![HotNet2](../assets/img/papers/hotnet2.jpg)](http://www.nature.com/ng/journal/v47/n2/full/ng.3168.html#)
         **Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes**
         <br/>
 
 	_M.D.M Leiserson*_, _F. Vandin*_, _H. Wu_, _J.R. Dobson_, _J.V. Eldridge_, _J.L. Thomas_, _A. Papoutsaki_, _Y. Kim_, B. Niu, M. McLellan, M.S. Lawrence, A. Gonzalez-Perez, D. Tamborero, Y. Cheng, G.A. Ryslik, N. Lopez-Bigas, G. Getz, L. Ding, _B.J Raphael_
 	
-	*Nature Genetics*, (2014) ([Advance Online Preprint](http://rdcu.be/bPmc)).
+	*Nature Genetics*, (2015) 47(2):106-114.
 
 	<span class="label label-success">
 		<a href="http://compbio.cs.brown.edu/pancancer/hotnet2", target="_new">Website</a>
@@ -59,6 +59,8 @@ container_css_class: container publications
         <a href="https://github.com/raphael-group/hotnet2">Software Release</a>
     </span>
 
+### 2014
+##### Journal Articles
 * [![Ritz Single Molecule](../assets/img/papers/missing.svg)](#)
         **Characterization of Structural Variants with Single Molecule and Hybrid Sequencing Approaches**
         <br/>
@@ -84,7 +86,7 @@ container_css_class: container publications
 	<a href="/projects/theta#download">Software Release</a>
     </span>
     
-* [![TCGA Thyroid](../assets/img/papers/missing.svg)](http://)
+* [![TCGA Thyroid](../assets/img/papers/missing.svg)](http://www.cell.com/cell/fulltext/S0092-8674(14)01238-0)
 **Integrated Genomic Characterization of Papillary Thyroid Carcinoma**
 <br/>
 
