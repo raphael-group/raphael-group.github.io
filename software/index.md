@@ -93,6 +93,14 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 <br/>
 
 ###Structural Variation and Genome Analysis
+##### NAHR Finder #####
+Software for identifying non-allelic homologous recombinations.
+
+<span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/NAHR/NAHR_finder-0.0.1.tar.gz">Download</a>
+</span>
+
+<br/>
 
 #####MultiBreak-SV
 Software for structural variation analysis from next-generation paired end data, third-generation
