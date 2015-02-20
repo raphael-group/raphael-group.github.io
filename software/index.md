@@ -16,7 +16,10 @@ CoMEt identifies combinations of exclusive mutations <i>de novo</i> using a stat
 
 <span class="label label-primary">
 	<a href="/projects/comet">More information</a>
-</span>Software release coming soon!
+</span>
+<span class="label label-danger">
+	<a href="https://github.com/raphael-group/comet/releases">Download (GitHub)</a>
+</span>
 
 <br/>
 
