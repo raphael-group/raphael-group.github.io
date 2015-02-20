@@ -25,6 +25,13 @@ container_css_class: container publications
 	
 	*RECOMB*, (2015) (To appear).
 
+	<span class="label label-success">
+		<a href="http://compbio.cs.brown.edu/projects/comet", target="_new">Website</a>
+	</span>
+	<span class="label label-danger">
+        <a href="https://github.com/raphael-group/comet">Software Release</a>
+        </span>
+
 * [![Progression JCB](../assets/img/papers/missing.svg)](#)
         **Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
         <br/>
