@@ -14,21 +14,22 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 * [Max Leiserson](http://maxleiserson.com) (Computational Biology) [NSF Graduate Research Fellowship, 2012-2015]
 * Ahmad Mahmoody (Computer Science)
 * [Layla Oesper] (http://cs.brown.edu/people/layla/) (Computer Science) [NSF Graduate Research Fellowship, 2011-2014]
-* Alexandra Papoutsaki (Computer Science)
-* Matthew Parks (Applied Mathematics) [Co-advised with Chip Lawrence]
+* [Gryte Satas] (https://cs.brown.edu/people/gsatas/) (Computer Science)
 * [Hsin-Ta Wu](http://cs.brown.edu/people/bournewu/) (Computational Biology)
 
-###Postdoctoral Fellows and Research Faculty
-* Jason Dobson (Postdoctoral Research Associate -- joint with Erica Larschan)
-* Iman Hajirasouliha (Postdoctoral Research Associate)
-* Fabio Vandin (Research Assistant Professor)
+###Postdoctoral Fellows 
+* Matthew Reyna (Postdoctoral Research Associate) 
+* Mohammed El-Kebir (Postdoctoral Research Associate)
+
+
 
 ###Undergraduates
-* Tony Cannistra (Computer Science, Tufts University)
-* Adrien Deschamps (Applied Mathematics)
-* Stephanie DeMane (Computational Biology)
-* Jason Shum (Computational Biology)
-* Jovian Yu (Statistics)
+* Hannah Acheson-Field 
+* Caleb Weinreb
+* David Liu
+* Younhun Kim
+* Jacob Thomas
+
 
 <a name="jobs"></a>  
 ##Jobs
@@ -38,26 +39,47 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 ##Alumni
 ###Graduate Students and Postdoctoral Fellows
-* Brendan Hickey (Sc.M. 2009) [Now at Google]
-* Borislav Hristov (Sc.B./Sc.M. 2010) [Now at Princeton Computer Science Ph.D. Program]
-* Crystal Kahn (Ph.D. Computer Science 2010) [Now at Ab Initio] [NSF Graduate Research Fellowship, 2005-2008]
-* Selim Onal (Sc.M. 2010) [Now at Google]
-* Eric Lim (Sc.M. 2007) [Ph.D. Brown Biology 2011]
-* Anna Ritz (Ph.D. Computer Science 2012), [Now Postdoc at Virginia Tech] [NSF Graduate Research Fellowship, 2008-2011]
-* Suzanne Sindi (Postdoctoral Fellow 2006-2012) [Now Assistant Professor, UC Merced]
+* Matthew Parks (Ph.D. Applied Mathematics 2014) [Co-advised with Chip Lawrence]
+* Jonathan Eldridge (Sc.M. 2014) [--> Redfin]
+* Alexandra Papoutsaki (Sc.M. Computer Science 2013) [--> Brown Computer Science Ph.D.]
+* Anna Ritz (Ph.D. Computer Science 2012), [--> Postdoc at Virginia Tech --> Assistant Professor, Reed College] [NSF Graduate Research Fellowship, 2008-2011]
+* Crystal Kahn (Ph.D. Computer Science 2010) [--> Ab Initio --> Visiting Assistant Professor, Amherst College] [NSF Graduate Research Fellowship, 2005-2008]
+* Borislav Hristov (Sc.B./Sc.M. 2010) [--> Princeton Computer Science Ph.D. Program]
+* Selim Onal (Sc.M. 2010) [--> Google]
+* Brendan Hickey (Sc.M. 2009) [-->  Google]
+* Eric Lim (Sc.M. 2007) [--> Ph.D. Brown Biology 2011]
+
+
+
+#### Postdoctoral Fellows and Research Faculty
+* Jason Dobson (Postdoctoral Fellow, 2013-2014) [--> Novartis]
+* [Iman Hajirasouliha](http://www.imanh.org/) (Postdoctoral Fellow, 2013-2014) [--> Postdoctoral Fellow, Stanford University]
+* [Fabio Vandin](http://www.imada.sdu.dk/~vandinfa/") (Visiting Ph.D. Student and Postdoctoral Fellow, 2008-2013) [--> Assistant Professor, University of Southern Denmark] 
+* [Suzanne Sindi](http://faculty.ucmerced.edu/ssindi/) (Postdoctoral Fellow 2006-2012) [--> Assistant Professor, UC Merced]
 
 ####Undergraduate and Visiting Students
+* Vivian Hsiao (Honors Thesis, Sc.B. Computer Science, 2014) [--> M.D. student, Brown University]
+* Vishesh Jain (Honors Thesis, Sc.B. Computational Biology, 2014)
+* Jovian Yu (Honors Thesis, Sc.B. Statistics, 2012) --> M.D. student, Brown University
+* Tony Cannistra (Computer Science, Tufts University)
+* Adrien Deschamps (Applied Mathematics)
+* Stephanie DeMane (Sc.B. Computational Biology)
 * Sarah Aerni (Visting from Stanford BMI)
 * Ali Bashir (Visiting from UCSD Bioinformatics) [Now at Mount Sinai School of Medicine]
-* Nadiva Brown (High School, Summer 2011) [Soon at Providence College]
 * Ryan Drebin (Sc.B. Computational Biology, 2012) [Now at Yelp]
-* Jonathan Eldridge (Sc.B. 2011) [Now at Microsoft]
-* Elena Helman (Sc.B., Honors Thesis 2008) [Now at MIT HST Ph.D. Program]
+* Jonathan Eldridge (Sc.B. 2011) [Microsoft]
+* Elena Helman (Honors Thesis, Sc.B. Computational Biology 2008) [--> MIT HST Ph.D. Program --> Personalis]
 * Edward Rice (A.B. Computer Science 2012) [Now at NIH]
 * Erik Corona (undergraduate) [Now at Stanford Biomedical Informatics Ph.D. Program]
-* Ray Brown (undergraduate)
-* Malinda Yeh (undergraduate)
 
+
+####High School Students 
+Funded through [NSF CAREER award](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1053753) Summer outreach program
+
+* Anthony Rolland (Summer 2014) [--> MIT, undergraduate]
+* Ava Brignol (Summer 2013, 2014) [--> Harvard University, undergraduate]
+* Methany Eltigani (Summer 2013) [--> University of Pennsylvania, undergraduate]
+* Nadiva Brown (Summer 2011) [--> Providence College, undergraduate]
 
 ##Ben Raphael Scientific Biography
 Ben Raphael joined Brown University in September 2006 as an Assistant Professor in the Department of Computer Science and Center for Computational Molecular Biology. His research focuses on the design of combinatorial and statistical algorithms for the interpretation of genomes. Current research interests include next-generation DNA sequencing, structural variation, genome rearrangements in cancer and evolution, and network analysis of somatic mutations in cancer. Earlier research included topics in comparative genomics, multiple sequence alignment, and motif finding. He is the recipient of a National Science Foundation CAREER Award and an Alfred P. Sloan Research Fellowship.
