@@ -9,6 +9,14 @@ container_css_class: container publications
 
 ### In press ###
 
+* [![VAFFP](../assets/img/papers/missing.svg)](#)
+	**Reconstruction of clonal trees and tumor composition from multi-sample cancer sequencing data.**
+	<br/>
+
+	_M. El-Kebir*_, _L. Oesper*_, _H. Acheson-Field_, _B.J. Raphael_
+
+	*ISMB*, (2015) (To appear).
+
 * [![SampleComplexity](../assets/img/papers/missing.svg)](#)
         **On the Sample Complexity of Cancer Pathways Identification**
         <br/>
