@@ -24,7 +24,8 @@ THetA2 is described in the following publication:
 
 >L. Oesper, G. Satas, and B.J. Raphael. (2014)
 >Quantifying Tumor Heterogeneity in Whole-Genome and Whole-Exome Sequencing Data.
->*Bioinformatics* (In Press).
+>*Bioinformatics* 30 (24):3532-3540. [[Publisher Link](http://bioinformatics.oxfordjournals.org/cgi/reprint/btu651?
+ijkey=RF0P6tuiK0dgmHr&keytype=ref)]
 
 THetA is described in the following publications:
 
@@ -42,6 +43,9 @@ The THetA2 paper includes a likelihood model fo BAF which may be used to disting
 
 * [Affymetrix SNP 6.0 Positions for hg18](http://compbio-research.cs.brown.edu/projects/theta/data/AffySNP6.0_hg18.txt.formatted)
 * [Affymetrix SNP 6.0 Positions for hg19](http://compbio-research.cs.brown.edu/projects/theta/data/AffySNP6.0_hg19.txt.formatted)
+
+Simulated data used in the THetA2 paper can be found [here](http://compbio-research.cs.brown.edu/projects/theta/simulations/).
+
 
 ##Previous versions
 These are for archival purposes. It is strongly recommended to download the latest version from the link above.
