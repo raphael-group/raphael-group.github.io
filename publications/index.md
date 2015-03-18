@@ -9,6 +9,18 @@ container_css_class: container publications
 
 ### In press ###
 
+* [![NAHR](../assets/img/papers/missing.svg)](#)
+	**Detecting non-allelic homologous recombination from high-throughput sequencing data.**
+	<br/>
+
+	_M. Parks_, C.E. Lawrence,_B.J. Raphael_
+
+	*Genome Biology*, (2015) (To appear).
+
+      <span class="label label-danger">
+      <a href="https://github.com/mmp3/detect-NAHR">Software Release</a>
+	    </span>
+
 * [![VAFFP](../assets/img/papers/missing.svg)](#)
 	**Reconstruction of clonal trees and tumor composition from multi-sample cancer sequencing data.**
 	<br/>

@@ -120,6 +120,9 @@ Software for identifying non-allelic homologous recombinations.
 <span class="label label-danger">
 	<a href="http://compbio-research.cs.brown.edu/software/NAHR/NAHR_finder-0.0.1.tar.gz">Download</a>
 </span>
+<span class="label label-danger">
+	<a href="https://github.com/mmp3/detect-NAHR">Download (GitHub)</a>
+</span>
 
 <br/>
 
