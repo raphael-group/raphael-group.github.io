@@ -9,13 +9,11 @@ container_css_class: container
 Our [HotNet2 paper](http://www.nature.com/ng/journal/v47/n2/full/ng.3168.html) is featured on the [cover of Nature Genetics](http://www.nature.com/ng/journal/v47/n2/covers/index.html).
 
 ## January 6, 2015
-Nature Reviews Clincal Oncology publishes [research highlight](http://www.nature.com/nrclinonc/journal/v12/n2/full/nrclinonc.2014.234.html) of our [HotNet2 paper](http://www.nature.com/ng/journal/v47/n2/full/ng.\
-3168.html).
+Nature Reviews Clincal Oncology publishes [research highlight](http://www.nature.com/nrclinonc/journal/v12/n2/full/nrclinonc.2014.234.html) of our [HotNet2 paper](http://www.nature.com/ng/journal/v47/n2/full/ng.3168.html).
 
 ## December 10, 2014
 [HotNet2 paper](http://www.nature.com/ng/journal/v47/n2/f\
-ull/ng.\
-3168.html)
+ull/ng.3168.html)
  is published in Nature Genetics. [Brown Press release](https://news.brown.edu/articles/2014/12/hotnet2);  [GenomeWeb story](https://www.genomeweb.com/clinical-sequencing/pan-cancer-study-points-gene-networks-prone-rare-mutations-tcga-tumors) and [Genomeweb article](https://www.genomeweb.com/informatics/study-uses-novel-algorithm-id-rare-somatic-mutations-potential-roles-cancer).
 
 ## October 1, 2014
