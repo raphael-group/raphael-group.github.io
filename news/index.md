@@ -5,8 +5,21 @@ container_css_class: container
 ---
 
 #news
+## February 1, 2015
+Our [HotNet2 paper](http://www.nature.com/ng/journal/v47/n2/full/ng.3168.html) is featured on the [cover of Nature Genetics](http://www.nature.com/ng/journal/v47/n2/covers/index.html).
+
+## January 6, 2015
+Nature Reviews Clincal Oncology publishes [research highlight](http://www.nature.com/nrclinonc/journal/v12/n2/full/nrclinonc.2014.234.html) of our [HotNet2 paper](http://www.nature.com/ng/journal/v47/n2/full/ng.\
+3168.html).
+
+## October 1, 2014
+Mohammed El-Kebir joins the group as postdoctoral fellow.  Mohammed completed a Ph.D. in Computer Science at [CWI](http://www.cwi.nl/).  Welcome, Mohammed!
+
+## September 25, 2014
+Layla Oesper wins a [Google Anita Borg Memorial Scholarship](https://blog.cs.brown.edu/2014/09/25/molly-long-and-layla-oesper-win-google-anita-borg-memorial-scholarship/).  Congratulations, Layla!
+
 ##Aug 1, 2014
-Matt Reyna joins the group from Rensselaer Polytechnic Institute. Welcome, Matt!
+Matt Reyna joins the group as a postdoctoral fellow.  Matt completed his Ph.D. in Mathematics from Rensselaer Polytechnic Institute. Welcome, Matt!
 
 ##July 12, 2014
 [Layla Oesper](http://cs.brown.edu/people/layla/) wins "Best Presentation" at the [HiT-Seq workshop](http://hitseq.org) for her presentation "Quantifying Tumor Heterogeneity in Whole-Genome and Whole-Exome Sequencing Data".  Congratulations, Layla!
