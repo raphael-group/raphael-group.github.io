@@ -25,13 +25,13 @@ Spring 2012:
 [CSCI1810: Computational Molecular Biology](http://www.cs.brown.edu/courses/csci1810/)
 
 Fall 2011:
-[CSCI2950-C: Topics in Computational Biology: Genomes, Networks, and Cancer](http://www.cs.brown.edu/courses/csci2950-c/)
+[CSCI2950-C: Topics in Computational Biology: Genomes, Networks, and Cancer](http://www.cs.brown.edu/courses/csci2950-c/Fall2011/index.html)
 
 Spring 2011:
 [CSCI0220: Introduction to Discrete Structures and Probability](http://www.cs.brown.edu/courses/csci0220/)
 
 Fall 2010:
-[CSCI2950-C: Topics in Computational Biology: Genomes, Networks, and Cancer](http://www.cs.brown.edu/courses/csci2950-c/)
+[CSCI2950-C: Topics in Computational Biology: Genomes, Networks, and Cancer](http://www.cs.brown.edu/courses/csci2950-c/Fall2010/index.html)
 
 Fall 2009:
 [CSCI2950-C: Topics in Computational Biology: Genomes, Networks, and Cancer](http://www.cs.brown.edu/courses/csci2950-c/Fall2009)
