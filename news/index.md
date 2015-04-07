@@ -5,6 +5,18 @@ container_css_class: container
 ---
 
 #news
+## April 8, 2015
+Raphael Lab on the move!  Current Ph.D. student [Layla Oesper](https://cs.brown.edu/people/layla/) 
+and lab alums [Anna Ritz](http://annaritz.github.io/) 
+and [Crystal Valentine](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) 
+will start faculty positions in Fall 2015, at 
+[Carelton College](http://apps.carleton.edu/curricular/cs/), 
+[Reed College](http://academic.reed.edu/biology/), 
+and [Amherst College](https://www.amherst.edu/academiclife/departments/computer_science), respectively.
+
+## April 2, 2015
+Gryte Satas receives an Honorable Mention in the NSF Graduate Fellowship competition.  Congratulations, Gryte!
+
 ## February 1, 2015
 Our [HotNet2 paper](http://www.nature.com/ng/journal/v47/n2/full/ng.3168.html) is featured on the [cover of Nature Genetics](http://www.nature.com/ng/journal/v47/n2/covers/index.html).
 
