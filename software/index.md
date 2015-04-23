@@ -271,6 +271,18 @@ Gremlin is an interactive visualization model for the comparative analysis of st
 
 ###Additional software
 
+#####TADtree
+TADtree is an algorithm the identification of hierarchical topological domains in Hi-C data.
+
+<span class="label label-primary">
+	<a href="/projects/tadtree">More information</a>
+</span>
+<span class="label label-danger">
+	<a href="/projects/tadtree#download">Download (ZIPs)</a>
+</span>
+
+<br/>
+
 #####MAGI: Mutation Annotation & Genome Interpretation
 MAGI is a publicly available web application to explore and annotate cancer genomics data.
 
