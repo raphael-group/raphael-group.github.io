@@ -44,21 +44,6 @@ container_css_class: container publications
 	
 	*RECOMB*, (2015) (To appear).
 
-* [![CoMEtRECOMB](../assets/img/papers/missing.svg)](#)
-        **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
-        <br/>
-
-	_M.D.M. Leiserson*_, _H-T. Wu*_, _F. Vandin_, _B.J. Raphael_
-	
-	*RECOMB*, (2015) (To appear).
-
-	<span class="label label-success">
-		<a href="http://compbio.cs.brown.edu/projects/comet", target="_new">Website</a>
-	</span>
-	<span class="label label-danger">
-        <a href="https://github.com/raphael-group/comet">Software Release</a>
-        </span>
-
 * [![Progression JCB](../assets/img/papers/missing.svg)](#)
         **Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
         <br/>
@@ -78,6 +63,21 @@ container_css_class: container publications
 
 ### 2015
 ##### Journal Articles
+* [![HotNet2](../assets/img/papers/magi.jpg)](http://www.nature.com/nmeth/journal/v12/n6/full/nmeth.3412.html)
+        **MAGI: visualization and collaborative annotation of genomic aberrations**
+        <br/>
+
+	_M.D.M Leiserson_, C.C. Gramazio, J. Hu, _H-T. Wu_, D.H. Laidlaw, _B.J Raphael_
+	
+	*Nature Methods*, (2015) 12(6):483-484.
+
+	<span class="label label-success">
+		<a href="http://magi.brown.edu", target="_new">Website</a>
+	</span>
+	<span class="label label-danger">
+        <a href="https://github.com/raphael-group/magi">Software Release</a>
+    </span>
+
 * [![HotNet2](../assets/img/papers/hotnet2.jpg)](http://www.nature.com/ng/journal/v47/n2/full/ng.3168.html#)
         **Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes**
         <br/>
@@ -92,6 +92,27 @@ container_css_class: container publications
 	<span class="label label-danger">
         <a href="https://github.com/raphael-group/hotnet2">Software Release</a>
     </span>
+
+##### Conference Proceedings
+* [![CoMEtRECOMB](../assets/img/papers/comet-recomb.jpg)](#)
+        **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
+        <br/>
+
+	_M.D.M. Leiserson*_, _H-T. Wu*_, _F. Vandin_, _B.J. Raphael_
+	
+	*19th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2015)*
+
+
+	<span class="label label-success">
+		<a href="http://compbio.cs.brown.edu/projects/comet", target="_new">Website</a>
+	</span>
+	<span class="label label-danger">
+        <a href="https://github.com/raphael-group/comet">Software Release</a>
+    </span>
+	<span class="label label-info">
+        <a href="http://arxiv.org/abs/1503.08224" target="_new">arXiv preprint</a>
+    </span>
+
 
 ### 2014
 ##### Journal Articles
