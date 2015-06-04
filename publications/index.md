@@ -9,17 +9,6 @@ container_css_class: container publications
 
 ### In press ###
 
-* [![NAHR](../assets/img/papers/missing.svg)](#)
-	**Detecting non-allelic homologous recombination from high-throughput sequencing data.**
-	<br/>
-
-	_M. Parks_, C.E. Lawrence,_B.J. Raphael_
-
-	*Genome Biology*, (2015) (To appear).
-
-      <span class="label label-danger">
-      <a href="https://github.com/mmp3/detect-NAHR">Software Release</a>
-	    </span>
 
 * [![VAFFP](../assets/img/papers/missing.svg)](#)
 	**Reconstruction of clonal trees and tumor composition from multi-sample cancer sequencing data.**
@@ -36,34 +25,17 @@ container_css_class: container publications
 		<a href="https://github.com/raphael-group/AncesTree">Software Release</a>
 	</span>
 
-* [![SampleComplexity](../assets/img/papers/missing.svg)](#)
-        **On the Sample Complexity of Cancer Pathways Identification**
-        <br/>
 
-	_F. Vandin_, _B.J. Raphael_, E. Upfal
-	
-	*RECOMB*, (2015) (To appear).
 
-* [![Progression JCB](../assets/img/papers/missing.svg)](#)
-        **Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
-        <br/>
 
-	_B.J. Raphael_, _F. Vandin_
-	
-	*Journal of Computational Biology*, (2014) (In Press).
 
-* [![Survival PLOS CB](../assets/img/papers/missing.svg)](#)
-        **Accurate Computation of Survival Statistics in Genome-wide Studies**
-        <br/>
 
-	_F. Vandin_, _A. Papoutsaki_, _B.J. Raphael*_, E. Upfal*
-	
-	*PLOS Computational Biology*, (2014) (In Press).
 
 
 ### 2015
 ##### Journal Articles
-* [![HotNet2](../assets/img/papers/magi.jpg)](http://www.nature.com/nmeth/journal/v12/n6/full/nmeth.3412.html)
+
+* [![MAGI](../assets/img/papers/magi.jpg)](http://www.nature.com/nmeth/journal/v12/n6/full/nmeth.3412.html)
         **MAGI: visualization and collaborative annotation of genomic aberrations**
         <br/>
 
@@ -77,6 +49,36 @@ container_css_class: container publications
 	<span class="label label-danger">
         <a href="https://github.com/raphael-group/magi">Software Release</a>
     </span>
+
+* [![NAHR](../assets/img/papers/missing.svg)](http://www.genomebiology.com/content/16/1/72)
+	**Detecting non-allelic homologous recombination from high-throughput sequencing data.**
+	<br/>
+
+	_M. Parks_, C.E. Lawrence,_B.J. Raphael_
+
+	*Genome Biology*, (2015) 8;16(1):72.
+
+      <span class="label label-danger">
+      <a href="https://github.com/mmp3/detect-NAHR">Software Release</a>
+	    </span>
+
+* [![Survival PLOS CB](../assets/img/papers/missing.svg)](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004071)
+        **Accurate Computation of Survival Statistics in Genome-wide Studies**
+        <br/>
+
+	_F. Vandin_, _A. Papoutsaki_, _B.J. Raphael*_, E. Upfal*
+	
+	*PLOS Computational Biology*, (2015) 11(5):e1004071.
+
+* [![Progression JCB](../assets/img/papers/missing.svg)](http://online.liebertpub.com/doi/10.1089/cmb.2014.0161)
+        **Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
+        <br/>
+
+	_B.J. Raphael_, _F. Vandin_
+	
+	*Journal of Computational Biology*, (2015) 22(6):510-27.
+
+
 
 * [![HotNet2](../assets/img/papers/hotnet2.jpg)](http://www.nature.com/ng/journal/v47/n2/full/ng.3168.html#)
         **Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes**
@@ -112,6 +114,14 @@ container_css_class: container publications
 	<span class="label label-info">
         <a href="http://arxiv.org/abs/1503.08224" target="_new">arXiv preprint</a>
     </span>
+
+* [![SampleComplexity](../assets/img/papers/missing.svg)](#)
+        **On the Sample Complexity of Cancer Pathways Identification**
+        <br/>
+
+	_F. Vandin_, _B.J. Raphael_, E. Upfal
+	
+	*19th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2015)*
 
 
 ### 2014
