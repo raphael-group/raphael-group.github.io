@@ -10,20 +10,6 @@ container_css_class: container publications
 ### In press ###
 
 
-* [![VAFFP](../assets/img/papers/missing.svg)](#)
-	**Reconstruction of clonal trees and tumor composition from multi-sample cancer sequencing data.**
-	<br/>
-
-	_M. El-Kebir*_, _L. Oesper*_, _H. Acheson-Field_, _B.J. Raphael_
-
-	*ISMB*, (2015) (To appear).
-
-	<span class="label label-success">
-		<a href="http://compbio.cs.brown.edu/projects/ancestree", target="_new">Website</a>
-	</span>
-	<span class="label label-danger">
-		<a href="https://github.com/raphael-group/AncesTree">Software Release</a>
-	</span>
 
 
 
@@ -34,6 +20,30 @@ container_css_class: container publications
 
 ### 2015
 ##### Journal Articles
+
+* [![VAFFP](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/31/12/i62.long)
+	**Reconstruction of clonal trees and tumor composition from multi-sample cancer sequencing data.**
+	<br/>
+
+	_M. El-Kebir*_, _L. Oesper*_, _H. Acheson-Field_, _B.J. Raphael_
+
+	*Bioinformatics (Special Issue: Proceedings of ISMB)*, (2015) 31(12):i62-i70.
+
+	<span class="label label-success">
+		<a href="http://compbio.cs.brown.edu/projects/ancestree", target="_new">Website</a>
+	</span>
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/AncesTree">Software Release</a>
+	</span>
+
+* [![ICGCPathways](../assets/img/papers/missing.svg)]()
+	**Pathway and network analysis of cancer genomes.**
+	<br/>
+
+	Mutation Consequences and Pathway Analysis working group of the International Cancer Genome Consortium
+
+	*Nature Methods*, (2015) 12(7):615-621.
+
 
 * [![MAGI](../assets/img/papers/magi.jpg)](http://www.nature.com/nmeth/journal/v12/n6/full/nmeth.3412.html)
         **MAGI: visualization and collaborative annotation of genomic aberrations**
