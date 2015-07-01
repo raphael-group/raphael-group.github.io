@@ -10,7 +10,7 @@ algorithms to identify collections of exclusive alterations in cancer without pr
 uses a novel statistical score for exclusivity collections of alterations and an MCMC algorithm to
 compute the marginal probability of observing pairs of alterations in the same exclusive set.
 
-CoMEt is released as a [software package on GitHub](https://github.com/raphael-group/comet).
+CoMEt is released as a [software package on GitHub](https://github.com/raphael-group/comet). The exact test used by CoMEt is also available as the [cometExactTest R package](http://cran.r-project.org/web/packages/cometExactTest/) hosted by [CRAN](http://cran.r-project.org/).
 
 ### Dendrix++
 Dendrix++ is a preliminary version of CoMEt that we applied as part of the
