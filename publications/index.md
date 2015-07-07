@@ -9,14 +9,24 @@ container_css_class: container publications
 
 ### In press ###
 
+* [![CoMEtGenomeBiology](../assets/img/papers/missing.svg)](#)
+        **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
+        <br/>
+
+	_M.D.M. Leiserson*_, _H-T. Wu*_, _F. Vandin_, _B.J. Raphael_
+	
+	*Genome Biology* (in press)
 
 
-
-
-
-
-
-
+	<span class="label label-success">
+		<a href="http://compbio.cs.brown.edu/projects/comet", target="_new">Website</a>
+	</span>
+	<span class="label label-danger">
+        <a href="https://github.com/raphael-group/comet">Software Release</a>
+    </span>
+	<span class="label label-info">
+        <a href="http://arxiv.org/abs/1503.08224" target="_new">arXiv preprint</a>
+    </span>
 
 ### 2015
 ##### Journal Articles
