@@ -28,6 +28,14 @@ container_css_class: container publications
         <a href="http://arxiv.org/abs/1503.08224" target="_new">arXiv preprint</a>
     </span>
 
+* [![GerbiRNA](../assets/img/papers/missing.svg)]()
+        **Universal and Domain-Specific Sequences in 23S-28S Ribosomal RNA Identified by Computational Phylogenetics.**
+        <br/>
+
+	S.M. Doris, D.R. Smith, J.N. Beamesderfer, _B.J. Raphael_,  J.A. Nathanson, S.A. Gerbi.  
+
+        *RNA*, (2015) (In press).
+
 ### 2015
 ##### Journal Articles
 
