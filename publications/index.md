@@ -34,7 +34,8 @@ container_css_class: container publications
 
 	S.M. Doris, D.R. Smith, J.N. Beamesderfer, _B.J. Raphael_,  J.A. Nathanson, S.A. Gerbi.  
 
-        *RNA*, (2015) (In press).
+	*RNA*, (2015) (In press).
+
 
 ### 2015
 ##### Journal Articles
