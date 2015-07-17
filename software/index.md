@@ -112,7 +112,7 @@ Software for inferring the clonal evolution of multi-sample tumor sequence data.
 	<a href="https://github.com/raphael-group/AncesTree">Download (GitHub)</a>
 </span>
 <span class="label label-warning">
-	<a href="https://groups.google.com/forum/#!forum/theta-users">Google Group</a>
+	<a href="https://groups.google.com/forum/#!forum/ancestree">Google Group</a>
 
 <br/>
 
