@@ -9,7 +9,30 @@ container_css_class: container publications
 
 ### In press ###
 
-* [![CoMEtGenomeBiology](../assets/img/papers/missing.svg)](#)
+* [![TADTree](../assets/img/papers/missing.svg)](#)
+        **Identification of hierarchical chromatin domains.**
+        <br/>
+
+	_C. Weinreb_ and _B.J. Raphael_
+
+	*Bioinformatics*, (2015) (In press).
+        <span class="label label-success">
+                <a href="http://compbio.cs.brown.edu/projects/tadtree", target="_new">Websi\
+te</a>
+        </span>
+
+* [![GerbiRNA](../assets/img/papers/missing.svg)](#)
+        **Universal and Domain-Specific Sequences in 23S-28S Ribosomal RNA Identified by Computational Phylogenetics.**
+        <br/>
+
+	S.M. Doris, D.R. Smith, J.N. Beamesderfer, _B.J. Raphael_,  J.A. Nathanson, S.A. Gerbi
+
+	*RNA*, (2015) (In press).
+
+
+### 2015
+##### Journal Articles
+* [![CoMEtGenomeBiology](../assets/img/papers/missing.svg)](http://www.genomebiology.com/2015/16/1/160)
         **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
         <br/>
 
@@ -28,18 +51,6 @@ container_css_class: container publications
         <a href="http://arxiv.org/abs/1503.08224" target="_new">arXiv preprint</a>
     </span>
 
-
-* [![GerbiRNA](../assets/img/papers/missing.svg)](#)
-        **Universal and Domain-Specific Sequences in 23S-28S Ribosomal RNA Identified by Computational Phylogenetics.**
-        <br/>
-
-	S.M. Doris, D.R. Smith, J.N. Beamesderfer, _B.J. Raphael_,  J.A. Nathanson, S.A. Gerbi
-
-	*RNA*, (2015) (In press).
-
-
-### 2015
-##### Journal Articles
 
 * [![VAFFP](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/31/12/i62.long)
 	**Reconstruction of clonal trees and tumor composition from multi-sample cancer sequencing data.**
