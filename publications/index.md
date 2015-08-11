@@ -167,7 +167,9 @@ container_css_class: container publications
 ##### Book Chapters
 * [![CombinationsBookChapter](../assets/img/papers/missing.svg)](#)
         **Analyzing Combinations of Somatic Mutations in Cancer Genomes**
+	<br/>
 	_M.D.M. Leiserson_ and _B.J. Raphael_
+
 	In *Integrating Omics Data* G.C.Tseng, D. Ghosh, X.J. Zhou (Eds).  Cambridge University Press (2015)
 
 ### 2014
