@@ -15,10 +15,10 @@ container_css_class: container publications
 
 	_C. Weinreb_ and _B.J. Raphael_
 
-	*Bioinformatics*, (2015) (In press).
+	*Bioinformatics*, (2015) (In press)
+
         <span class="label label-success">
-                <a href="http://compbio.cs.brown.edu/projects/tadtree", target="_new">Websi\
-te</a>
+                <a href="http://compbio.cs.brown.edu/projects/tadtree", target="_new">Website</a>
         </span>
 
 * [![GerbiRNA](../assets/img/papers/missing.svg)](#)
@@ -164,6 +164,13 @@ te</a>
 	
 	*19th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2015)*
 
+##### Book Chapters
+* [![CombinationsBookChapter](../assets/img/papers/missing.svg)](#)
+        **Analyzing Combinations of Somatic Mutations in Cancer Genomes**
+        <br/>
+
+        _M.D.M. Leiserson_ and _B.J. Raphael_
+	In *Integrating Omics Data* G.C.Tseng, D. Ghosh, X.J. Zhou (Eds).  Cambridge University Press (2015)
 
 ### 2014
 ##### Journal Articles
