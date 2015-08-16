@@ -14,7 +14,7 @@ GASVPro is a probabilistic version of our original GASV algorithm. GASVPro combi
 <a name="download"></a>
 ##Downloads
 * Latest Versions: [GASV Google Code Downloads](http://code.google.com/p/gasv/downloads/list)
-* GASVPro sample data set: [VenterChr17.tar.gz](http://cs.brown.edu/~braphael/software/GASVPro/VenterChr17.tar.gz)
+* GASVPro sample data set: [VenterChr17.tar.gz](http://compbio-research.cs.brown.edu/projects/gasv/VenterChr17.tar.gz)
 
 ##Support
 Please see the [GASV Google Code site](https://code.google.com/p/gasv/).
