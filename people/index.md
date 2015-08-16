@@ -39,13 +39,13 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 *Undergraduates*: We are recruiting undergraduate research assistants (URAs). Please see our [URA Program Page](http://compbio-research.cs.brown.edu/ura) for more information.
 
 ##Alumni
-###Graduate Students and Postdoctoral Fellows
-* [Layla Oesper] (http://cs.brown.edu/people/layla/) (Ph.D.Computer Science) [--> Assistant Professor, Carleton College] [NSF Graduate Research Fellowship, 2011-2014]
+###Graduate Students
+* [Layla Oesper](http://cs.brown.edu/people/layla/) (Ph.D. Computer Science 2015) [--> Assistant Professor, Carleton College] [NSF Graduate Research Fellowship, 2011-2014, Google Anita Borg Scholarship 2014]
 * Matthew Parks (Ph.D. Applied Mathematics 2014) [Co-advised with Chip Lawrence]
 * Jonathan Eldridge (Sc.M. 2014) [--> Redfin]
 * Alexandra Papoutsaki (Sc.M. Computer Science 2013) [--> Brown Computer Science Ph.D.]
-* Anna Ritz (Ph.D. Computer Science 2012), [--> Postdoc at Virginia Tech --> Assistant Professor, Reed College] [NSF Graduate Research Fellowship, 2008-2011]
-* Crystal Kahn (http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [--> Ab Initio --> Assistant Professor, Amherst College] [NSF Graduate Research Fellowship, 2005-2008]
+* [Anna Ritz](http://www.reed.edu/biology/ritz/) (Ph.D. Computer Science 2012), [--> Postdoc at Virginia Tech --> Assistant Professor, Reed College] [NSF Graduate Research Fellowship, 2008-2011]
+* [Crystal Kahn](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [--> Ab Initio --> Assistant Professor, Amherst College] [NSF Graduate Research Fellowship, 2005-2008]
 * Borislav Hristov (Sc.B./Sc.M. 2010) [--> Princeton Computer Science Ph.D. Program]
 * Selim Onal (Sc.M. 2010) [--> Google]
 * Brendan Hickey (Sc.M. 2009) [-->  Google]
@@ -56,7 +56,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 #### Postdoctoral Fellows and Research Faculty
 * Jason Dobson (Postdoctoral Fellow, 2013-2014) [--> Novartis]
 * [Iman Hajirasouliha](http://www.imanh.org/) (Postdoctoral Fellow, 2013-2014) [--> Postdoctoral Fellow, Stanford University]
-* [Fabio Vandin](University of Padova) (Visiting Ph.D. Student and Postdoctoral Fellow, 2008-2013) [--> Assistant Professor, University of Southern Denmark --> Associate Professor, University of Padova] 
+* [Fabio Vandin](http://www.dei.unipd.it/~vandinfa/) (University of Padova) (Visiting Ph.D. Student and Postdoctoral Fellow, 2008-2013) [--> Assistant Professor, University of Southern Denmark --> Associate Professor, University of Padova] 
 * [Suzanne Sindi](http://faculty.ucmerced.edu/ssindi/) (Postdoctoral Fellow 2006-2012) [--> Assistant Professor, UC Merced]
 
 ####Undergraduate and Visiting Students
