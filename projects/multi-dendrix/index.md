@@ -51,5 +51,5 @@ The Multi-Dendrix algorithm is described in the following paper:
 
 >M.D.M. Leiserson, D. Blokh, R. Sharan, B.J. Raphael. (2013)
 >Simultaneous Identification of Multiple Driver Pathways in Cancer.
->*PLoS Comp Bio*, 9(5):e1003054. [[PDF](http://compbio.cs.brown.edu/projects/multi-dendrix/multi-dendrix.pdf) | [Publisher Link](http://goo.gl/fF0N4)]
+>*PLoS Comp Bio*, 9(5):e1003054. [[PDF](http://compbio-research.cs.brown.edu/projects/multi-dendrix/multi-dendrix.pdf) | [Publisher Link](http://goo.gl/fF0N4)]
 
