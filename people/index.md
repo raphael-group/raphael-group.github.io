@@ -18,7 +18,7 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 
 ###Postdoctoral Fellows 
 * Dora Erdos (Postdoctoral Research Associate, 2015-)
-* Mohammed El-Kebir (https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, 2014-)
+* [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, 2014-)
 * Matthew Reyna (Postdoctoral Research Associate, 2014-) 
 
 
@@ -40,7 +40,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 ##Alumni
 ###Graduate Students
-* [Layla Oesper](http://cs.brown.edu/people/layla/) (Ph.D. Computer Science 2015) [--> Assistant Professor, Carleton College] [NSF Graduate Research Fellowship, 2011-2014, Google Anita Borg Scholarship 2014]
+* [Layla Oesper](http://cs.brown.edu/people/layla/) (Ph.D. Computer Science 2015) [&rarr; Assistant Professor, Carleton College] [NSF Graduate Research Fellowship, 2011-2014, Google Anita Borg Scholarship 2014]
 * Matthew Parks (Ph.D. Applied Mathematics 2014) [Co-advised with Chip Lawrence]
 * Jonathan Eldridge (Sc.M. 2014) [--> Redfin]
 * Alexandra Papoutsaki (Sc.M. Computer Science 2013) [--> Brown Computer Science Ph.D.]
