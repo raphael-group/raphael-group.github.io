@@ -54,7 +54,7 @@ Multi-Dendrix is an algorithm for the simultaneous discovery of multiple driver 
 	<a href="/projects/multi-dendrix">More information</a>
 </span>
 <span class="label label-danger">
-	<a href="http://mdml.github.com/multi-dendrix">Download (GitHub)</a>
+	<a href="https://github.com/raphael-group/multi-dendrix">Download (GitHub)</a>
 </span>
 <span class="label label-success">
 	<a href="/projects/multi-dendrix#reference">Reference</a>
