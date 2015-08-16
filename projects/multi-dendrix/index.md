@@ -31,7 +31,7 @@ The Multi-Dendrix Python package includes the Multi-Dendrix algorithm, as well a
  
  <a name="download"></a>
 ##Downloads
-Full version of the Multi-Dendrix pipeline is available via the [Multi-Dendrix GitHub](http://mdml.github.com/multi-dendrix).
+Full version of the Multi-Dendrix pipeline is available via the [Multi-Dendrix GitHub](https://github.com/raphael-group/multi-dendrix).
 
 ##Requirements
 * Python
@@ -41,7 +41,7 @@ Full version of the Multi-Dendrix pipeline is available via the [Multi-Dendrix G
 * Either SciPy >= version 0.11 or the Python fisher module
  
 ##Support
-For full documentation of the Multi-Dendrix package, please see our [documentation on GitHub](http://mdml.github.com/multi-dendrix).
+For full documentation of the Multi-Dendrix package, please see our [documentation on GitHub](https://github.com/raphael-group/multi-dendrix).
 
 For additional support, contact {mdml, braphael} [at] cs.brown.edu.
 

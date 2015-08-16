@@ -425,7 +425,7 @@ container_css_class: container publications
 		<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003054", target="_new">PubLink</a>
 	</span>
 	<span class="label label-danger">
-		<a href="http://mdml.github.io/multi-dendrix", target="_new">Software Release</a>
+		<a href="https://github.com/raphael-group/multi-dendrix", target="_new">Software Release</a>
 	</span>
 	<span class="label label-success">
 		<a href="http://compbio-research.cs.brown.edu/projects/multi-dendrix", target="_new">Website</a>
