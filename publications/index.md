@@ -32,7 +32,7 @@ container_css_class: container publications
 
 ### 2015
 ##### Journal Articles
-* [![CoMEtGenomeBiology](../assets/img/papers/missing.svg)](http://www.genomebiology.com/2015/16/1/160)
+* [![CoMEtGenomeBiology](../assets/img/papers/comet-gb.jpg)](http://www.genomebiology.com/2015/16/1/160)
         **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
         <br/>
 
@@ -264,6 +264,12 @@ container_css_class: container publications
 
 	<span class="label label-primary">
         <a href="http://bioinformatics.oxfordjournals.org/content/30/12/i195.full.pdf", target="_new">PubLink</a>
+    </span>
+    <span class="label label-success">
+		<a href="http://compbio.cs.brown.edu/projects/raig", target="_new">Website</a>
+	</span>
+	<span class="label label-danger">
+        <a href="http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.01.tar.gz">Software Release</a>
     </span>
 
 * [![Structural Variation Paper](../assets/img/papers/btp.jpg)](http://bioinformatics.oxfordjournals.org/content/30/12/i78.full)
