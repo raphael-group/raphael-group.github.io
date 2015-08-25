@@ -38,7 +38,7 @@ container_css_class: container publications
 
 	_M.D.M. Leiserson*_, _H-T. Wu*_, _F. Vandin_, _B.J. Raphael_
 	
-	*Genome Biology* (in press)
+	*Genome Biology* (2015) 16:160.
 
 
 	<span class="label label-success">

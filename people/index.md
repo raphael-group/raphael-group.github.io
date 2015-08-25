@@ -40,14 +40,14 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 ##Alumni
 ###Graduate Students
-* [Layla Oesper](http://cs.brown.edu/people/layla/)(Ph.D. Computer Science 2015) [NSF Graduate Research Fellowship, 2011-2014, Google Anita Borg Scholarship 2014] &rarr; Assistant Professor, Carleton College 
+* [Layla Oesper](http://cs.brown.edu/people/layla/) (Ph.D. Computer Science 2015) [NSF Graduate Research Fellowship, 2011-2014, Google Anita Borg Scholarship 2014] &rarr; Assistant Professor, Carleton College 
 * Matthew Parks (Ph.D. Applied Mathematics 2014) [Co-advised with Chip Lawrence]
 * Jonathan Eldridge (Sc.M. 2014) &rarr; Redfin
 * Alexandra Papoutsaki (Sc.M. Computer Science 2013) &rarr; Brown Computer Science Ph.D.
 * [Anna Ritz](http://www.reed.edu/biology/ritz/) (Ph.D. Computer Science 2012) [NSF Graduate Research Fellowship, 2008-2011]
-&rarr; Postdoc at Virginia Tech &rarr; Assistant Professor, Reed College] 
-* [Crystal Kahn](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [NSF Graduate Research Fellowship, 2005-2008] &rarr; Ab Initio &rarr; Assistant Professor, Amherst College] 
-* Borislav Hristov (Sc.B./Sc.M. 2010) &rarr; Oracle &rarr; Princeton Computer Science Ph.D. Program]
+&rarr; Postdoc at Virginia Tech &rarr; Assistant Professor, Reed College 
+* [Crystal Kahn](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [NSF Graduate Research Fellowship, 2005-2008] &rarr; Ab Initio &rarr; Assistant Professor, Amherst College 
+* Borislav Hristov (Sc.B./Sc.M. 2010) &rarr; Oracle &rarr; Princeton Computer Science Ph.D. Program
 * Selim Onal (Sc.M. 2010) &rarr; Oracle &rarr; Google
 * Brendan Hickey (Sc.M. 2009) &rarr;  Google
 * Eric Lim (Sc.M. 2007) &rarr; Ph.D. Biology, Brown University 2011
@@ -57,7 +57,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 #### Postdoctoral Fellows and Research Faculty
 * Jason Dobson (Postdoctoral Fellow, 2013-2014) &rarr; Novartis
 * [Iman Hajirasouliha](http://www.imanh.org/) (Postdoctoral Fellow, 2013-2014) &rarr; Postdoctoral Fellow, Stanford University
-* [Fabio Vandin](http://www.dei.unipd.it/~vandinfa/) (University of Padova) (Visiting Ph.D. Student and Postdoctoral Fellow, 2008-2013) &rarr; Assistant Professor, University of Southern Denmark &rarr; Associate Professor, University of Padova
+* [Fabio Vandin](http://www.dei.unipd.it/~vandinfa/) (Visiting Ph.D. Student and Postdoctoral Fellow, 2008-2013) &rarr; Assistant Professor, University of Southern Denmark &rarr; Associate Professor, University of Padova
 * [Suzanne Sindi](http://faculty.ucmerced.edu/ssindi/) (Postdoctoral Fellow 2006-2012) &rarr; Assistant Professor, UC Merced
 
 ####Undergraduate and Visiting Students
@@ -73,17 +73,18 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 * Adrien Deschamps (Applied Mathematics)
 * Stephanie DeMane (Sc.B. Computational Biology)
 * Sarah Aerni (Visting from Stanford BMI)
-* Ali Bashir (Visiting from UCSD Bioinformatics) &rarr; Assistant Professor, Mount Sinai School of Medicine]
+* Ali Bashir (Visiting from UCSD Bioinformatics) &rarr; Assistant Professor, Mount Sinai School of Medicine
 * Ryan Drebin (Sc.B. Computational Biology, 2012) &rarr; Yelp
-* Jonathan Eldridge (Sc.B. 2011) [Microsoft]
-* Elena Helman (Honors Thesis, Sc.B. Computational Biology 2008) &rarr; MIT HST Ph.D. Program &rarr; Personalis
-* Edward Rice (A.B. Computer Science 2012) [Now at NIH]
-* Erik Corona (undergraduate) [Now at Stanford Biomedical Informatics Ph.D. Program]
+* Jonathan Eldridge (Sc.B. 2011) &rarr; Microsoft
+* Elena Helman (Honors Thesis, Sc.B. Computational Biology 2008) &rarr; Ph.D., MIT HST 2013  &rarr; Personalis
+* Edward Rice (A.B. Computer Science 2012) &rarr; NIH &rarr; UCSC Biomolecular Engineering Ph.D. Program
+* Erik Corona (undergraduate) &rarr; Ph.D., Stanford Biomedical Informatics &rarr;
 
 
 ####High School Students 
 Funded through [NSF CAREER award](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1053753) Summer outreach program
 
+* Isabella Millard (Summer 2015) &rarr;
 * Anthony Rolland (Summer 2014) &rarr; MIT, undergraduate
 * Ava Brignol (Summer 2013, 2014) &rarr; Harvard University, undergraduate
 * Methany Eltigani (Summer 2013) &rarr; University of Pennsylvania, undergraduate
