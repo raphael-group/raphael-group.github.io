@@ -15,9 +15,11 @@ We develop algorithms to study somatic mutations that drive cancer progression. 
 
 * Identification of genome rearrangements (including translocations, inversions, deletions, and duplications) in cancer genomes.  
 We designed the [RAIG](/projects/raig/) and [NBC](/projects/nbc) algorithms to detect recurrent and independent copy number aberrations.
-*Reconstruction of highly scrambled cancer genomes and the mechanisms that produce them. 
+
+* Reconstruction of highly scrambled cancer genomes and the mechanisms that produce them. 
 We introduced the [PREGO](/projects/prego/) algorithm to combine rearrangement breakpoints and copy number data in cancer genomes.
 Study of changes in gene structure and regulation that result from these rearrangements.
+
 * Cancer Genome Evolution.  
 Cancer is a microevolutionary process in a population of cells that reproduce (via cell division) and acquire new mutations. Extracting information about the process of tumor evolution from bulk sequencing data containing mixtures of cells demands novel computational approaches.  We developed several algorithms to study intra-tumor heterogeneity and tumor evolution including [THetA](/projects/theta), rec-BTP (/projects/btp), and [AncesTree](/projects/ancestree).  
 * Network and pathway-based analysis of somatic mutations. We designed [HotNet](/projects/hotnet) an algorithm for de novo identification of mutated subnetworks in large-scale protein-protein interaction networks using somatic mutation data from multiple cancer patients.
