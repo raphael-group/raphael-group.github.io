@@ -137,7 +137,7 @@ container_css_class: container publications
     </span>
 
 ##### Conference Proceedings
-* [![CoMEtRECOMB](../assets/img/papers/comet-recomb.jpg)](#)
+* [![CoMEtRECOMB](../assets/img/papers/comet-recomb.jpg)](http://link.springer.com/chapter/10.1007%2F978-3-319-16706-0_19)
         **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
         <br/>
 
@@ -156,13 +156,13 @@ container_css_class: container publications
         <a href="http://arxiv.org/abs/1503.08224" target="_new">arXiv preprint</a>
     </span>
 
-* [![SampleComplexity](../assets/img/papers/missing.svg)](#)
+* [![SampleComplexity](../assets/img/papers/missing.svg)](http://link.springer.com/chapter/10.1007%2F978-3-319-16706-0_33)
         **On the Sample Complexity of Cancer Pathways Identification**
         <br/>
 
 	_F. Vandin_, _B.J. Raphael_, E. Upfal
 	
-	*19th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2015)*
+	*19th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2015)*  Lecture Notes in Computer Science Volume 9029, 2015, pp 326-337.
 
 ##### Book Chapters
 * [![CombinationsBookChapter](../assets/img/papers/missing.svg)](#)
@@ -174,7 +174,7 @@ container_css_class: container publications
 
 ### 2014
 ##### Journal Articles
-* [![Ritz Single Molecule](../assets/img/papers/missing.svg)](#)
+* [![Ritz Single Molecule](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/30/24/3458.long)
         **Characterization of Structural Variants with Single Molecule and Hybrid Sequencing Approaches**
         <br/>
 
@@ -187,7 +187,7 @@ container_css_class: container publications
     </span>
 
 
-* [![THetA2 Paper](../assets/img/papers/missing.svg)](#)
+* [![THetA2 Paper](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/30/24/3532.long)
 	**Quantifying Tumor Heterogeneity in Whole-Genome and Whole-Exome Sequencing Data**
 	<br/>
 
@@ -323,19 +323,19 @@ container_css_class: container publications
 
 ##### Conference Proceedings
 
-* [![WABI2014 Paper](../assets/img/papers/missing.svg)](#) 
+* [![WABI2014 Paper](../assets/img/papers/missing.svg)](http://link.springer.com/chapter/10.1007%2F978-3-662-44753-6_27) 
 	**Reconstructing mutational history in multiply sampled tumors using perfect phylogeny mixtures**
 
 	_I. Hajirasouliha_, _B.J. Raphael_
 	
-	*14th Workshop on Algorithms in Bioinformatics (WABI)* (In Press).
+	*14th Workshop on Algorithms in Bioinformatics (WABI)* (2014) Lecture Notes in Computer Science Volume 8701, 2014, pp 354-367.
 
-* [![RECOMB2014 Paper](../assets/img/papers/missing.svg)](#) 
+* [![RECOMB2014 Paper](../assets/img/papers/missing.svg)](http://link.springer.com/chapter/10.1007%2F978-3-319-05269-4_20#page-1) 
 	**Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
 
 	_B.J. Raphael_, F. Vandin
 	
-	*18th Annual International Conference on Research in Computational Molecular Biology (RECOMB)* (In Press).
+	*18th Annual International Conference on Research in Computational Molecular Biology (RECOMB)* (2014) Lecture Notes in Computer Science Volume 8394, 2014, pp 250-264.
 
 
 ### 2013
