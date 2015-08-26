@@ -22,7 +22,9 @@ Study of changes in gene structure and regulation that result from these rearran
 
 * Cancer Genome Evolution.  
 Cancer is a microevolutionary process in a population of cells that reproduce (via cell division) and acquire new mutations. Extracting information about the process of tumor evolution from bulk sequencing data containing mixtures of cells demands novel computational approaches.  We developed several algorithms to study intra-tumor heterogeneity and tumor evolution including [THetA](/projects/theta), rec-BTP(/projects/btp), and [AncesTree](/projects/ancestree).  
-* Network and pathway-based analysis of somatic mutations. We designed [HotNet](/projects/hotnet) an algorithm for de novo identification of mutated subnetworks in large-scale protein-protein interaction networks using somatic mutation data from multiple cancer patients.
+
+* Network and pathway-based analysis of somatic mutations. We designed the [HotNet](/projects/hotnet) and [HotNet2](/projects/hotnet2) algorithms for de novo identification of mutated subnetworks in large-scale protein-protein interaction networks using somatic mutation data from multiple cancer patients.
+
 * De novo identification of combinations of mutually exclusive mutations. Early cancer sequencing studies demonstrated that in many cases somatic mutation of a single gene in a pathway (e.g. a pathway controlling cell growth) is sufficient to perturb this pathway.  This implies that when examining somatic mutations from many patients, mutations in the same pathway will exhibit a pattern of mutual exclusivity.  We designed [Dendrix](/projects/dendrix), [Multi-Dendrix](/projects/multi-dendrix) and [CoMEt](/projects/comet) algorithms for de novo identification of one or more sets of mutually exclusive mutations.
 
 
