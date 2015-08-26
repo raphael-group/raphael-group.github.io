@@ -21,7 +21,7 @@ We introduced the [PREGO](/projects/prego/) algorithm to combine rearrangement b
 Study of changes in gene structure and regulation that result from these rearrangements.
 
 * Cancer Genome Evolution.  
-Cancer is a microevolutionary process in a population of cells that reproduce (via cell division) and acquire new mutations. Extracting information about the process of tumor evolution from bulk sequencing data containing mixtures of cells demands novel computational approaches.  We developed several algorithms to study intra-tumor heterogeneity and tumor evolution including [THetA](/projects/theta), rec-BTP(/projects/btp), and [AncesTree](/projects/ancestree).  
+Cancer is a microevolutionary process in a population of cells that reproduce (via cell division) and acquire new mutations. Extracting information about the process of tumor evolution from bulk sequencing data containing mixtures of cells demands novel computational approaches.  We developed several algorithms to study intra-tumor heterogeneity and tumor evolution including [THetA](/projects/theta), [rec-BTP](/projects/btp), and [AncesTree](/projects/ancestree).  
 
 * Network and pathway-based analysis of somatic mutations. We designed the [HotNet](/projects/hotnet) and [HotNet2](/projects/hotnet2) algorithms for de novo identification of mutated subnetworks in large-scale protein-protein interaction networks using somatic mutation data from multiple cancer patients.
 
