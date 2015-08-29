@@ -4,7 +4,7 @@ title:  Raphael Lab // RAIG
 container_css_class: container
 ---
 
-#RAIG: Recurrent Aberrations from Interval Graph
+#RAIG: Recurrent Aberrations from Interval Graphs
 
 ##About
 RAIG is a combinatorial approach to the problem of identifying independent and recurrent copy number aberrations, focusing on the key challenging of separating the overlaps in aberrations across individuals into independent events.
