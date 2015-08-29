@@ -6,7 +6,7 @@ container_css_class: container
 #research
 
 We develop algorithms and mathematical models to address biological problems. Major areas of interest include computational cancer genomics, human structural variation, and comparative genomics.  
-we have also worked on algorithms for other problems in computational biology including visualization and collaborative annotation of genomics data (O'Brien et al. 2010, Leiserson et al. 2015), proteomics (Nguyen et al. 2009, Ritz et al. 2009), chromatin structure (Weinreb and Raphael 2015).
+
 
 The motivation for many of our current projects derives from the tremendous advances in DNA sequencing technology over the past few years. Next-generation DNA sequencing machines have lowered the cost of DNA sequencing by orders of magnitude, and enabled a variety of new applications such as personal genome sequencing and cancer genome sequencing.
 
@@ -40,7 +40,14 @@ We are designing algorithms to maximize the effectiveness of emerging single-mol
 In particular, we designed the [MultiBreak-SV](/projects/multibreaksv/) algorithm for long-read and strobe read sequencing data from
 [Pacific Biosciences](http://www.pacificbiosciences.com/).
 
-##Biological Sequence Analysis
-We develop algorithms for analysis and annotation of DNA and protein sequences. Earlier work includues methods for multiple sequence alignment with block rearrangements, motif finding, analysis of high-copy number repeats in the human genome, and metagenomic studies of protein family diversity.
+## Other Research
+We have also worked on a number of other areas in computational biology.  Examples include:
+* Visualization and collaborative annotation of genomics data (O'Brien et al. 2010, Leiserson et al. 2015)
+* Chromatin organization (Weinreb and Raphael 2015).
+* Proteomics (Nguyen et al. 2009, Ritz et al. 2009), 
+* Metagenomic studies of protein family diversity (Yooseph et al. 2006)
+* Multiple sequence alignment with block rearrangements (Raphael, et al. 2004)
+* Motif finding (Raphael, Liu and Varghese, 2004)
+
 
 See the [publications page]({{ site.url }}/publications) for further details.
