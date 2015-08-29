@@ -42,6 +42,7 @@ In particular, we designed the [MultiBreak-SV](/projects/multibreaksv/) algorith
 
 ## Other Research
 We have also worked on a number of other areas in computational biology.  Examples include:
+
 * Visualization and collaborative annotation of genomics data (O'Brien et al. 2010, Leiserson et al. 2015)
 * Chromatin organization (Weinreb and Raphael 2015).
 * Proteomics (Nguyen et al. 2009, Ritz et al. 2009), 
