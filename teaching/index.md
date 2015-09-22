@@ -51,10 +51,11 @@ Spring 2008:
 [CSCI0220: Introduction to Discrete Structures and Probability](http://www.cs.brown.edu/courses/csci0220/)
 
 Fall 2007:
-[CSCI2950-C: Topics in Computational Biology: Genomes, Networks, and Cancer](http://www.cs.brown.edu/courses/csci2950-c/index_Fall07.html)
+[CSCI2950-C: Topics in Computational Biology: Genomes, Networks, and Cancer](http://cs.brown.edu/courses/csci2950-c/Fall2007/)
+
 
 Spring 2007:
-[Topics in Computational Biology: Genomes, Networks, and Cancer](http://www.cs.brown.edu/courses/csci2950-c/index_Spring07.html)
+[Topics in Computational Biology: Genomes, Networks, and Cancer](http://cs.brown.edu/courses/csci2950-c/Spring2007/)
 
 #graduate advising
 I advise students in the following Ph.D. programs:
