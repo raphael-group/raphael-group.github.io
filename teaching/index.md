@@ -5,6 +5,8 @@ container_css_class: container
 ---
 
 #teaching
+Fall 2015:
+[CSCI1810: Computational Molecular Biology](http://www.cs.brown.edu/courses/csci1810/)
 
 Spring 2015: 
 [CSCI2950-C: Algorithms for Cancer Genomics](http://cs.brown.edu/courses/csci2950-c/Spring2015/index.html)
