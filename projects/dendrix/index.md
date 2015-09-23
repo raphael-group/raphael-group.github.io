@@ -34,4 +34,4 @@ The Dendrix algorithm is described in the following publications:
 
 >F. Vandin, E. Upfal, and B.J. Raphael.
 >De novo discovery of mutated driver pathways in cancer.
->*Genome Research* (2011) Jul 11. [[PDF](http://compbio.cs.brown.edu/publications/papers/VandinUpfalRaphael_GR_Dendrix.pdf) | [Publisher link](http://dx.doi.org/10.1101/gr.120477.111)]
+>*Genome Research* (2011) Jul 11. [[Paper on Pubmed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266044/) | [Publisher link](http://dx.doi.org/10.1101/gr.120477.111)]
