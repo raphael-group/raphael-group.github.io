@@ -269,7 +269,7 @@ container_css_class: container publications
 		<a href="http://compbio.cs.brown.edu/projects/raig", target="_new">Website</a>
 	</span>
 	<span class="label label-danger">
-        <a href="http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.01.tar.gz">Software Release</a>
+        <a href="http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.02.tar.gz">Software Release</a>
     </span>
 
 * [![Structural Variation Paper](../assets/img/papers/btp.jpg)](http://bioinformatics.oxfordjournals.org/content/30/12/i78.full)
