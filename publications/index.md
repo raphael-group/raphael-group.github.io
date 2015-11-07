@@ -8,7 +8,19 @@ container_css_class: container publications
 # publications
 
 ### In press ###
+* [![TCGAKIRP](../assets/img/papers/missing.svg)](#)
+        **Comprehensive Molecular Characterization of Papillary Renal-Cell Carcinoma..**
+        <br/>
 
+	_The Cancer Genome Atlas Research Network_
+
+	*New England Journal of Medicine*, (2015) (In press)
+
+
+
+
+### 2015
+##### Journal Articles
 * [![TADTree](../assets/img/papers/missing.svg)](#)
         **Identification of hierarchical chromatin domains.**
         <br/>
@@ -21,17 +33,6 @@ container_css_class: container publications
 	      <a href="http://compbio.cs.brown.edu/projects/tadtree", target="_new">Website</a>
         </span>
 
-* [![GerbiRNA](../assets/img/papers/missing.svg)](#)
-        **Universal and Domain-Specific Sequences in 23S-28S Ribosomal RNA Identified by Computational Phylogenetics.**
-        <br/>
-
-	S.M. Doris, D.R. Smith, J.N. Beamesderfer, _B.J. Raphael_,  J.A. Nathanson, S.A. Gerbi
-
-	*RNA*, (2015) (In press).
-
-
-### 2015
-##### Journal Articles
 * [![CoMEtGenomeBiology](../assets/img/papers/comet-gb.jpg)](http://www.genomebiology.com/2015/16/1/160)
         **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
         <br/>
@@ -50,6 +51,15 @@ container_css_class: container publications
 	<span class="label label-info">
         <a href="http://arxiv.org/abs/1503.08224" target="_new">arXiv preprint</a>
     </span>
+
+* [![GerbiRNA](../assets/img/papers/missing.svg)](http://rnajournal.cshlp.org/content/21/10/1719.abstract)
+        **Universal and Domain-Specific Sequences in 23S-28S Ribosomal RNA Identified by Computational Phylogenetics.**
+        <br/>
+
+	S.M. Doris, D.R. Smith, J.N. Beamesderfer, _B.J. Raphael_,  J.A. Nathanson, S.A. Gerbi
+
+	*RNA*, (2015) 21(10):1719-30.
+
 
 
 * [![VAFFP](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/31/12/i62.long)
