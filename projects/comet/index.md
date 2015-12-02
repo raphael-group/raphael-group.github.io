@@ -16,10 +16,16 @@ CoMEt is released as a [software package on GitHub](https://github.com/raphael-g
 Dendrix++ is a preliminary version of CoMEt that we applied as part of the
 [TCGA AML project](http://www.nejm.org/doi/full/10.1056/NEJMoa1301689#t=articleTop).
 
+<a name="results-data"></a>
+## Results and Data
+
+Please see [http://compbio-research.cs.brown.edu/comet/](http://compbio-research.cs.brown.edu/comet/) for an interactive display of the results of CoMEt applied to TCGA acute myeloid leukemia (AML), breast cancer (BRCA), glioblastoma (GBM), and stomach adenocarcinoma (STAD) datasets. The website also includes downloadable data files for the datasets analyzed in CoMEt publications (see below).
+
 <a name="reference"></a>
 ## References
-The CoMEt algorithm is described in the following publication:
+The CoMEt algorithm is described in the following publications:
 
-Mark D.M Leiserson\*, Hsin-Ta Wu\*, Fabio Vandin, Benjamin J. Raphael. (2015) Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer. In *Proceedings of the 19th Annual Research in Computational Biology Conference (RECOMB)* (to appear).
+* Mark D.M Leiserson\*, Hsin-Ta Wu\*, Fabio Vandin, Benjamin J. Raphael. (2015) Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer. Biology, 16:160. [Publisher link](http://www.genomebiology.com/2015/16/1/160).
+* Mark D.M Leiserson\*, Hsin-Ta Wu\*, Fabio Vandin, Benjamin J. Raphael. (2015) Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer. Extended abstract in: *Proceedings of the 19th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2015)*. *Lecture Notes in Computer Science*, Volume 9029, 202-204. [arXiv preprint](http://arxiv.org/abs/1503.08224). [Publisher link](http://link.springer.com/chapter/10.1007/978-3-319-16706-0_19#page-1).
 
 \* equal contribution
