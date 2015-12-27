@@ -10,11 +10,12 @@ container_css_class: container publications
 ### In press ###
 * [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](#)
   **Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**	
+
   _M. El-Kebir_, _G. Satas_, _L. Oesper_, _B.J. Raphael_
   *RECOMB 2016*, (In Press)
 
 * [![SampleComplexityJournal](../assets/img/papers/missing.svg)](#)
-**On the Sample Complexity of Cancer Pathways Identification.**
+**On the Sample Complexity of Cancer Pathways Identification**
 
      _F. Vandin_, _B.J. Raphael_, E.Upfal.
      *Journal of Computational Biology*, (In press) 
@@ -23,16 +24,15 @@ container_css_class: container publications
 ### 2015
 ##### Journal Articles
 * [![GermlineDingNatureCom](../assets/img/papers/missing.svg)](http://www.nature.com/ncomms/2015/151209/ncomms10086/full/ncomms10086.html)
-  **Patterns and functional implications of rare germline variants across 12 cancer types.**
-
+  **Patterns and functional implications of rare germline variants across 12 cancer types**
 
 	Lu C, Xie M, Wendl MC, Wang J, McLellan MD, _Leiserson MD_, Huang KL, Wyczalkowski MA, Jayasinghe R, Banerjee T, Ning J, Tripathi P, Zhang Q, Niu B, Ye K, Schmidt HK, Fulton RS, McMichael JF, Batra P, Kandoth C, Bharadwaj M, Koboldt DC, Miller CA, Kanchi KL, Eldred JM, Larson DE, Welch JS, You M, Ozenberger BA, Govindan R, Walter MJ, Ellis MJ, Mardis ER, Graubert TA, Dipersio JF, Ley TJ, Wilson RK, Goodfellow PJ, _Raphael BJ_, Chen F, Johnson KJ, Parvin JD, Ding L.
 
    *Nature Communications*, (2015) 6:10086.
 
 
-* [![TCGAKIRP](../assets/img/papers/missing.svg)](#)
-        **Comprehensive Molecular Characterization of Papillary Renal-Cell Carcinoma.**
+* [![TCGAKIRP](../assets/img/papers/missing.svg)](http://www.nejm.org/doi/full/10.1056/NEJMoa1505917)
+        **Comprehensive Molecular Characterization of Papillary Renal-Cell Carcinoma**
     
 
 	_The Cancer Genome Atlas Research Network_
@@ -40,8 +40,8 @@ container_css_class: container publications
 	*New England Journal of Medicine*, (2015) (In press)
 
 
-* [![TADTree](../assets/img/papers/missing.svg)](#)
-        **Identification of hierarchical chromatin domains.**
+* [![TADTree](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/early/2015/09/23/bioinformatics.btv485.abstract)
+        **Identification of hierarchical chromatin domains**
       
 
 	_C. Weinreb_ and _B.J. Raphael_
