@@ -8,26 +8,45 @@ container_css_class: container publications
 # publications
 
 ### In press ###
+* [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](#)
+  **Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**	
+  _M. El-Kebir_, _G. Satas_, _L. Oesper_, _B.J. Raphael_
+  *RECOMB 2016*, (In Press)
+
+* [![SampleComplexityJournal](../assets/img/papers/missing.svg)](#)
+**On the Sample Complexity of Cancer Pathways Identification.**
+
+     _F. Vandin_, _B.J. Raphael_, E.Upfal.
+     *Journal of Computational Biology*, (In press) 
+
+
+### 2015
+##### Journal Articles
+* [![GermlineDingNatureCom](../assets/img/papers/missing.svg)](http://www.nature.com/ncomms/2015/151209/ncomms10086/full/ncomms10086.html)
+  **Patterns and functional implications of rare germline variants across 12 cancer types.**
+
+
+	Lu C, Xie M, Wendl MC, Wang J, McLellan MD, _Leiserson MD_, Huang KL, Wyczalkowski MA, Jayasinghe R, Banerjee T, Ning J, Tripathi P, Zhang Q, Niu B, Ye K, Schmidt HK, Fulton RS, McMichael JF, Batra P, Kandoth C, Bharadwaj M, Koboldt DC, Miller CA, Kanchi KL, Eldred JM, Larson DE, Welch JS, You M, Ozenberger BA, Govindan R, Walter MJ, Ellis MJ, Mardis ER, Graubert TA, Dipersio JF, Ley TJ, Wilson RK, Goodfellow PJ, _Raphael BJ_, Chen F, Johnson KJ, Parvin JD, Ding L.
+
+   *Nature Communications*, (2015) 6:10086.
+
+
 * [![TCGAKIRP](../assets/img/papers/missing.svg)](#)
-        **Comprehensive Molecular Characterization of Papillary Renal-Cell Carcinoma..**
-        <br/>
+        **Comprehensive Molecular Characterization of Papillary Renal-Cell Carcinoma.**
+    
 
 	_The Cancer Genome Atlas Research Network_
 
 	*New England Journal of Medicine*, (2015) (In press)
 
 
-
-
-### 2015
-##### Journal Articles
 * [![TADTree](../assets/img/papers/missing.svg)](#)
         **Identification of hierarchical chromatin domains.**
-        <br/>
+      
 
 	_C. Weinreb_ and _B.J. Raphael_
 
-	*Bioinformatics*, (2015) (In press)
+	*Bioinformatics*, (2015) pii: btv485.
 
 	<span class="label label-success">
 	      <a href="http://compbio.cs.brown.edu/projects/tadtree", target="_new">Website</a>
@@ -35,7 +54,7 @@ container_css_class: container publications
 
 * [![CoMEtGenomeBiology](../assets/img/papers/comet-gb.jpg)](http://www.genomebiology.com/2015/16/1/160)
         **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
-        <br/>
+       
 
 	_M.D.M. Leiserson*_, _H-T. Wu*_, _F. Vandin_, _B.J. Raphael_
 	
@@ -54,7 +73,7 @@ container_css_class: container publications
 
 * [![GerbiRNA](../assets/img/papers/missing.svg)](http://rnajournal.cshlp.org/content/21/10/1719.abstract)
         **Universal and Domain-Specific Sequences in 23S-28S Ribosomal RNA Identified by Computational Phylogenetics.**
-        <br/>
+       
 
 	S.M. Doris, D.R. Smith, J.N. Beamesderfer, _B.J. Raphael_,  J.A. Nathanson, S.A. Gerbi
 
@@ -64,7 +83,7 @@ container_css_class: container publications
 
 * [![VAFFP](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/31/12/i62.long)
 	**Reconstruction of clonal trees and tumor composition from multi-sample cancer sequencing data.**
-	<br/>
+
 
 	_M. El-Kebir*_, _L. Oesper*_, _H. Acheson-Field_, _B.J. Raphael_
 
@@ -79,7 +98,7 @@ container_css_class: container publications
 
 * [![ICGCPathways](../assets/img/papers/missing.svg)]()
 	**Pathway and network analysis of cancer genomes.**
-	<br/>
+
 
 	Mutation Consequences and Pathway Analysis working group of the International Cancer Genome Consortium
 
@@ -88,7 +107,7 @@ container_css_class: container publications
 
 * [![MAGI](../assets/img/papers/magi.jpg)](http://www.nature.com/nmeth/journal/v12/n6/full/nmeth.3412.html)
         **MAGI: visualization and collaborative annotation of genomic aberrations**
-        <br/>
+      
 
 	_M.D.M Leiserson_, C.C. Gramazio, J. Hu, _H-T. Wu_, D.H. Laidlaw, _B.J Raphael_
 	
@@ -103,7 +122,7 @@ container_css_class: container publications
 
 * [![NAHR](../assets/img/papers/missing.svg)](http://www.genomebiology.com/content/16/1/72)
 	**Detecting non-allelic homologous recombination from high-throughput sequencing data.**
-	<br/>
+
 
 	_M. Parks_, C.E. Lawrence,_B.J. Raphael_
 
@@ -115,7 +134,7 @@ container_css_class: container publications
 
 * [![Survival PLOS CB](../assets/img/papers/missing.svg)](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004071)
         **Accurate Computation of Survival Statistics in Genome-wide Studies**
-        <br/>
+      
 
 	_F. Vandin_, _A. Papoutsaki_, _B.J. Raphael*_, E. Upfal*
 	
@@ -123,7 +142,7 @@ container_css_class: container publications
 
 * [![Progression JCB](../assets/img/papers/missing.svg)](http://online.liebertpub.com/doi/10.1089/cmb.2014.0161)
         **Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
-        <br/>
+      
 
 	_B.J. Raphael_, _F. Vandin_
 	
@@ -133,7 +152,7 @@ container_css_class: container publications
 
 * [![HotNet2](../assets/img/papers/hotnet2.jpg)](http://www.nature.com/ng/journal/v47/n2/full/ng.3168.html#)
         **Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes**
-        <br/>
+      
 
 	_M.D.M Leiserson*_, _F. Vandin*_, _H. Wu_, _J.R. Dobson_, _J.V. Eldridge_, _J.L. Thomas_, _A. Papoutsaki_, _Y. Kim_, B. Niu, M. McLellan, M.S. Lawrence, A. Gonzalez-Perez, D. Tamborero, Y. Cheng, G.A. Ryslik, N. Lopez-Bigas, G. Getz, L. Ding, _B.J Raphael_
 	
@@ -149,7 +168,7 @@ container_css_class: container publications
 ##### Conference Proceedings
 * [![CoMEtRECOMB](../assets/img/papers/comet-recomb.jpg)](http://link.springer.com/chapter/10.1007%2F978-3-319-16706-0_19)
         **Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer**
-        <br/>
+      
 
 	_M.D.M. Leiserson*_, _H-T. Wu*_, _F. Vandin_, _B.J. Raphael_
 	
