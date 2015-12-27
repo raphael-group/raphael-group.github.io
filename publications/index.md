@@ -9,18 +9,18 @@ container_css_class: container publications
 
 ### In press ###
 * [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](#)
-  **Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**	
+  **Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**
 
   _M. El-Kebir_, _G. Satas_, _L. Oesper_, _B.J. Raphael_
 
   *RECOMB 2016*, (In Press)
 
 * [![SampleComplexityJournal](../assets/img/papers/missing.svg)](#)
-**On the Sample Complexity of Cancer Pathways Identification**
+  **On the Sample Complexity of Cancer Pathways Identification**
 
-     _F. Vandin_, _B.J. Raphael_, E.Upfal.
+  _F. Vandin_, _B.J. Raphael_, E.Upfal.
 
-     *Journal of Computational Biology*, (In press) 
+  *Journal of Computational Biology*, (In press) 
 
 
 ### 2015
