@@ -12,12 +12,14 @@ container_css_class: container publications
   **Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**	
 
   _M. El-Kebir_, _G. Satas_, _L. Oesper_, _B.J. Raphael_
+
   *RECOMB 2016*, (In Press)
 
 * [![SampleComplexityJournal](../assets/img/papers/missing.svg)](#)
 **On the Sample Complexity of Cancer Pathways Identification**
 
      _F. Vandin_, _B.J. Raphael_, E.Upfal.
+
      *Journal of Computational Biology*, (In press) 
 
 
