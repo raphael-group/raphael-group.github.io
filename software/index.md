@@ -102,8 +102,23 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 <br/>
 
 ###Structural Variation and Genome Analysis
+
+##### SPRUCE #####
+Software for inferring the clonal evolution of single-nucleotide and copy-number variants given multi-sample tumor sequencing data.
+
+<span class="label label-primary">
+	<a href="/projects/spruce">More information</a>
+</span>
+<span class="label label-danger">
+	<a href="https://github.com/raphael-group/spruce">Download (GitHub)</a>
+</span>
+<span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/spruce">Google Group</a>
+
+<br/>
+
 ##### AncesTree #####
-Software for inferring the clonal evolution of multi-sample tumor sequence data.
+Software for inferring the clonal evolution of single-nucleotide variants given multi-sample tumor sequencing data.
 
 <span class="label label-primary">
 	<a href="/projects/ancestree">More information</a>
