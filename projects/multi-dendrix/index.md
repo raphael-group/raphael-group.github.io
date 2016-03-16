@@ -7,7 +7,7 @@ container_css_class: container
 #Multi-Dendrix
 
 ##About
-Multi-Dendrix (_Multi_ple Pathways _De_ _no_vo _Dri_ver E_x_clusivity) is an algorithm that identifies sets of driver pathways in cancer without prior information by simultaneously identifying sets of genes with approximately exclusive mutations and high coverage.
+Multi-Dendrix (_Multi_ple Pathways _De_ _no_vo _Dri_ver E_x_clusivity) is an algorithm that identifies sets of driver pathways in cancer without prior information by simultaneously identifying sets of genes with approximately exclusive mutations and high coverage. You can view the results of Multi-Dendrix applied to TCGA data at the following link: [http://compbio-research.cs.brown.edu/projects/multi-dendrix/results/](http://compbio-research.cs.brown.edu/projects/multi-dendrix/results/).
 
 The Multi-Dendrix Python package includes the Multi-Dendrix algorithm, as well as additional functions for:
 
@@ -51,5 +51,5 @@ The Multi-Dendrix algorithm is described in the following paper:
 
 >M.D.M. Leiserson, D. Blokh, R. Sharan, B.J. Raphael. (2013)
 >Simultaneous Identification of Multiple Driver Pathways in Cancer.
->*PLoS Comp Bio*, 9(5):e1003054. [[PDF](http://compbio-research.cs.brown.edu/projects/multi-dendrix/multi-dendrix.pdf) | [Publisher Link](http://goo.gl/fF0N4)]
+>*PLoS Comp Bio*, 9(5):e1003054. [[PDF](http://compbio-research.cs.brown.edu/projects/multi-dendrix/multi-dendrix.pdf) | [Publisher Link](http://goo.gl/fF0N4) | [Results webpage](http://compbio-research.cs.brown.edu/projects/multi-dendrix/results/)]
 
