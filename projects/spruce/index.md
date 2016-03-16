@@ -7,7 +7,7 @@ container_css_class: container
 #SPRUCE: Somatic Phylogeny Reconstruction using Combinatorial Enumeration
 
 ##About
-SPRUCE is an algorithm that infers a multi-state perfect phylogeny describing the evolutionary history of the somatic mutations (SNVs and CNVs) of a tumor given multi-sample bulk sequencing data. Specifically, the input to SPRUCE are VAF confidence intervals and copy-number mixing proportions for each SNV in each sample. 
+SPRUCE is an algorithm that infers a multi-state perfect phylogeny describing the evolutionary history of the somatic mutations (SNVs and CNVs) of a tumor given multi-sample bulk sequencing data. Specifically, the input to SPRUCE are variant allele frequencies and copy-number mixing proportions for each SNV in each sample. 
 
 [<img src="spruce.png" style="width: 800px"/>](spruce.png)
 
