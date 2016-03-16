@@ -23,6 +23,6 @@ For support, please see the [AncesTree Google Group](https://groups.google.com/f
 AncesTree is described in the following publications:
 
 >M. El-Kebir, L. Oesper, H. Acheson-Field, and B.J. Raphael.
->Reconstruction of clonal trees and tumor composition from multi-sample cancer sequencing data
->*ISMB (to appear)*.
+>Reconstruction of clonal trees and tumor composition from multi-sample sequencing data
+>*Bioinformatics (Special Issue: Proceedings of ISMB)*, (2015) 31(12):i62-i70.
 

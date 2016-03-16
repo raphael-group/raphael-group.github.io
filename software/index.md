@@ -103,7 +103,7 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 
 ###Structural Variation and Genome Analysis
 
-##### SPRUCE #####
+##### SPRUCE: Somatic Phylogeny Reconstruction using Combinatorial Enumeration #####
 Software for inferring the clonal evolution of single-nucleotide and copy-number variants given multi-sample tumor sequencing data.
 
 <span class="label label-primary">

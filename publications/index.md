@@ -84,7 +84,7 @@ container_css_class: container publications
 
 
 * [![VAFFP](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/31/12/i62.long)
-	**Reconstruction of clonal trees and tumor composition from multi-sample cancer sequencing data.**
+	**Reconstruction of clonal trees and tumor composition from multi-sample sequencing data.**
 
 
 	_M. El-Kebir*_, _L. Oesper*_, _H. Acheson-Field_, _B.J. Raphael_

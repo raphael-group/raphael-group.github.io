@@ -7,7 +7,7 @@ container_css_class: container
 #THetA: Tumor Heterogeneity Analysis
 
 ##About
-THetA (_T_umor _Het_erogeneity _A_nalysis)) is an algorithm that estimates the tumor purity and clonal/sublconal copy number aberrations directly from high-throughput DNA sequencing data. The latest release is called THetA2 and includes a number of improvements over previous versions.
+THetA (_T_umor _Het_erogeneity _A_nalysis) is an algorithm that estimates the tumor purity and clonal/sublconal copy number aberrations directly from high-throughput DNA sequencing data. The latest release is called THetA2 and includes a number of improvements over previous versions.
 
 [<img src="theta.jpg" style="width: 600px"/>](theta.jpg)
 
