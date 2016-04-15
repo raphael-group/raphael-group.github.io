@@ -11,7 +11,7 @@ We developed a weighted exact test for mutually exclusive mutations, which condi
 
 <a name="download"></a>
 ##Downloads and software
-Software for the weighted exact test is coming soon!
+The weighted exact test software and source code is hosted on GitHub: [Source code](https://github.com/raphael-group/weighted-exclusivity-test/) | [Downloads](https://github.com/raphael-group/weighted-exclusivity-test/releases).
 
 
 <a name="reference"></a>
