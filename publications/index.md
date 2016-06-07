@@ -9,35 +9,35 @@ container_css_class: container publications
 
 ### In press ###
 * [![WExT](../assets/img/papers/missing.svg)](#)
-  **A Weighted Exact Test for Mutually Exclusive Mutations in Cancer**
+	**A Weighted Exact Test for Mutually Exclusive Mutations in Cancer**
 
-  _M.D.M. Leiserson_, _M.A. Reyna_, _B.J. Raphael_
+	_M.D.M. Leiserson_, _M.A. Reyna_, _B.J. Raphael_
 
-  *ECCB 2016/Bioinformatics*, (In Press)
+	*ECCB 2016/Bioinformatics*, (In Press)
 
 * [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](#)
-  **Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**
+	**Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**
 
-  _M. El-Kebir_, _G. Satas_, _L. Oesper_, _B.J. Raphael_
+	_M. El-Kebir_, _G. Satas_, _L. Oesper_, _B.J. Raphael_
 
-  *RECOMB 2016*, (In Press)
+	*RECOMB 2016*, (In Press)
 
 * [![SampleComplexityJournal](../assets/img/papers/missing.svg)](#)
-  **On the Sample Complexity of Cancer Pathways Identification**
+	**On the Sample Complexity of Cancer Pathways Identification**
 
-  _F. Vandin_, _B.J. Raphael_, E.Upfal.
+	_F. Vandin_, _B.J. Raphael_, E.Upfal.
 
-  *Journal of Computational Biology*, (In press) 
+	*Journal of Computational Biology*, (In press) 
 
 
 ### 2015
 ##### Journal Articles
 * [![GermlineDingNatureCom](../assets/img/papers/missing.svg)](http://www.nature.com/ncomms/2015/151209/ncomms10086/full/ncomms10086.html)
-  **Patterns and functional implications of rare germline variants across 12 cancer types**
+	**Patterns and functional implications of rare germline variants across 12 cancer types**
 
 	Lu C, Xie M, Wendl MC, Wang J, McLellan MD, _Leiserson MDM_, Huang KL, Wyczalkowski MA, Jayasinghe R, Banerjee T, Ning J, Tripathi P, Zhang Q, Niu B, Ye K, Schmidt HK, Fulton RS, McMichael JF, Batra P, Kandoth C, Bharadwaj M, Koboldt DC, Miller CA, Kanchi KL, Eldred JM, Larson DE, Welch JS, You M, Ozenberger BA, Govindan R, Walter MJ, Ellis MJ, Mardis ER, Graubert TA, Dipersio JF, Ley TJ, Wilson RK, Goodfellow PJ, _Raphael BJ_, Chen F, Johnson KJ, Parvin JD, Ding L.
 
-   *Nature Communications*, (2015) 6:10086.
+	*Nature Communications*, (2015) 6:10086.
 
 
 * [![TCGAKIRP](../assets/img/papers/missing.svg)](http://www.nejm.org/doi/full/10.1056/NEJMoa1505917)
