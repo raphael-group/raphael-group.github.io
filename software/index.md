@@ -302,7 +302,7 @@ TADtree is an algorithm the identification of hierarchical topological domains i
 MAGI is a publicly available web application to explore and annotate cancer genomics data.
 
 <span class="label label-primary">
-	<a href="http://magi.cs.brown.edu">More information</a>
+	<a href="http://magi.brown.edu">More information</a>
 </span>
 
 <br/>
