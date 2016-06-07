@@ -8,6 +8,13 @@ container_css_class: container publications
 # publications
 
 ### In press ###
+* [![WExT](../assets/img/papers/missing.svg)](#)
+  **A Weighted Exact Test for Mutually Exclusive Mutations in Cancer**
+
+  _M.D.M. Leiserson_, _M.A. Reyna_, _B.J. Raphael_
+
+  *ECCB 2016/Bioinformatics*, (In Press)
+
 * [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](#)
   **Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**
 
@@ -28,7 +35,7 @@ container_css_class: container publications
 * [![GermlineDingNatureCom](../assets/img/papers/missing.svg)](http://www.nature.com/ncomms/2015/151209/ncomms10086/full/ncomms10086.html)
   **Patterns and functional implications of rare germline variants across 12 cancer types**
 
-	Lu C, Xie M, Wendl MC, Wang J, McLellan MD, _Leiserson MD_, Huang KL, Wyczalkowski MA, Jayasinghe R, Banerjee T, Ning J, Tripathi P, Zhang Q, Niu B, Ye K, Schmidt HK, Fulton RS, McMichael JF, Batra P, Kandoth C, Bharadwaj M, Koboldt DC, Miller CA, Kanchi KL, Eldred JM, Larson DE, Welch JS, You M, Ozenberger BA, Govindan R, Walter MJ, Ellis MJ, Mardis ER, Graubert TA, Dipersio JF, Ley TJ, Wilson RK, Goodfellow PJ, _Raphael BJ_, Chen F, Johnson KJ, Parvin JD, Ding L.
+	Lu C, Xie M, Wendl MC, Wang J, McLellan MD, _Leiserson MDM_, Huang KL, Wyczalkowski MA, Jayasinghe R, Banerjee T, Ning J, Tripathi P, Zhang Q, Niu B, Ye K, Schmidt HK, Fulton RS, McMichael JF, Batra P, Kandoth C, Bharadwaj M, Koboldt DC, Miller CA, Kanchi KL, Eldred JM, Larson DE, Welch JS, You M, Ozenberger BA, Govindan R, Walter MJ, Ellis MJ, Mardis ER, Graubert TA, Dipersio JF, Ley TJ, Wilson RK, Goodfellow PJ, _Raphael BJ_, Chen F, Johnson KJ, Parvin JD, Ding L.
 
    *Nature Communications*, (2015) 6:10086.
 
