@@ -22,6 +22,7 @@ container_css_class: container publications
 
 	*RECOMB 2016*, (In Press)
 
+### 2016 ###
 * [![SampleComplexityJournal](../assets/img/papers/missing.svg)](#)
 	**On the Sample Complexity of Cancer Pathways Identification**
 
