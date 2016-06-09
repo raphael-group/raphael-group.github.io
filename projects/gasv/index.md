@@ -4,27 +4,27 @@ title:  Raphael Lab // GASV
 container_css_class: container
 ---
 
-#GASV & GASVPro: Geometric Analysis of Structural Variants
+# GASV & GASVPro: Geometric Analysis of Structural Variants
 
-##About
+## About
 GASV and GASVPro are software packages for analysis of structural variation from paired-end sequencing and/or array-CGH data. This software has been tested used to find structural variation in both normal and cancer genomes using data from a variety of next-generation sequencing platforms. It can be used to predict structural variants directly from aligned reads in SAM/BAM format.
 
 GASVPro is a probabilistic version of our original GASV algorithm. GASVPro combines read depth information along with discordant paired-read mappings into a single probabilistic model two common signals of structural variation. When multiple alignments of a read are given, GASVPro utilizes a Markov Chain Monte Carlo procedure to sample over the space of possible alignments.
 
 <a name="download"></a>
 
-##Downloads
+## Downloads
 * Latest Versions: [GASV Google Code Downloads](http://code.google.com/p/gasv/downloads/list)
 * GASVPro sample data set: [VenterChr17.tar.gz](http://compbio-research.cs.brown.edu/projects/gasv/VenterChr17.tar.gz)
 
-##Support
+## Support
 Please see the [GASV Google Code site](https://code.google.com/p/gasv/).
 
 For further support, contact gasv [at] cs.brown.edu.
 
 <a name="reference"></a>
 
-##References
+## References
 The GASVPro algorithm is described in the following paper:
 
 >S. Sindi, S. Onal, L. Peng, H. Wu, B.J. Raphael. (2012)
@@ -38,7 +38,7 @@ The original GASV method is described in the following paper:
 >*Bioinformatics*. 25: i222-i230.
 >(Special issue for the Joint 17th Annual International >Conference on Intelligent Systems in Molecular Biology and 8th Annual International European Conference on Computational Biology (ISMB/ECCB 09)). [[Publisher Link]](http://dx.doi.org/10.1093/bioinformatics/btp208)
 
-##Previous versions
+## Previous versions
 These are for archival purposes. It is recommended to download the latest version from link above.
 
 * Version 1.4 (3/5/2010): [Download](http://cs.brown.edu/~braphael/software/StructVar/GASV_RELEASE_1.4.tgz) | [Release notes](http://cs.brown.edu/~braphael/software/StructVar/RELEASE_NOTES.txt)  

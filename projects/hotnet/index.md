@@ -4,28 +4,28 @@ title:  Raphael Lab // HotNet
 container_css_class: container
 ---
 
-#HotNet
+# HotNet
 
-##About
+## About
 HotNet is an algorithm for finding significantly altered subnetworks in a large gene interaction network.  While originally developed for use with cancer mutation data, the current release of HotNet also supports any application in which scores can be assigned to genes in the network (this version of the algorithm is called generalizedHotNet - see Vandin et al., PSB 2012).
 
 **People** (strict random order): Fabio Vandin, Hsin-Ta Wu, Edward Rice, Layla Oesper, Adrien Deschamps, Max Leiserson, Jonathan Eldridge, Jason Schum, Eli Upfal, Ben Raphael.
 
 <a name="download"></a>
 
-##Download
+## Download
 
 *Deprecated:* The HotNet software is deprecated. However, you can run HotNet from the latest [HotNet2 software release](https://github.com/raphael-group/hotnet2).
 
 
-##Support
+## Support
 Detailed instructions for running HotNet are provided in the included [README](https://github.com/raphael-group/hotnet/blob/master/README.md).
 
 For additional support, please see the [HotNet Google Group](https://groups.google.com/forum/#!forum/hotnet-users).
 
 <a name="reference"></a>
 
-##References
+## References
 The HotNet algorithm is described in the following publications:
 
 >F. Vandin, E. Upfal, and B.J. Raphael. (2010) Algorithms for Detecting Significantly Mutated Pathways in Cancer.
@@ -45,7 +45,7 @@ Moreover, we have used HotNet in the following publications:
 >The Cancer Genome Atlas Research Network. Comprehensive molecular characterization of clear cell renal cell carcinoma. *Nature*, 2013 Jul 4; 499(7456):43-9.
 
 
-##Previous versions
+## Previous versions
 These are for archival purposes. It is recommended to download the latest version from the link above.
 
 * [HotNet version 1.0.0 (July 13th, 2012)](http://compbio-research.cs.brown.edu/software/HotNet/HotNet_v1.0.0.zip)  

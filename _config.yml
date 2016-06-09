@@ -1,2 +1,4 @@
 name: Raphael Lab
 markdown: kramdown
+kramdown:
+  input: GFM

@@ -4,30 +4,30 @@ title:  Raphael Lab // People
 container_css_class: container
 ---
 
-#people
+# people
 
-##Current Group Members
+## Current Group Members
 
-###PI
+### PI
 Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
 
-###Ph.D. Students
+### Ph.D. Students
 * [Max Leiserson](http://maxleiserson.com) (Computational Biology) [NSF Graduate Research Fellowship, 2012-2015]
 * Ahmad Mahmoody (Computer Science)
 * [Gryte Satas] (https://cs.brown.edu/people/gsatas/) (Computer Science)
 * [Hsin-Ta Wu](http://cs.brown.edu/people/bournewu/) (Computational Biology)
 
-###Postdoctoral Fellows 
+### Postdoctoral Fellows 
 * Dora Erdos (Postdoctoral Research Associate, 2015-)
 * [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, 2014-)
 * Matthew Reyna (Postdoctoral Research Associate, 2014-) 
 
 
-###Master's Students
+### Master's Students
 * John Shen
 * Jeremy Watson
 
-###Undergraduates
+### Undergraduates
 * Alex Asherly (Summer 2015)
 * Uthsav Chitra (UTRA, Summer 2015)
 * Isaac Kim (UTRA, Summer 2015)
@@ -35,13 +35,13 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 
 <a name="jobs"></a> 
 
-##Jobs
+## Jobs
 
 There are currently openings in the group for outstanding postdoctoral fellows, staff programmers, graduate students or undergraduate students. Contact me for further information. Please include in your email your CV and, if you are a student, a list of courses you are taking this year. If you are interesting in applying to Brown Computer Science, more information is [available here](http://cs.brown.edu/).
 
 *Undergraduates*: We are recruiting undergraduate research assistants (URAs). Please see our [URA Program Page](http://compbio-research.cs.brown.edu/ura) for more information.
 
-##Alumni
+## Alumni
 
 #### Graduate Students
 * [Layla Oesper](http://cs.brown.edu/people/layla/) (Ph.D. Computer Science 2015) [NSF Graduate Research Fellowship, 2011-2014, Google Anita Borg Scholarship 2014] &rarr; Assistant Professor, Carleton College 
@@ -64,7 +64,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 * [Fabio Vandin](http://www.dei.unipd.it/~vandinfa/) (Visiting Ph.D. Student and Postdoctoral Fellow, 2008-2013) &rarr; Assistant Professor, University of Southern Denmark &rarr; Associate Professor, University of Padova
 * [Suzanne Sindi](http://faculty.ucmerced.edu/ssindi/) (Postdoctoral Fellow 2006-2012) &rarr; Assistant Professor, UC Merced
 
-####Undergraduate and Visiting Students
+#### Undergraduate and Visiting Students
 * David Liu (UTRA, Summer 2014)
 * Younhun Kim (UTRA, Summer 2014)
 * Jacob Thomas (UTRA, Summer 2014)
@@ -85,7 +85,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 * Erik Corona (undergraduate) &rarr; Ph.D., Stanford Biomedical Informatics &rarr;
 
 
-####High School Students 
+#### High School Students 
 Funded through [NSF CAREER award](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1053753) Summer outreach program
 
 * Isabella Millard (Summer 2015) &rarr;
@@ -94,7 +94,7 @@ Funded through [NSF CAREER award](http://www.nsf.gov/awardsearch/showAward?AWD_I
 * Methany Eltigani (Summer 2013) &rarr; University of Pennsylvania, undergraduate
 * Nadiva Brown (Summer 2011) &rarr; Providence College, undergraduate
 
-##Ben Raphael Scientific Biography
+## Ben Raphael Scientific Biography
 Ben Raphael joined Brown University in September 2006 as an Assistant Professor in the Department of Computer Science and Center for Computational Molecular Biology. His research focuses on the design of combinatorial and statistical algorithms for the interpretation of genomes. Current research interests include next-generation DNA sequencing, structural variation, genome rearrangements in cancer and evolution, and network analysis of somatic mutations in cancer. Earlier research included topics in comparative genomics, multiple sequence alignment, and motif finding. He is the recipient of a National Science Foundation CAREER Award and an Alfred P. Sloan Research Fellowship.
 
 From 2002-2006, he was a postdoctoral fellow in the Bioinformatics Group at the University of California, San Diego led by Professor Pavel Pevzner, supported by a postdoctoral fellowship in Computational Molecular Biology from the Alfred P. Sloan Foundation, and by a Career Award at the Scientific Interface from the Burroughs Wellcome Fund.
@@ -105,7 +105,7 @@ He received an S.B. in Mathematics with a minor in Biology from the Massachusett
 
 Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
 
-##Group Photos:
+## Group Photos:
 ![Welcome dinner for Iman](http://compbio-research.cs.brown.edu/people/images/January2013_cropped.jpg)  
 January 2013 - Welcome dinner for Iman
 

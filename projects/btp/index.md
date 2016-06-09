@@ -4,9 +4,9 @@ title:  Raphael Lab // BTP
 container_css_class: container
 ---
 
-#BTP: Binary Tree Partition -- analyzing intra-tumor heterogeneity from high-throughput sequencing data
+# BTP: Binary Tree Partition -- analyzing intra-tumor heterogeneity from high-throughput sequencing data
 
-##About
+## About
 Binary Tree Partition (BTP) is a novel combinatorial formulation of the problem of constructing the subpopulations of tumor cells from the variant allele frequencies of somatic mutations. 
 
 
@@ -14,12 +14,12 @@ Binary Tree Partition (BTP) is a novel combinatorial formulation of the problem 
 
 <a name="download"></a>
 
-##Downloads 
+## Downloads 
 You can download the latest version of rec-BTP from [rec-BTP version 1.0](http://compbio-research.cs.brown.edu/software/BTP/rec-btp-1.0.tar.gz).
 
 <a name="reference"></a>
 
-##References
+## References
 The algorihtm is described in the following publications:
 
 >A combinatorial approach for analyzing intra-tumor heterogeneity from high-throughput sequencing data

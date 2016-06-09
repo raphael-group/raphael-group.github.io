@@ -4,21 +4,21 @@ title:  Raphael Lab // RAIG
 container_css_class: container
 ---
 
-#RAIG: Recurrent Aberrations from Interval Graphs
+# RAIG: Recurrent Aberrations from Interval Graphs
 
-##About
+## About
 RAIG is a combinatorial approach to the problem of identifying independent and recurrent copy number aberrations, focusing on the key challenging of separating the overlaps in aberrations across individuals into independent events.
 
 [<img src="raig.jpg" style="width: 600px"/>](raig.jpg)
 
 <a name="download"></a>
 
-##Downloads 
+## Downloads 
 You can download the latest version of RAIG from [RAIG version 1.02](http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.02.tar.gz).
 
 <a name="reference"></a>
 
-##References
+## References
 RAIG is described in the following publications:
 
 >H. Wu, I. Hajirasouliha, B.J. Raphael (2014).

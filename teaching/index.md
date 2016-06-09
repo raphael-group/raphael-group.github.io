@@ -4,7 +4,7 @@ title:  Raphael Lab // Teaching
 container_css_class: container
 ---
 
-#teaching
+# teaching
 Fall 2015:
 [CSCI1810: Computational Molecular Biology](http://www.cs.brown.edu/courses/csci1810/)
 

@@ -4,7 +4,7 @@ title:  Raphael Lab // CoMEt
 container_css_class: container
 ---
 
-#CoMEt: <u>C</u>ombinations <u>o</u>f <u>M</u>utually <u>E</u>xclusive Al<u>t</u>erations
+# CoMEt: <u>C</u>ombinations <u>o</u>f <u>M</u>utually <u>E</u>xclusive Al<u>t</u>erations
 CoMEt improves upon the [Dendrix](/projects/dendrix) and [Multi-Dendrix](/projects/multi-dendrix)
 algorithms to identify collections of exclusive alterations in cancer without prior information. CoMEt
 uses a novel statistical score for exclusivity collections of alterations and an MCMC algorithm to
