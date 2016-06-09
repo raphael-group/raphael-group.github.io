@@ -12,13 +12,11 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 **People** (strict random order): Fabio Vandin, Hsin-Ta Wu, Edward Rice, Layla Oesper, Adrien Deschamps, Max Leiserson, Jonathan Eldridge, Jason Schum, Eli Upfal, Ben Raphael.
 
 <a name="download"></a>
+
 ##Download
 
 *Deprecated:* The HotNet software is deprecated. However, you can run HotNet from the latest [HotNet2 software release](https://github.com/raphael-group/hotnet2).
 
-<strike>You can download the latest version of HotNet from the [releases page](https://github.com/raphael-group/hotnet/releases) of the [HotNet GitHub project](https://github.com/raphael-group/hotnet).
-
-Influence matrix files: [influence\_matrix\_files.zip](http://compbio-research.cs.brown.edu/projects/hotnet/influence_matrix_files.zip)</strike>
 
 ##Support
 Detailed instructions for running HotNet are provided in the included [README](https://github.com/raphael-group/hotnet/blob/master/README.md).
@@ -26,6 +24,7 @@ Detailed instructions for running HotNet are provided in the included [README](h
 For additional support, please see the [HotNet Google Group](https://groups.google.com/forum/#!forum/hotnet-users).
 
 <a name="reference"></a>
+
 ##References
 The HotNet algorithm is described in the following publications:
 

@@ -12,10 +12,12 @@ RAIG is a combinatorial approach to the problem of identifying independent and r
 [<img src="raig.jpg" style="width: 600px"/>](raig.jpg)
 
 <a name="download"></a>
+
 ##Downloads 
 You can download the latest version of RAIG from [RAIG version 1.02](http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.02.tar.gz).
 
 <a name="reference"></a>
+
 ##References
 RAIG is described in the following publications:
 

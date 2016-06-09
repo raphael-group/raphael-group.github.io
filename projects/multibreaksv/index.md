@@ -12,12 +12,14 @@ MultiBreak-SV identifies structural variants from next-generation paired end dat
 [<img src="mbsv.png" style="width: 800px"/>](mbsv.png)
 
 <a name="download"></a>
+
 ##Downloads 
 You can download the latest version of MultiBreakSV from [GitHub](https://github.com/raphael-group/multibreak-sv).
 
 NEW: We have released a pre-processor script that converts .m5 BLASR files to MultiBreak-SV input files.  It is available from [GitHub](https://github.com/raphael-group/multibreak-sv), and it requires [GASV](/projects/gasv) as an intermediate step.  
 
 <a name="reference"></a>
+
 ##References
 MultiBreak-SV is described in the following publication:
 

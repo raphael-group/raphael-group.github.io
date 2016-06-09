@@ -5,6 +5,7 @@ container_css_class: container
 ---
 
 #news
+
 ## April 6, 2015
 Raphael Lab on the move!  Current Ph.D. student [Layla Oesper](https://cs.brown.edu/people/layla/) 
 and lab alums [Anna Ritz](http://annaritz.github.io/) 

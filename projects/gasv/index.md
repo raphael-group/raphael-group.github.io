@@ -12,6 +12,7 @@ GASV and GASVPro are software packages for analysis of structural variation from
 GASVPro is a probabilistic version of our original GASV algorithm. GASVPro combines read depth information along with discordant paired-read mappings into a single probabilistic model two common signals of structural variation. When multiple alignments of a read are given, GASVPro utilizes a Markov Chain Monte Carlo procedure to sample over the space of possible alignments.
 
 <a name="download"></a>
+
 ##Downloads
 * Latest Versions: [GASV Google Code Downloads](http://code.google.com/p/gasv/downloads/list)
 * GASVPro sample data set: [VenterChr17.tar.gz](http://compbio-research.cs.brown.edu/projects/gasv/VenterChr17.tar.gz)
@@ -22,6 +23,7 @@ Please see the [GASV Google Code site](https://code.google.com/p/gasv/).
 For further support, contact gasv [at] cs.brown.edu.
 
 <a name="reference"></a>
+
 ##References
 The GASVPro algorithm is described in the following paper:
 

@@ -7,11 +7,15 @@ container_css_class: container
 # HotNet2 #
 
 ## About ##
-HotNet2 (_d_iffusion-_o_riented _s_ubnetworks) is a general algorithm for identifying high weight subnetworks in a vertex-weighted network. HotNet2 was developed for identifying significantly mutated groups of interacting genes from large cancer sequencing studies. HotNet2 uses an "insulated" heat diffusion process to simultaneously analyze a gene's mutations (or mutation score) and its local topology. This diffusion process encodes the source, or directionality, of heat within the network, allowing HotNet2 to uncover surprisingly "hot" subnetworks with wide ranges of heat scores.
+
+<span>
+HotNet2 (diffusion-oriented subnetworks) is a general algorithm for identifying high weight subnetworks in a vertex-weighted network. HotNet2 was developed for identifying significantly mutated groups of interacting genes from large cancer sequencing studies. HotNet2 uses an "insulated" heat diffusion process to simultaneously analyze a gene's mutations (or mutation score) and its local topology. This diffusion process encodes the source, or directionality, of heat within the network, allowing HotNet2 to uncover surprisingly "hot" subnetworks with wide ranges of heat scores.
+</span>
 
 **People** (strict random order): Max Leiserson, Fabio Vandin, Hsin-Ta Wu, Jonathan Eldridge, Ben Raphael.
 
 <a name="download"></a>
+
 ## Download ##
 You can download the latest version of HotNet2 from the [releases page](https://github.com/raphael-group/hotnet2/releases) of the [HotNet2 GitHub project](https://github.com/raphael-group/hotnet2). The GitHub page also includes documentation for running HotNet2 (see below).
 
@@ -21,6 +25,7 @@ Detailed instructions for running HotNet2 are provided in the included [README](
 For additional support, please see the [HotNet Google Group](https://groups.google.com/forum/#!forum/hotnet-users). Note that we use the HotNet Google Group for issues relating to either HotNet2 or HotNet.
 
 <a name="reference"></a>
+
 ## References ##
 The HotNet2 algorithm is described in the following paper:
 

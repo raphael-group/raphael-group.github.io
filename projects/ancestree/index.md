@@ -12,6 +12,7 @@ AncesTree is an algorithm that infers the clonal evolution and tumor composition
 [<img src="AncesTree.jpg" style="width: 800px"/>](AncesTree.jpg)
 
 <a name="download"></a>
+
 ##Downloads 
 You can download the latest version of AncesTree from the [AncesTree GitHub project](https://github.com/raphael-group/AncesTree).
 
@@ -19,6 +20,7 @@ You can download the latest version of AncesTree from the [AncesTree GitHub proj
 For support, please see the [AncesTree Google Group](https://groups.google.com/forum/#!forum/ancestree).
 
 <a name="reference"></a>
+
 ##References
 AncesTree is described in the following publications:
 

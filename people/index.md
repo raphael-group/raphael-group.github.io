@@ -7,6 +7,7 @@ container_css_class: container
 #people
 
 ##Current Group Members
+
 ###PI
 Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
 
@@ -32,14 +33,17 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 * Isaac Kim (UTRA, Summer 2015)
 * Alexandra Wong (Summer 2015)
 
-<a name="jobs"></a>  
+<a name="jobs"></a> 
+
 ##Jobs
+
 There are currently openings in the group for outstanding postdoctoral fellows, staff programmers, graduate students or undergraduate students. Contact me for further information. Please include in your email your CV and, if you are a student, a list of courses you are taking this year. If you are interesting in applying to Brown Computer Science, more information is [available here](http://cs.brown.edu/).
 
 *Undergraduates*: We are recruiting undergraduate research assistants (URAs). Please see our [URA Program Page](http://compbio-research.cs.brown.edu/ura) for more information.
 
 ##Alumni
-###Graduate Students
+
+#### Graduate Students
 * [Layla Oesper](http://cs.brown.edu/people/layla/) (Ph.D. Computer Science 2015) [NSF Graduate Research Fellowship, 2011-2014, Google Anita Borg Scholarship 2014] &rarr; Assistant Professor, Carleton College 
 * Matthew Parks (Ph.D. Applied Mathematics 2014) [Co-advised with Chip Lawrence]
 * Jonathan Eldridge (Sc.M. 2014) &rarr; Redfin

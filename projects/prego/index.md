@@ -15,6 +15,7 @@ PREGO is an algorithm that reconstructs a cancer genome as a rearrangement of se
 * Current Release: [PREGO Version 1.2 (5/29/2013)](http://compbio-research.cs.brown.edu/software/PREGO/PREGO_1.2.tar.gz)
 
 <a name="reference"></a>
+
 ##Reference
 The algorithm is described in the following paper:
 
