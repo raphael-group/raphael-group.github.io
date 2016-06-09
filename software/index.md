@@ -4,9 +4,9 @@ title:  Raphael Lab // Software
 container_css_class: container publications
 ---
 
-#software
+# software
 
-###Genetic Heterogeneity: Networks and Pathways
+### Genetic Heterogeneity: Networks and Pathways
 
 #####CoMEt: Combinations of Exclusive Alterations
 CoMEt identifies combinations of exclusive mutations <i>de novo</i> using a statistical score for exclusivity.
