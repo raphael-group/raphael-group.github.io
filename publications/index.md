@@ -16,7 +16,7 @@ container_css_class: container publications
 
 	*ECCB 2016/Bioinformatics*, (In Press)
 
-* [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](#)
+* [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](http://arxiv.org/abs/1604.02605)
 	**Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**
 
 	_M. El-Kebir_, _G. Satas_, _L. Oesper_, _B.J. Raphael_
