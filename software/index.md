@@ -8,6 +8,21 @@ container_css_class: container publications
 
 ### Genetic Heterogeneity: Networks and Pathways
 
+##### WExT: Weighted Exclusivity Test
+WExT computes a statistical score for mutually exclusive mutations using per gene, per sample weights.
+
+<span class="label label-primary">
+	<a href="/projects/wext">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/wext/releases">Download (GitHub)</a>
+</span><span class="label label-success">
+	<a href="/projects/wext#reference">Reference</a>
+</span><span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/dendrix">Google Group</a>
+</span>
+
+<br/>
+
 ##### CoMEt: Combinations of Exclusive Alterations
 CoMEt identifies combinations of exclusive mutations <i>de novo</i> using a statistical score for exclusivity.
 
