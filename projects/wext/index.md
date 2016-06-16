@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  Raphael Lab // Weighted Exact Test (WExT)
+title:  Raphael Lab // Weighted Exclusivity Test (WExT)
 container_css_class: container
 ---
 
-# Weighted Exact Test (WExT)
+# Weighted Exclusivity Test (WExT)
 
 ## About
 We developed a weighted exact test for mutually exclusive mutations, which conditions on the number of mutations in each gene and uses per gene, per sample mutation probabilities. We call this a _weighted-row exclusivity (WR-exclusivity) test_, because it conditions on the number of mutations per gene (row sums of mutation matrix) and uses per gene, per sample weights.
