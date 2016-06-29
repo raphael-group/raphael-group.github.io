@@ -4,7 +4,7 @@ title:  Raphael Lab // CoMEt
 container_css_class: container
 ---
 
-#CoMEt: <u>C</u>ombinations <u>o</u>f <u>M</u>utually <u>E</u>xclusive Al<u>t</u>erations
+# CoMEt: <u>C</u>ombinations <u>o</u>f <u>M</u>utually <u>E</u>xclusive Al<u>t</u>erations
 CoMEt improves upon the [Dendrix](/projects/dendrix) and [Multi-Dendrix](/projects/multi-dendrix)
 algorithms to identify collections of exclusive alterations in cancer without prior information. CoMEt
 uses a novel statistical score for exclusivity collections of alterations and an MCMC algorithm to
@@ -17,11 +17,13 @@ Dendrix++ is a preliminary version of CoMEt that we applied as part of the
 [TCGA AML project](http://www.nejm.org/doi/full/10.1056/NEJMoa1301689#t=articleTop).
 
 <a name="results-data"></a>
+
 ## Results and Data
 
 Please see [http://compbio-research.cs.brown.edu/comet/](http://compbio-research.cs.brown.edu/comet/) for an interactive display of the results of CoMEt applied to TCGA acute myeloid leukemia (AML), breast cancer (BRCA), glioblastoma (GBM), and stomach adenocarcinoma (STAD) datasets. The website also includes downloadable data files for the datasets analyzed in CoMEt publications (see below).
 
 <a name="reference"></a>
+
 ## References
 The CoMEt algorithm is described in the following publications:
 

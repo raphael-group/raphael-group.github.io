@@ -4,7 +4,7 @@ title:  Raphael Lab // TADTree
 container_css_class: container
 ---
 
-#TADtree
+# TADtree
 
 ## About 
 TADtree is an algorithm the identification of hierarchical topological domains in Hi-C data.

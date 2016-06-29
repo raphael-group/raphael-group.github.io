@@ -4,22 +4,24 @@ title:  Raphael Lab // THeTA
 container_css_class: container
 ---
 
-#THetA: Tumor Heterogeneity Analysis
+# THetA: Tumor Heterogeneity Analysis
 
-##About
+## About
 THetA (_T_umor _Het_erogeneity _A_nalysis) is an algorithm that estimates the tumor purity and clonal/sublconal copy number aberrations directly from high-throughput DNA sequencing data. The latest release is called THetA2 and includes a number of improvements over previous versions.
 
 [<img src="theta.jpg" style="width: 600px"/>](theta.jpg)
 
 <a name="download"></a>
-##Downloads 
+
+## Downloads 
 You can download the latest version of THetA (now called THetA2) from the [THetA GitHub project](https://github.com/raphael-group/THetA).
 
-##Support
+## Support
 For support, please see the [THetA Google Group](https://groups.google.com/forum/#!forum/theta-users).
 
 <a name="reference"></a>
-##References
+
+## References
 THetA2 is described in the following publication:
 
 >L. Oesper, G. Satas, and B.J. Raphael. (2014)
@@ -38,7 +40,7 @@ THetA is described in the following publications:
 >THetA: Inferring intra-tumor heterogeneity from high-throughput DNA sequencing data.
 >*Genome Biology*. 14:R80. [[Publisher Link](http://genomebiology.com/2013/14/7/R80/abstract) | [Supplemental Material](http://genomebiology.com/content/supplementary/gb-2013-14-7-r80-s1.pdf)]
 
-##Related Files
+## Related Files
 The THetA2 paper includes a likelihood model fo BAF which may be used to distinguish between multiple reconstruction returned using read depth only.  The latest release includes code to compute this likelihood model.  The following are support files which may be helpful when computing this likelihood model for observed BAFs.
 
 * [Affymetrix SNP 6.0 Positions for hg18](http://compbio-research.cs.brown.edu/projects/theta/data/AffySNP6.0_hg18.txt.formatted)
@@ -47,7 +49,7 @@ The THetA2 paper includes a likelihood model fo BAF which may be used to disting
 Simulated data used in the THetA2 paper can be found [here](http://compbio-research.cs.brown.edu/projects/theta/simulations/).
 
 
-##Previous versions
+## Previous versions
 These are for archival purposes. It is strongly recommended to download the latest version from the link above.
 
 * THetA 0.5 (9/10/2013): [Download](http://compbio-research.cs.brown.edu/software/THetA/THetA_0.5.tar.gz)

@@ -4,9 +4,9 @@ title:  Raphael Lab // Multi-Dendrix
 container_css_class: container
 ---
 
-#Multi-Dendrix
+# Multi-Dendrix
 
-##About
+## About
 Multi-Dendrix (_Multi_ple Pathways _De_ _no_vo _Dri_ver E_x_clusivity) is an algorithm that identifies sets of driver pathways in cancer without prior information by simultaneously identifying sets of genes with approximately exclusive mutations and high coverage. You can view the results of Multi-Dendrix applied to TCGA data at the following link: [http://compbio-research.cs.brown.edu/projects/multi-dendrix/results/](http://compbio-research.cs.brown.edu/projects/multi-dendrix/results/).
 
 The Multi-Dendrix Python package includes the Multi-Dendrix algorithm, as well as additional functions for:
@@ -30,23 +30,25 @@ The Multi-Dendrix Python package includes the Multi-Dendrix algorithm, as well a
 **People** (strict random order): Max Leiserson, Dima Blokh, Roded Sharan, Ben Raphael.
  
  <a name="download"></a>
-##Downloads
+
+## Downloads
 Full version of the Multi-Dendrix pipeline is available via the [Multi-Dendrix GitHub](https://github.com/raphael-group/multi-dendrix).
 
-##Requirements
+## Requirements
 * Python
 * CPLEX with Python module (see [CPLEX Python documentation](http://bit.ly/KL7PVc))
 * [NetworkX](http://networkx.github.com/)
 * [GraphViz](http://graphviz.org/)
 * Either SciPy >= version 0.11 or the Python fisher module
  
-##Support
+## Support
 For full documentation of the Multi-Dendrix package, please see our [documentation on GitHub](https://github.com/raphael-group/multi-dendrix).
 
 For additional support, contact {mdml, braphael} [at] cs.brown.edu.
 
 <a name="reference"></a>
-##References
+
+## References
 The Multi-Dendrix algorithm is described in the following paper:
 
 >M.D.M. Leiserson, D. Blokh, R. Sharan, B.J. Raphael. (2013)

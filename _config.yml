@@ -1,5 +1,4 @@
 name: Raphael Lab
-markdown: redcarpet
-pygments: true
-redcarpet:
-  extensions: [underline]
+markdown: kramdown
+kramdown:
+  input: GFM
