@@ -9,6 +9,15 @@ container_css_class: container publications
 # publications
 
 ### In press ###
+
+* [![elKebirCELLSYSTEMS](../assets/img/papers/missing.svg)](#)
+	**Inferring the Mutational History of a Tumor using Multi-State Perfect Phylogeny Mixtures**
+
+	_M. El-Kebir*_, _G. Satas*_, _L. Oesper_, _B.J. Raphael_
+
+	*Cell Systems*, (In Press)
+
+
 * [![WExT](../assets/img/papers/missing.svg)](#)
 	**A Weighted Exact Test for Mutually Exclusive Mutations in Cancer**
 
@@ -16,14 +25,6 @@ container_css_class: container publications
 
 	*ECCB 2016/Bioinformatics*, (In Press)
 
-* [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](http://arxiv.org/abs/1604.02605)
-	**Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**
-
-	_M. El-Kebir_, _G. Satas_, _L. Oesper_, _B.J. Raphael_
-
-	*RECOMB 2016*, (In Press)
-
-### 2016 ###
 * [![SampleComplexityJournal](../assets/img/papers/missing.svg)](#)
 	**On the Sample Complexity of Cancer Pathways Identification**
 
@@ -31,6 +32,16 @@ container_css_class: container publications
 
 	*Journal of Computational Biology*, (In press) 
 
+### 2016 ###
+
+##### Conference Proceedings
+
+* [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](http://arxiv.org/abs/1604.02605)
+	**Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**
+
+	_M. El-Kebir_, _G. Satas_, _L. Oesper_, _B.J. Raphael_
+
+	*RECOMB 2016*
 
 ### 2015
 
