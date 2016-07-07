@@ -17,6 +17,12 @@ container_css_class: container publications
 
 	*Cell Systems*, (In Press)
 
+* [![CNT](../assets/img/papers/missing.svg)](#)
+	**Copy-Number Evolution Problems: Complexity and Algorithms**
+
+	_M. El-Kebir*_, _B.J. Raphael_, R. Shamir, R. Sharan, _S. Zaccaria_, M. Zehavi, R. Zeira
+
+	*WABI 2016*, (In Press)
 
 * [![WExT](../assets/img/papers/missing.svg)](#)
 	**A Weighted Exact Test for Mutually Exclusive Mutations in Cancer**
