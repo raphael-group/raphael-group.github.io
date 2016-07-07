@@ -20,7 +20,7 @@ container_css_class: container publications
 * [![CNT](../assets/img/papers/missing.svg)](#)
 	**Copy-Number Evolution Problems: Complexity and Algorithms**
 
-	_M. El-Kebir*_, _B.J. Raphael_, R. Shamir, R. Sharan, _S. Zaccaria_, M. Zehavi, R. Zeira
+	_M. El-Kebir_, _B.J. Raphael_, R. Shamir, R. Sharan, _S. Zaccaria_, M. Zehavi, R. Zeira
 
 	*WABI 2016*, (In Press)
 
