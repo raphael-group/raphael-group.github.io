@@ -17,6 +17,14 @@ container_css_class: container publications
 
 	*Cell Systems*, (In Press)
 
+	<span class="label label-success">
+		<a href="http://compbio.cs.brown.edu/projects/spruce" target="_new">Website</a>
+	</span>
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/">Software Release</a>
+	</span>
+
+
 * [![CNT](../assets/img/papers/missing.svg)](#)
 	**Copy-Number Evolution Problems: Complexity and Algorithms**
 
