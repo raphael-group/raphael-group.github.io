@@ -19,4 +19,4 @@ We use our Weighted Exclusivity Test (WExT) software to compute the WR-exclusivi
 
 ## References
 
-> Mark D.M. Leiserson, Matthew A. Reyna, Benjamin J. Raphael. (2016) A Weighted Exact Test for Mutually Exclusive Mutations in Cancer. _ECCB/Bioinformatics_ (to appear).
+> Mark D.M. Leiserson, Matthew A. Reyna, Benjamin J. Raphael. (2016) A Weighted Exact Test for Mutually Exclusive Mutations in Cancer. _ECCB/Bioinformatics_ (to appear). [arXiv preprint](https://arxiv.org/abs/1607.02447)
