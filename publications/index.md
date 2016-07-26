@@ -37,7 +37,7 @@ container_css_class: container publications
 
 	_M.D.M. Leiserson_, _M.A. Reyna_, _B.J. Raphael_
 
-	*ECCB 2016/Bioinformatics*, (In Press)
+	*ECCB 2016/Bioinformatics*, (In Press) [arXiv preprint](https://arxiv.org/abs/1607.02447)
 
 * [![SampleComplexityJournal](../assets/img/papers/missing.svg)](#)
 	**On the Sample Complexity of Cancer Pathways Identification**
