@@ -39,9 +39,9 @@ container_css_class: container publications
 
 	*ECCB 2016/Bioinformatics*, (In Press) 
 	
-		<span class="label label-info">
-        <a href="http://arxiv.org/abs/1607.02447" target="_new">arXiv preprint</a>
-    </span>
+	<span class="label label-info">
+        	<a href="http://arxiv.org/abs/1607.02447" target="_new">arXiv preprint</a>
+    	</span>
     
 	[arXiv preprint](https://arxiv.org/abs/1607.02447)
 
