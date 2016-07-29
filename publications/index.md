@@ -21,7 +21,7 @@ container_css_class: container publications
 		<a href="http://compbio.cs.brown.edu/projects/spruce" target="_new">Website</a>
 	</span>
 	<span class="label label-danger">
-		<a href="https://github.com/raphael-group/">Software Release</a>
+		<a href="https://github.com/raphael-group/spruce">Software Release</a>
 	</span>
 
 
@@ -39,8 +39,11 @@ container_css_class: container publications
 
 	*ECCB 2016/Bioinformatics*, (In Press) 
 	
+	<span class="label label-success">
+		<a href="http://compbio.cs.brown.edu/projects/wext" target="_new">Website</a>
+	</span>
 	<span class="label label-danger">
-		<a href="https://github.com/raphael-group/">Software Release</a>
+		<a href="https://github.com/raphael-group/wext">Software Release</a>
 	</span>
 	<span class="label label-info">
         	<a href="http://arxiv.org/abs/1607.02447" target="_new">arXiv preprint</a>
