@@ -10,19 +10,6 @@ container_css_class: container publications
 
 ### In press ###
 
-* [![elKebirCELLSYSTEMS](../assets/img/papers/missing.svg)](#)
-	**Inferring the Mutational History of a Tumor using Multi-State Perfect Phylogeny Mixtures**
-
-	_M. El-Kebir*_, _G. Satas*_, _L. Oesper_, _B.J. Raphael_
-
-	*Cell Systems*, (In Press)
-
-	<span class="label label-success">
-		<a href="http://compbio.cs.brown.edu/projects/spruce" target="_new">Website</a>
-	</span>
-	<span class="label label-danger">
-		<a href="https://github.com/raphael-group/spruce">Software Release</a>
-	</span>
 
 
 * [![CNT](../assets/img/papers/missing.svg)](#)
@@ -48,16 +35,32 @@ container_css_class: container publications
 	<span class="label label-info">
         	<a href="http://arxiv.org/abs/1607.02447" target="_new">arXiv preprint</a>
     	</span>
-    
+
+### 2016 ###
+
+##### Journal Articles
+
+* [![elKebirCELLSYSTEMS](../assets/img/papers/missing.svg)](#)
+	**Inferring the Mutational History of a Tumor using Multi-State Perfect Phylogeny Mixtures**
+
+	_M. El-Kebir*_, _G. Satas*_, _L. Oesper_, _B.J. Raphael_
+
+	*Cell Systems*, (2016) 3(1):43-53.
+
+	<span class="label label-success">
+		<a href="http://compbio.cs.brown.edu/projects/spruce" target="_new">Website</a>
+	</span>
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/spruce">Software Release</a>
+	</span>
+
 * [![SampleComplexityJournal](../assets/img/papers/missing.svg)](#)
 	**On the Sample Complexity of Cancer Pathways Identification**
 
 	_F. Vandin_, _B.J. Raphael_, E.Upfal.
 
-	*Journal of Computational Biology*, (In press) 
-
-### 2016 ###
-
+	*Journal of Computational Biology*, (2016) 23(1):30-41.
+	
 ##### Conference Proceedings
 
 * [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](http://arxiv.org/abs/1604.02605)
