@@ -57,7 +57,12 @@ container_css_class: container publications
 
 	*RECOMB 2016*
 
-### 2015
+ </span>
+	<span class="label label-info">
+        <a href="http://arxiv.org/abs/1604.02605" target="_new">arXiv preprint</a>
+    </span>
+    
+### 2015 ###
 
 ##### Journal Articles
 
