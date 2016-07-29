@@ -60,7 +60,15 @@ container_css_class: container publications
 	_F. Vandin_, _B.J. Raphael_, E.Upfal.
 
 	*Journal of Computational Biology*, (2016) 23(1):30-41.
-	
+
+* [![TCGA_ACC](../assets/img/papers/missing.svg)](#)
+* 
+	**Comprehensive Pan-Genomic Characterization of Adrenocortical Carcinoma**
+
+	Zheng S, Cherniack AD, Dewal N, Moffitt RA, Danilova L, Murray BA, Lerario AM, Else T, Knijnenburg TA, Ciriello G, Kim S, Assie G, Morozova O, Akbani R, Shih J, Hoadley KA, Choueiri TK, Waldmann J, Mete O, Robertson AG, Wu HT, _Raphael BJ_, Shao L, Meyerson M, Demeure MJ, Beuschlein F, Gill AJ, Sidhu SB, Almeida MQ, Fragoso MC, Cope LM, Kebebew E, Habra MA, Whitsett TG, Bussey KJ, Rainey WE, Asa SL, Bertherat J, Fassnacht M, Wheeler DA; Cancer Genome Atlas Research Network, Hammer GD, Giordano TJ, Verhaak RG
+
+	*Cancer Cell*, (2016) 29(5):723-36.
+
 ##### Conference Proceedings
 
 * [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](http://arxiv.org/abs/1604.02605)
