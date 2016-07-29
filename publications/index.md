@@ -39,12 +39,13 @@ container_css_class: container publications
 
 	*ECCB 2016/Bioinformatics*, (In Press) 
 	
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/">Software Release</a>
+	</span>
 	<span class="label label-info">
         	<a href="http://arxiv.org/abs/1607.02447" target="_new">arXiv preprint</a>
     	</span>
     
-	[arXiv preprint](https://arxiv.org/abs/1607.02447)
-
 * [![SampleComplexityJournal](../assets/img/papers/missing.svg)](#)
 	**On the Sample Complexity of Cancer Pathways Identification**
 
