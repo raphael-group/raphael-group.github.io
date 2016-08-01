@@ -16,7 +16,7 @@ SPRUCE is an algorithm that infers a multi-state perfect phylogeny describing th
 ## Downloads 
 You can download the latest version of SPRUCE from the [SPRUCE GitHub project](https://github.com/raphael-group/spruce).
 
-##Support
+## Support
 For support, please see the [SPRUCE Google Group](https://groups.google.com/forum/#!forum/sprucealgorithm).
 
 <a name="reference"></a>
