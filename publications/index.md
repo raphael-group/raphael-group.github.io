@@ -38,7 +38,7 @@ container_css_class: container publications
 
 ##### Journal Articles
 
-* [![elKebirCELLSYSTEMS](../assets/img/papers/missing.svg)](#)
+* [![elKebirCELLSYSTEMS](../assets/img/papers/missing.svg)](http://authors.elsevier.com/a/1TR-E8YyDfNNY8)
 	**Inferring the Mutational History of a Tumor using Multi-State Perfect Phylogeny Mixtures**
 
 	_M. El-Kebir*_, _G. Satas*_, _L. Oesper_, _B.J. Raphael_

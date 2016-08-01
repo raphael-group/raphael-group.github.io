@@ -25,6 +25,11 @@ For support, please see the [SPRUCE Google Group](https://groups.google.com/foru
 SPRUCE is described in the following publications:
 
 >M. El-Kebir, G. Satas, L. Oesper, and B.J. Raphael.
+>Inferring the Mutational History of a Tumor using Multi-State Perfect Phylogeny Mixtures
+>*Cell Systems*, (2016) 3(1):43-53.
+
+>M. El-Kebir, G. Satas, L. Oesper, and B.J. Raphael.
 >Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing
->*RECOMB 2016 (to appear)*.
+>*RECOMB 2016*.
+
 
