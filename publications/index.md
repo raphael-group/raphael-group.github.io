@@ -10,13 +10,6 @@ container_css_class: container publications
 
 ### In press ###
 
-* [![CNT](../assets/img/papers/missing.svg)](#)
-	**Copy-Number Evolution Problems: Complexity and Algorithms**
-
-	_M. El-Kebir_, _B.J. Raphael_, R. Shamir, R. Sharan, _S. Zaccaria_, M. Zehavi, R. Zeira
-
-	*WABI 2016*, (In Press)
-
 * [![WExT](../assets/img/papers/missing.svg)](#)
 	**A Weighted Exact Test for Mutually Exclusive Mutations in Cancer**
 
@@ -67,6 +60,13 @@ container_css_class: container publications
 	*Cancer Cell*, (2016) 29(5):723-36.
 
 ##### Conference Proceedings
+
+* [![CNT](../assets/img/papers/missing.svg)](http://link.springer.com/chapter/10.1007/978-3-319-43681-4_11)
+	**Copy-Number Evolution Problems: Complexity and Algorithms**
+
+	_M. El-Kebir_, _B.J. Raphael_, R. Shamir, R. Sharan, _S. Zaccaria_, M. Zehavi, R. Zeira
+
+	*WABI 2016*
 
 * [![elKebirRECOMB2016](../assets/img/papers/missing.svg)](http://arxiv.org/abs/1604.02605)
 	**Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing**
