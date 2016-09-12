@@ -7,7 +7,7 @@ container_css_class: container
 # news
 
 ## September 1, 2016
-The Raphael group has moved!  Ben Raphael is now a Professor in the [Department of Computer Science at Princeton University](https://www.cs.princeton.edu).  
+The Raphael group has moved!  Ben Raphael is now a Professor in the [Department of Computer Science at Princeton University](https://www.cs.princeton.edu).  We welcome applications for new students and postdocs.
 
 ## May 11, 2016
 [Hsin-Ta Wu](http://cs.brown.edu/~bournewu/) successfully defends his Ph.D. thesis, becoming the [second Ph.D. recipient in Computational Biology and Computer Science at Brown University](https://www.brown.edu/academics/computational-molecular-biology/news/2016-05/congratulations-hsin-ta).  Hsin-Ta will join [Natera](http://www.natera.com) as a Senior Bioinformatician.  Congratulations, Hsin-Ta!
