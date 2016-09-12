@@ -5,6 +5,17 @@ container_css_class: container
 ---
 
 # news
+## September 1, 2016
+The Raphael group has moved!  Ben Raphael is now a Professor in the [Department of Computer Science at Princeton University](https://www.cs.princeton.edu).  
+
+## May 11, 2016
+[Hsin-Ta Wu](http://cs.brown.edu/~bournewu/) successfully defends his Ph.D. thesis, becoming the [second Ph.D. recipient in Computational Biology and Computer Science at Brown University](https://www.brown.edu/academics/computational-molecular-biology/news/2016-05/congratulations-hsin-ta).  Hsin-Ta will join [Natera](http://www.natera.com) as a Senior Bioinformatician.  Congratulations, Hsin-Ta!
+
+## April 27, 2016
+[Max Leiserson](http://maxleiserson.com) successfully defends his Ph.D. thesis, becoming the [inaugural Ph.D. recipient in Computational Biology and Computer Science at Brown University](https://www.brown.edu/academics/computational-molecular-biology/news/2016-04/inaugural-computational-biology-phd-graduate-max-leiserson).  Max will be a postdoctoral fellow at [Microsoft Research, New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) in 2016-2017.  In Fall 2017, he will become an Assistant Professor in the [Computer Science Department at the University of Maryland](https://www.cs.umd.edu).  Congratulations, Max!
+
+## September 1, 2015
+[Dora Erdos](http://cs-people.bu.edu/edori/) joins the group as postdoctoral fellow.  Dora completed a Ph.D. in Computer Science at [Boston University](http://www.bu.edu/cs/).  Welcome, Dora!
 
 ## April 6, 2015
 Raphael Lab on the move!  Current Ph.D. student [Layla Oesper](https://cs.brown.edu/people/layla/) 
