@@ -5,6 +5,7 @@ container_css_class: container
 ---
 
 # news
+
 ## September 1, 2016
 The Raphael group has moved!  Ben Raphael is now a Professor in the [Department of Computer Science at Princeton University](https://www.cs.princeton.edu).  
 
