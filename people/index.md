@@ -13,11 +13,11 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 
 ### Ph.D. Students
 * [Gryte Satas](https://cs.brown.edu/people/gsatas/) (Computer Science). 2014-present
-* [Ashley Conard] Computational Biology and Computer Science. 2015-present
-* [Rebecca Elyanow] Computational Biology and Computer Science.  2015-present
+* Ashley Conard (Computational Biology and Computer Science). 2015-present
+* Rebecca Elyanow (Computational Biology and Computer Science).  2015-present
 
 ### Postdoctoral Fellows 
-* Dora Erdos (Postdoctoral Research Associate, September 2015-present)
+* [Dora Erdos](http://cs-people.bu.edu/edori/) (Postdoctoral Research Associate, September 2015-present)
 * [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-present)
 * Matthew Reyna (Postdoctoral Research Associate, August 2014-present) 
 
