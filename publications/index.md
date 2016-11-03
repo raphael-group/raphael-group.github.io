@@ -10,12 +10,16 @@ container_css_class: container publications
 
 ### In press ###
 
-* [![WExT](../assets/img/papers/missing.svg)](#)
+### 2016 ###
+
+##### Journal Articles
+
+* [![WExT](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/32/17/i736.long)
 	**A Weighted Exact Test for Mutually Exclusive Mutations in Cancer**
 
 	_M.D.M. Leiserson_, _M.A. Reyna_, _B.J. Raphael_
 
-	*ECCB 2016/Bioinformatics*, (In Press) 
+	*ECCB 2016/Bioinformatics*, 32(17):i736-i745. 
 	
 	<span class="label label-success">
 		<a href="http://compbio.cs.brown.edu/projects/wext" target="_new">Website</a>
@@ -26,11 +30,7 @@ container_css_class: container publications
 	<span class="label label-info">
         	<a href="http://arxiv.org/abs/1607.02447" target="_new">arXiv preprint</a>
     	</span>
-
-### 2016 ###
-
-##### Journal Articles
-
+	
 * [![elKebirCELLSYSTEMS](../assets/img/papers/missing.svg)](http://authors.elsevier.com/a/1TR-E8YyDfNNY8)
 	**Inferring the Mutational History of a Tumor using Multi-State Perfect Phylogeny Mixtures**
 
