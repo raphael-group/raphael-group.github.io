@@ -36,7 +36,7 @@ container_css_class: container publications
 
 	P.Nakka,  _B.J. Raphael*_, S Ramachandran*
 
-	*Genetics*, 204(2):783-798. 
+	*Genetics*, (2016) 204(2):783-798. 
 
 
 * [![elKebirCELLSYSTEMS](../assets/img/papers/missing.svg)](http://authors.elsevier.com/a/1TR-E8YyDfNNY8)
