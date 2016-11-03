@@ -67,6 +67,14 @@ container_css_class: container publications
 
 	*Cancer Cell*, (2016) 29(5):723-36.
 
+* [![TCGAKIRP](../assets/img/papers/missing.svg)](http://www.nejm.org/doi/full/10.1056/NEJMoa1505917)
+        **Comprehensive Molecular Characterization of Papillary Renal-Cell Carcinoma**
+    
+
+	_The Cancer Genome Atlas Research Network_
+
+	*New England Journal of Medicine*, (2016) 374(2):135-45.
+	
 ##### Conference Proceedings
 
 * [![CNT](../assets/img/papers/missing.svg)](http://link.springer.com/chapter/10.1007/978-3-319-43681-4_11)
@@ -97,16 +105,7 @@ container_css_class: container publications
 	Lu C, Xie M, Wendl MC, Wang J, McLellan MD, _Leiserson MDM_, Huang KL, Wyczalkowski MA, Jayasinghe R, Banerjee T, Ning J, Tripathi P, Zhang Q, Niu B, Ye K, Schmidt HK, Fulton RS, McMichael JF, Batra P, Kandoth C, Bharadwaj M, Koboldt DC, Miller CA, Kanchi KL, Eldred JM, Larson DE, Welch JS, You M, Ozenberger BA, Govindan R, Walter MJ, Ellis MJ, Mardis ER, Graubert TA, Dipersio JF, Ley TJ, Wilson RK, Goodfellow PJ, _Raphael BJ_, Chen F, Johnson KJ, Parvin JD, Ding L.
 
 	*Nature Communications*, (2015) 6:10086.
-
-
-* [![TCGAKIRP](../assets/img/papers/missing.svg)](http://www.nejm.org/doi/full/10.1056/NEJMoa1505917)
-        **Comprehensive Molecular Characterization of Papillary Renal-Cell Carcinoma**
-    
-
-	_The Cancer Genome Atlas Research Network_
-
-	*New England Journal of Medicine*, (2015) (In press)
-
+	
 
 * [![TADTree](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/early/2015/09/23/bioinformatics.btv485.abstract)
         **Identification of hierarchical chromatin domains**
