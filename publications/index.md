@@ -268,7 +268,7 @@ container_css_class: container publications
 
 	In *Integrating Omics Data* G.C.Tseng, D. Ghosh, X.J. Zhou (Eds).  Cambridge University Press (2015)
 
-### 2014
+### 2014 ###
 
 ##### Journal Articles
 * [![Ritz Single Molecule](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/30/24/3458.long)
@@ -435,7 +435,7 @@ container_css_class: container publications
 	*18th Annual International Conference on Research in Computational Molecular Biology (RECOMB)* (2014) Lecture Notes in Computer Science Volume 8394, 2014, pp 250-264.
 
 
-### 2013
+### 2013 ###
 
 ##### Journal Articles
 
@@ -600,7 +600,7 @@ container_css_class: container publications
 		<a href="http://psb.stanford.edu/psb-online/proceedings/psb13/wkshp-modeling.pdf" target="_new">PubLink</a>
 	</span>
 
-###2012
+### 2012 ###
 
 ##### Journal Articles
 
@@ -760,7 +760,7 @@ container_css_class: container publications
 		<a href="http://psb.stanford.edu/psb-online/proceedings/psb12/vandin.pdf" target="_new">PDF</a>
 	</span>
 
-###2011
+### 2011 ###
 
 ##### Journal Articles
 
@@ -834,7 +834,7 @@ container_css_class: container publications
 	
 	*Proceedings of the 11th Workshop on Algorithms in Bioinformatics (WABI)*
 
-###2010
+### 2010 ###
 
 ##### Journal Articles
 
@@ -933,7 +933,7 @@ container_css_class: container publications
 		<a href="http://compbio-research.cs.brown.edu/publications/papers/VandinUpfalRaphael_RECOMB_2010.pdf" target="_new">PDF</a>
 	</span>
 
-###2009
+### 2009 ###
 
 ##### Journal Articles
 
@@ -1035,7 +1035,7 @@ container_css_class: container publications
 		<a href="http://compbio-research.cs.brown.edu/publications/papers/Kahn_camera_revised.pdf" target="_new">Corrected version</a>
 	</span>
 
-###2008
+### 2008 ###
 
 ##### Journal Articles
 
@@ -1083,7 +1083,7 @@ container_css_class: container publications
 		<a href="http://books.google.com/books?id=3rBUySnUI4QC&lpg=PP9&ots=m4ctgeaiPp&dq=benjamin%20raphael&lr=&pg=PP1#v=onepage&q=&f=false" target="_new">Google Books Link</a>
 	</span>
 
-###2007
+### 2007 ###
 
 ##### Journal Articles
 
@@ -1144,7 +1144,7 @@ container_css_class: container publications
 		<a href="http://dx.doi.org/10.1007/978-3-540-71681-5_25" target="_new">PubLink</a>
 	</span>
 
-###2006
+### 2006 ###
 
 ##### Journal Articles
 
@@ -1201,7 +1201,7 @@ container_css_class: container publications
 	
 	*Lecture Notes in Computer Science*
 
-###2002 - 2005
+### 2002 - 2005 ###
 
 ##### Journal Articles
 
