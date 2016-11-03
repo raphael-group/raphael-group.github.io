@@ -30,7 +30,15 @@ container_css_class: container publications
 	<span class="label label-info">
         	<a href="http://arxiv.org/abs/1607.02447" target="_new">arXiv preprint</a>
     	</span>
-	
+
+* [![PEGASUS](../assets/img/papers/missing.svg)]()
+	**Gene and Network Analysis of Common Variants Reveals Novel Associations in Multiple Complex Diseases**
+
+	P.Nakka,  _B.J. Raphael*_, S Ramachandran*
+
+	*Genetics*, 204(2):783-798. 
+
+
 * [![elKebirCELLSYSTEMS](../assets/img/papers/missing.svg)](http://authors.elsevier.com/a/1TR-E8YyDfNNY8)
 	**Inferring the Mutational History of a Tumor using Multi-State Perfect Phylogeny Mixtures**
 
