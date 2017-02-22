@@ -14,7 +14,6 @@ container_css_class: container publications
 
 ##### Journal Articles
 * [![TCGAESCA](../assets/img/papers/missing.svg)](http://www.nature.com/nature/journal/v541/n7636/full/nature20805.html)
-
 **Integrated genomic characterization of oesophageal carcinoma**
 
 _The Cancer Genome Atlas Research Network_
