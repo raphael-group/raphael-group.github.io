@@ -10,6 +10,17 @@ container_css_class: container publications
 
 ### In press ###
 
+### 2017 ###
+
+##### Journal Articles
+* [![TCGAESCA](../assets/img/papers/missing.svg)](http://www.nature.com/nature/journal/v541/n7636/full/nature20805.html)
+
+**Integrated genomic characterization of oesophageal carcinoma**
+
+_The Cancer Genome Atlas Research Network_
+
+*Nature*, 541(7636):169-175.
+
 ### 2016 ###
 
 ##### Journal Articles
@@ -31,7 +42,7 @@ container_css_class: container publications
         	<a href="http://arxiv.org/abs/1607.02447" target="_new">arXiv preprint</a>
     	</span>
 
-* [![PEGASUS](../assets/img/papers/missing.svg)]()
+* [![PEGASUS](../assets/img/papers/missing.svg)](http://www.genetics.org/content/204/2/783)
 	**Gene and Network Analysis of Common Variants Reveals Novel Associations in Multiple Complex Diseases**
 
 	P.Nakka,  _B.J. Raphael*_, S Ramachandran*
