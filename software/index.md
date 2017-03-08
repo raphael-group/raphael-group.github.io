@@ -95,11 +95,20 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 	<a href="/projects/hotnet#reference">Reference</a>
 </span><span class="label label-warning">
 	<a href="https://groups.google.com/forum/#!forum/hotnet-users">Google Group</a>
-</span>
 
 <br/>
 
 ### Structural Variation and Genome Analysis
+
+##### PASTRI: Probabilistic Algorithm for Somatic Tree Inference #####
+Software for inferring the clonal evolution of single-nucleotide given multi-sample tumor sequencing data.
+
+<span class="label label-primary">
+	<a href="/projects/pastri">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/pastri">Download (GitHub)</a>
+
+<br/>
 
 ##### SPRUCE: Somatic Phylogeny Reconstruction using Combinatorial Enumeration #####
 Software for inferring the clonal evolution of single-nucleotide and copy-number variants given multi-sample tumor sequencing data.
