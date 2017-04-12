@@ -19,7 +19,7 @@ container_css_class: container publications
 * [![RECOMB2017](../assets/img/papers/missing.svg)]()
 	**The Copy-Number Tree Mixture Deconvolution Problem and Applications to Multi-Sample Bulk Sequencing Tumor Data**
 	
-	_S. Zaccaria_*, _M. El-Kebir_*, G.W. Klau, _B.J. Raphael_
+	_S. Zaccaria_, _M. El-Kebir_, G.W. Klau, _B.J. Raphael_
 	
 	*RECOMB 2017* (In Press).
 	
