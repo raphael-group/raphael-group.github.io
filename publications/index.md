@@ -9,16 +9,30 @@ container_css_class: container publications
 # publications
 
 ### In press ###
+* [![ISMB2017](../assets/img/papers/missing.svg)]()
+	**Tumor Phylogeny Inference Using Tree-Constrained Importance Sampling**
+	
+	_G. Satas_, _B.J. Raphael_
+	
+	*ISMB 2017, Bioinformatics* (In Press).
 
+* [![RECOMB2017](../assets/img/papers/missing.svg)]()
+	**The Copy-Number Tree Mixture Deconvolution Problem and Applications to Multi-Sample Bulk Sequencing Tumor Data**
+	
+	_S. Zaccaria_*, _M. El-Kebir_*, G.W. Klau, _B.J. Raphael_
+	
+	*RECOMB 2017* (In Press).
+	
 ### 2017 ###
 
 ##### Journal Articles
+
 * [![TCGAESCA](../assets/img/papers/missing.svg)](http://www.nature.com/nature/journal/v541/n7636/full/nature20805.html)
-**Integrated genomic characterization of oesophageal carcinoma**
+	**Integrated genomic characterization of oesophageal carcinoma**
 
-_The Cancer Genome Atlas Research Network_
+	_The Cancer Genome Atlas Research Network_
 
-*Nature*, 541(7636):169-175.
+	*Nature*, 541(7636):169-175.
 
 ### 2016 ###
 
