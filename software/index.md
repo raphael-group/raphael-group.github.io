@@ -101,7 +101,7 @@ HotNet is an algorithm for finding significantly altered subnetworks in a large 
 ### Structural Variation and Genome Analysis
 
 ##### CNT-MD: Copy-Number Tree Mixture Deconvolution  #####
-Software for inferring the copy-number profiles of tumor clones and their evolution from fractional copy numbers obtained from the data of multiple bulk-sequencing samples.
+Software for inferring the copy-number profiles of tumor clones and their evolution from fractional copy numbers obtained from multi-sample bulk sequencing data.
 
 <span class="label label-primary">
         <a href="/projects/cnt-md">More information</a>
@@ -110,6 +110,15 @@ Software for inferring the copy-number profiles of tumor clones and their evolut
 
 <br/>
 
+##### CNT-ILP: Copy-Number Tree  #####
+Software for inferring the copy-number tree of minimum cost from the copy-number profiles of distinct tumor clones.
+
+<span class="label label-primary">
+        <a href="/projects/cnt-ilp">More information</a>
+	</span><span class="label label-danger">
+	        <a href="https://github.com/raphael-group/CNT-ILP">Download (GitHub)</a>
+
+<br/>
 
 ##### NAIBR: Novel Adjacency Identification with Barcoded Reads #####
 Software for the identification of novel adjacencies from linked-read whole genome sequencing data.

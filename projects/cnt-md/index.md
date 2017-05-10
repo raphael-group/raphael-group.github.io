@@ -12,9 +12,9 @@ We introduce an approach that aims to infer the copy-number profiles (used to id
 2. To infer the evolution of the clones define by such inferred copy numbers and defined by a copy-number tree, under a principle of parsimony.
 The related software implements a coordinate-descent algorithm for solving this problem.
 
-[<img src="cnt-md.png" style="width: 800px"/>](cnt-md.png)
+[<img src="cnt-md.png" style="width: 900px"/>](cnt-md.png)
 
-A tumor consists of heterogeneous subpopulations of cells, or clones. The normal clone is colored yellow. Five samples are bulk sequenced yielding fractional copy numbers F.
+Fig. A tumor consists of heterogeneous subpopulations of cells, or clones. The normal clone is colored yellow. Five samples are bulk sequenced yielding fractional copy numbers F.
 We model the evolution of CNAs by a copy-number tree T (right). We combine the deconvolution of F with the inference of T . Thus, CNTMD factors F into the integer copy numbers C of the extant clones and their proportions U such that F = CU and C generates a copy-number tree T with the minimum number Λ(T) of interval events.
 
 
