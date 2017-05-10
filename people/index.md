@@ -17,10 +17,10 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 * Rebecca Elyanow (Computational Biology and Computer Science).  2015-present
 
 ### Postdoctoral Fellows 
+* [Simone Zaccaria](https://scholar.google.it/citations?user=_dJLciQAAAAJ&hl=en) (Postdoctoral Research Associate, April 2017-present)
 * [Dora Erdos](http://cs-people.bu.edu/edori/) (Postdoctoral Research Associate, September 2015-present)
 * [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-present)
 * Matthew Reyna (Postdoctoral Research Associate, August 2014-present) 
-
 
 ### Master's Students
 * Jeremy Watson
