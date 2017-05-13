@@ -11,28 +11,20 @@ container_css_class: container
 ### PI
 Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
 
+### Postdoctoral Fellows 
+* [Simone Zaccaria](https://scholar.google.it/citations?user=_dJLciQAAAAJ&hl=en) (Postdoctoral Research Associate, April 2017-present)
+* [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-present)
+* Matthew Reyna (Postdoctoral Research Associate, August 2014-present) 
+
 ### Ph.D. Students
 * [Gryte Satas](https://cs.brown.edu/people/gsatas/) (Computer Science). 2014-present
 * Ashley Conard (Computational Biology and Computer Science). 2015-present
 * Rebecca Elyanow (Computational Biology and Computer Science).  2015-present
 
-### Postdoctoral Fellows 
-* [Simone Zaccaria](https://scholar.google.it/citations?user=_dJLciQAAAAJ&hl=en) (Postdoctoral Research Associate, April 2017-present)
-* [Dora Erdos](http://cs-people.bu.edu/edori/) (Postdoctoral Research Associate, September 2015-present)
-* [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-present)
-* Matthew Reyna (Postdoctoral Research Associate, August 2014-present) 
-
-### Master's Students
-* Jeremy Watson
-
 ### Undergraduates
 * Alexandra Wong (UTRA Summer 2015 and 2016)
-* David Liu (UTRA, Summer 2014 and 2016)
-* Eddie Williams (UTRA, Summer 2016)
-* Michael Mueller (UTRA, Summer 2016)
 * Jonathan Chang (UTRA, Summer 2016)
 * Zheng Shi (UTRA, Summer 2016)
-
 
 <a name="jobs"></a> 
 
@@ -44,34 +36,40 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 ## Alumni
 
-#### Graduate Students
+#### Ph.D. Students
 * [Max Leiserson](http://maxleiserson.com) (Ph.D. Computational Biology and Computer Science, 2016) [NSF Graduate Research Fellowship, 2012-2015] &rarr; Postdoctoral Fellow, Microsoft Research New England &rarr; Assistant Professor, University of Maryland (Starting Fall 2017)
 * [Hsin-Ta Wu](http://cs.brown.edu/people/bournewu/) (Ph.D. Computational Biology and Computer Science, 2016) &rarr; Senior Bioinformatician, Natera
-* John Shen (Sc.M. 2015) &rarr; IBM Watson
 * [Layla Oesper](http://cs.brown.edu/people/layla/) (Ph.D. Computer Science 2015) [NSF Graduate Research Fellowship, 2011-2014, Google Anita Borg Scholarship 2014] &rarr; Assistant Professor, Carleton College 
 * Matthew Parks (Ph.D. Applied Mathematics 2014) [Co-advised with Chip Lawrence] &rarr; Postdoctoral Fellow, Weil Cornell Medical School
-* Jonathan Eldridge (Sc.M. 2014) &rarr; Redfin
-* Ahmad Mahmoody (Sc.M. Computer Science, 2013) &rarr; Brown Computer Science Ph.D. (Advisor: Eli Upfal)
-* Alexandra Papoutsaki (Sc.M. Computer Science 2013) &rarr; Brown Computer Science Ph.D. (Advisor: Jeff Huang)
 * [Anna Ritz](http://www.reed.edu/biology/ritz/) (Ph.D. Computer Science 2012) [NSF Graduate Research Fellowship, 2008-2011]
 &rarr; Postdoc at Virginia Tech &rarr; Assistant Professor, Reed College 
 * [Crystal Kahn](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [NSF Graduate Research Fellowship, 2005-2008] &rarr; Ab Initio &rarr; Assistant Professor, Amherst College 
+
+#### Postdoctoral Fellows and Research Faculty
+* [Dora Erdos](http://cs-people.bu.edu/edori/) (Postdoctoral Research Associate, September 2015-August 2016) &rarr; Lecturer, Boston University
+* Jason Dobson (Postdoctoral Fellow, 2013-2014) &rarr; Novartis
+* [Iman Hajirasouliha](http://www.imanh.org/) (Postdoctoral Fellow, 2013-2014) &rarr; Postdoctoral Fellow, Stanford University &rarr; Assistant Professor, Weil Cornell Medical School
+* [Fabio Vandin](http://www.dei.unipd.it/~vandinfa/) (Visiting Ph.D. Student and Postdoctoral Fellow, 2008-2013) &rarr; Assistant Professor, University of Southern Denmark &rarr; Associate Professor, University of Padova
+* [Suzanne Sindi](http://faculty.ucmerced.edu/ssindi/) (Postdoctoral Fellow 2006-2012) &rarr; Assistant Professor, UC Merced
+
+### Master's Students
+* Jeremy Watson (Sc.M. 2016)
+* John Shen (Sc.M. 2015) &rarr; IBM Watson
+* Jonathan Eldridge (Sc.M. 2014) &rarr; Redfin
+* Ahmad Mahmoody (Sc.M. Computer Science, 2013) &rarr; Brown Computer Science Ph.D. (Advisor: Eli Upfal)
+* Alexandra Papoutsaki (Sc.M. Computer Science 2013) &rarr; Brown Computer Science Ph.D. (Advisor: Jeff Huang)
 * Borislav Hristov (Sc.B./Sc.M. 2010) &rarr; Oracle &rarr; Princeton Computer Science Ph.D. Program
 * Selim Onal (Sc.M. 2010) &rarr; Oracle &rarr; Google
 * Brendan Hickey (Sc.M. 2009) &rarr;  Google
 * Eric Lim (Sc.M. 2007) &rarr; Ph.D. Biology, Brown University 2011
 
 
-
-#### Postdoctoral Fellows and Research Faculty
-* Jason Dobson (Postdoctoral Fellow, 2013-2014) &rarr; Novartis
-* [Iman Hajirasouliha](http://www.imanh.org/) (Postdoctoral Fellow, 2013-2014) &rarr; Postdoctoral Fellow, Stanford University &rarr; Assistant Professor, Weil Cornell Medical School
-* [Fabio Vandin](http://www.dei.unipd.it/~vandinfa/) (Visiting Ph.D. Student and Postdoctoral Fellow, 2008-2013) &rarr; Assistant Professor, University of Southern Denmark &rarr; Associate Professor, University of Padova
-* [Suzanne Sindi](http://faculty.ucmerced.edu/ssindi/) (Postdoctoral Fellow 2006-2012) &rarr; Assistant Professor, UC Merced
-
 #### Undergraduate and Visiting Students
+* Uthsav Chitra (Honors Thesis, Sc.B. Computer Science, 2017; UTRA, Summer 2015)
+* David Liu (Honors Thesis, Sc.B. Computer Science, 2017; UTRA Summer, 2014 and 2016)
+* Eddie Williams (UTRA, Summer 2016)
+* Michael Mueller (UTRA, Summer 2016)
 * Alex Asherly (UTRA, Summer 2015)
-* Uthsav Chitra (UTRA, Summer 2015)
 * Isaac Kim (UTRA, Summer 2015)
 * David Liu (UTRA, Summer 2014)
 * Younhun Kim (UTRA, Summer 2014)
