@@ -5,7 +5,13 @@ container_css_class: container
 ---
 
 # news
-
+## May 1, 2017
+Congratulations to Postdoctoral Researcher [Mohammed El-Kebir](http://www.el-kebir.net) who will start as a tenure-track Assistant Professor of [Computer Science at University of Illinois, Urbana-Champaign](http://cs.illinois.edu) in January, 2018!
+      
+## April 22, 2017
+   Welcome to new Postdoctoral Researcher [Simone Zaccaria](https://scholar.google.it/citations?user=_dJLciQAAAAJ&hl=en), 
+        who joined the group after receiving his Ph.D. from University of Milano-Bicocca. 
+       
 ## September 1, 2016
 The Raphael group has moved!  Ben Raphael is now a Professor in the [Department of Computer Science at Princeton University](https://www.cs.princeton.edu).  We welcome applications for new students and postdocs.
 
