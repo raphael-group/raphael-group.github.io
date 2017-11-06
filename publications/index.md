@@ -11,11 +11,11 @@ container_css_class: container publications
 ### Preprints and In press ###
 
 * [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
-**Identifying Simultaneous Rearrangements in Cancer Genomes**
+	**Identifying Simultaneous Rearrangements in Cancer Genomes**
 
-L Oesper, S Dantas, _BJ Raphael_
+	L Oesper, S Dantas, _BJ Raphael_
 
-*bioRxiv, 164855*
+	*bioRxiv, 164855*
 	
 ### 2017 ###
 
@@ -24,9 +24,9 @@ L Oesper, S Dantas, _BJ Raphael_
 * [![SingleCellViolations](../assets/img/papers/missing.svg)]()
 **Single-cell sequencing data reveal widespread recurrence and loss of mutational hits in the life histories of tumors**
 
-J Kuipers, K Jahn, _BJ Raphael, N Beerenwinkel
+	J Kuipers, K Jahn, _BJ Raphael_, N Beerenwinkel
 
-*Genome research*
+	*Genome research*
 
 * [![ISMB2017](../assets/img/papers/missing.svg)]()
 	**Tumor Phylogeny Inference Using Tree-Constrained Importance Sampling**
@@ -36,12 +36,11 @@ J Kuipers, K Jahn, _BJ Raphael, N Beerenwinkel
 	*ISMB 2017, Bioinformatics*. 33(14), i152-i160.
 	
 * [![TCGAPDAC](../assets/img/papers/missing.svg)]()
-
 **Integrated Genomic Characterization of Pancreatic Ductal Adenocarcinoma**
 
-_BJ Raphael_, RH Hruban, AJ Aguirre, TCGA Research Network
+	_BJ Raphael_, RH Hruban, AJ Aguirre, TCGA Research Network
 
-*Cancer Cell* 32 (2), 185-203. e13
+	*Cancer Cell* 32 (2), 185-203. e13
 
 * [![NetworkPropagationReview](../assets/img/papers/missing.svg)]()
 **Network propagation: a universal amplifier of genetic associations**
