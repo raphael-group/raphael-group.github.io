@@ -12,14 +12,20 @@ container_css_class: container publications
 
 * [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
 	**Identifying Simultaneous Rearrangements in Cancer Genomes**
-
 	L Oesper, S Dantas, _BJ Raphael_
-
 	*bioRxiv, 164855*
 	
 ### 2017 ###
 
 ##### Journal Articles
+
+* [![LinkedReadSV](../assets/img/papers/missing.svg)](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx712/4590027?guestAccessKey=7d943cd2-f47a-4012-9c3e-fe69e3bef333)
+**Identifying structural variants using linked-read sequencing data**
+
+R Elyanow, HT Wu, _BJ Raphael_
+
+*RECOMB Computational Cancer Biology 2017, Bioinformatics* (2017) Advance online publication.
+
 
 * [![SingleCellViolations](../assets/img/papers/missing.svg)]()
 **Single-cell sequencing data reveal widespread recurrence and loss of mutational hits in the life histories of tumors**
