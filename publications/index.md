@@ -11,8 +11,9 @@ container_css_class: container publications
 ### Preprints and In press ###
 
 * [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
-	**Identifying Simultaneous Rearrangements in Cancer Genomes**
+**Identifying Simultaneous Rearrangements in Cancer Genomes**
 	L Oesper, S Dantas, _BJ Raphael_
+	
 	*bioRxiv, 164855*
 	
 ### 2017 ###
@@ -22,9 +23,9 @@ container_css_class: container publications
 * [![LinkedReadSV](../assets/img/papers/missing.svg)](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx712/4590027?guestAccessKey=7d943cd2-f47a-4012-9c3e-fe69e3bef333)
 **Identifying structural variants using linked-read sequencing data**
 
-R Elyanow, HT Wu, _BJ Raphael_
+	R Elyanow, HT Wu, _BJ Raphael_
 
-*RECOMB Computational Cancer Biology 2017, Bioinformatics* (2017) Advance online publication.
+	*RECOMB Computational Cancer Biology 2017, Bioinformatics* (2017) Advance online publication.
 
 
 * [![SingleCellViolations](../assets/img/papers/missing.svg)]()
@@ -35,7 +36,7 @@ R Elyanow, HT Wu, _BJ Raphael_
 	*Genome research*
 
 * [![ISMB2017](../assets/img/papers/missing.svg)]()
-	**Tumor Phylogeny Inference Using Tree-Constrained Importance Sampling**
+**Tumor Phylogeny Inference Using Tree-Constrained Importance Sampling**
 	
 	_G. Satas_, _B.J. Raphael_
 	
