@@ -8,24 +8,70 @@ container_css_class: container publications
 
 # publications
 
-### In press ###
+### Preprints and In press ###
+
+* [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
+**Identifying Simultaneous Rearrangements in Cancer Genomes**
+
+L Oesper, S Dantas, _BJ Raphael_
+
+*bioRxiv, 164855*
+	
+### 2017 ###
+
+##### Journal Articles
+
+* [![SingleCellViolations](../assets/img/papers/missing.svg)]()
+**Single-cell sequencing data reveal widespread recurrence and loss of mutational hits in the life histories of tumors**
+
+J Kuipers, K Jahn, _BJ Raphael, N Beerenwinkel
+
+*Genome research*
+
 * [![ISMB2017](../assets/img/papers/missing.svg)]()
 	**Tumor Phylogeny Inference Using Tree-Constrained Importance Sampling**
 	
 	_G. Satas_, _B.J. Raphael_
 	
-	*ISMB 2017, Bioinformatics* (In Press).
+	*ISMB 2017, Bioinformatics*. 33(14), i152-i160.
+	
+* [![TCGAPDAC](../assets/img/papers/missing.svg)]()
 
-* [![RECOMB2017](../assets/img/papers/missing.svg)]()
-	**The Copy-Number Tree Mixture Deconvolution Problem and Applications to Multi-Sample Bulk Sequencing Tumor Data**
-	
-	_S. Zaccaria_, _M. El-Kebir_, G.W. Klau, _B.J. Raphael_
-	
-	*RECOMB 2017* (In Press).
-	
-### 2017 ###
+**Integrated Genomic Characterization of Pancreatic Ductal Adenocarcinoma**
 
-##### Journal Articles
+_BJ Raphael_, RH Hruban, AJ Aguirre, TCGA Research Network
+
+*Cancer Cell* 32 (2), 185-203. e13
+
+* [![NetworkPropagationReview](../assets/img/papers/missing.svg)]()
+**Network propagation: a universal amplifier of genetic associations**
+
+L Cowen, T Ideker, _BJ Raphael_, R Sharan
+
+*Nature Reviews Genetics*
+
+* [![GenomeVIP](../assets/img/papers/missing.svg)]()
+**GenomeVIP: a cloud platform for genomic variant discovery and interpretation**
+
+RJ Mashl, AD Scott, K Huang, MA Wyczalkowski, CJ Yoon, B Niu, E DeNardo, VD Yellapantula
+ RE Handsaker, K Chen, DC Koboldt, K Ye, D Fenyö, _BJ Raphael_, MC Wendl, L Ding
+ 
+*Genome Research*, gr. 211656.116
+
+* [![CNTAMB](../assets/img/papers/missing.svg)]()
+**Complexity and algorithms for copy-number evolution problems** 
+
+_M El-Kebir_, _BJ Raphael_, R Shamir, R Sharan, _S Zaccaria_, M Zehavi,  R Zeira
+
+*Algorithms for Molecular Biology* 12 (1), 13
+
+* [![PegasusALL](../assets/img/papers/missing.svg)]()
+**Novel gene and network associations found for lymphoblastic leukemia using case-control and family-based studies in multi-ethnic populations**
+
+P Nakka, NP Archer, H Xu, PJ Lupo, _BJ Raphael_, JJ Yang, S Ramachandran 
+
+*Cancer Epidemiology and Prevention Biomarkers*  (10):1531-1539
+
 
 * [![TCGAESCA](../assets/img/papers/missing.svg)](http://www.nature.com/nature/journal/v541/n7636/full/nature20805.html)
 	**Integrated genomic characterization of oesophageal carcinoma**
@@ -33,6 +79,16 @@ container_css_class: container publications
 	_The Cancer Genome Atlas Research Network_
 
 	*Nature*, 541(7636):169-175.
+
+##### Conference Proceedings
+
+* [![RECOMB2017](../assets/img/papers/missing.svg)]()
+	**The Copy-Number Tree Mixture Deconvolution Problem and Applications to Multi-Sample Bulk Sequencing Tumor Data**
+	
+	_S. Zaccaria_, _M. El-Kebir_, G.W. Klau, _B.J. Raphael_
+	
+	*RECOMB 2017*.
+	
 
 ### 2016 ###
 
