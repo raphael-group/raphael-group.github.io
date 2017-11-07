@@ -51,32 +51,23 @@ container_css_class: container publications
 
 * [![NetworkPropagationReview](../assets/img/papers/missing.svg)]()
 **Network propagation: a universal amplifier of genetic associations**
-
-L Cowen, T Ideker, _BJ Raphael_, R Sharan
-
-*Nature Reviews Genetics*
+	L Cowen, T Ideker, _BJ Raphael_, R Sharan
+	*Nature Reviews Genetics*
 
 * [![GenomeVIP](../assets/img/papers/missing.svg)]()
 **GenomeVIP: a cloud platform for genomic variant discovery and interpretation**
-
-RJ Mashl, AD Scott, K Huang, MA Wyczalkowski, CJ Yoon, B Niu, E DeNardo, VD Yellapantula
- RE Handsaker, K Chen, DC Koboldt, K Ye, D Fenyö, _BJ Raphael_, MC Wendl, L Ding
- 
-*Genome Research*, gr. 211656.116
+	RJ Mashl, AD Scott, K Huang, MA Wyczalkowski, CJ Yoon, B Niu, E DeNardo, VD Yellapantula, RE Handsaker, K Chen, DC Koboldt, K Ye, D Fenyö, _BJ Raphael_, MC Wendl, L Ding
+	*Genome Research*, gr. 211656.116
 
 * [![CNTAMB](../assets/img/papers/missing.svg)]()
 **Complexity and algorithms for copy-number evolution problems** 
-
-_M El-Kebir_, _BJ Raphael_, R Shamir, R Sharan, _S Zaccaria_, M Zehavi,  R Zeira
-
-*Algorithms for Molecular Biology* 12 (1), 13
+	_M El-Kebir_, _BJ Raphael_, R Shamir, R Sharan, _S Zaccaria_, M Zehavi,  R Zeira
+	*Algorithms for Molecular Biology* 12 (1), 13
 
 * [![PegasusALL](../assets/img/papers/missing.svg)]()
 **Novel gene and network associations found for lymphoblastic leukemia using case-control and family-based studies in multi-ethnic populations**
-
-P Nakka, NP Archer, H Xu, PJ Lupo, _BJ Raphael_, JJ Yang, S Ramachandran 
-
-*Cancer Epidemiology and Prevention Biomarkers*  (10):1531-1539
+	P Nakka, NP Archer, H Xu, PJ Lupo, _BJ Raphael_, JJ Yang, S Ramachandran 
+	*Cancer Epidemiology and Prevention Biomarkers*  (10):1531-1539
 
 
 * [![TCGAESCA](../assets/img/papers/missing.svg)](http://www.nature.com/nature/journal/v541/n7636/full/nature20805.html)
