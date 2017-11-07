@@ -147,7 +147,6 @@ container_css_class: container publications
 * [![TCGAKIRP](../assets/img/papers/missing.svg)](http://www.nejm.org/doi/full/10.1056/NEJMoa1505917)
         **Comprehensive Molecular Characterization of Papillary Renal-Cell Carcinoma**
     
-
 	_The Cancer Genome Atlas Research Network_
 
 	*New England Journal of Medicine*, (2016) 374(2):135-45.
@@ -187,7 +186,6 @@ container_css_class: container publications
 * [![TADTree](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/early/2015/09/23/bioinformatics.btv485.abstract)
         **Identification of hierarchical chromatin domains**
       
-
 	_C. Weinreb_ and _B.J. Raphael_
 
 	*Bioinformatics*, (2015) pii: btv485.
@@ -218,7 +216,6 @@ container_css_class: container publications
 * [![GerbiRNA](../assets/img/papers/missing.svg)](http://rnajournal.cshlp.org/content/21/10/1719.abstract)
         **Universal and Domain-Specific Sequences in 23S-28S Ribosomal RNA Identified by Computational Phylogenetics.**
        
-
 	S.M. Doris, D.R. Smith, J.N. Beamesderfer, _B.J. Raphael_,  J.A. Nathanson, S.A. Gerbi
 
 	*RNA*, (2015) 21(10):1719-30.
@@ -267,7 +264,6 @@ container_css_class: container publications
 * [![NAHR](../assets/img/papers/missing.svg)](http://www.genomebiology.com/content/16/1/72)
 	**Detecting non-allelic homologous recombination from high-throughput sequencing data.**
 
-
 	_M. Parks_, C.E. Lawrence,_B.J. Raphael_
 
 	*Genome Biology*, (2015) 8;16(1):72.
@@ -287,7 +283,6 @@ container_css_class: container publications
 * [![Progression JCB](../assets/img/papers/missing.svg)](http://online.liebertpub.com/doi/10.1089/cmb.2014.0161)
         **Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data**
       
-
 	_B.J. Raphael_, _F. Vandin_
 	
 	*Journal of Computational Biology*, (2015) 22(6):510-27.
@@ -297,7 +292,6 @@ container_css_class: container publications
 * [![HotNet2](../assets/img/papers/hotnet2.jpg)](http://www.nature.com/ng/journal/v47/n2/full/ng.3168.html#)
         **Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes**
       
-
 	_M.D.M Leiserson*_, _F. Vandin*_, _H. Wu_, _J.R. Dobson_, _J.V. Eldridge_, _J.L. Thomas_, _A. Papoutsaki_, _Y. Kim_, B. Niu, M. McLellan, M.S. Lawrence, A. Gonzalez-Perez, D. Tamborero, Y. Cheng, G.A. Ryslik, N. Lopez-Bigas, G. Getz, L. Ding, _B.J Raphael_
 	
 	*Nature Genetics*, (2015) 47(2):106-114.
