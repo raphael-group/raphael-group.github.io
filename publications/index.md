@@ -98,7 +98,7 @@ container_css_class: container publications
 
 ##### Journal Articles
 
-* [![WExT](../assets/img/papers/missing.svg)](http://bioinformatics.oxfordjournals.org/content/32/17/i736.long)
+* [![WExT](../assets/img/papers/wext.jpg)](http://bioinformatics.oxfordjournals.org/content/32/17/i736.long)
 	**A Weighted Exact Test for Mutually Exclusive Mutations in Cancer**
 
 	_M.D.M. Leiserson_, _M.A. Reyna_, _B.J. Raphael_
