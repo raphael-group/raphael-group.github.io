@@ -47,8 +47,9 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 * [Crystal Kahn](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [NSF Graduate Research Fellowship, 2005-2008] &rarr; Ab Initio &rarr; Assistant Professor, Amherst College 
 
 #### Postdoctoral Fellows and Research Faculty
-* [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-January 2018)
-* Matthew Reyna (Postdoctoral Research Associate, August 2014-November 2018) 
+* Sergey Aganezov (Postdoctoral Research Associate, July 2017-July 2018) &rarr; Postdoctoral Fellow, Johns Hopkins University
+* [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-January 2018) &rarr; Assistant Professor, Computer Science, University of Illinois Urbana-Champaign
+* Matthew Reyna (Postdoctoral Research Associate, August 2014-November 2018) &rarr; Postdoctoral Fellow, Emory University
 * [Dora Erdos](http://cs-people.bu.edu/edori/) (Postdoctoral Research Associate, September 2015-August 2016) &rarr; Lecturer, Boston University
 * Jason Dobson (Postdoctoral Fellow, 2013-2014) &rarr; Novartis
 * [Iman Hajirasouliha](http://www.imanh.org/) (Postdoctoral Fellow, 2013-2014) &rarr; Postdoctoral Fellow, Stanford University &rarr; Assistant Professor, Weil Cornell Medical School
@@ -56,7 +57,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 * [Suzanne Sindi](http://faculty.ucmerced.edu/ssindi/) (Postdoctoral Fellow 2006-2012) &rarr; Assistant Professor, UC Merced
 
 ### Master's Students
-* Ashley Conard (Sc.M. Computational Biology and Computer Science 2018)
+* Ashley Conard (Sc.M. Computational Biology and Computer Science 2018) &rarr; Ph.D. student, Brown University
 * Jeremy Watson (Sc.M. 2016)
 * John Shen (Sc.M. 2015) &rarr; IBM Watson
 * Jonathan Eldridge (Sc.M. 2014) &rarr; Redfin
@@ -69,17 +70,17 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 
 #### Undergraduate and Visiting Students
-* Alexandra Wong (UTRA Summer 2015 and 2016 &rarr;
+* Alexandra Wong (UTRA Summer 2015 and 2016 &rarr; Yelp &rarr; M.D. student, Brown University
 * Jonathan Chang (UTRA, Summer 2016)
-* Zheng Shi (UTRA, Summer 2016)
+* Zheng Shi (UTRA, Summer 2016) &rarr; Ph.D. student, Computer Science, Princeton University
 * Uthsav Chitra (Honors Thesis, Sc.B. Computer Science, 2017; UTRA, Summer 2015)
 * David Liu (Honors Thesis, Sc.B. Computer Science, 2017; UTRA Summer, 2014 and 2016)
 * Eddie Williams (UTRA, Summer 2016)
 * Michael Mueller (UTRA, Summer 2016)
 * Alex Asherly (UTRA, Summer 2015)
 * Isaac Kim (UTRA, Summer 2015)
-* David Liu (UTRA, Summer 2014)
-* Younhun Kim (UTRA, Summer 2014)
+* David Liu (UTRA, Summer 2014) &rarr; M.D. Student, Brown University
+* Younhun Kim (UTRA, Summer 2014) &rarr; Ph.D.Student, MIT
 * Jacob Thomas (UTRA, Summer 2014)
 * Hannah Acheson-Field (Honors Thesis, Sc.B. Computational Biology, 2015) &rarr; 
 * Caleb Weinreb &rarr; Ph.D. Student, Harvard Systems Biology
