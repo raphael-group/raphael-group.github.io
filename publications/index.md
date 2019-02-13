@@ -16,7 +16,27 @@ container_css_class: container publications
 	L Oesper, S Dantas, _BJ Raphael_
 	
 	*bioRxiv, 164855*
-	
+
+* [![ICGCPCAWGNetworks](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/385294v1)
+	**Pathway and network analysis of more than 2,500 whole cancer genomes**
+
+	_M.A. Reyna_, ...,  J. Reimand, J.M. Stuart, _B.J. Raphael_ on behalf of the PCAWG Drivers and Functional Annotation Group, ICGC/TCGA Pan-Cancer Analysis of Whole Genomes
+
+### 2018 ###
+
+##### Journal Articles
+
+* [![HierarchicalHotNet](../assets/img/papers/hierarchical-hotnet.jpg)](https://academic.oup.com/bioinformatics/article/34/17/i972/5093236)
+	**Hierarchical HotNet: identifying hierarchies of altered subnetworks**
+
+	_M.A. Reyna_, M.D.M. Leiserson, _B.J. Raphael_
+
+	*ECCB 2018/Bioinformatics*, 34(17):i972-i980.
+
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/hierarchical-hotnet">Software Release</a>
+	</span>
+
 ### 2017 ###
 
 ##### Journal Articles
@@ -113,7 +133,7 @@ container_css_class: container publications
 	</span>
 	<span class="label label-info">
         	<a href="http://arxiv.org/abs/1607.02447" target="_new">arXiv preprint</a>
-    	</span>
+    </span>
 
 * [![PEGASUS](../assets/img/papers/missing.svg)](http://www.genetics.org/content/204/2/783)
 	**Gene and Network Analysis of Common Variants Reveals Novel Associations in Multiple Complex Diseases**
