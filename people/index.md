@@ -13,18 +13,19 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 
 ### Postdoctoral Fellows 
 * [Simone Zaccaria](https://scholar.google.it/citations?user=_dJLciQAAAAJ&hl=en) (Postdoctoral Research Associate, April 2017-present)
-* [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-present)
-* Matthew Reyna (Postdoctoral Research Associate, August 2014-present) 
+* [Ron Zeira](http://www.cs.tau.ac.il/~ronzeira/) (Postdoctoral Research Associate, January 2019-present)
+
 
 ### Ph.D. Students
-* [Gryte Satas](https://cs.brown.edu/people/gsatas/) (Computer Science). 2014-present
-* Ashley Conard (Computational Biology and Computer Science). 2015-present
 * Rebecca Elyanow (Computational Biology and Computer Science).  2015-present
+* Matthew Myers (Computer Science). 2017-present
+* Tyler Park (Quantitative and Computational Biology). 2018-present
+* [Gryte Satas](https://cs.brown.edu/people/gsatas/) (Computer Science). 2014-present
+
 
 ### Undergraduates
-* Alexandra Wong (UTRA Summer 2015 and 2016)
-* Jonathan Chang (UTRA, Summer 2016)
-* Zheng Shi (UTRA, Summer 2016)
+* Geoffrey Mon
+* Devina Singh
 
 <a name="jobs"></a> 
 
@@ -46,6 +47,8 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 * [Crystal Kahn](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [NSF Graduate Research Fellowship, 2005-2008] &rarr; Ab Initio &rarr; Assistant Professor, Amherst College 
 
 #### Postdoctoral Fellows and Research Faculty
+* [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-January 2018)
+* Matthew Reyna (Postdoctoral Research Associate, August 2014-November 2018) 
 * [Dora Erdos](http://cs-people.bu.edu/edori/) (Postdoctoral Research Associate, September 2015-August 2016) &rarr; Lecturer, Boston University
 * Jason Dobson (Postdoctoral Fellow, 2013-2014) &rarr; Novartis
 * [Iman Hajirasouliha](http://www.imanh.org/) (Postdoctoral Fellow, 2013-2014) &rarr; Postdoctoral Fellow, Stanford University &rarr; Assistant Professor, Weil Cornell Medical School
@@ -53,6 +56,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 * [Suzanne Sindi](http://faculty.ucmerced.edu/ssindi/) (Postdoctoral Fellow 2006-2012) &rarr; Assistant Professor, UC Merced
 
 ### Master's Students
+* Ashley Conard (Sc.M. Computational Biology and Computer Science 2018)
 * Jeremy Watson (Sc.M. 2016)
 * John Shen (Sc.M. 2015) &rarr; IBM Watson
 * Jonathan Eldridge (Sc.M. 2014) &rarr; Redfin
@@ -65,6 +69,9 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 
 #### Undergraduate and Visiting Students
+* Alexandra Wong (UTRA Summer 2015 and 2016 &rarr;
+* Jonathan Chang (UTRA, Summer 2016)
+* Zheng Shi (UTRA, Summer 2016)
 * Uthsav Chitra (Honors Thesis, Sc.B. Computer Science, 2017; UTRA, Summer 2015)
 * David Liu (Honors Thesis, Sc.B. Computer Science, 2017; UTRA Summer, 2014 and 2016)
 * Eddie Williams (UTRA, Summer 2016)
@@ -93,7 +100,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 #### High School Students 
 Funded through [NSF CAREER award](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1053753) Summer outreach program
-
+* Christina Wong (Summer 2018) &rarr;
 * Isabella Millard (Summer 2015) &rarr;
 * Anthony Rolland (Summer 2014) &rarr; MIT, undergraduate
 * Ava Brignol (Summer 2013, 2014) &rarr; Harvard University, undergraduate
