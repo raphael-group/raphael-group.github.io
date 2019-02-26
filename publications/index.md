@@ -9,7 +9,12 @@ container_css_class: container publications
 # publications
 
 ### Preprints and In press ###
+* [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://www.biorxiv.org/content/10.1101/544346v1)
+**netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
 
+	R Elyanow, B Dumitrascu, B Engelgardt, _BJ Raphael_
+	
+	
 * [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
 **Identifying Simultaneous Rearrangements in Cancer Genomes**
 
