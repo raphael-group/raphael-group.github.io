@@ -9,6 +9,16 @@ container_css_class: container publications
 # publications
 
 ### Preprints and In press ###
+
+
+* [![HATCHet](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/496174v1)
+**Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data**
+
+	S Zaccaria and _BJ Raphael_
+	(Dec. 17, 2018) 
+	doi.org/10.1101/496174
+
+
 * [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://www.biorxiv.org/content/10.1101/544346v1)
 **netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
 
