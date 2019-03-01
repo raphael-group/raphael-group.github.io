@@ -12,7 +12,7 @@ container_css_class: container
 Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
 
 ### Postdoctoral Fellows 
-* [Simone Zaccaria](https://scholar.google.it/citations?user=_dJLciQAAAAJ&hl=en) (Postdoctoral Research Associate, April 2017-present)
+* [Simone Zaccaria](https://simozacca.github.io/) (Postdoctoral Research Associate, April 2017-present)
 * [Ron Zeira](http://www.cs.tau.ac.il/~ronzeira/) (Postdoctoral Research Associate, January 2019-present)
 
 
