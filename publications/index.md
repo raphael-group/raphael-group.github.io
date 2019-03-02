@@ -18,12 +18,17 @@ container_css_class: container publications
 	(Dec. 17, 2018) 
 	doi.org/10.1101/496174
 
+* [![CALDER](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/526814v1)
+**Inferring tumor evolution from longitudinal samples**
+
+	M Myers, G Satas, _BJ Raphael_ 
+	(Jan. 22, 2019)
+	doi.org/10.1101/526814
 
 * [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://www.biorxiv.org/content/10.1101/544346v1)
 **netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
 
-	R Elyanow, B Dumitrascu, B Engelgardt, _BJ Raphael_
-	
+	R Elyanow, B Dumitrascu, B Engelgardt, _BJ Raphael_	
 	
 * [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
 **Identifying Simultaneous Rearrangements in Cancer Genomes**
