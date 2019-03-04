@@ -56,6 +56,20 @@ container_css_class: container publications
 	<span class="label label-danger">
 		<a href="https://github.com/raphael-group/hierarchical-hotnet">Software Release</a>
 	</span>
+	
+* [![SC-Hap](../assets/img/papers/missing.svg)]()
+**Haplotype phasing in single-cell DNA-sequencing data**
+	
+	_G. Satas_, _B.J. Raphael_
+	
+	*ISMB 2018, Bioinformatics*. 34 (13), i211-i217
+	
+* [![MACHINA](../assets/img/papers/missing.svg)]()
+**Inferring parsimonious migration histories for metastatic cancers**
+	
+	_M. El-Kebir_, _G. Satas_, _B.J. Raphael_
+	
+	*Nature Genetics*. 50, 718–726	
 
 ### 2017 ###
 
