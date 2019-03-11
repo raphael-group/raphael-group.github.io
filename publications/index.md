@@ -10,25 +10,53 @@ container_css_class: container publications
 
 ### Preprints and In press ###
 
+* [![RCK](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/560839v1)
+**Reconstruction of clone- and haplotype-specific cancer genome karyotypes from bulk tumor samples**
 
-* [![HATCHet](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/496174v1)
+	S Aganezov, _BJ Raphael_
+	
+	Preprint (Feb. 25, 2019)
+	
+	<span class="label label-info">
+        	<a href="https://www.biorxiv.org/content/10.1101/560839v1" target="_new">bioRxiv preprint</a>
+    </span>
+    
+
+    
+* [![CALDER](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/526814v1)
+**Inferring tumor evolution from longitudinal samples**
+
+	M Myers, G Satas, _BJ Raphael_ 
+	
+	RECOMB 2019 [In Press] 
+	
+	bioRxiv (Jan. 22, 2019)
+	
+	doi.org/10.1101/526814
+	<span class="label label-info">
+        	<a href="https://www.biorxiv.org/content/10.1101/526814v1" target="_new">bioRxiv preprint</a>
+    	</span>
+
+* [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://www.biorxiv.org/content/10.1101/544346v1)
+**netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
+
+	R Elyanow, B Dumitrascu, B Engelgardt, _BJ Raphael_
+	RECOMB 2019, In Press
+	<span class="label label-info">
+       		<a href="https://www.biorxiv.org/content/10.1101/544346v1" target="_new">bioRxiv preprint</a>
+    	</span>	
+    
+ * [![HATCHet](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/496174v1)
 **Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data**
 
 	S Zaccaria and _BJ Raphael_
 	(Dec. 17, 2018) 
 	doi.org/10.1101/496174
-
-* [![CALDER](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/526814v1)
-**Inferring tumor evolution from longitudinal samples**
-
-	M Myers, G Satas, _BJ Raphael_ 
-	(Jan. 22, 2019)
-	doi.org/10.1101/526814
-
-* [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://www.biorxiv.org/content/10.1101/544346v1)
-**netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
-
-	R Elyanow, B Dumitrascu, B Engelgardt, _BJ Raphael_	
+	
+	<span class="label label-info">
+        	<a href="https://www.biorxiv.org/content/10.1101/496174v1" target="_new">bioRxiv preprint</a>
+	</span>
+    
 	
 * [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
 **Identifying Simultaneous Rearrangements in Cancer Genomes**
