@@ -33,6 +33,7 @@ container_css_class: container publications
 	bioRxiv (Jan. 22, 2019)
 	
 	doi.org/10.1101/526814
+	
 	<span class="label label-info">
         	<a href="https://www.biorxiv.org/content/10.1101/526814v1" target="_new">bioRxiv preprint</a>
     	</span>
@@ -41,7 +42,9 @@ container_css_class: container publications
 **netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
 
 	R Elyanow, B Dumitrascu, B Engelgardt, _BJ Raphael_
+	
 	RECOMB 2019, In Press
+	
 	<span class="label label-info">
        		<a href="https://www.biorxiv.org/content/10.1101/544346v1" target="_new">bioRxiv preprint</a>
     	</span>	
@@ -58,12 +61,7 @@ container_css_class: container publications
 	</span>
     
 	
-* [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
-**Identifying Simultaneous Rearrangements in Cancer Genomes**
 
-	L Oesper, S Dantas, _BJ Raphael_
-	
-	*bioRxiv, 164855*
 
 * [![ICGCPCAWGNetworks](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/385294v1)
 	**Pathway and network analysis of more than 2,500 whole cancer genomes**
@@ -83,6 +81,17 @@ container_css_class: container publications
 
 	<span class="label label-danger">
 		<a href="https://github.com/raphael-group/hierarchical-hotnet">Software Release</a>
+	</span>
+
+* [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
+**Identifying Simultaneous Rearrangements in Cancer Genomes**
+
+	L Oesper, S Dantas, _BJ Raphael_
+	
+	RECOMB Computational Cancer Biology 2017 and Bioinformatics, (2), 346-352.
+	
+		<span class="label label-info">
+        	<a href="https://www.biorxiv.org/content/10.1101/164855v1" target="_new">bioRxiv preprint</a>
 	</span>
 	
 * [![SC-Hap](../assets/img/papers/missing.svg)]()
