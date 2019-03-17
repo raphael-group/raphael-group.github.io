@@ -53,6 +53,7 @@ container_css_class: container publications
 **Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data**
 
 	_S Zaccaria_ and _BJ Raphael_
+	
 	bioRxiv (Dec. 17, 2018) doi.org/10.1101/496174
 	
 	<span class="label label-info">
