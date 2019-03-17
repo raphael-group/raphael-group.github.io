@@ -59,13 +59,20 @@ container_css_class: container publications
         	<a href="https://www.biorxiv.org/content/10.1101/496174v1" target="_new">bioRxiv preprint</a>
 	</span>
     
-	
 
 
 * [![ICGCPCAWGNetworks](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/385294v1)
 	**Pathway and network analysis of more than 2,500 whole cancer genomes**
 
 	_M.A. Reyna_, ...,  J. Reimand, J.M. Stuart, _B.J. Raphael_ on behalf of the PCAWG Drivers and Functional Annotation Group, ICGC/TCGA Pan-Cancer Analysis of Whole Genomes
+	
+	bioRxiv (Aug. 7, 2018) doi.org/10.1101/385294
+	
+	<span class="label label-info">
+        	<a href="https://www.biorxiv.org/content/10.1101/385294v1" target="_new">bioRxiv preprint</a>
+	</span>
+	
+	
 
 ### 2018 ###
 
@@ -82,14 +89,14 @@ container_css_class: container publications
 		<a href="https://github.com/raphael-group/hierarchical-hotnet">Software Release</a>
 	</span>
 
-* [![ParksFDR](../assets/img/papers/missing.svg)]()
+* [![ParksFDR](../assets/img/papers/missing.svg)](https://link.springer.com/content/pdf/10.1186%2Fs12859-018-2356-2.pdf)
 	**Using controls to limit false discovery in the era of big data**
 	
 	_M.M. Parks_, _B.J. Raphael_, C.E. Lawrence.  
 	
 	*BMC Bioinformatics* (2018) 19 (1), 323.
 
-* [![MACHINA](../assets/img/papers/missing.svg)]()
+* [![MACHINA](../assets/img/papers/missing.svg)](https://www.nature.com/articles/s41588-018-0106-z)
 **Inferring parsimonious migration histories for metastatic cancers**
 	
 	_M. El-Kebir_, _G. Satas_, _B.J. Raphael_
@@ -97,7 +104,7 @@ container_css_class: container publications
 	*Nature Genetics*. 50, 718–726	
 
 
-* [![SC-Hap](../assets/img/papers/missing.svg)]()
+* [![SC-Hap](../assets/img/papers/missing.svg)](https://academic.oup.com/bioinformatics/article/34/13/i211/5045800)
 **Haplotype phasing in single-cell DNA-sequencing data**
 	
 	_G. Satas_, _B.J. Raphael_
@@ -105,15 +112,21 @@ container_css_class: container publications
 	*ISMB 2018, Bioinformatics*. 34 (13), i211-i217
 	
 
-* [![PanCanAtlasCell](../assets/img/papers/missing.svg)]()
+* [![PanCanAtlasCell](../assets/img/papers/missing.svg)](https://www.sciencedirect.com/science/article/pii/S0092867418303635)
 **Pathogenic germline variants in 10,389 adult cancers** 
 
 	K Huang, RJ Mashl, Y Wu, DI Ritter, J Wang, C Oh, M Paczkowska, ... .   
 
 	*Cell* (2018) 173 (2), 355-370. e14.
 
+* [![VisibleML](../assets/img/papers/missing.svg)](https://www.sciencedirect.com/science/article/pii/S0092867418307190)
+**Visible Machine Learning for Biomedicine**
 
-* [![Grasso2018](../assets/img/papers/missing.svg)]()
+	K.Y. Michael, J. Ma, J. Fisher, J.F. Kreisberg, _B.J. Raphael_, T Ideker
+	
+	*Cell* (2018) 173 (7), 1562-1565.
+
+* [![Grasso2018](../assets/img/papers/missing.svg)](http://cancerdiscovery.aacrjournals.org/content/8/6/730)
 **Genetic mechanisms of immune evasion in colorectal cancer**
 
 	C.S. Grasso, … B.J. Raphael ….[52 total authors], U Peters.   
@@ -121,19 +134,28 @@ container_css_class: container publications
 	*Cancer Discovery* (2018) 8 (6), 730-749.
 
 
-* [![ThymomaTCGA](../assets/img/papers/missing.svg)]()
+* [![ThymomaTCGA](../assets/img/papers/missing.svg)](https://www.cell.com/cancer-cell/fulltext/S1535-6108(18)30003-5)
 **The Integrated Genomic Landscape of Thymic Epithelial Tumors**
 
 	M. Radovich, Pickering CR, Felau I, Ha G, Zhang H, Jo H, Hoadley KA, Anur P, Zhang J, McLellan M, Bowlby R, Matthew T, Danilova L, Hegde AM, Kim J, Leiserson MDM, Sethi G, Lu C, Ryan M, Su X, Cherniack AD, Robertson G, Akbani R, Spellman P, Weinstein JN, Hayes DN, B.J. Raphael, Lichtenberg T, Leraas K, Zenklusen JC, Cancer Genome Atlas Network, Fujimoto J, Scapulatempo-Neto C, Moreira AL, Hwang D, Huang J, Marino M, Korst R, Giaccone G, Gokmen-Polar Y, Badve S, Rajan A, Ströbel P, Girard N, Tsao MS, Marx A, Tsao AS, Loehrer PJ 
 
 	 *Cancer Cell* (2018) 33(2):244-258.e10.
 
-* [![JCB2018CNT](../assets/img/papers/missing.svg)]()
+* [![JCB2018CNT](../assets/img/papers/missing.svg)](https://www.liebertpub.com/doi/10.1089/cmb.2017.0253)
 	**Phylogenetic Copy-Number Factorization of Multiple Tumor Samples**
 	
 	_S. Zaccaria*_, _M. El-Kebir*_, G.W. Klau, _B.J. Raphael_
 	
 	Journal of Computational Biology (2018) 25(7):689-708.
+
+
+##### Edited Volumes
+
+* [![RECOMBProceddings](../assets/img/papers/missing.svg)](https://www.springer.com/us/book/9783319899282)
+**Proceedings of Research in Computational Molecular Biology: 22nd Annual International Conference, RECOMB 2018**
+
+	_B.J. Raphael_ (Ed).  
+	(2018) , Paris, France, April 21-24, 2018.
 
 ### 2017 ###
 
@@ -184,7 +206,7 @@ container_css_class: container publications
 
 	L Cowen, T Ideker, _BJ Raphael_, R Sharan
 	
-	*Nature Reviews Genetics*
+	*Nature Reviews Genetics* (2017) 18(9):551-562.
 
 * [![GenomeVIP](../assets/img/papers/missing.svg)]()
 **GenomeVIP: a cloud platform for genomic variant discovery and interpretation**
