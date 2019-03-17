@@ -26,7 +26,7 @@ container_css_class: container publications
 * [![CALDER](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/526814v1)
 **Inferring tumor evolution from longitudinal samples**
 
-	_M Myers_, _G Satas_sug, _BJ Raphael_ 
+	_M Myers_, _G Satas_, _BJ Raphael_ 
 	
 	RECOMB 2019 [In Press] 
 	
