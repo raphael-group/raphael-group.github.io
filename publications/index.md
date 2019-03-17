@@ -15,7 +15,7 @@ container_css_class: container publications
 
 	S Aganezov, _BJ Raphael_
 	
-	Preprint (Feb. 25, 2019)
+	bioRxiv (Feb. 25, 2019)
 	
 	<span class="label label-info">
         	<a href="https://www.biorxiv.org/content/10.1101/560839v1" target="_new">bioRxiv preprint</a>
@@ -26,13 +26,11 @@ container_css_class: container publications
 * [![CALDER](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/526814v1)
 **Inferring tumor evolution from longitudinal samples**
 
-	M Myers, G Satas, _BJ Raphael_ 
+	_M Myers_, _G Satas_sug, _BJ Raphael_ 
 	
 	RECOMB 2019 [In Press] 
 	
-	bioRxiv (Jan. 22, 2019)
-	
-	doi.org/10.1101/526814
+	bioRxiv (Jan. 22, 2019).  doi.org/10.1101/526814
 	
 	<span class="label label-info">
         	<a href="https://www.biorxiv.org/content/10.1101/526814v1" target="_new">bioRxiv preprint</a>
@@ -41,9 +39,11 @@ container_css_class: container publications
 * [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://www.biorxiv.org/content/10.1101/544346v1)
 **netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
 
-	R Elyanow, B Dumitrascu, B Engelgardt, _BJ Raphael_
+	_R Elyanow_, B Dumitrascu, B Engelgardt, _BJ Raphael_
 	
 	RECOMB 2019, In Press
+	
+	bioRxiv (Jan. 22, 2019). 
 	
 	<span class="label label-info">
        		<a href="https://www.biorxiv.org/content/10.1101/544346v1" target="_new">bioRxiv preprint</a>
@@ -52,9 +52,8 @@ container_css_class: container publications
  * [![HATCHet](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/496174v1)
 **Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data**
 
-	S Zaccaria and _BJ Raphael_
-	(Dec. 17, 2018) 
-	doi.org/10.1101/496174
+	_S Zaccaria_ and _BJ Raphael_
+	bioRxiv (Dec. 17, 2018) doi.org/10.1101/496174
 	
 	<span class="label label-info">
         	<a href="https://www.biorxiv.org/content/10.1101/496174v1" target="_new">bioRxiv preprint</a>
@@ -83,17 +82,21 @@ container_css_class: container publications
 		<a href="https://github.com/raphael-group/hierarchical-hotnet">Software Release</a>
 	</span>
 
-* [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
-**Identifying Simultaneous Rearrangements in Cancer Genomes**
+* [![ParksFDR](../assets/img/papers/missing.svg)]()
+	**Using controls to limit false discovery in the era of big data**
+	
+	_M.M. Parks_, _B.J. Raphael_, C.E. Lawrence.  
+	
+	*BMC Bioinformatics* (2018) 19 (1), 323.
 
-	L Oesper, S Dantas, _BJ Raphael_
+* [![MACHINA](../assets/img/papers/missing.svg)]()
+**Inferring parsimonious migration histories for metastatic cancers**
 	
-	RECOMB Computational Cancer Biology 2017 and Bioinformatics, (2), 346-352.
+	_M. El-Kebir_, _G. Satas_, _B.J. Raphael_
 	
-		<span class="label label-info">
-        	<a href="https://www.biorxiv.org/content/10.1101/164855v1" target="_new">bioRxiv preprint</a>
-	</span>
-	
+	*Nature Genetics*. 50, 718–726	
+
+
 * [![SC-Hap](../assets/img/papers/missing.svg)]()
 **Haplotype phasing in single-cell DNA-sequencing data**
 	
@@ -101,12 +104,36 @@ container_css_class: container publications
 	
 	*ISMB 2018, Bioinformatics*. 34 (13), i211-i217
 	
-* [![MACHINA](../assets/img/papers/missing.svg)]()
-**Inferring parsimonious migration histories for metastatic cancers**
+
+* [![PanCanAtlasCell](../assets/img/papers/missing.svg)]()
+**Pathogenic germline variants in 10,389 adult cancers** 
+
+	K Huang, RJ Mashl, Y Wu, DI Ritter, J Wang, C Oh, M Paczkowska, ... .   
+
+	*Cell* (2018) 173 (2), 355-370. e14.
+
+
+* [![Grasso2018](../assets/img/papers/missing.svg)]()
+**Genetic mechanisms of immune evasion in colorectal cancer**
+
+	C.S. Grasso, … B.J. Raphael ….[52 total authors], U Peters.   
 	
-	_M. El-Kebir_, _G. Satas_, _B.J. Raphael_
+	*Cancer Discovery* (2018) 8 (6), 730-749.
+
+
+* [![ThymomaTCGA](../assets/img/papers/missing.svg)]()
+**The Integrated Genomic Landscape of Thymic Epithelial Tumors**
+
+	M. Radovich, Pickering CR, Felau I, Ha G, Zhang H, Jo H, Hoadley KA, Anur P, Zhang J, McLellan M, Bowlby R, Matthew T, Danilova L, Hegde AM, Kim J, Leiserson MDM, Sethi G, Lu C, Ryan M, Su X, Cherniack AD, Robertson G, Akbani R, Spellman P, Weinstein JN, Hayes DN, B.J. Raphael, Lichtenberg T, Leraas K, Zenklusen JC, Cancer Genome Atlas Network, Fujimoto J, Scapulatempo-Neto C, Moreira AL, Hwang D, Huang J, Marino M, Korst R, Giaccone G, Gokmen-Polar Y, Badve S, Rajan A, Ströbel P, Girard N, Tsao MS, Marx A, Tsao AS, Loehrer PJ 
+
+	 *Cancer Cell* (2018) 33(2):244-258.e10.
+
+* [![JCB2018CNT](../assets/img/papers/missing.svg)]()
+	**Phylogenetic Copy-Number Factorization of Multiple Tumor Samples**
 	
-	*Nature Genetics*. 50, 718–726	
+	_S. Zaccaria*_, _M. El-Kebir*_, G.W. Klau, _B.J. Raphael_
+	
+	Journal of Computational Biology (2018) 25(7):689-708.
 
 ### 2017 ###
 
@@ -119,6 +146,17 @@ container_css_class: container publications
 
 	*RECOMB Computational Cancer Biology 2017, Bioinformatics* (2017) Advance online publication.
 
+* [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
+**Identifying Simultaneous Rearrangements in Cancer Genomes**
+
+	L Oesper, S Dantas, _BJ Raphael_
+	
+	RECOMB Computational Cancer Biology 2017 and Bioinformatics, (2), 346-352.
+	
+	<span class="label label-info">
+        	<a href="https://www.biorxiv.org/content/10.1101/164855v1" target="_new">bioRxiv preprint</a>
+	</span>
+	
 
 * [![SingleCellViolations](../assets/img/papers/missing.svg)]()
 **Single-cell sequencing data reveal widespread recurrence and loss of mutational hits in the life histories of tumors**
