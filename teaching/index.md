@@ -5,6 +5,18 @@ container_css_class: container
 ---
 
 # teaching
+
+## Princeton University
+Spring 2019: 
+[COS598E: Computational Biology of Single Cells]()
+
+Spring 2018: 
+[COS343: Algorithms for Computational Biology]()
+
+Spring 2017: 
+[COS598E: Computational Cancer Genomics]()
+
+## Brown University
 Fall 2015:
 [CSCI1810: Computational Molecular Biology](http://www.cs.brown.edu/courses/csci1810/)
 
