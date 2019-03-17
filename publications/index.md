@@ -72,6 +72,16 @@ container_css_class: container publications
         	<a href="https://www.biorxiv.org/content/10.1101/385294v1" target="_new">bioRxiv preprint</a>
 	</span>
 	
+### 2019 ###
+
+##### Journal Articles
+
+* [![OsteoSarBrady](../assets/img/papers/hierarchical-hotnet.jpg)](http://mcr.aacrjournals.org/content/early/2019/01/16/1541-7786.MCR-18-0620.abstract)
+	**The Clonal Evolution of Metastatic Osteosarcoma as Shaped by Cisplatin Treatment**
+	
+	S W Brady, X Ma, A Bahrami, _G Satas_, G. Wu, S Newman, M Rusch, D K Putnam, H L Mulder, D Yergeau, M N Edmonson, J Easton, L B Alexandrov, X Chen, E R Mardis, R K Wilson, J R Downing, A S Pappo, _B J Raphael_, M A Dyer, J Zhang
+	
+	*Molecular Cancer Research* (2019)
 	
 
 ### 2018 ###
