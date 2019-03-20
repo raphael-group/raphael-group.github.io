@@ -197,7 +197,7 @@ container_css_class: container publications
 
 	R Elyanow, HT Wu, _BJ Raphael_
 
-	*RECOMB Computational Cancer Biology 2017, Bioinformatics* (2017) Advance online publication.
+	*RECOMB Computational Cancer Biology 2017*, *Bioinformatics* (2017) 34, (2), 353–360.
 
 	<span class="label label-danger">
 		<a href="https://github.com/raphael-group/NAIBR">Software</a>
@@ -208,7 +208,7 @@ container_css_class: container publications
 
 	L Oesper, S Dantas, _BJ Raphael_
 	
-	RECOMB Computational Cancer Biology 2017 and Bioinformatics, (2), 346-352.
+	*RECOMB Computational Cancer Biology 2017* and *Bioinformatics*, (2), 346-352.
 	
 	<span class="label label-info">
         	<a href="https://www.biorxiv.org/content/10.1101/164855v1" target="_new">bioRxiv preprint</a>
