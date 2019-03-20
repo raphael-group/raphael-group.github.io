@@ -48,7 +48,7 @@ container_css_class: container publications
 	
 	RECOMB 2019, In Press
 	
-	bioRxiv (Jan. 22, 2019). 
+	bioRxiv (Feb. 8, 2019). 
 	
 	<span class="label label-info">
        		<a href="https://www.biorxiv.org/content/10.1101/544346v1" target="_new">bioRxiv preprint</a>
