@@ -123,10 +123,11 @@ container_css_class: container publications
 	_M. El-Kebir_, _G. Satas_, _B.J. Raphael_
 	
 	*Nature Genetics*. 50, 718–726	
-
-  	<span class="label label-danger">
+	
+	<span class="label label-danger">
 		<a href="https://github.com/raphael-group/machina">Software</a>
 	</span>
+
 
 * [![SC-Hap](../assets/img/papers/missing.svg)](https://academic.oup.com/bioinformatics/article/34/13/i211/5045800)
 **Haplotype phasing in single-cell DNA-sequencing data**
