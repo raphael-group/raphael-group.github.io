@@ -19,8 +19,10 @@ container_css_class: container publications
 	
 	<span class="label label-info">
         	<a href="https://www.biorxiv.org/content/10.1101/560839v1" target="_new">bioRxiv preprint</a>
-    </span>
-    
+    	</span>
+    	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/RCK">Software</a>
+	</span>
 
     
 * [![CALDER](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/526814v1)
@@ -35,6 +37,9 @@ container_css_class: container publications
 	<span class="label label-info">
         	<a href="https://www.biorxiv.org/content/10.1101/526814v1" target="_new">bioRxiv preprint</a>
     	</span>
+	  	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/calder">Software</a>
+	</span>
 
 * [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://www.biorxiv.org/content/10.1101/544346v1)
 **netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
@@ -47,7 +52,10 @@ container_css_class: container publications
 	
 	<span class="label label-info">
        		<a href="https://www.biorxiv.org/content/10.1101/544346v1" target="_new">bioRxiv preprint</a>
-    	</span>	
+    	</span>
+  	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/netNMF-sc">Software</a>
+	</span>
     
  * [![HATCHet](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/496174v1)
 **Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data**
@@ -59,7 +67,9 @@ container_css_class: container publications
 	<span class="label label-info">
         	<a href="https://www.biorxiv.org/content/10.1101/496174v1" target="_new">bioRxiv preprint</a>
 	</span>
-    
+      	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/hatchet">Software</a>
+	</span>
 
 
 * [![ICGCPCAWGNetworks](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/385294v1)
@@ -97,7 +107,7 @@ container_css_class: container publications
 	*ECCB 2018/Bioinformatics*, 34(17):i972-i980.
 
 	<span class="label label-danger">
-		<a href="https://github.com/raphael-group/hierarchical-hotnet">Software Release</a>
+		<a href="https://github.com/raphael-group/hierarchical-hotnet">Software</a>
 	</span>
 
 * [![ParksFDR](../assets/img/papers/missing.svg)](https://link.springer.com/content/pdf/10.1186%2Fs12859-018-2356-2.pdf)
@@ -114,6 +124,9 @@ container_css_class: container publications
 	
 	*Nature Genetics*. 50, 718–726	
 
+  	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/machina">Software</a>
+	</span>
 
 * [![SC-Hap](../assets/img/papers/missing.svg)](https://academic.oup.com/bioinformatics/article/34/13/i211/5045800)
 **Haplotype phasing in single-cell DNA-sequencing data**
@@ -122,6 +135,9 @@ container_css_class: container publications
 	
 	*ISMB 2018, Bioinformatics*. 34 (13), i211-i217
 	
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/SC-hap">Software</a>
+	</span>
 
 * [![PanCanAtlasCell](../assets/img/papers/missing.svg)](https://www.sciencedirect.com/science/article/pii/S0092867418303635)
 **Pathogenic germline variants in 10,389 adult cancers** 
@@ -159,6 +175,9 @@ container_css_class: container publications
 	
 	Journal of Computational Biology (2018) 25(7):689-708.
 
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/CNT-MD">Software</a>
+	</span>
 
 ##### Edited Volumes
 
@@ -179,6 +198,10 @@ container_css_class: container publications
 
 	*RECOMB Computational Cancer Biology 2017, Bioinformatics* (2017) Advance online publication.
 
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/NAIBR">Software</a>
+	</span>
+	
 * [![ChromothripsisCCB](../assets/img/papers/missing.svg)]()
 **Identifying Simultaneous Rearrangements in Cancer Genomes**
 
@@ -204,6 +227,10 @@ container_css_class: container publications
 	_G. Satas_, _B.J. Raphael_
 	
 	*ISMB 2017, Bioinformatics*. 33(14), i152-i160.
+	
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/PASTRI">Software</a>
+	</span>
 	
 * [![TCGAPDAC](../assets/img/papers/missing.svg)]()
 **Integrated Genomic Characterization of Pancreatic Ductal Adenocarcinoma**
@@ -255,6 +282,9 @@ container_css_class: container publications
 	
 	*RECOMB 2017*.
 	
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/CNT-MD">Software</a>
+	</span>	
 
 ### 2016 ###
 
