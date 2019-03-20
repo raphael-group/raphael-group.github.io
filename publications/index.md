@@ -265,6 +265,10 @@ container_css_class: container publications
 	P Nakka, NP Archer, H Xu, PJ Lupo, _BJ Raphael_, JJ Yang, S Ramachandran 
 	*Cancer Epidemiology and Prevention Biomarkers*  (10):1531-1539
 
+	<span class="label label-danger">
+		<a href="https://github.com/ramachandran-lab/PEGASUS">Software</a>
+	</span>	
+	
 
 * [![TCGAESCA](../assets/img/papers/missing.svg)](http://www.nature.com/nature/journal/v541/n7636/full/nature20805.html)
 	**Integrated genomic characterization of oesophageal carcinoma**
