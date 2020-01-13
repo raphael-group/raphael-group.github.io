@@ -90,7 +90,7 @@ container_css_class: container publications
 
 ##### Journal Articles
 
-* [![CALDER](../assets/img/papers/missing.svg)](https://www.sciencedirect.com/science/article/pii/S2405471219301917)
+* [![CALDER](../assets/img/papers/CALDER-abstract-fig.jpg)](https://www.sciencedirect.com/science/article/pii/S2405471219301917)
 	**CALDER: Inferring Phylogenetic Trees from Longitudinal Tumor Samples**
 
 	_M.A. Myers_, _G. Satas_, _B.J. Raphael_ 
