@@ -91,11 +91,11 @@ container_css_class: container publications
 ##### Journal Articles
 
 * [![CALDER](../assets/img/papers/missing.svg)](https://www.sciencedirect.com/science/article/pii/S2405471219301917)
-	**CALDER: Inferring tumor evolution from longitudinal samples**
+	**CALDER: Inferring Phylogenetic Trees from Longitudinal Tumor Samples**
 
-	_M Myers_, _G Satas_, _BJ Raphael_ 
+	_M.A. Myers_, _G. Satas_, _B.J. Raphael_ 
 
-	*RECOMB 2019, Cell systems* (2019)
+	*RECOMB 2019, Cell Systems* (2019). 8 (6), 514-522.e5.
 	
 
 	<span class="label label-danger">
