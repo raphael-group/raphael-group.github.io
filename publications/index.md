@@ -10,6 +10,22 @@ container_css_class: container publications
 
 ### Preprints and In press ###
 
+* [![SCARLET](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/840355v1)
+**Single-cell tumor phylogeny inference with copy-number constrained mutation losses**
+
+	_G Satas_, _S Zaccaria_, _G Mon_m _BJ Raphael_ 
+	
+	RECOMB 2020 [In Press] 
+	
+	bioRxiv (Nov. 26, 2019).  doi.org/10.1101/840355
+	
+	<span class="label label-info">
+        	<a href="https://www.biorxiv.org/content/10.1101/840355v1" target="_new">bioRxiv preprint</a>
+    	</span>
+	  	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/scarlet">Software</a>
+	</span>
+
 * [![RCK](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/560839v1)
 **Reconstruction of clone- and haplotype-specific cancer genome karyotypes from bulk tumor samples**
 
@@ -24,22 +40,9 @@ container_css_class: container publications
 		<a href="https://github.com/raphael-group/RCK">Software</a>
 	</span>
 
-    
-* [![CALDER](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/526814v1)
-**Inferring tumor evolution from longitudinal samples**
 
-	_M Myers_, _G Satas_, _BJ Raphael_ 
-	
-	RECOMB 2019 [In Press] 
-	
-	bioRxiv (Jan. 22, 2019).  doi.org/10.1101/526814
-	
-	<span class="label label-info">
-        	<a href="https://www.biorxiv.org/content/10.1101/526814v1" target="_new">bioRxiv preprint</a>
-    	</span>
-	  	<span class="label label-danger">
-		<a href="https://github.com/raphael-group/calder">Software</a>
-	</span>
+
+
 
 * [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://www.biorxiv.org/content/10.1101/544346v1)
 **netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
@@ -86,6 +89,18 @@ container_css_class: container publications
 ### 2019 ###
 
 ##### Journal Articles
+
+* [![CALDER](../assets/img/papers/missing.svg)](https://www.sciencedirect.com/science/article/pii/S2405471219301917)
+**CALDER: Inferring tumor evolution from longitudinal samples**
+
+_M Myers_, _G Satas_, _BJ Raphael_ 
+	
+*RECOMB 2019, Cell systems* (2019)
+	
+   
+<span class="label label-danger">
+<a href="https://github.com/raphael-group/calder">Software</a>
+</span>
 
 * [![OsteoSarBrady](../assets/img/papers/hierarchical-hotnet.jpg)](http://mcr.aacrjournals.org/content/early/2019/01/16/1541-7786.MCR-18-0620.abstract)
 	**The Clonal Evolution of Metastatic Osteosarcoma as Shaped by Cisplatin Treatment**
