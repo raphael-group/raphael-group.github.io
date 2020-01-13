@@ -91,16 +91,16 @@ container_css_class: container publications
 ##### Journal Articles
 
 * [![CALDER](../assets/img/papers/missing.svg)](https://www.sciencedirect.com/science/article/pii/S2405471219301917)
-**CALDER: Inferring tumor evolution from longitudinal samples**
+	**CALDER: Inferring tumor evolution from longitudinal samples**
 
-_M Myers_, _G Satas_, _BJ Raphael_ 
+	_M Myers_, _G Satas_, _BJ Raphael_ 
+
+	*RECOMB 2019, Cell systems* (2019)
 	
-*RECOMB 2019, Cell systems* (2019)
-	
-   
-<span class="label label-danger">
-<a href="https://github.com/raphael-group/calder">Software</a>
-</span>
+
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/calder">Software</a>
+	</span>
 
 * [![OsteoSarBrady](../assets/img/papers/hierarchical-hotnet.jpg)](http://mcr.aacrjournals.org/content/early/2019/01/16/1541-7786.MCR-18-0620.abstract)
 	**The Clonal Evolution of Metastatic Osteosarcoma as Shaped by Cisplatin Treatment**
