@@ -1,0 +1,11 @@
+I"�<h1 id="naibr-novel-adjacency-identification-with-barcoded-reads">NAIBR: Novel Adjacency Identification with Barcoded Reads</h1>
+
+<h2 id="about">About</h2>
+<p>NAIBR is a probabilistic algorithm for the identification of novel adjacencies from whole-genome linked-read sequencing data. NAIBR takes as input a barcoded and phased BAM processed with 10X Genomics’ “Long Ranger” pipeline and outputs a BEDPE file containing the predicted novel adjacencies with corresponding haplotypes, and log-likelihood scores.</p>
+
+<p><a name="download"></a></p>
+
+<h2 id="downloads">Downloads</h2>
+<p>You can download NAIBR from the <a href="https://github.com/raphael-group/NAIBR">NAIBR GitHub Project</a>.</p>
+
+:ET

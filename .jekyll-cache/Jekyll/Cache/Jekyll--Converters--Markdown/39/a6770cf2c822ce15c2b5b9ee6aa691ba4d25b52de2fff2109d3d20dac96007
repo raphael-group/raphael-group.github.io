@@ -1,0 +1,33 @@
+I"æ<h1 id="spruce-somatic-phylogeny-reconstruction-using-combinatorial-enumeration">SPRUCE: Somatic Phylogeny Reconstruction using Combinatorial Enumeration</h1>
+
+<h2 id="about">About</h2>
+<p>SPRUCE is an algorithm that infers a multi-state perfect phylogeny describing the evolutionary history of the somatic mutations (SNVs and CNVs) of a tumor given multi-sample bulk sequencing data. Specifically, the input to SPRUCE are variant allele frequencies and copy-number mixing proportions for each SNV in each sample.</p>
+
+<p><a href="spruce.png"><img src="spruce.png" style="width: 800px" /></a></p>
+
+<p><a name="download"></a></p>
+
+<h2 id="downloads">Downloads</h2>
+<p>You can download the latest version of SPRUCE from the <a href="https://github.com/raphael-group/spruce">SPRUCE GitHub project</a>.</p>
+
+<h2 id="support">Support</h2>
+<p>For support, please see the <a href="https://groups.google.com/forum/#!forum/sprucealgorithm">SPRUCE Google Group</a>.</p>
+
+<p><a name="reference"></a></p>
+
+<h2 id="references">References</h2>
+<p>SPRUCE is described in the following publications:</p>
+
+<blockquote>
+  <p>M. El-Kebir, G. Satas, L. Oesper, and B.J. Raphael.
+Inferring the Mutational History of a Tumor using Multi-State Perfect Phylogeny Mixtures
+<em>Cell Systems</em>, (2016) 3(1):43-53.</p>
+</blockquote>
+
+<blockquote>
+  <p>M. El-Kebir, G. Satas, L. Oesper, and B.J. Raphael.
+Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing
+<em>RECOMB 2016</em>.</p>
+</blockquote>
+
+:ET

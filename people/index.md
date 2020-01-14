@@ -21,7 +21,7 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 * Matthew Myers (Computer Science). 2017-present
 * Tyler Park (Quantitative and Computational Biology). 2018-present
 * [Gryte Satas](https://cs.brown.edu/people/gsatas/) (Computer Science). 2014-present
-
+* [Uthsav Chitra](https://uthsavc.github.io) (Computer Science). 2018-present
 
 ### Undergraduates
 * Geoffrey Mon

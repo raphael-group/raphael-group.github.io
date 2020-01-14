@@ -1,0 +1,22 @@
+I"	<h1 id="modl">MoDL</h1>
+
+<h2 id="about">About</h2>
+<p>MoDL finds mutliple motifs in a set of phosphorylated peptides.</p>
+
+<p><a name="download"></a></p>
+
+<h2 id="downloads">Downloads</h2>
+<ul>
+  <li>Current release: <a href="http://compbio-research.cs.brown.edu/software/MoDL/MoDL.tar.gz">MoDL.tar.gz</a></li>
+  <li>Instructions: <a href="http://compbio-research.cs.brown.edu/software/MoDL/README">README</a></li>
+</ul>
+
+<p><a name="reference"></a></p>
+
+<h2 id="reference">Reference</h2>
+<blockquote>
+  <p>A. Ritz, G. Shakhnarovich, A.R. Salomon, and B. Raphael.
+Discovery of Phosphorylation Motif Mixtures in Phosphoproteomics Data.
+(2009) <em>Bioinformatics</em>. 25(1):14-21. <a href="http://dx.doi.org/10.1093/bioinformatics/btn569">[Publisher Link]</a></p>
+</blockquote>
+:ET

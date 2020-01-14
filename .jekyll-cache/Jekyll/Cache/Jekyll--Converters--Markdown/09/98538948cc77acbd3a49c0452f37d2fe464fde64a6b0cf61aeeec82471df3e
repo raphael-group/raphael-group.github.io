@@ -1,0 +1,15 @@
+I"�<h1 id="tadtree">TADtree</h1>
+
+<h2 id="about">About</h2>
+<p>TADtree is an algorithm the identification of hierarchical topological domains in Hi-C data.</p>
+
+<p><img src="/projects/tadtree/tadtree-overview.jpg" />
+<br />
+Overview of TADtree algorithm. Beginning with contact matrix <i>A</i>, we compute the fold-enrichment over background for each pair of positions. For each interval [<i>i</i>,<i>j</i>], we estimate parameters δ(<i>i</i>,<i>j</i>), β(<i>i</i>,<i>j</i>). Next, for each genomic position <i>i</i> we compute the boundary index, a 1D statistic that looks for local shifts in interaction frequency at TAD boundaries . Finally, a dynamic program finds TAD trees that maximize the boundary index and best fit the contact matrix <i>A</i>, then selects an optimal set of TAD trees to form a TAD forest.</p>
+
+<p><a name="download"></a>
+<br /></p>
+
+<h2 id="download">Download</h2>
+<p><a href="http://compbio-research.cs.brown.edu/software/TADtree.zip">TADtree.zip</a></p>
+:ET

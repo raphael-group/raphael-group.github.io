@@ -1,0 +1,40 @@
+I"%<h1 id="dendrix">Dendrix</h1>
+
+<h2 id="about">About</h2>
+<p>Dendrix (<em>De</em> _no_vo _Dri_ver E_x_clusivity) is an algorithm for discovery of mutated driver pathways in cancer using only mutation data. It finds sets of genes, domains, or nucleotides whose mutations exhibit both high coverage and high exclusivity in the analyzed samples.</p>
+
+<p><img src="Dendrix.jpg" style="width: 500px" /></p>
+
+<p><strong>People</strong> (strict random order): Fabio Vandin, Hsin-Ta Wu, Eli Upfal, Ben Raphael.</p>
+
+<p><a name="download"></a></p>
+
+<h2 id="downloads">Downloads</h2>
+
+<ul>
+  <li>Latest release: <a href="http://compbio-research.cs.brown.edu/software/Dendrix/Dendrix_v0.3.zip">ver0.3, February 4, 2013</a></li>
+  <li>Visualization: <a href="http://compbio-research.cs.brown.edu/software/HotNet/HotNetCytoscape.tar.gz">Cytoscape plugin</a></li>
+</ul>
+
+<h2 id="support">Support</h2>
+<p>Detailed instructions for running Dendrix are provided in the README.txt file in the release above.</p>
+
+<p>For additional support, contact dendrix [at] cs.brown.edu.</p>
+
+<p><a name="reference"></a></p>
+
+<h2 id="references">References</h2>
+<p>The Dendrix algorithm is described in the following publications:</p>
+
+<blockquote>
+  <p>F. Vandin, E. Upfal, and B.J. Raphael. (2011)
+De Novo Discovery of Mutated Driver Pathways in Cancer. (Abstract)
+<em>Proceedings of the 15th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2011)</em>, pag:499-500.</p>
+</blockquote>
+
+<blockquote>
+  <p>F. Vandin, E. Upfal, and B.J. Raphael.
+De novo discovery of mutated driver pathways in cancer.
+<em>Genome Research</em> (2011) Jul 11. [<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266044/">Paper on Pubmed Central</a> | <a href="http://dx.doi.org/10.1101/gr.120477.111">Publisher link</a>]</p>
+</blockquote>
+:ET

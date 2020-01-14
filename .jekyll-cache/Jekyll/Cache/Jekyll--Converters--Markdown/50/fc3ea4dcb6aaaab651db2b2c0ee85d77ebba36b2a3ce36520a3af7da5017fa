@@ -1,0 +1,44 @@
+I"�
+<h1 id="hotnet2">HotNet2</h1>
+
+<h2 id="about">About</h2>
+
+<p><span>
+HotNet2 (diffusion-oriented subnetworks) is a general algorithm for identifying high weight subnetworks in a vertex-weighted network. HotNet2 was developed for identifying significantly mutated groups of interacting genes from large cancer sequencing studies. HotNet2 uses an “insulated” heat diffusion process to simultaneously analyze a gene’s mutations (or mutation score) and its local topology. This diffusion process encodes the source, or directionality, of heat within the network, allowing HotNet2 to uncover surprisingly “hot” subnetworks with wide ranges of heat scores.
+</span></p>
+
+<p><strong>People</strong> (strict random order): Max Leiserson, Fabio Vandin, Hsin-Ta Wu, Jonathan Eldridge, Ben Raphael.</p>
+
+<p><a name="download"></a></p>
+
+<h2 id="download">Download</h2>
+<p>You can download the latest version of HotNet2 from the <a href="https://github.com/raphael-group/hotnet2/releases">releases page</a> of the <a href="https://github.com/raphael-group/hotnet2">HotNet2 GitHub project</a>. The GitHub page also includes documentation for running HotNet2 (see below).</p>
+
+<h2 id="support">Support</h2>
+<p>Detailed instructions for running HotNet2 are provided in the included <a href="https://github.com/raphael-group/hotnet2/blob/master/README.md">README</a>.</p>
+
+<p>For additional support, please see the <a href="https://groups.google.com/forum/#!forum/hotnet-users">HotNet Google Group</a>. Note that we use the HotNet Google Group for issues relating to either HotNet2 or HotNet.</p>
+
+<p><a name="reference"></a></p>
+
+<h2 id="references">References</h2>
+<p>The HotNet2 algorithm is described in the following paper:</p>
+
+<blockquote>
+  <p>M.D.M. Leiserson*, F. Vandin*, H-T. Wu, J.R Dobson, J.V. Eldridge, J.L. Thomas, A. Papoutsaki, Y. Kim, B. Niu, M. McLellan, M.S. Lawrence, A. Gonzalez-Perez, D. Tamborero, Y. Cheng, G.A. Ryslik, N. Lopez-Bigas, G. Getz, L. Ding, and B.J. Raphael. Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes. <em>Nature Genetics</em> (2014).</p>
+</blockquote>
+
+<p>Moreover, we have used HotNet2 in the following publications:</p>
+
+<blockquote>
+  <p>Hoadley, K.A. <em>et al</em>. Multiplatform analysis of 12 cancer types reveals molecular classification within and across tissues of origin. <em>Cell</em> 158, 929–944 (2014).</p>
+</blockquote>
+
+<blockquote>
+  <p>The Cancer Genome Atlas Research Network. Comprehensive molecular characterization of gastric adenocarcinoma. <em>Nature</em> 513, 202–209 (2014).</p>
+</blockquote>
+
+<blockquote>
+  <p>Agrawal, Nishant <em>et al</em>. Integrated Genomic Characterization of Papillary Thyroid Carcinoma. <em>Cell</em> 159, 676 - 690 (2014).</p>
+</blockquote>
+:ET

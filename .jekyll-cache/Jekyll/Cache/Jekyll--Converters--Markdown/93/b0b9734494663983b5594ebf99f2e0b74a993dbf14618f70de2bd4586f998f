@@ -1,0 +1,69 @@
+I"ñ<h1 id="hotnet">HotNet</h1>
+
+<h2 id="about">About</h2>
+<p>HotNet is an algorithm for finding significantly altered subnetworks in a large gene interaction network.  While originally developed for use with cancer mutation data, the current release of HotNet also supports any application in which scores can be assigned to genes in the network (this version of the algorithm is called generalizedHotNet - see Vandin et al., PSB 2012).</p>
+
+<p><strong>People</strong> (strict random order): Fabio Vandin, Hsin-Ta Wu, Edward Rice, Layla Oesper, Adrien Deschamps, Max Leiserson, Jonathan Eldridge, Jason Schum, Eli Upfal, Ben Raphael.</p>
+
+<p><a name="download"></a></p>
+
+<h2 id="download">Download</h2>
+
+<p><em>Deprecated:</em> The HotNet software is deprecated. However, you can run HotNet from the latest <a href="https://github.com/raphael-group/hotnet2">HotNet2 software release</a>.</p>
+
+<h2 id="support">Support</h2>
+<p>Detailed instructions for running HotNet are provided in the included <a href="https://github.com/raphael-group/hotnet/blob/master/README.md">README</a>.</p>
+
+<p>For additional support, please see the <a href="https://groups.google.com/forum/#!forum/hotnet-users">HotNet Google Group</a>.</p>
+
+<p><a name="reference"></a></p>
+
+<h2 id="references">References</h2>
+<p>The HotNet algorithm is described in the following publications:</p>
+
+<blockquote>
+  <p>F. Vandin, E. Upfal, and B.J. Raphael. (2010) Algorithms for Detecting Significantly Mutated Pathways in Cancer.
+<em>Proceedings of the 14th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2010)</em>.</p>
+</blockquote>
+
+<blockquote>
+  <p>F. Vandin, E. Upfal, and B.J. Raphael. (2011) Algorithms for Detecting Significantly Mutated Pathways in Cancer. <em>Journal of Computational Biology</em>. 18(3):507-22.</p>
+</blockquote>
+
+<p>Moreover, we have used HotNet in the following publications:</p>
+
+<blockquote>
+  <p>The Cancer Genome Atlas Research Network (2011). Integrated genomic analyses of ovarian carcinoma. <em>Nature</em>. 474:609-615.</p>
+</blockquote>
+
+<blockquote>
+  <p>F. Vandin, P. Clay, E. Upfal, and B. J. Raphael (2012) Discovery of Mutated Subnetworks Associated with Clinical Data in Cancer. In <em>Pacific Symposium on Biocomputing (PSB)</em> 2012.</p>
+</blockquote>
+
+<blockquote>
+  <p>C. Grasso, Y.Wu, D. Robinson, X. Cao, S. Dhanasekaran, A. Khan, M. Quist, X. Jing, R. Lonigro, J.C. Brenner, I. Asangani, B. Ateeq, S. Chun, J. Siddiqui, L. Sam, M. Anstett, R. Mehra, J. Prensner, N. Palanisamy, G. Ryslik, F. Vandin, B. Raphael, L. Kunju, D. Rhodes, K. Pienta, A. M. Chinnaiyan, S.A. Tomlins. The Mutational Landscape of Lethal Castrate Resistant Prostate Cancer. <em>Nature</em>, 2012.</p>
+</blockquote>
+
+<blockquote>
+  <p>The Cancer Genome Atlas Research Network. Genomic and Epigenomic Landscapes of Adult De Novo Acute Myeloid Leukemia. New England Journal of Medicine, May 1st 2013.
+The Cancer Genome Atlas Research Network. Comprehensive molecular characterization of clear cell renal cell carcinoma. <em>Nature</em>, 2013 Jul 4; 499(7456):43-9.</p>
+</blockquote>
+
+<h2 id="previous-versions">Previous versions</h2>
+<p>These are for archival purposes. It is recommended to download the latest version from the link above.</p>
+
+<ul>
+  <li>
+    <p><a href="http://compbio-research.cs.brown.edu/software/HotNet/HotNet_v1.0.0.zip">HotNet version 1.0.0 (July 13th, 2012)</a><br />
+This new version merges the old HotNet and Generalized HotNet methods, requires a new, cleaner representation for copy number aberrations, and adds a number of new features - see the README.txt in archive download for details.</p>
+  </li>
+  <li>
+    <p><a href="http://compbio-research.cs.brown.edu/software/HotNet/HotNet_v0.9.1.zip">HotNet (ver0.9.1, June 29, 2011)</a><br />
+For finding significantly mutated subnetworks using single nucleotide mutations (and indels) and copy number aberrations (that is, the statistical test performed by HotNet is designed for these types of data).</p>
+  </li>
+  <li>
+    <p><a href="http://compbio-research.cs.brown.edu/software/HotNet/GeneralizedHotNet_v0.9.1.zip">Generalized HotNet (ver0.9.1, June 29, 2011)</a><br />
+A general version of HotNet that allows for arbitrary gene scores. (The statistical test is a general test that can be used with any score.)</p>
+  </li>
+</ul>
+:ET

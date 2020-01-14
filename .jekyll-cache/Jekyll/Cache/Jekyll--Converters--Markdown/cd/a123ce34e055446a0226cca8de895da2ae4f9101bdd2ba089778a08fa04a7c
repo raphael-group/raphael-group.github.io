@@ -1,0 +1,340 @@
+I"ù8<h1 id="software">software</h1>
+
+<h3 id="genetic-heterogeneity-networks-and-pathways">Genetic Heterogeneity: Networks and Pathways</h3>
+
+<h5 id="wext-weighted-exclusivity-test">WExT: Weighted Exclusivity Test</h5>
+<p>WExT computes a statistical score for mutually exclusive mutations using per gene, per sample weights.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/wext">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/wext/releases">Download (GitHub)</a>
+</span><span class="label label-success">
+	<a href="/projects/wext#reference">Reference</a>
+</span><span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/dendrix">Google Group</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="comet-combinations-of-exclusive-alterations">CoMEt: Combinations of Exclusive Alterations</h5>
+<p>CoMEt identifies combinations of exclusive mutations <i>de novo</i> using a statistical score for exclusivity.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/comet">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/comet/releases">Download (GitHub)</a>
+</span><span class="label label-success">
+	<a href="/projects/comet#reference">Reference</a>
+</span><span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/dendrix">Google Group</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="hotnet2-network-analysis-of-mutation-data">HotNet2: Network Analysis of Mutation Data</h5>
+<p>HotNet2 is an algorithm for the discovery of significantly mutated subnetworks in a protein-protein interaction network.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/hotnet2">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/hotnet2/releases">Download (GitHub)</a>
+</span><span class="label label-success">
+	<a href="/projects/hotnet2#reference">Reference</a>
+</span><span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/hotnet-users">Google Group</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="multi-dendrix-multiple-pathway-de-novo-driver-exclusivity">Multi-Dendrix: (Multiple Pathway De novo Driver Exclusivity)</h5>
+<p>Multi-Dendrix is an algorithm for the simultaneous discovery of multiple driver pathways using only somatic mutation data from a cohort of samples.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/multi-dendrix">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/multi-dendrix">Download (GitHub)</a>
+</span><span class="label label-success">
+	<a href="/projects/multi-dendrix#reference">Reference</a>
+</span><span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/dendrix">Google Group</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="dendrix-de-novo-driver-exclusivity">Dendrix: De novo Driver Exclusivity</h5>
+<p>Dendrix is an algorithm for discovery of mutated driver pathways in cancer using only mutation data.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/dendrix">More information</a>
+</span><span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/Dendrix/Dendrix_v0.3.zip">Download (ZIP)</a>
+</span><span class="label label-success">
+	<a href="/projects/dendrix#reference">Reference</a>
+</span><span class="label label-info">
+	<a href="http://ccmbweb.ccv.brown.edu/dendrix/">Web server</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="hotnet-finding-altered-subnetworks">HotNet: Finding Altered Subnetworks</h5>
+<p>HotNet is an algorithm for finding significantly altered subnetworks in a large gene interaction network.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/hotnet">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/hotnet/releases">Download (GitHub)</a>
+</span>
+<span class="label label-success">
+	<a href="/projects/hotnet#reference">Reference</a>
+</span><span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/hotnet-users">Google Group</a></span></p>
+
+<p><br /></p>
+
+<h3 id="structural-variation-and-genome-analysis">Structural Variation and Genome Analysis</h3>
+
+<h5 id="cnt-md-copy-number-tree-mixture-deconvolution">CNT-MD: Copy-Number Tree Mixture Deconvolution</h5>
+<p>Software for inferring the copy-number profiles of tumor clones and their evolution from fractional copy numbers obtained from multi-sample bulk sequencing data.</p>
+
+<p><span class="label label-primary">
+        <a href="/projects/cnt-md">More information</a>
+	</span><span class="label label-danger">
+	        <a href="https://github.com/raphael-group/CNT-MD">Download (GitHub)</a></span></p>
+
+<p><br /></p>
+
+<h5 id="cnt-ilp-copy-number-tree">CNT-ILP: Copy-Number Tree</h5>
+<p>Software for inferring the copy-number tree of minimum cost from the copy-number profiles of distinct tumor clones.</p>
+
+<p><span class="label label-primary">
+        <a href="/projects/cnt-ilp">More information</a>
+	</span><span class="label label-danger">
+	        <a href="https://github.com/raphael-group/CNT-ILP">Download (GitHub)</a></span></p>
+
+<p><br /></p>
+
+<h5 id="naibr-novel-adjacency-identification-with-barcoded-reads">NAIBR: Novel Adjacency Identification with Barcoded Reads</h5>
+<p>Software for the identification of novel adjacencies from linked-read whole genome sequencing data.</p>
+
+<p><span class="label label-primary">
+        <a href="/projects/naibr">More information</a>
+	</span><span class="label label-danger">
+	        <a href="https://github.com/raphael-group/NAIBR">Download (GitHub)</a></span></p>
+
+<p><br /></p>
+
+<h5 id="pastri-probabilistic-algorithm-for-somatic-tree-inference">PASTRI: Probabilistic Algorithm for Somatic Tree Inference</h5>
+<p>Software for inferring the clonal evolution of single-nucleotide given multi-sample tumor sequencing data.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/pastri">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/pastri">Download (GitHub)</a></span></p>
+
+<p><br /></p>
+
+<h5 id="spruce-somatic-phylogeny-reconstruction-using-combinatorial-enumeration">SPRUCE: Somatic Phylogeny Reconstruction using Combinatorial Enumeration</h5>
+<p>Software for inferring the clonal evolution of single-nucleotide and copy-number variants given multi-sample tumor sequencing data.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/spruce">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/spruce">Download (GitHub)</a>
+</span><span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/spruce">Google Group</a></span></p>
+
+<p><br /></p>
+
+<h5 id="ancestree">AncesTree</h5>
+<p>Software for inferring the clonal evolution of single-nucleotide variants given multi-sample tumor sequencing data.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/ancestree">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/AncesTree">Download (GitHub)</a>
+</span><span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/ancestree">Google Group</a></span></p>
+
+<p><br /></p>
+
+<h5 id="nahr-finder">NAHR Finder</h5>
+<p>Software for identifying non-allelic homologous recombinations.</p>
+
+<p><span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/NAHR/NAHR_finder-0.0.1.tar.gz">Download</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/mmp3/detect-NAHR">Download (GitHub)</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="multibreak-sv">MultiBreak-SV</h5>
+<p>Software for structural variation analysis from next-generation paired end data, third-generation
+long read data, or data from a combination of sequencing platforms.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/multibreaksv">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/multibreak-sv">Download (GitHub)</a>
+</span><span class="label label-success">
+	<a href="/projects/multibreaksv#reference">Reference</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="raig-recurrent-aberrations-from-interval-graph">RAIG: Recurrent Aberrations from Interval Graph</h5>
+<p>RAIG is an algorithm for identifying recurrent and independent copy number aberrations.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/raig">More information</a>
+</span><span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.02.tar.gz">Download (TAR)</a>
+</span><span class="label label-success">
+	<a href="/projects/raig#reference">Reference</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="rec-btp">rec-BTP</h5>
+<p>rec-BTP is a recursive algorithm for analyzing intra-tumor heterogeneity from high-throughput sequencing data.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/btp">More information</a>
+</span><span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/BTP/rec-btp-1.0.tar.gz">Download (TAR)</a>
+</span><span class="label label-success">
+	<a href="/projects/btp#reference">Reference</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="theta-tumor-heterogeneity-analysis">THetA: Tumor Heterogeneity Analysis</h5>
+<p>This algorithm estimates tumor purity and clonal/subclonal copy number aberrations directly from high-throughput DNA sequencing data.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/theta">More information</a>
+</span><span class="label label-danger">
+	<a href="https://github.com/raphael-group/THetA">Download (GitHub)</a>
+</span><span class="label label-success">
+	<a href="/projects/theta#reference">Reference</a>
+</span><span class="label label-warning">
+	<a href="https://groups.google.com/forum/#!forum/theta-users">Google Group</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="prego-paired-end-reconstruction-of-genome-organization">PREGO: Paired-End Reconstruction of Genome Organization</h5>
+<p>This algorithm reconstructs a cancer genome as a rearrangement of segments, or intervals, from the reference genome using paired end sequencing data.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/prego">More information</a>
+</span><span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/PREGO/PREGO_1.2.tar.gz">Download (TAR)</a>
+</span><span class="label label-success">
+	<a href="/projects/prego#reference">Reference</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="gasvpro-geometric-analysis-of-structural-variants">GASVPro: Geometric Analysis of Structural Variants</h5>
+<p>GASVPro is a probabilistic version of our original GASV algorithm.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/gasv">More information</a>
+</span><span class="label label-danger">
+	<a href="http://code.google.com/p/gasv/">Download (Google Code)</a>
+</span><span class="label label-success">
+	<a href="/projects/gasv#reference">Reference</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="gasv-geometric-analysis-of-structural-variants">GASV: Geometric Analysis of Structural Variants</h5>
+<p>Software for analysis of structural variation from paired-end sequencing and/or array-CGH data</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/gasv">More information</a>
+</span><span class="label label-danger">
+	<a href="http://code.google.com/p/gasv/">Download (Google Code)</a>
+</span><span class="label label-success">
+	<a href="/projects/gasv#reference">Reference</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="nbc-neighborhood-breakpoint-conservation">NBC: Neighborhood Breakpoint Conservation</h5>
+<p>This software finds recurrent rearrangement breakpoints in DNA copy number data.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/nbc">More information</a>
+</span><span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/NBC/NBCcode.tgz">Download (TAR)</a>
+</span><span class="label label-success">
+	<a href="/projects/nbc#reference">Reference</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="gremlin-genome-rearrangement-explorer-with-multi-scale-linked-interactions">Gremlin: Genome Rearrangement Explorer with Multi-Scale, Linked Interactions</h5>
+<p>Gremlin is an interactive visualization model for the comparative analysis of structural variation in human and cancer genomes.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/gremlin">More information</a>
+</span><span class="label label-danger">
+	<a href="/projects/gremlin#download">Download (Coming Soon)</a>
+</span><span class="label label-success">
+	<a href="/projects/gremlin#reference">Reference</a>
+</span></p>
+
+<p><br /></p>
+
+<h3 id="additional-software">Additional software</h3>
+
+<h5 id="tadtree">TADtree</h5>
+<p>TADtree is an algorithm the identification of hierarchical topological domains in Hi-C data.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/tadtree">More information</a>
+</span><span class="label label-danger">
+	<a href="/projects/tadtree#download">Download (ZIPs)</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="magi-mutation-annotation--genome-interpretation">MAGI: Mutation Annotation &amp; Genome Interpretation</h5>
+<p>MAGI is a publicly available web application to explore and annotate cancer genomics data.</p>
+
+<p><span class="label label-primary">
+	<a href="http://magi.brown.edu">More information</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="exalt-accurate-genome-wide-survival-analysis">ExaLT: Accurate Genome-Wide Survival Analysis</h5>
+<p>ExaLT is an algorithm to compute a rigorous approximation to the log-rank p-value that avoids false discoveries compared to standard tools.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/survival">More information</a>
+</span><span class="label label-danger">
+	<a href="/projects/survival#download">Download (ZIPs)</a>
+</span><span class="label label-success">
+	<a href="/projects/survival#reference">Reference</a>
+</span></p>
+
+<p><br /></p>
+
+<h5 id="modl-motif-description-length">MoDL: Motif Description Length</h5>
+<p>MoDL finds mutliple motifs in a set of phosphorylated peptides.</p>
+
+<p><span class="label label-primary">
+	<a href="/projects/modl">More information</a>
+</span><span class="label label-danger">
+	<a href="http://compbio-research.cs.brown.edu/software/MoDL/MoDL.tar.gz">Download (TAR)</a>
+</span><span class="label label-success">
+	<a href="/projects/modl#reference">Reference</a>
+</span></p>
+
+<p><br /></p>
+
+:ET

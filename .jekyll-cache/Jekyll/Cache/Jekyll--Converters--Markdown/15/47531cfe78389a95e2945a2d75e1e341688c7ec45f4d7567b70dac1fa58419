@@ -1,0 +1,31 @@
+I"E
+<h1 id="comet-combinations-of-mutually-exclusive-alterations">CoMEt: <u>C</u>ombinations <u>o</u>f <u>M</u>utually <u>E</u>xclusive Al<u>t</u>erations</h1>
+<p>CoMEt improves upon the <a href="/projects/dendrix">Dendrix</a> and <a href="/projects/multi-dendrix">Multi-Dendrix</a>
+algorithms to identify collections of exclusive alterations in cancer without prior information. CoMEt
+uses a novel statistical score for exclusivity collections of alterations and an MCMC algorithm to
+compute the marginal probability of observing pairs of alterations in the same exclusive set.</p>
+
+<p>CoMEt is released as a <a href="https://github.com/raphael-group/comet">software package on GitHub</a>. The exact test used by CoMEt is also available as the <a href="http://cran.r-project.org/web/packages/cometExactTest/">cometExactTest R package</a> hosted by <a href="http://cran.r-project.org/">CRAN</a>.</p>
+
+<h3 id="dendrix">Dendrix++</h3>
+<p>Dendrix++ is a preliminary version of CoMEt that we applied as part of the
+<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1301689#t=articleTop">TCGA AML project</a>.</p>
+
+<p><a name="results-data"></a></p>
+
+<h2 id="results-and-data">Results and Data</h2>
+
+<p>Please see <a href="http://compbio-research.cs.brown.edu/comet/">http://compbio-research.cs.brown.edu/comet/</a> for an interactive display of the results of CoMEt applied to TCGA acute myeloid leukemia (AML), breast cancer (BRCA), glioblastoma (GBM), and stomach adenocarcinoma (STAD) datasets. The website also includes downloadable data files for the datasets analyzed in CoMEt publications (see below).</p>
+
+<p><a name="reference"></a></p>
+
+<h2 id="references">References</h2>
+<p>The CoMEt algorithm is described in the following publications:</p>
+
+<ul>
+  <li>Mark D.M Leiserson*, Hsin-Ta Wu*, Fabio Vandin, Benjamin J. Raphael. (2015) Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer. Biology, 16:160. <a href="http://www.genomebiology.com/2015/16/1/160">Publisher link</a>.</li>
+  <li>Mark D.M Leiserson*, Hsin-Ta Wu*, Fabio Vandin, Benjamin J. Raphael. (2015) Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer. Extended abstract in: <em>Proceedings of the 19th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2015)</em>. <em>Lecture Notes in Computer Science</em>, Volume 9029, 202-204. <a href="http://arxiv.org/abs/1503.08224">arXiv preprint</a>. <a href="http://link.springer.com/chapter/10.1007/978-3-319-16706-0_19#page-1">Publisher link</a>.</li>
+</ul>
+
+<p>* equal contribution</p>
+:ET

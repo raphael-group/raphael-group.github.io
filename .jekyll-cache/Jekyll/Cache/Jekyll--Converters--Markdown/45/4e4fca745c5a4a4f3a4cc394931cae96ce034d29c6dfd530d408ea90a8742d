@@ -1,0 +1,25 @@
+I"j<h1 id="raig-recurrent-aberrations-from-interval-graphs">RAIG: Recurrent Aberrations from Interval Graphs</h1>
+
+<h2 id="about">About</h2>
+<p>RAIG is a combinatorial approach to the problem of identifying independent and recurrent copy number aberrations, focusing on the key challenging of separating the overlaps in aberrations across individuals into independent events.</p>
+
+<p><a href="raig.jpg"><img src="raig.jpg" style="width: 600px" /></a></p>
+
+<p><a name="download"></a></p>
+
+<h2 id="downloads">Downloads</h2>
+<p>You can download the latest version of RAIG from <a href="http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.02.tar.gz">RAIG version 1.02</a>.</p>
+
+<p><a name="reference"></a></p>
+
+<h2 id="references">References</h2>
+<p>RAIG is described in the following publications:</p>
+
+<blockquote>
+  <p>H. Wu, I. Hajirasouliha, B.J. Raphael (2014).
+Detecting independent and recurrent copy number aberrations using interval graphs. 
+<em>Bioinformatics</em>. vol. 30 ISMB2014, pages i195-i203.
+<a href="http://bioinformatics.oxfordjournals.org/content/30/12/i195.full.pdf">[Publisher Link]</a></p>
+</blockquote>
+
+:ET

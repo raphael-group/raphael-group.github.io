@@ -1,0 +1,26 @@
+I"ê<h1 id="nbc-neighborhood-breakpoint-conservation">NBC: Neighborhood Breakpoint Conservation</h1>
+
+<h2 id="about">About</h2>
+<p>Neighborhood Breakpoint Conservation (NBC) is a method that identifies recurrent copy number variants in multiple individuals using Array Comparative Genomic Hybridization (aCGH).</p>
+
+<p><img src="aCGH.jpg" /></p>
+
+<p>aCGH computes the ratio of test:reference DNA for probes located on the reference genome. NBC first uses a Bayesian changepoint algorithm to identify probes, called breakpoints, that change from low-to-high or high-to-low copy number with high probability. A binomial statistic is then applied to identify breakpoints and pairs of breakpoints that appear in a statistically significant number of individuals.</p>
+
+<p><a name="download"></a></p>
+
+<h2 id="download">Download</h2>
+<ul>
+  <li>Latest release: <a href="http://compbio-research.cs.brown.edu/software/NBC/NBCcode.tgz">NBCcode.tgz</a></li>
+  <li>Instructions: <a href="http://compbio-research.cs.brown.edu/software/NBC/README.txt">README.txt</a></li>
+</ul>
+
+<p><a name="reference"></a></p>
+
+<h2 id="reference">Reference</h2>
+<blockquote>
+  <p>A. Ritz, P.L. Paris, M.M. Ittmann, C. Collins, and B.J. Raphael. (2011)
+Detection of Recurrent Rearrangement Breakpoints from Copy Number Data.
+<em>BMC Bioinformatics</em>. <a href="http://www.biomedcentral.com/1471-2105/12/114/abstract">[Publisher Link]</a></p>
+</blockquote>
+:ET

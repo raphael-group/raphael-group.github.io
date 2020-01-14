@@ -1,0 +1,30 @@
+I"<h1 id="hatchet-holistic-allele-specific-tumor-copy-number-heterogeneity">HATCHet: Holistic Allele-specific Tumor Copy-number Heterogeneity</h1>
+
+<p>HATCHet is an algorithm to infer allele and clone-specific copy-number aberrations (CNAs), clone proportions, and whole-genome duplications (WGD) for several tumor clones jointly from multiple bulk-tumor samples of the same patient or from a single bulk-tumor sample. HATCHet has been designed and developped by Simone Zaccaria in the group of prof. Ben Raphael at Princeton University. The full description of the algorithm, the comparison with previous state-of-the-art methods, and its application on published cancer datasets are described in</p>
+
+<p><a href="https://www.biorxiv.org/content/early/2018/12/17/496174">Simone Zaccaria and Ben Raphael, 2018</a></p>
+
+<p>The simulated data, the results of all the methods considered in the comparison, the results of HATCHet on the published whole-genome multi-sample tumor sequencing datasets (<a href="...">(Gundem et al., <em>Nature</em>, 2015)</a> and <a href="...">(Makohon-Moore et al., <em>Nature genetics</em>, 2017)</a>) and all the related analyses are available at</p>
+
+<p><a href="https://github.com/raphael-group/hatchet-paper">manuscript’s data</a></p>
+
+<p><a href="hatchet-cartoon.png"><img src="hatchet-cartoon.png" style="width: 900px" /></a></p>
+
+<p><strong>Overview of HATCHet algorithm.</strong>
+<strong>(A)</strong> HATCHet analyzes the read-depth ratio (RDR) and the B-allele frequency (BAF) in bins of the reference genome (black squares) jointly from multiple tumor samples. Here, we show two tumor samples <em>p</em> and <em>q</em>. <strong>(B)</strong> HATCHet globally clusters the bins based on RDR and BAF along the entire genome and jointly across samples <em>p</em> and <em>q</em>. Each cluster (color) includes bins with the same copy-number state within each clone present in <em>p</em> or <em>q</em>. <strong>(C)</strong> HATCHet estimates the fractional copy number of each cluster. If there is no WGD, the identification of the cluster (magenta) with copy-number state <em>(1, 1)</em> is sufficient and RDRs are scaled correspondingly. If a WGD occurs, HATCHet finds the cluster with copy-number state <em>(2, 2)</em> (same magenta cluster) and a second cluster having an identical copy-number state in all tumor clones. <strong>(D)</strong> HATCHet factorizes the allele-specific fractional copy numbers <em>F^A, F^B</em> into the allele-specific copy numbers <em>A, B</em>, respectively, and the clone proportions <em>U</em>. Here there is a normal clone and 3 tumor clones. <strong>(E)</strong> HATCHet’s model selection criterion identifies the matrices <em>A</em>, <em>B</em> and <em>U</em> in the factorization while evaluating the fit according to both the inferred number of clones and presence/absence of a WGD. <strong>(F)</strong> Clusters are classified by their inferred copy-number states in each sample. <em>Sample-clonal clusters</em> have a unique copy-number state in the sample and correspond to evenly-spaced positions in the scaled RDR-BAF plot (vertical grid lines in each plot). <em>Sample-subclonal clusters</em> (e.g. cyan in <em>p</em>) have different copy-number states in a sample and thus correspond to intermediate positions in the scaled RDR-BAF plot. <em>Tumor-clonal clusters</em> have identical copy-number states in all tumor clones – thus they are sample-clonal clusters in every sample and preserve their relative positions in scaled-RDR-BAF plots. In contrast, <em>tumor-subclonal clusters</em> have different copy-number states in different tumor clones and their relative positions in the scaled RDR-BAF plot varies across samples (e.g. purple cluster).</p>
+
+<h2 id="repository">Repository</h2>
+
+<p>You can download the latest version of HATCHet from the <a href="https://github.com/raphael-group/hatchet">HATCHet GitHub project</a>. The repository includes a detailed documentation, demos, examples, tutorials, guides, and recommentations for usage.</p>
+
+<h2 id="support">Support</h2>
+
+<p>You can ask support and questions about HATCHet on the actively mantained <strong>Issues</strong> forum of the HATCHet GitHub project](https://github.com/raphael-group/hatchet).</p>
+
+<h2 id="references">References</h2>
+<p>HATCHet and its applications are described in the following publications:</p>
+
+<blockquote>
+  <p>Simone Zaccaria and Benjamin J. Raphael, <em>Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data</em>. bioRxiv (Dec. 17, 2018) doi.org/10.1101/496174</p>
+</blockquote>
+:ET

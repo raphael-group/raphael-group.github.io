@@ -1,0 +1,62 @@
+I"¬<h1 id="theta-tumor-heterogeneity-analysis">THetA: Tumor Heterogeneity Analysis</h1>
+
+<h2 id="about">About</h2>
+<p>THetA (_T_umor _Het_erogeneity _A_nalysis) is an algorithm that estimates the tumor purity and clonal/sublconal copy number aberrations directly from high-throughput DNA sequencing data. The latest release is called THetA2 and includes a number of improvements over previous versions.</p>
+
+<p><a href="theta.jpg"><img src="theta.jpg" style="width: 600px" /></a></p>
+
+<p><a name="download"></a></p>
+
+<h2 id="downloads">Downloads</h2>
+<p>You can download the latest version of THetA (now called THetA2) from the <a href="https://github.com/raphael-group/THetA">THetA GitHub project</a>.</p>
+
+<h2 id="support">Support</h2>
+<p>For support, please see the <a href="https://groups.google.com/forum/#!forum/theta-users">THetA Google Group</a>.</p>
+
+<p><a name="reference"></a></p>
+
+<h2 id="references">References</h2>
+<p>THetA2 is described in the following publication:</p>
+
+<blockquote>
+  <p>L. Oesper, G. Satas, and B.J. Raphael. (2014)
+Quantifying Tumor Heterogeneity in Whole-Genome and Whole-Exome Sequencing Data.
+<em>Bioinformatics</em> 30 (24):3532-3540. [<a href="http://bioinformatics.oxfordjournals.org/cgi/reprint/btu651?
+ijkey=RF0P6tuiK0dgmHr&amp;keytype=ref">Publisher Link</a>]</p>
+</blockquote>
+
+<p>THetA is described in the following publications:</p>
+
+<blockquote>
+  <p>L. Oesper, A. Mahmoody, and B.J. Raphael. (2013)
+Inferring Intra-Tumor Heterogeneity from High-Throughput DNA Sequencing Data. (Abstract)
+<em>Proceedings of the 17th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2013)</em>, LNCS 7821, Pages 171-172.
+<a href="http://link.springer.com/content/pdf/10.1007%2F978-3-642-37195-0_14.pdf">[PDF]</a></p>
+</blockquote>
+
+<blockquote>
+  <p>L. Oesper, A. Mahmoody, and B.J. Raphael. (2013)
+THetA: Inferring intra-tumor heterogeneity from high-throughput DNA sequencing data.
+<em>Genome Biology</em>. 14:R80. [<a href="http://genomebiology.com/2013/14/7/R80/abstract">Publisher Link</a> | <a href="http://genomebiology.com/content/supplementary/gb-2013-14-7-r80-s1.pdf">Supplemental Material</a>]</p>
+</blockquote>
+
+<h2 id="related-files">Related Files</h2>
+<p>The THetA2 paper includes a likelihood model fo BAF which may be used to distinguish between multiple reconstruction returned using read depth only.  The latest release includes code to compute this likelihood model.  The following are support files which may be helpful when computing this likelihood model for observed BAFs.</p>
+
+<ul>
+  <li><a href="http://compbio-research.cs.brown.edu/projects/theta/data/AffySNP6.0_hg18.txt.formatted">Affymetrix SNP 6.0 Positions for hg18</a></li>
+  <li><a href="http://compbio-research.cs.brown.edu/projects/theta/data/AffySNP6.0_hg19.txt.formatted">Affymetrix SNP 6.0 Positions for hg19</a></li>
+</ul>
+
+<p>Simulated data used in the THetA2 paper can be found <a href="http://compbio-research.cs.brown.edu/projects/theta/simulations/">here</a>.</p>
+
+<h2 id="previous-versions">Previous versions</h2>
+<p>These are for archival purposes. It is strongly recommended to download the latest version from the link above.</p>
+
+<ul>
+  <li>THetA 0.5 (9/10/2013): <a href="http://compbio-research.cs.brown.edu/software/THetA/THetA_0.5.tar.gz">Download</a></li>
+  <li>THetA Beta 0.03 (6/14/2013): <a href="http://compbio-research.cs.brown.edu/software/THetA/THetA_Beta_0.03.tar.gz">Download</a></li>
+  <li>THetA Beta 0.02 (1/22/2013): <a href="http://compbio-research.cs.brown.edu/software/THetA/THetA_Beta_0.02.tar.gz">Download</a></li>
+  <li>THetA Beta 0.01 (10/18/2012): <a href="http://compbio-research.cs.brown.edu/software/THetA/Heterogeneity_Beta_0.01.tar.gz">Download</a></li>
+</ul>
+:ET

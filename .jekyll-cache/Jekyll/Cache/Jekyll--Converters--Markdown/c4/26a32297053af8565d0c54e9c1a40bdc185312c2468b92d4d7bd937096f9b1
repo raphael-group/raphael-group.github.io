@@ -1,0 +1,33 @@
+I"<h1 id="prego-paired-end-reconstruction-of-genome-organization">PREGO: Paired-End Reconstruction of Genome Organization</h1>
+
+<h2 id="about">About</h2>
+<p>PREGO is an algorithm that reconstructs a cancer genome as a rearrangement of segments, or intervals, from the reference genome using paired-end sequencing data.</p>
+
+<p><a href="prego.jpg"><img src="prego.jpg" style="width: 500px;" /></a></p>
+
+<h2 id="download">Download</h2>
+<ul>
+  <li>Current Release: <a href="http://compbio-research.cs.brown.edu/software/PREGO/PREGO_1.2.tar.gz">PREGO Version 1.2 (5/29/2013)</a></li>
+</ul>
+
+<p><a name="reference"></a></p>
+
+<h2 id="reference">Reference</h2>
+<p>The algorithm is described in the following paper:</p>
+
+<blockquote>
+  <p>L. Oesper, A. Ritz, S.J. Aerni, R. Drebin, and B.J. Raphael. (2012)
+Reconstructing cancer genomes from paired-end sequencing data.
+<em>BMC Bioinformatics</em>. 13(Suppl 6):S10. <a href="http://www.biomedcentral.com/1471-2105/13/S6/S10">Publisher Link</a></p>
+</blockquote>
+
+<p>Preliminary version accepted at 2nd Annual RECOMB Satellite Workshop on Massively Parallel Sequencing (RECOMB-seq)</p>
+
+<h2 id="previous-versions">Previous versions</h2>
+<p>These are for archival purposes. It is recommended to download the latest version from the link above.</p>
+
+<ul>
+  <li>PREGO Version 1.1: <a href="http://compbio-research.cs.brown.edu/software/PREGO/PREGO_1.1.tar.gz">Download</a></li>
+  <li>PREGO Version 1.0: <a href="http://compbio-research.cs.brown.edu/software/PREGO/PREGO_1.0.tar.gz">Download</a></li>
+</ul>
+:ET

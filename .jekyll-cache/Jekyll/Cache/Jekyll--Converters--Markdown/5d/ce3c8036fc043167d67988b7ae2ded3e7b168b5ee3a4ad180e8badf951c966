@@ -1,0 +1,22 @@
+I")<h1 id="weighted-exclusivity-test-wext">Weighted Exclusivity Test (WExT)</h1>
+
+<h2 id="about">About</h2>
+<p>We developed a weighted exact test for mutually exclusive mutations, which conditions on the number of mutations in each gene and uses per gene, per sample mutation probabilities. We call this a <em>weighted-row exclusivity (WR-exclusivity) test</em>, because it conditions on the number of mutations per gene (row sums of mutation matrix) and uses per gene, per sample weights.</p>
+
+<p>We use our WR-exclusivity test to approximate the row-column exclusivity (RC-exclusivity) test that conditions on the number of mutations per gene and per patient, but is too expensive computationally to compute exactly.</p>
+
+<p><img class="img-responsive" alt="WExT overview" src="./wext-figure.jpg" /></p>
+
+<p><a name="download"></a></p>
+
+<h2 id="downloads-and-software">Downloads and software</h2>
+<p>We use our Weighted Exclusivity Test (WExT) software to compute the WR-exclusivity test, either exactly or with a saddlepoint approximation. The software and source code is hosted on GitHub: <a href="https://github.com/raphael-group/wext/">Source code</a> | <a href="https://github.com/raphael-group/wext/releases">Downloads</a>.</p>
+
+<p><a name="reference"></a></p>
+
+<h2 id="references">References</h2>
+
+<blockquote>
+  <p>Mark D.M. Leiserson, Matthew A. Reyna, Benjamin J. Raphael. (2016) A Weighted Exact Test for Mutually Exclusive Mutations in Cancer. <em>ECCB/Bioinformatics</em> (to appear). <a href="https://arxiv.org/abs/1607.02447">arXiv preprint</a></p>
+</blockquote>
+:ET

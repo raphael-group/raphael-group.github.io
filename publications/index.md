@@ -13,7 +13,7 @@ container_css_class: container publications
 * [![SCARLET](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/840355v1)
 **Single-cell tumor phylogeny inference with copy-number constrained mutation losses**
 
-	_G Satas_, _S Zaccaria_, _G Mon_m _BJ Raphael_ 
+	_G Satas_, _S Zaccaria_, _G Mon_, _BJ Raphael_ 
 	
 	RECOMB 2020 [In Press] 
 	
@@ -25,6 +25,13 @@ container_css_class: container publications
 	  	<span class="label label-danger">
 		<a href="https://github.com/raphael-group/scarlet">Software</a>
 	</span>
+
+* [![NetMix](../assets/img/papers/missing.svg)]()
+**NetMix: A network-structured mixture model for less biased identification of altered subnetworks**
+
+	_M.A. Reyna*_, _U. Chitra*_, _R Elyanow_, _BJ Raphael_ 
+	
+	RECOMB 2020 [In Press] 
 
 * [![RCK](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/560839v1)
 **Reconstruction of clone- and haplotype-specific cancer genome karyotypes from bulk tumor samples**
@@ -108,7 +115,22 @@ container_css_class: container publications
 	S W Brady, X Ma, A Bahrami, _G Satas_, G. Wu, S Newman, M Rusch, D K Putnam, H L Mulder, D Yergeau, M N Edmonson, J Easton, L B Alexandrov, X Chen, E R Mardis, R K Wilson, J R Downing, A S Pappo, _B J Raphael_, M A Dyer, J Zhang
 	
 	*Molecular Cancer Research* (2019)
+
+##### Conference Proceedings
+
+* [![ICML2019](../assets/img/papers/missing.svg)](http://proceedings.mlr.press/v97/chitra19a.html)
+	**Random Walks on Hypergraphs with Edge-Dependent Vertex Weights**
 	
+	_U. Chitra_, _B.J. Raphael_
+	
+	*International Conference on Machine Learning (ICML) 2019*.
+	
+	<span class="label label-success">
+		<a href="http://proceedings.mlr.press/v97/chitra19a.html" target="_new">Proceedings</a>
+	</span>
+	<span class="label label-info">
+        	<a href="https://arxiv.org/abs/1905.08287" target="_new">arXiv preprint</a>
+    </span>
 
 ### 2018 ###
 

@@ -1,0 +1,30 @@
+I"<h1 id="mascote-multi-sample-allele-specific-simulation-of-tumor-copy-number-evolution">MASCoTE: Multi-sample Allele-specific Simulation of Tumor Copy-number Evolution</h1>
+
+<p>MASCoTE (Multi-sample Allele-specific Simulation of Copy-number Tumor Evolution) is a simulation framework
+to generate sequencing reads with appropriately corrections for the differences in genome lengths between the normal and tumor clone(s) present in multiple mixed samples from the same patient. MASCoTE simulates a normal diploid human genome and the genomes of tumor clones characterized by different kind of somatic copy-number aberrations (CNAs) and whole-genome duplications (WGDs) accumulated during an evolutionary process modeled as a phylogenetic tree. Different CNAs include focal CNAs, and CNAs involving chromosomal arms and whole chromosomes. MASCoTE has been designed and developped by Simone Zaccaria in the group of prof. Ben Raphael at Princeton University. The full description of the simulation framework is included together with the HATCHet algorithm in</p>
+
+<p><a href="https://www.biorxiv.org/content/early/2018/12/17/496174">Simone Zaccaria and Ben Raphael, 2018</a></p>
+
+<p>The simulated data and the results of all the methods considered in the comparison are available at</p>
+
+<p><a href="https://github.com/raphael-group/hatchet-paper">manuscript’s data</a></p>
+
+<p><a href="doc/mascote-cartoon.png" title="MASCoTE framework"><img src="mascote-cartoon.png" style="width: 900px" /></a></p>
+
+<p><strong>Overview of Multiple Allele-specific Simulation of Copy-number Tumor Evolution (MASCoTE) framework.</strong> MASCoTE simulates sequencing reads of multiple mixed samples according to the genome lengths and proportions of all clones. The simulation framework of MASCoTE is composed of four steps. <strong>(A)</strong> MASCoTE simulates a diploid human genome by inserting homozygous (purple square) and heterozygous (magenta squares) germline SNPs in the two haplotypes (red and blue haplotypes). <strong>(B)</strong> MASCoTE simulates the genomes of 4 tumor clones by considering CNAs and WGDs. First, MASCoTE generates a random phylogenetic tree which describes the tumor evolution; the phylogenetic tree is rooted in the normal diploid clone (grey node) and every other node corresponds to a tumor clone (green, fuchsia, orange, and gold nodes). Next, MASCoTE simulates different kind of CNAs for every branch, including aberrations of whole chromosomes or chromosomal’s arms, and focal duplications and deletions. MASCoTE also simulates a WGD in the trunk of the phylogeny. As such, the CNAs and WGDs in each branch are applied in arbitrary order to the genome of the parent clone to obtain the genome of the child clone such that the diploid human genome generated in <strong>(A)</strong> is assigned to the normal diploid clone. <strong>(C)</strong> MASCoTE simulates sequencing reads from the genome of every clone and computes the corresponding genome lengths (<em>L</em>). <strong>(D)</strong> MASCoTE simulates multiple mixed samples according to given clone proportions (<em>u</em>) by computing the corrected proportions of sequencing reads belonging to each clone (<em>v</em>) and by mixing the reads accordingly.</p>
+
+<h2 id="repository">Repository</h2>
+
+<p>You can download the latest version of MASCoTE from the <a href="https://github.com/raphael-group/mascote">MASCoTE GitHub project</a>. The repository includes a detailed documentation, demos, examples, and tutorials.</p>
+
+<h2 id="support">Support</h2>
+
+<p>You can ask support and questions about MASCoTE on the actively mantained <strong>Issues</strong> forum of the HATCHet GitHub project](https://github.com/raphael-group/mascote).</p>
+
+<h2 id="references">References</h2>
+<p>MASCoTE and its applications are described together with HATCHet in the following publications:</p>
+
+<blockquote>
+  <p>Simone Zaccaria and Benjamin J. Raphael, <em>Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data</em>. bioRxiv (Dec. 17, 2018) doi.org/10.1101/496174</p>
+</blockquote>
+:ET

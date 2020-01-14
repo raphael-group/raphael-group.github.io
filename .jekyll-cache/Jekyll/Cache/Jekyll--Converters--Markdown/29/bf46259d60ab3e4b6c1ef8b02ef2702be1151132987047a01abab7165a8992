@@ -1,0 +1,24 @@
+I"H<h1 id="btp-binary-tree-partition--analyzing-intra-tumor-heterogeneity-from-high-throughput-sequencing-data">BTP: Binary Tree Partition – analyzing intra-tumor heterogeneity from high-throughput sequencing data</h1>
+
+<h2 id="about">About</h2>
+<p>Binary Tree Partition (BTP) is a novel combinatorial formulation of the problem of constructing the subpopulations of tumor cells from the variant allele frequencies of somatic mutations.</p>
+
+<p><a href="simple.jpg"><img src="simple.jpg" style="width: 600px" /></a></p>
+
+<p><a name="download"></a></p>
+
+<h2 id="downloads">Downloads</h2>
+<p>You can download the latest version of rec-BTP from <a href="http://compbio-research.cs.brown.edu/software/BTP/rec-btp-1.0.tar.gz">rec-BTP version 1.0</a>.</p>
+
+<p><a name="reference"></a></p>
+
+<h2 id="references">References</h2>
+<p>The algorihtm is described in the following publications:</p>
+
+<blockquote>
+  <p>A combinatorial approach for analyzing intra-tumor heterogeneity from high-throughput sequencing data
+I Hajirasouliha, A Mahmoody, BJ Raphael
+Bioinformatics 30 (12), i78-i86</p>
+</blockquote>
+
+:ET
