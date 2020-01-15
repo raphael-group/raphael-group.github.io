@@ -92,6 +92,16 @@ container_css_class: container publications
 	<span class="label label-info">
         	<a href="https://www.biorxiv.org/content/10.1101/385294v1" target="_new">bioRxiv preprint</a>
 	</span>
+
+### 2020 ###
+
+##### Journal Articles
+* [![AMLStJudesBlood](../assets/img/papers/missing.svg)](https://www.sciencedirect.com/science/article/pii/S2405471219301917)
+	**Therapy-induced mutations drive the genomic landscape of relapsed acute lymphoblastic leukemia**
+	
+	B. Li, S.W. Brady, X. Ma, S. Shen, Y. Zhang, Y. Li, K. Szlachta, L. Dong, Y. Liu, F. Yang, N. Wang, D.A. Flasch, _M.A. Myers_, H.L. Mulder, L. Ding, Y. Liu, L. Tian, K. Hagiwara, K. Xu, X. Zhou, E. Sioson, T. Wang, L. Yang, J. Zhao, H. Zhang, Y. Shao, H. Sun, L. Sun, J. Cai, H. Sun, T. Lin, L. Du, H. Li, M. Rusch, M.N. Edmonson, J. Easton, X. Zhu, J. Zhang, C. Cheng, _B.J. Raphael_, J. Tang, J.R. Downing, L.B. Alexandrov, B.S. Zhou, C. Pui, J.J. Yang, J. Zhang
+ 
+	*Blood* (2020). 135 (1), 41-55.
 	
 ### 2019 ###
 
