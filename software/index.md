@@ -6,6 +6,10 @@ container_css_class: container publications
 
 # software
 
+This page lists some of the software packages developed in the group, organized by topic.  For the most up-to-date list of software, please visit the <a href="https://github.com/raphael-group">group Github repository.
+
+
+
 ### Genetic Heterogeneity: Networks and Pathways
 
 ##### WExT: Weighted Exclusivity Test
