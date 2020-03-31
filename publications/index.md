@@ -87,7 +87,7 @@ container_css_class: container publications
 	Genome Research (Jan. 28, 2020). 
 	
 	<span class="label label-info">
-       		<a href="https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119" target="_new">bioRxiv preprint</a>
+       		<a href="https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119" target="_new">Publication</a>
     	</span>
   	<span class="label label-danger">
 		<a href="https://github.com/raphael-group/netNMF-sc">Software</a>
