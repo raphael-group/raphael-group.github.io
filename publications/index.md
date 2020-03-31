@@ -48,24 +48,6 @@ container_css_class: container publications
 	</span>
 
 
-
-
-
-* [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://www.biorxiv.org/content/10.1101/544346v1)
-**netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
-
-	_R Elyanow_, B Dumitrascu, B Engelgardt, _BJ Raphael_
-	
-	RECOMB 2019, In Press
-	
-	bioRxiv (Feb. 8, 2019). 
-	
-	<span class="label label-info">
-       		<a href="https://www.biorxiv.org/content/10.1101/544346v1" target="_new">bioRxiv preprint</a>
-    	</span>
-  	<span class="label label-danger">
-		<a href="https://github.com/raphael-group/netNMF-sc">Software</a>
-	</span>
     
  * [![HATCHet](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/496174v1)
 **Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data**
@@ -96,6 +78,21 @@ container_css_class: container publications
 ### 2020 ###
 
 ##### Journal Articles
+
+* [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119)
+**netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
+
+	_R Elyanow_, B Dumitrascu, B Engelgardt, _BJ Raphael_
+	
+	Genome Research (Jan. 28, 2020). 
+	
+	<span class="label label-info">
+       		<a href="https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119" target="_new">bioRxiv preprint</a>
+    	</span>
+  	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/netNMF-sc">Software</a>
+	</span>
+	
 * [![AMLStJudesBlood](../assets/img/papers/missing.svg)](https://ashpublications.org/blood/article/135/1/41/422540/Therapy-induced-mutations-drive-the-genomic)
 	**Therapy-induced mutations drive the genomic landscape of relapsed acute lymphoblastic leukemia**
 	
