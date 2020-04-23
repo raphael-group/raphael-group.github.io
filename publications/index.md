@@ -17,9 +17,7 @@ container_css_class: container publications
 
 	ISMB 2020 [In Press]
 	
-    	<span class="label label-danger">
-		<a href="https://github.com/raphael-group/SBMClone">Software</a>
-	</span>
+	<span class="label label-danger"><a href="https://github.com/raphael-group/scarlet">Software</a></span>
 	
 * [![SCARLET](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/840355v1)
 **Single-cell tumor phylogeny inference with copy-number constrained mutation losses**
