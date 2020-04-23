@@ -10,6 +10,13 @@ container_css_class: container publications
 
 ### Preprints and In press ###
 
+* [![SBMClone](../assets/img/papers/missing.svg)]()
+	**Identifying tumor clones in sparse single-cell mutation data**
+
+	_M.A. Myers*_, _S. Zaccaria*_, _B.J. Raphael_ 
+
+	ISMB 2020 [In Press]
+
 * [![SCARLET](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/840355v1)
 **Single-cell tumor phylogeny inference with copy-number constrained mutation losses**
 
@@ -111,7 +118,9 @@ container_css_class: container publications
 
 	*RECOMB 2019, Cell Systems* (2019). 8 (6), 514-522.e5.
 	
-
+	<span class="label label-info">
+       		<a href="https://www.sciencedirect.com/science/article/pii/S2405471219301917" target="_new">Publication</a>
+    	</span>
 	<span class="label label-danger">
 		<a href="https://github.com/raphael-group/calder">Software</a>
 	</span>
