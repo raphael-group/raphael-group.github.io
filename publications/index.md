@@ -16,7 +16,12 @@ container_css_class: container publications
 	_M.A. Myers*_, _S. Zaccaria*_, _B.J. Raphael_ 
 
 	ISMB 2020 [In Press]
-
+	
+    	</span>
+	  	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/SBMClone">Software</a>
+	</span>
+	
 * [![SCARLET](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/840355v1)
 **Single-cell tumor phylogeny inference with copy-number constrained mutation losses**
 
