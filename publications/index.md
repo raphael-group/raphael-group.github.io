@@ -17,8 +17,7 @@ container_css_class: container publications
 
 	ISMB 2020 [In Press]
 	
-    	</span>
-	  	<span class="label label-danger">
+    	<span class="label label-danger">
 		<a href="https://github.com/raphael-group/SBMClone">Software</a>
 	</span>
 	
