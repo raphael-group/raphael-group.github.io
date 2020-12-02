@@ -11,21 +11,23 @@ container_css_class: container
 ### PI
 Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
 
-### Postdoctoral Fellows 
-* [Simone Zaccaria](https://simozacca.github.io/) (Postdoctoral Research Associate, April 2017-present)
+### Postdoctoral Fellows
+* Cong Ma (Postdoctoral Research Associate, October 2020 - present)
+* Pijus Simonaitis (Postdoctoral Research Associate, starting January 2021)
 * [Ron Zeira](http://www.cs.tau.ac.il/~ronzeira/) (Postdoctoral Research Associate, January 2019-present)
 
 
 ### Ph.D. Students
-* Rebecca Elyanow (Computational Biology and Computer Science).  2015-present
+* [Uthsav Chitra](https://uthsavc.github.io) (Computer Science). 2018-present
 * Matthew Myers (Computer Science). 2017-present
 * Tyler Park (Quantitative and Computational Biology). 2018-present
-* [Gryte Satas](https://cs.brown.edu/people/gsatas/) (Computer Science). 2014-present
-* [Uthsav Chitra](https://uthsavc.github.io) (Computer Science). 2018-present
+* Alexander Strzalkowski (Computer Science). 2020-present
 
 ### Undergraduates
-* Geoffrey Mon
-* Devina Singh
+* Yaw Asante
+* Kimberly Ding
+* Max Land
+
 
 <a name="jobs"></a> 
 
@@ -38,6 +40,8 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 ## Alumni
 
 #### Ph.D. Students
+* [Gryte Satas](https://cs.brown.edu/people/gsatas/) (Ph.D. Computer Science, 2020) &rarr; Postdoctoral Fellow, Memorial Sloan Kettering Cancer Center 
+* Rebecca Elyanow (Ph.D. Computational Biology and Computer Science, 2020)&rarr; Adaptive Biotechnologies
 * [Max Leiserson](http://maxleiserson.com) (Ph.D. Computational Biology and Computer Science, 2016) [NSF Graduate Research Fellowship, 2012-2015] &rarr; Postdoctoral Fellow, Microsoft Research New England &rarr; Assistant Professor, University of Maryland (Starting Fall 2017)
 * [Hsin-Ta Wu](http://cs.brown.edu/people/bournewu/) (Ph.D. Computational Biology and Computer Science, 2016) &rarr; Senior Bioinformatician, Natera
 * [Layla Oesper](http://cs.brown.edu/people/layla/) (Ph.D. Computer Science 2015) [NSF Graduate Research Fellowship, 2011-2014, Google Anita Borg Scholarship 2014] &rarr; Assistant Professor, Carleton College 
@@ -47,6 +51,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 * [Crystal Kahn](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [NSF Graduate Research Fellowship, 2005-2008] &rarr; Ab Initio &rarr; Assistant Professor, Amherst College 
 
 #### Postdoctoral Fellows and Research Faculty
+* [Simone Zaccaria](https://simozacca.github.io/) (Postdoctoral Research Associate, April 2017-August 2020) &rarr; Group Leader at University College London 
 * Sergey Aganezov (Postdoctoral Research Associate, July 2017-July 2018) &rarr; Postdoctoral Fellow, Johns Hopkins University
 * [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-January 2018) &rarr; Assistant Professor, Computer Science, University of Illinois Urbana-Champaign
 * Matthew Reyna (Postdoctoral Research Associate, August 2014-November 2018) &rarr; Postdoctoral Fellow, Emory University
@@ -70,6 +75,10 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 
 #### Undergraduate and Visiting Students
+* Chandler Ault (Summer 2020)
+* Claire Du (Honors Thesis, 2020)
+* Geoffrey Mon (Summer 2018, 2019)
+* Devina Singh (Honors Thesis, 2018)
 * Alexandra Wong (UTRA Summer 2015 and 2016 &rarr; Yelp &rarr; M.D. student, Brown University
 * Jonathan Chang (UTRA, Summer 2016)
 * Zheng Shi (UTRA, Summer 2016) &rarr; Ph.D. student, Computer Science, Princeton University
