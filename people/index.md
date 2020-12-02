@@ -54,7 +54,7 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 * [Simone Zaccaria](https://simozacca.github.io/) (Postdoctoral Research Associate, April 2017-August 2020) &rarr; Group Leader at University College London 
 * Sergey Aganezov (Postdoctoral Research Associate, July 2017-July 2018) &rarr; Postdoctoral Fellow, Johns Hopkins University
 * [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-January 2018) &rarr; Assistant Professor, Computer Science, University of Illinois Urbana-Champaign
-* Matthew Reyna (Postdoctoral Research Associate, August 2014-November 2018) &rarr; Postdoctoral Fellow, Emory University
+* [Matthew Reyna](https://reynalab.org) (Postdoctoral Research Associate, August 2014-November 2018) &rarr; Postdoctoral Fellow &rarr; Assistant Professor, Emory University
 * [Dora Erdos](http://cs-people.bu.edu/edori/) (Postdoctoral Research Associate, September 2015-August 2016) &rarr; Lecturer, Boston University
 * Jason Dobson (Postdoctoral Fellow, 2013-2014) &rarr; Novartis
 * [Iman Hajirasouliha](http://www.imanh.org/) (Postdoctoral Fellow, 2013-2014) &rarr; Postdoctoral Fellow, Stanford University &rarr; Assistant Professor, Weil Cornell Medical School
