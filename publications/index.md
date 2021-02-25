@@ -10,6 +10,28 @@ container_css_class: container publications
 
 ### Preprints and In press ###
 
+
+### 2021 ###
+
+
+### 2020 ###
+
+
+##### Journal Articles
+
+* [![STARCH](../assets/img/papers/missing.svg)]()
+	**STARCH: Copy number and clone inference from spatial transcriptomics data**
+
+	_R Elyanow_, _R. Zeira_, _M. Land_, _B.J. Raphael_  
+
+	Physical Biology 
+	
+	<span class="label label-info">
+        	<a href="https://www.biorxiv.org/content/10.1101/2020.07.13.188813v1" target="_new">bioRxiv preprint</a>
+    	</span>
+	
+	<span class="label label-danger"><a href="https://github.com/raphael-group/starch/">Software</a></span>
+	
 * [![SBMClone](../assets/img/papers/missing.svg)]()
 	**Identifying tumor clones in sparse single-cell mutation data**
 
@@ -41,23 +63,7 @@ container_css_class: container publications
 	_M.A. Reyna*_, _U. Chitra*_, _R Elyanow_, _BJ Raphael_ 
 	
 	RECOMB 2020 [In Press] 
-
-* [![RCK](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/560839v1)
-**Reconstruction of clone- and haplotype-specific cancer genome karyotypes from bulk tumor samples**
-
-	S Aganezov, _BJ Raphael_
 	
-	bioRxiv (Feb. 25, 2019)
-	
-	<span class="label label-info">
-        	<a href="https://www.biorxiv.org/content/10.1101/560839v1" target="_new">bioRxiv preprint</a>
-    	</span>
-    	<span class="label label-danger">
-		<a href="https://github.com/raphael-group/RCK">Software</a>
-	</span>
-
-
-    
  * [![HATCHet](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/496174v1)
 **Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data**
 
@@ -72,7 +78,20 @@ container_css_class: container publications
 		<a href="https://github.com/raphael-group/hatchet">Software</a>
 	</span>
 
+* [![RCK](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/560839v1)
+**Reconstruction of clone- and haplotype-specific cancer genome karyotypes from bulk tumor samples**
 
+	S Aganezov, _BJ Raphael_
+	
+	bioRxiv (Feb. 25, 2019)
+	
+	<span class="label label-info">
+        	<a href="https://www.biorxiv.org/content/10.1101/560839v1" target="_new">bioRxiv preprint</a>
+    	</span>
+    	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/RCK">Software</a>
+	</span>
+	
 * [![ICGCPCAWGNetworks](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/385294v1)
 	**Pathway and network analysis of more than 2,500 whole cancer genomes**
 
@@ -83,11 +102,7 @@ container_css_class: container publications
 	<span class="label label-info">
         	<a href="https://www.biorxiv.org/content/10.1101/385294v1" target="_new">bioRxiv preprint</a>
 	</span>
-
-### 2020 ###
-
-##### Journal Articles
-
+	
 * [![netNMF-sc](../assets/img/papers/netNMF-sc.jpg)](https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119)
 **netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis**
 
