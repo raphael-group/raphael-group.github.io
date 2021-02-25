@@ -37,8 +37,11 @@ container_css_class: container publications
 
 	_M.A. Myers*_, _S. Zaccaria*_, _B.J. Raphael_ 
 
-	ISMB 2020 [In Press]
+	ISMB 2020, Bioinformatics (July 13, 2020). 
 	
+	<span class="label label-info">
+       		<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i186/5870493" target="_new">Publication</a>
+    	</span>
 	<span class="label label-danger"><a href="https://github.com/raphael-group/sbmclone/">Software</a></span>
 	
 * [![SCARLET](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/840355v1)
