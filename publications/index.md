@@ -32,7 +32,7 @@ container_css_class: container publications
 	
 	<span class="label label-danger"><a href="https://github.com/raphael-group/starch/">Software</a></span>
 	
-* [![SBMClone](../assets/img/papers/missing.svg)]()
+* [![SBMClone](../assets/img/papers/missing.svg)](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i186/5870493)
 	**Identifying tumor clones in sparse single-cell mutation data**
 
 	_M.A. Myers*_, _S. Zaccaria*_, _B.J. Raphael_ 
