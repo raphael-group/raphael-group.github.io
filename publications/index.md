@@ -10,6 +10,21 @@ container_css_class: container publications
 
 ### Preprints and In press ###
 
+* [![PASTE](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
+**Alignment and Integration of Spatial Transcriptomics Data**
+
+	_R. Zeira_, _M. Land_, _B.J. Raphael_ 
+	
+	RECOMB 2021 [In Press] 
+	
+	bioRxiv (Mar. 13, 2021).
+	
+	<span class="label label-info">
+        	<a href="https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1" target="_new">bioRxiv preprint</a>
+    	</span>
+	  	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/paste">Software</a>
+	</span>
 
 ### 2021 ###
 
@@ -19,18 +34,30 @@ container_css_class: container publications
 
 ##### Journal Articles
 
-* [![STARCH](../assets/img/papers/missing.svg)]()
+* [![STARCH](../assets/img/papers/missing.svg)](https://iopscience.iop.org/article/10.1088/1478-3975/abbe99)
 	**STARCH: Copy number and clone inference from spatial transcriptomics data**
 
-	_R Elyanow_, _R. Zeira_, _M. Land_, _B.J. Raphael_  
+	_R. Elyanow_, _R. Zeira_, _M. Land_, _B.J. Raphael_  
 
-	Physical Biology 
+	Physical Biology **18** 035001 (Oct 2020)
 	
 	<span class="label label-info">
-        	<a href="https://www.biorxiv.org/content/10.1101/2020.07.13.188813v1" target="_new">bioRxiv preprint</a>
+        	<a href="https://iopscience.iop.org/article/10.1088/1478-3975/abbe99" target="_new">Publication</a>
     	</span>
 	
 	<span class="label label-danger"><a href="https://github.com/raphael-group/starch/">Software</a></span>
+	
+* [![WCND](../assets/img/papers/missing.svg)](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i344/5870462)
+	**Copy number evolution with weighted aberrations in cancer**
+
+	_R. Zeira_, _B.J. Raphael_ 
+
+	ISMB 2020, Bioinformatics (July 13, 2020). 
+	
+	<span class="label label-info">
+       		<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i344/5870462" target="_new">Publication</a>
+    	</span>
+	<span class="label label-danger"><a href="https://github.com/raphael-group/WCND">Software</a></span>
 	
 * [![SBMClone](../assets/img/papers/missing.svg)](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i186/5870493)
 	**Identifying tumor clones in sparse single-cell mutation data**
