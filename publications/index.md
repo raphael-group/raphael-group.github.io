@@ -10,7 +10,7 @@ container_css_class: container publications
 
 ### Preprints and In press ###
 
-* [![CND-aliquoting](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
+* [![CND-aliquoting](../assets/img/papers/missing.svg)]
 **Genome Halving and Aliquoting under the Copy Number Distance**
 
 	_R. Zeira_, _G. Mon_, _B.J. Raphael_ 
@@ -22,7 +22,7 @@ container_css_class: container publications
 	</span>
 
 * [![PASTE](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
-**Alignment and Integration of Spatial Transcriptomics Data**(../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
+**Alignment and Integration of Spatial Transcriptomics Data**
 
 	_R. Zeira_, _M. Land_, _B.J. Raphael_ 
 	
