@@ -10,7 +10,18 @@ container_css_class: container publications
 
 ### Preprints and In press ###
 
-* [![PASTE](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
+* [![CND-aliquoting](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
+**Genome Halving and Aliquoting under the Copy Number Distance**
+
+	_R. Zeira_, _G. Mon_, _B.J. Raphael_ 
+	
+	WABI 2021 [In Press] 
+	
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/CND-aliquoting">Software</a>
+	</span>
+
+
 **Alignment and Integration of Spatial Transcriptomics Data**
 
 	_R. Zeira_, _M. Land_, _B.J. Raphael_ 
