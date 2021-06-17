@@ -21,8 +21,8 @@ container_css_class: container publications
 		<a href="https://github.com/raphael-group/CND-aliquoting">Software</a>
 	</span>
 
-
-**Alignment and Integration of Spatial Transcriptomics Data**
+* [![PASTE](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
+**Alignment and Integration of Spatial Transcriptomics Data**(../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
 
 	_R. Zeira_, _M. Land_, _B.J. Raphael_ 
 	
