@@ -13,7 +13,7 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 
 ### Postdoctoral Fellows
 * Cong Ma (Postdoctoral Research Associate, October 2020 - present)
-* Pijus Simonaitis (Postdoctoral Research Associate, starting January 2021)
+* Pijus Simonaitis (Postdoctoral Research Associate, January 2021 - present)
 * [Ron Zeira](http://www.cs.tau.ac.il/~ronzeira/) (Postdoctoral Research Associate, January 2019-present)
 
 
@@ -21,6 +21,7 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 * [Uthsav Chitra](https://uthsavc.github.io) (Computer Science). 2018-present
 * Matthew Myers (Computer Science). 2017-present
 * Tyler Park (Quantitative and Computational Biology). 2018-present
+* Ahmed Shuaibi (Quantitative and Computational Biology). 2021-present
 * Alexander Strzalkowski (Computer Science). 2020-present
 
 ### Undergraduates
