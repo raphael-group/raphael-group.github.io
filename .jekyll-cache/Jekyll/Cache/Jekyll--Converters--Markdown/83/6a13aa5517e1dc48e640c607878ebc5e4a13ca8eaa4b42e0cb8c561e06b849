@@ -1,0 +1,1859 @@
+I"'I<h4 id="pubmed--google-scholar--dblp"><a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=%28raphael+bj+%5Bau%5D+OR+raphael+bj+%5BInvestigator%5D%29+OR+21720365%5Buid%5D+OR+17048384+%5Buid%5D+OR+15520295+%5Buid%5D">PubMed</a> | <a href="https://scholar.google.com/citations?user=GhvZjJUAAAAJ&amp;hl=en&amp;authuser=1">Google Scholar</a> | <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Raphael:Benjamin_J=.html">DBLP</a></h4>
+
+<h1 id="publications">publications</h1>
+
+<h3 id="preprints-and-in-press">Preprints and In press</h3>
+
+<ul>
+  <li>
+    <p><a href="../assets/img/papers/missing.svg">![CND-aliquoting]</a>
+<strong>Genome Halving and Aliquoting under the Copy Number Distance</strong></p>
+
+    <p><em>R. Zeira</em>, <em>G. Mon</em>, <em>B.J. Raphael</em></p>
+
+    <p>WABI 2021 [In Press]</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/raphael-group/CND-aliquoting">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1"><img src="../assets/img/papers/missing.svg" alt="PASTE" /></a>
+<strong>Alignment and Integration of Spatial Transcriptomics Data</strong></p>
+
+    <p><em>R. Zeira</em>, <em>M. Land</em>, <em>B.J. Raphael</em></p>
+
+    <p>RECOMB 2021 [In Press]</p>
+
+    <p>bioRxiv (Mar. 13, 2021).</p>
+
+    <p><span class="label label-info">
+      	<a href="https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1" target="_new">bioRxiv preprint</a>
+  	</span>
+    	<span class="label label-danger">
+      <a href="https://github.com/raphael-group/paste">Software</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2021">2021</h3>
+
+<h3 id="2020">2020</h3>
+
+<h5 id="journal-articles">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="https://iopscience.iop.org/article/10.1088/1478-3975/abbe99"><img src="../assets/img/papers/missing.svg" alt="STARCH" /></a>
+  <strong>STARCH: Copy number and clone inference from spatial transcriptomics data</strong></p>
+
+    <p><em>R. Elyanow</em>, <em>R. Zeira</em>, <em>M. Land</em>, <em>B.J. Raphael</em></p>
+
+    <p>Physical Biology <strong>18</strong> 035001 (Oct 2020)</p>
+
+    <p><span class="label label-info">
+      	<a href="https://iopscience.iop.org/article/10.1088/1478-3975/abbe99" target="_new">Publication</a>
+  	</span></p>
+
+    <p><span class="label label-danger"><a href="https://github.com/raphael-group/starch/">Software</a></span></p>
+  </li>
+  <li>
+    <p><a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i344/5870462"><img src="../assets/img/papers/missing.svg" alt="WCND" /></a>
+  <strong>Copy number evolution with weighted aberrations in cancer</strong></p>
+
+    <p><em>R. Zeira</em>, <em>B.J. Raphael</em></p>
+
+    <p>ISMB 2020, Bioinformatics (July 13, 2020).</p>
+
+    <p><span class="label label-info">
+     		<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i344/5870462" target="_new">Publication</a>
+  	</span>
+  <span class="label label-danger"><a href="https://github.com/raphael-group/WCND">Software</a></span></p>
+  </li>
+  <li>
+    <p><a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i186/5870493"><img src="../assets/img/papers/missing.svg" alt="SBMClone" /></a>
+  <strong>Identifying tumor clones in sparse single-cell mutation data</strong></p>
+
+    <p><em>M.A. Myers*</em>, <em>S. Zaccaria*</em>, <em>B.J. Raphael</em></p>
+
+    <p>ISMB 2020, Bioinformatics (July 13, 2020).</p>
+
+    <p><span class="label label-info">
+     		<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i186/5870493" target="_new">Publication</a>
+  	</span>
+  <span class="label label-danger"><a href="https://github.com/raphael-group/sbmclone/">Software</a></span></p>
+  </li>
+  <li>
+    <p><a href="https://www.biorxiv.org/content/10.1101/840355v1"><img src="../assets/img/papers/missing.svg" alt="SCARLET" /></a>
+<strong>Single-cell tumor phylogeny inference with copy-number constrained mutation losses</strong></p>
+
+    <p><em>G Satas</em>, <em>S Zaccaria</em>, <em>G Mon</em>, <em>BJ Raphael</em></p>
+
+    <p>RECOMB 2020 [In Press]</p>
+
+    <p>bioRxiv (Nov. 26, 2019).  doi.org/10.1101/840355</p>
+
+    <p><span class="label label-info">
+      	<a href="https://www.biorxiv.org/content/10.1101/840355v1" target="_new">bioRxiv preprint</a>
+  	</span>
+    	<span class="label label-danger">
+      <a href="https://github.com/raphael-group/scarlet">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="NetMix" /></a>
+<strong>NetMix: A network-structured mixture model for less biased identification of altered subnetworks</strong></p>
+
+    <p><em>M.A. Reyna*</em>, <em>U. Chitra*</em>, <em>R Elyanow</em>, <em>BJ Raphael</em></p>
+
+    <p>RECOMB 2020 [In Press]</p>
+  </li>
+  <li>
+    <p><a href="https://www.biorxiv.org/content/10.1101/496174v1"><img src="../assets/img/papers/missing.svg" alt="HATCHet" /></a>
+<strong>Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data</strong></p>
+
+    <p><em>S Zaccaria</em> and <em>BJ Raphael</em></p>
+
+    <p>bioRxiv (Dec. 17, 2018) doi.org/10.1101/496174</p>
+
+    <p><span class="label label-info">
+     	<a href="https://www.biorxiv.org/content/10.1101/496174v1" target="_new">bioRxiv preprint</a>
+ </span>
+   	<span class="label label-danger">
+     <a href="https://github.com/raphael-group/hatchet">Software</a>
+ </span></p>
+  </li>
+  <li>
+    <p><a href="https://www.biorxiv.org/content/10.1101/560839v1"><img src="../assets/img/papers/missing.svg" alt="RCK" /></a>
+<strong>Reconstruction of clone- and haplotype-specific cancer genome karyotypes from bulk tumor samples</strong></p>
+
+    <p>S Aganezov, <em>BJ Raphael</em></p>
+
+    <p>bioRxiv (Feb. 25, 2019)</p>
+
+    <p><span class="label label-info">
+      	<a href="https://www.biorxiv.org/content/10.1101/560839v1" target="_new">bioRxiv preprint</a>
+  	</span>
+  	<span class="label label-danger">
+      <a href="https://github.com/raphael-group/RCK">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="https://www.biorxiv.org/content/10.1101/385294v1"><img src="../assets/img/papers/missing.svg" alt="ICGCPCAWGNetworks" /></a>
+  <strong>Pathway and network analysis of more than 2,500 whole cancer genomes</strong></p>
+
+    <p><em>M.A. Reyna</em>, …,  J. Reimand, J.M. Stuart, <em>B.J. Raphael</em> on behalf of the PCAWG Drivers and Functional Annotation Group, ICGC/TCGA Pan-Cancer Analysis of Whole Genomes</p>
+
+    <p>bioRxiv (Aug. 7, 2018) doi.org/10.1101/385294</p>
+
+    <p><span class="label label-info">
+      	<a href="https://www.biorxiv.org/content/10.1101/385294v1" target="_new">bioRxiv preprint</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119"><img src="../assets/img/papers/netNMF-sc.jpg" alt="netNMF-sc" /></a>
+<strong>netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis</strong></p>
+
+    <p><em>R Elyanow</em>, B Dumitrascu, B Engelgardt, <em>BJ Raphael</em></p>
+
+    <p>Genome Research (Jan. 28, 2020).</p>
+
+    <p><span class="label label-info">
+     		<a href="https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119" target="_new">Publication</a>
+  	</span>
+	<span class="label label-danger">
+      <a href="https://github.com/raphael-group/netNMF-sc">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="https://ashpublications.org/blood/article/135/1/41/422540/Therapy-induced-mutations-drive-the-genomic"><img src="../assets/img/papers/missing.svg" alt="AMLStJudesBlood" /></a>
+  <strong>Therapy-induced mutations drive the genomic landscape of relapsed acute lymphoblastic leukemia</strong></p>
+
+    <p>B. Li, S.W. Brady, X. Ma, S. Shen, Y. Zhang, Y. Li, K. Szlachta, L. Dong, Y. Liu, F. Yang, N. Wang, D.A. Flasch, <em>M.A. Myers</em>, H.L. Mulder, L. Ding, Y. Liu, L. Tian, K. Hagiwara, K. Xu, X. Zhou, E. Sioson, T. Wang, L. Yang, J. Zhao, H. Zhang, Y. Shao, H. Sun, L. Sun, J. Cai, H. Sun, T. Lin, L. Du, H. Li, M. Rusch, M.N. Edmonson, J. Easton, X. Zhu, J. Zhang, C. Cheng, <em>B.J. Raphael</em>, J. Tang, J.R. Downing, L.B. Alexandrov, B.S. Zhou, C. Pui, J.J. Yang, J. Zhang</p>
+
+    <p><em>Blood</em> (2020). 135 (1), 41-55.</p>
+  </li>
+</ul>
+
+<h3 id="2019">2019</h3>
+
+<h5 id="journal-articles-1">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S2405471219301917"><img src="../assets/img/papers/CALDER-abstract-fig.jpg" alt="CALDER" /></a>
+  <strong>CALDER: Inferring Phylogenetic Trees from Longitudinal Tumor Samples</strong></p>
+
+    <p><em>M.A. Myers</em>, <em>G. Satas</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>RECOMB 2019, Cell Systems</em> (2019). 8 (6), 514-522.e5.</p>
+
+    <p><span class="label label-info">
+     		<a href="https://www.sciencedirect.com/science/article/pii/S2405471219301917" target="_new">Publication</a>
+  	</span>
+  <span class="label label-danger">
+      <a href="https://github.com/raphael-group/calder">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://mcr.aacrjournals.org/content/early/2019/01/16/1541-7786.MCR-18-0620.abstract"><img src="../assets/img/papers/hierarchical-hotnet.jpg" alt="OsteoSarBrady" /></a>
+  <strong>The Clonal Evolution of Metastatic Osteosarcoma as Shaped by Cisplatin Treatment</strong></p>
+
+    <p>S W Brady, X Ma, A Bahrami, <em>G Satas</em>, G. Wu, S Newman, M Rusch, D K Putnam, H L Mulder, D Yergeau, M N Edmonson, J Easton, L B Alexandrov, X Chen, E R Mardis, R K Wilson, J R Downing, A S Pappo, <em>B J Raphael</em>, M A Dyer, J Zhang</p>
+
+    <p><em>Molecular Cancer Research</em> (2019)</p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><a href="http://proceedings.mlr.press/v97/chitra19a.html"><img src="../assets/img/papers/missing.svg" alt="ICML2019" /></a>
+  <strong>Random Walks on Hypergraphs with Edge-Dependent Vertex Weights</strong></p>
+
+    <p><em>U. Chitra</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>International Conference on Machine Learning (ICML) 2019</em>.</p>
+
+    <p><span class="label label-success">
+      <a href="http://proceedings.mlr.press/v97/chitra19a.html" target="_new">Proceedings</a>
+  </span>
+  <span class="label label-info">
+      	<a href="https://arxiv.org/abs/1905.08287" target="_new">arXiv preprint</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2018">2018</h3>
+
+<h5 id="journal-articles-2">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="https://academic.oup.com/bioinformatics/article/34/17/i972/5093236"><img src="../assets/img/papers/hierarchical-hotnet.jpg" alt="HierarchicalHotNet" /></a>
+  <strong>Hierarchical HotNet: identifying hierarchies of altered subnetworks</strong></p>
+
+    <p><em>M.A. Reyna</em>, M.D.M. Leiserson, <em>B.J. Raphael</em></p>
+
+    <p><em>ECCB 2018/Bioinformatics</em>, 34(17):i972-i980.</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/raphael-group/hierarchical-hotnet">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="https://link.springer.com/content/pdf/10.1186%2Fs12859-018-2356-2.pdf"><img src="../assets/img/papers/missing.svg" alt="ParksFDR" /></a>
+  <strong>Using controls to limit false discovery in the era of big data</strong></p>
+
+    <p><em>M.M. Parks</em>, <em>B.J. Raphael</em>, C.E. Lawrence.</p>
+
+    <p><em>BMC Bioinformatics</em> (2018) 19 (1), 323.</p>
+  </li>
+  <li>
+    <p><a href="https://www.nature.com/articles/s41588-018-0106-z"><img src="../assets/img/papers/missing.svg" alt="MACHINA" /></a>
+<strong>Inferring parsimonious migration histories for metastatic cancers</strong></p>
+
+    <p><em>M. El-Kebir</em>, <em>G. Satas</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Nature Genetics</em>. 50, 718–726</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/raphael-group/machina">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="https://academic.oup.com/bioinformatics/article/34/13/i211/5045800"><img src="../assets/img/papers/missing.svg" alt="SC-Hap" /></a>
+<strong>Haplotype phasing in single-cell DNA-sequencing data</strong></p>
+
+    <p><em>G. Satas</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>ISMB 2018, Bioinformatics</em>. 34 (13), i211-i217</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/raphael-group/SC-hap">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S0092867418303635"><img src="../assets/img/papers/missing.svg" alt="PanCanAtlasCell" /></a>
+<strong>Pathogenic germline variants in 10,389 adult cancers</strong></p>
+
+    <p>K Huang, RJ Mashl, Y Wu, DI Ritter, J Wang, C Oh, M Paczkowska, … .</p>
+
+    <p><em>Cell</em> (2018) 173 (2), 355-370. e14.</p>
+  </li>
+  <li>
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S0092867418307190"><img src="../assets/img/papers/missing.svg" alt="VisibleML" /></a>
+<strong>Visible Machine Learning for Biomedicine</strong></p>
+
+    <p>K.Y. Michael, J. Ma, J. Fisher, J.F. Kreisberg, <em>B.J. Raphael</em>, T Ideker</p>
+
+    <p><em>Cell</em> (2018) 173 (7), 1562-1565.</p>
+  </li>
+  <li>
+    <p><a href="http://cancerdiscovery.aacrjournals.org/content/8/6/730"><img src="../assets/img/papers/missing.svg" alt="Grasso2018" /></a>
+<strong>Genetic mechanisms of immune evasion in colorectal cancer</strong></p>
+
+    <p>C.S. Grasso, … B.J. Raphael ….[52 total authors], U Peters.</p>
+
+    <p><em>Cancer Discovery</em> (2018) 8 (6), 730-749.</p>
+  </li>
+  <li>
+    <p><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(18)30003-5"><img src="../assets/img/papers/missing.svg" alt="ThymomaTCGA" /></a>
+<strong>The Integrated Genomic Landscape of Thymic Epithelial Tumors</strong></p>
+
+    <p>M. Radovich, Pickering CR, Felau I, Ha G, Zhang H, Jo H, Hoadley KA, Anur P, Zhang J, McLellan M, Bowlby R, Matthew T, Danilova L, Hegde AM, Kim J, Leiserson MDM, Sethi G, Lu C, Ryan M, Su X, Cherniack AD, Robertson G, Akbani R, Spellman P, Weinstein JN, Hayes DN, B.J. Raphael, Lichtenberg T, Leraas K, Zenklusen JC, Cancer Genome Atlas Network, Fujimoto J, Scapulatempo-Neto C, Moreira AL, Hwang D, Huang J, Marino M, Korst R, Giaccone G, Gokmen-Polar Y, Badve S, Rajan A, Ströbel P, Girard N, Tsao MS, Marx A, Tsao AS, Loehrer PJ</p>
+
+    <p><em>Cancer Cell</em> (2018) 33(2):244-258.e10.</p>
+  </li>
+  <li>
+    <p><a href="https://www.liebertpub.com/doi/10.1089/cmb.2017.0253"><img src="../assets/img/papers/missing.svg" alt="JCB2018CNT" /></a>
+  <strong>Phylogenetic Copy-Number Factorization of Multiple Tumor Samples</strong></p>
+
+    <p><em>S. Zaccaria*</em>, <em>M. El-Kebir*</em>, G.W. Klau, <em>B.J. Raphael</em></p>
+
+    <p>Journal of Computational Biology (2018) 25(7):689-708.</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/raphael-group/CNT-MD">Software</a>
+  </span></p>
+  </li>
+</ul>
+
+<h5 id="edited-volumes">Edited Volumes</h5>
+
+<ul>
+  <li>
+    <p><a href="https://www.springer.com/us/book/9783319899282"><img src="../assets/img/papers/missing.svg" alt="RECOMBProceddings" /></a>
+<strong>Proceedings of Research in Computational Molecular Biology: 22nd Annual International Conference, RECOMB 2018</strong></p>
+
+    <p><em>B.J. Raphael</em> (Ed).<br />
+  (2018) , Paris, France, April 21-24, 2018.</p>
+  </li>
+</ul>
+
+<h3 id="2017">2017</h3>
+
+<h5 id="journal-articles-3">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btx712/4590027?guestAccessKey=7d943cd2-f47a-4012-9c3e-fe69e3bef333"><img src="../assets/img/papers/missing.svg" alt="LinkedReadSV" /></a>
+<strong>Identifying structural variants using linked-read sequencing data</strong></p>
+
+    <p>R Elyanow, HT Wu, <em>BJ Raphael</em></p>
+
+    <p><em>RECOMB Computational Cancer Biology 2017</em>, <em>Bioinformatics</em> (2017) 34, (2), 353–360.</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/raphael-group/NAIBR">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="ChromothripsisCCB" /></a>
+<strong>Identifying Simultaneous Rearrangements in Cancer Genomes</strong></p>
+
+    <p>L Oesper, S Dantas, <em>BJ Raphael</em></p>
+
+    <p><em>RECOMB Computational Cancer Biology 2017</em> and <em>Bioinformatics</em>, (2), 346-352.</p>
+
+    <p><span class="label label-info">
+      	<a href="https://www.biorxiv.org/content/10.1101/164855v1" target="_new">bioRxiv preprint</a>
+  </span>
+  <span class="label label-danger">
+      <a href="https://bitbucket.org/oesperlab/ht-altfrac">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="SingleCellViolations" /></a>
+<strong>Single-cell sequencing data reveal widespread recurrence and loss of mutational hits in the life histories of tumors</strong></p>
+
+    <p>J Kuipers, K Jahn, <em>BJ Raphael</em>, N Beerenwinkel</p>
+
+    <p><em>Genome research</em></p>
+  </li>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="ISMB2017" /></a>
+<strong>Tumor Phylogeny Inference Using Tree-Constrained Importance Sampling</strong></p>
+
+    <p><em>G. Satas</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>ISMB 2017, Bioinformatics</em>. 33(14), i152-i160.</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/raphael-group/PASTRI">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="TCGAPDAC" /></a>
+<strong>Integrated Genomic Characterization of Pancreatic Ductal Adenocarcinoma</strong></p>
+
+    <p><em>BJ Raphael</em>, RH Hruban, AJ Aguirre, TCGA Research Network</p>
+
+    <p><em>Cancer Cell</em> 32 (2), 185-203. e13</p>
+  </li>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="NetworkPropagationReview" /></a>
+<strong>Network propagation: a universal amplifier of genetic associations</strong></p>
+
+    <p>L Cowen, T Ideker, <em>BJ Raphael</em>, R Sharan</p>
+
+    <p><em>Nature Reviews Genetics</em> (2017) 18(9):551-562.</p>
+  </li>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="GenomeVIP" /></a>
+<strong>GenomeVIP: a cloud platform for genomic variant discovery and interpretation</strong></p>
+
+    <p>RJ Mashl, AD Scott, K Huang, MA Wyczalkowski, CJ Yoon, B Niu, E DeNardo, VD Yellapantula, RE Handsaker, K Chen, DC Koboldt, K Ye, D Fenyö, <em>BJ Raphael</em>, MC Wendl, L Ding</p>
+
+    <p><em>Genome Research</em>, gr. 211656.116</p>
+  </li>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="CNTAMB" /></a>
+<strong>Complexity and algorithms for copy-number evolution problems</strong></p>
+
+    <p><em>M El-Kebir</em>, <em>BJ Raphael</em>, R Shamir, R Sharan, <em>S Zaccaria</em>, M Zehavi,  R Zeira
+  <em>Algorithms for Molecular Biology</em> 12 (1), 13</p>
+  </li>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="PegasusALL" /></a>
+<strong>Novel gene and network associations found for lymphoblastic leukemia using case-control and family-based studies in multi-ethnic populations</strong></p>
+
+    <p>P Nakka, NP Archer, H Xu, PJ Lupo, <em>BJ Raphael</em>, JJ Yang, S Ramachandran 
+  <em>Cancer Epidemiology and Prevention Biomarkers</em>  (10):1531-1539</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/ramachandran-lab/PEGASUS">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.nature.com/nature/journal/v541/n7636/full/nature20805.html"><img src="../assets/img/papers/missing.svg" alt="TCGAESCA" /></a>
+  <strong>Integrated genomic characterization of oesophageal carcinoma</strong></p>
+
+    <p><em>The Cancer Genome Atlas Research Network</em></p>
+
+    <p><em>Nature</em>, 541(7636):169-175.</p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-1">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="RECOMB2017" /></a>
+  <strong>The Copy-Number Tree Mixture Deconvolution Problem and Applications to Multi-Sample Bulk Sequencing Tumor Data</strong></p>
+
+    <p><em>S. Zaccaria</em>, <em>M. El-Kebir</em>, G.W. Klau, <em>B.J. Raphael</em></p>
+
+    <p><em>RECOMB 2017</em>.</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/raphael-group/CNT-MD">Software</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2016">2016</h3>
+
+<h5 id="journal-articles-4">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://bioinformatics.oxfordjournals.org/content/32/17/i736.long"><img src="../assets/img/papers/wext.jpg" alt="WExT" /></a>
+  <strong>A Weighted Exact Test for Mutually Exclusive Mutations in Cancer</strong></p>
+
+    <p><em>M.D.M. Leiserson</em>, <em>M.A. Reyna</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>ECCB 2016/Bioinformatics</em>, 32(17):i736-i745.</p>
+
+    <p><span class="label label-success">
+      <a href="http://compbio.cs.brown.edu/projects/wext" target="_new">Website</a>
+  </span>
+  <span class="label label-danger">
+      <a href="https://github.com/raphael-group/wext">Software Release</a>
+  </span>
+  <span class="label label-info">
+      	<a href="http://arxiv.org/abs/1607.02447" target="_new">arXiv preprint</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.genetics.org/content/204/2/783"><img src="../assets/img/papers/missing.svg" alt="PEGASUS" /></a>
+  <strong>Gene and Network Analysis of Common Variants Reveals Novel Associations in Multiple Complex Diseases</strong></p>
+
+    <p>P.Nakka,  <em>B.J. Raphael*</em>, S Ramachandran*</p>
+
+    <p><em>Genetics</em>, (2016) 204(2):783-798.</p>
+  </li>
+  <li>
+    <p><a href="http://authors.elsevier.com/a/1TR-E8YyDfNNY8"><img src="../assets/img/papers/missing.svg" alt="elKebirCELLSYSTEMS" /></a>
+  <strong>Inferring the Mutational History of a Tumor using Multi-State Perfect Phylogeny Mixtures</strong></p>
+
+    <p><em>M. El-Kebir*</em>, <em>G. Satas*</em>, <em>L. Oesper</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Cell Systems</em>, (2016) 3(1):43-53.</p>
+
+    <p><span class="label label-success">
+      <a href="http://compbio.cs.brown.edu/projects/spruce" target="_new">Website</a>
+  </span>
+  <span class="label label-danger">
+      <a href="https://github.com/raphael-group/spruce">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="#"><img src="../assets/img/papers/missing.svg" alt="SampleComplexityJournal" /></a>
+  <strong>On the Sample Complexity of Cancer Pathways Identification</strong></p>
+
+    <p><em>F. Vandin</em>, <em>B.J. Raphael</em>, E.Upfal.</p>
+
+    <p><em>Journal of Computational Biology</em>, (2016) 23(1):30-41.</p>
+  </li>
+  <li>
+    <p><a href="#"><img src="../assets/img/papers/missing.svg" alt="TCGA_ACC" /></a>
+  <strong>Comprehensive Pan-Genomic Characterization of Adrenocortical Carcinoma</strong></p>
+
+    <p>Zheng S, Cherniack AD, Dewal N, Moffitt RA, Danilova L, Murray BA, Lerario AM, Else T, Knijnenburg TA, Ciriello G, Kim S, Assie G, Morozova O, Akbani R, Shih J, Hoadley KA, Choueiri TK, Waldmann J, Mete O, Robertson AG, Wu HT, <em>Raphael BJ</em>, Shao L, Meyerson M, Demeure MJ, Beuschlein F, Gill AJ, Sidhu SB, Almeida MQ, Fragoso MC, Cope LM, Kebebew E, Habra MA, Whitsett TG, Bussey KJ, Rainey WE, Asa SL, Bertherat J, Fassnacht M, Wheeler DA; Cancer Genome Atlas Research Network, Hammer GD, Giordano TJ, Verhaak RG.</p>
+
+    <p><em>Cancer Cell</em>, (2016) 29(5):723-36.</p>
+  </li>
+  <li>
+    <p><a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1505917"><img src="../assets/img/papers/missing.svg" alt="TCGAKIRP" /></a>
+      <strong>Comprehensive Molecular Characterization of Papillary Renal-Cell Carcinoma</strong></p>
+
+    <p><em>The Cancer Genome Atlas Research Network</em></p>
+
+    <p><em>New England Journal of Medicine</em>, (2016) 374(2):135-45.</p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-2">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><a href="http://link.springer.com/chapter/10.1007/978-3-319-43681-4_11"><img src="../assets/img/papers/missing.svg" alt="CNT" /></a>
+  <strong>Copy-Number Evolution Problems: Complexity and Algorithms</strong></p>
+
+    <p><em>M. El-Kebir</em>, <em>B.J. Raphael</em>, R. Shamir, R. Sharan, <em>S. Zaccaria</em>, M. Zehavi, R. Zeira</p>
+
+    <p><em>WABI 2016</em></p>
+  </li>
+  <li>
+    <p><a href="http://arxiv.org/abs/1604.02605"><img src="../assets/img/papers/missing.svg" alt="elKebirRECOMB2016" /></a>
+  <strong>Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing</strong></p>
+
+    <p><em>M. El-Kebir</em>, <em>G. Satas</em>, <em>L. Oesper</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>RECOMB 2016</em></p>
+
+    <p><span class="label label-info">
+      <a href="http://arxiv.org/abs/1604.02605" target="_new">arXiv preprint</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2015">2015</h3>
+
+<h5 id="journal-articles-5">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://www.nature.com/ncomms/2015/151209/ncomms10086/full/ncomms10086.html"><img src="../assets/img/papers/missing.svg" alt="GermlineDingNatureCom" /></a>
+  <strong>Patterns and functional implications of rare germline variants across 12 cancer types</strong></p>
+
+    <p>Lu C, Xie M, Wendl MC, Wang J, McLellan MD, <em>Leiserson MDM</em>, Huang KL, Wyczalkowski MA, Jayasinghe R, Banerjee T, Ning J, Tripathi P, Zhang Q, Niu B, Ye K, Schmidt HK, Fulton RS, McMichael JF, Batra P, Kandoth C, Bharadwaj M, Koboldt DC, Miller CA, Kanchi KL, Eldred JM, Larson DE, Welch JS, You M, Ozenberger BA, Govindan R, Walter MJ, Ellis MJ, Mardis ER, Graubert TA, Dipersio JF, Ley TJ, Wilson RK, Goodfellow PJ, <em>Raphael BJ</em>, Chen F, Johnson KJ, Parvin JD, Ding L.</p>
+
+    <p><em>Nature Communications</em>, (2015) 6:10086.</p>
+  </li>
+  <li>
+    <p><a href="http://bioinformatics.oxfordjournals.org/content/early/2015/09/23/bioinformatics.btv485.abstract"><img src="../assets/img/papers/missing.svg" alt="TADTree" /></a>
+      <strong>Identification of hierarchical chromatin domains</strong></p>
+
+    <p><em>C. Weinreb</em> and <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics</em>, (2015) pii: btv485.</p>
+
+    <p><span class="label label-success">
+        <a href="http://compbio.cs.brown.edu/projects/tadtree" target="_new">Website</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.genomebiology.com/2015/16/1/160"><img src="../assets/img/papers/comet-gb.jpg" alt="CoMEtGenomeBiology" /></a>
+      <strong>Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer</strong></p>
+
+    <p><em>M.D.M. Leiserson*</em>, <em>H-T. Wu*</em>, <em>F. Vandin</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Genome Biology</em> (2015) 16:160.</p>
+
+    <p><span class="label label-success">
+      <a href="http://compbio.cs.brown.edu/projects/comet" target="_new">Website</a>
+  </span>
+  <span class="label label-danger">
+      <a href="https://github.com/raphael-group/comet">Software Release</a>
+  </span>
+  <span class="label label-info">
+      <a href="http://arxiv.org/abs/1503.08224" target="_new">arXiv preprint</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://rnajournal.cshlp.org/content/21/10/1719.abstract"><img src="../assets/img/papers/missing.svg" alt="GerbiRNA" /></a>
+      <strong>Universal and Domain-Specific Sequences in 23S-28S Ribosomal RNA Identified by Computational Phylogenetics.</strong></p>
+
+    <p>S.M. Doris, D.R. Smith, J.N. Beamesderfer, <em>B.J. Raphael</em>,  J.A. Nathanson, S.A. Gerbi</p>
+
+    <p><em>RNA</em>, (2015) 21(10):1719-30.</p>
+  </li>
+  <li>
+    <p><a href="http://bioinformatics.oxfordjournals.org/content/31/12/i62.long"><img src="../assets/img/papers/missing.svg" alt="VAFFP" /></a>
+  <strong>Reconstruction of clonal trees and tumor composition from multi-sample sequencing data.</strong></p>
+
+    <p><em>M. El-Kebir*</em>, <em>L. Oesper*</em>, <em>H. Acheson-Field</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics (Special Issue: Proceedings of ISMB)</em>, (2015) 31(12):i62-i70.</p>
+
+    <p><span class="label label-success">
+      <a href="http://compbio.cs.brown.edu/projects/ancestree" target="_new">Website</a>
+  </span>
+  <span class="label label-danger">
+      <a href="https://github.com/raphael-group/AncesTree">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="ICGCPathways" /></a>
+  <strong>Pathway and network analysis of cancer genomes.</strong></p>
+
+    <p>Mutation Consequences and Pathway Analysis working group of the International Cancer Genome Consortium</p>
+
+    <p><em>Nature Methods</em>, (2015) 12(7):615-621.</p>
+  </li>
+  <li>
+    <p><a href="http://www.nature.com/nmeth/journal/v12/n6/full/nmeth.3412.html"><img src="../assets/img/papers/magi.jpg" alt="MAGI" /></a>
+      <strong>MAGI: visualization and collaborative annotation of genomic aberrations</strong></p>
+
+    <p><em>M.D.M Leiserson</em>, C.C. Gramazio, J. Hu, <em>H-T. Wu</em>, D.H. Laidlaw, <em>B.J Raphael</em></p>
+
+    <p><em>Nature Methods</em>, (2015) 12(6):483-484.</p>
+
+    <p><span class="label label-success">
+      <a href="http://magi.brown.edu" target="_new">Website</a>
+  </span>
+  <span class="label label-danger">
+      <a href="https://github.com/raphael-group/magi">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.genomebiology.com/content/16/1/72"><img src="../assets/img/papers/missing.svg" alt="NAHR" /></a>
+  <strong>Detecting non-allelic homologous recombination from high-throughput sequencing data.</strong></p>
+
+    <p><em>M. Parks</em>, C.E. Lawrence,<em>B.J. Raphael</em></p>
+
+    <p><em>Genome Biology</em>, (2015) 8;16(1):72.</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/mmp3/detect-NAHR">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004071"><img src="../assets/img/papers/missing.svg" alt="Survival PLOS CB" /></a>
+      <strong>Accurate Computation of Survival Statistics in Genome-wide Studies</strong></p>
+
+    <p><em>F. Vandin</em>, <em>A. Papoutsaki</em>, <em>B.J. Raphael*</em>, E. Upfal*</p>
+
+    <p><em>PLOS Computational Biology</em>, (2015) 11(5):e1004071.</p>
+  </li>
+  <li>
+    <p><a href="http://online.liebertpub.com/doi/10.1089/cmb.2014.0161"><img src="../assets/img/papers/missing.svg" alt="Progression JCB" /></a>
+      <strong>Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data</strong></p>
+
+    <p><em>B.J. Raphael</em>, <em>F. Vandin</em></p>
+
+    <p><em>Journal of Computational Biology</em>, (2015) 22(6):510-27.</p>
+  </li>
+  <li>
+    <p><a href="http://www.nature.com/ng/journal/v47/n2/full/ng.3168.html#"><img src="../assets/img/papers/hotnet2.jpg" alt="HotNet2" /></a>
+      <strong>Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes</strong></p>
+
+    <p><em>M.D.M Leiserson*</em>, <em>F. Vandin*</em>, <em>H. Wu</em>, <em>J.R. Dobson</em>, <em>J.V. Eldridge</em>, <em>J.L. Thomas</em>, <em>A. Papoutsaki</em>, <em>Y. Kim</em>, B. Niu, M. McLellan, M.S. Lawrence, A. Gonzalez-Perez, D. Tamborero, Y. Cheng, G.A. Ryslik, N. Lopez-Bigas, G. Getz, L. Ding, <em>B.J Raphael</em></p>
+
+    <p><em>Nature Genetics</em>, (2015) 47(2):106-114.</p>
+
+    <p><span class="label label-success">
+      <a href="http://compbio.cs.brown.edu/pancancer/hotnet2" target="_new">Website</a>
+  </span>
+  <span class="label label-danger">
+      <a href="https://github.com/raphael-group/hotnet2">Software Release</a>
+  </span></p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-3">Conference Proceedings</h5>
+<ul>
+  <li>
+    <p><a href="http://link.springer.com/chapter/10.1007%2F978-3-319-16706-0_19"><img src="../assets/img/papers/comet-recomb.jpg" alt="CoMEtRECOMB" /></a>
+      <strong>Comet: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer</strong></p>
+
+    <p><em>M.D.M. Leiserson*</em>, <em>H-T. Wu*</em>, <em>F. Vandin</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>19th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2015)</em></p>
+
+    <p><span class="label label-success">
+      <a href="http://compbio.cs.brown.edu/projects/comet" target="_new">Website</a>
+  </span>
+  <span class="label label-danger">
+      <a href="https://github.com/raphael-group/comet">Software Release</a>
+  </span>
+  <span class="label label-info">
+      <a href="http://arxiv.org/abs/1503.08224" target="_new">arXiv preprint</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://link.springer.com/chapter/10.1007%2F978-3-319-16706-0_33"><img src="../assets/img/papers/missing.svg" alt="SampleComplexity" /></a>
+      <strong>On the Sample Complexity of Cancer Pathways Identification</strong>
+      <br /></p>
+
+    <p><em>F. Vandin</em>, <em>B.J. Raphael</em>, E. Upfal</p>
+
+    <p><em>19th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2015)</em>  Lecture Notes in Computer Science Volume 9029, 2015, pp 326-337.</p>
+  </li>
+</ul>
+
+<h5 id="book-chapters">Book Chapters</h5>
+<ul>
+  <li>
+    <p><a href="#"><img src="../assets/img/papers/missing.svg" alt="CombinationsBookChapter" /></a>
+      <strong>Analyzing Combinations of Somatic Mutations in Cancer Genomes</strong>
+  <br />
+  <em>M.D.M. Leiserson</em> and <em>B.J. Raphael</em></p>
+
+    <p>In <em>Integrating Omics Data</em> G.C.Tseng, D. Ghosh, X.J. Zhou (Eds).  Cambridge University Press (2015)</p>
+  </li>
+</ul>
+
+<h3 id="2014">2014</h3>
+
+<h5 id="journal-articles-6">Journal Articles</h5>
+<ul>
+  <li>
+    <p><a href="http://bioinformatics.oxfordjournals.org/content/30/24/3458.long"><img src="../assets/img/papers/missing.svg" alt="Ritz Single Molecule" /></a>
+      <strong>Characterization of Structural Variants with Single Molecule and Hybrid Sequencing Approaches</strong>
+      <br /></p>
+
+    <p><em>A Ritz</em>, A. Bashir, <em>S. Sindi</em>, D. Hsu, <em>I. Hajirasouliha</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics</em>, (2014) 30(24):3458-66.</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/raphael-group/multibreak-sv">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://bioinformatics.oxfordjournals.org/content/30/24/3532.long"><img src="../assets/img/papers/missing.svg" alt="THetA2 Paper" /></a>
+  <strong>Quantifying Tumor Heterogeneity in Whole-Genome and Whole-Exome Sequencing Data</strong>
+  <br /></p>
+
+    <p><em>L. Oesper</em>, <em>G. Satas</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics</em>, (2014) 30(24):3532-40.</p>
+
+    <p><span class="label label-danger">
+  <a href="/projects/theta#download">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.cell.com/cell/fulltext/S0092-8674(14)01238-0"><img src="../assets/img/papers/missing.svg" alt="TCGA Thyroid" /></a>
+<strong>Integrated Genomic Characterization of Papillary Thyroid Carcinoma</strong>
+<br /></p>
+
+    <p><em>The Cancer Genomic Atlas Research Network</em></p>
+
+    <p><em>Cell</em>, (2014) 159(3):676-90.</p>
+  </li>
+  <li>
+    <p><a href="http://www.biomedcentral.com/1471-2164/15/S6/S4/abstract"><img src="../assets/img/papers/Chromothripsis_RECOMB_CG_2014.jpg" alt="Chromothripsis Paper" /></a></p>
+
+    <p><strong>Open adjacencies and k-breaks: detecting simultaneous rearrangements in cancer genomes</strong>
+  <br /></p>
+
+    <p><em>C. Weinreb</em>, <em>L. Oesper</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>BMC Genomics</em>, (2014) 15(Suppl 6):S4.</p>
+
+    <p><em>Special issue for the 12th Annual Research in Computational Molecular Biology (RECOMB) Satellite Workshop on Comparative Genomics (RECOMB-CG 2014)</em>
+  <span class="label label-primary">
+  <a href="http://www.biomedcentral.com/1471-2164/15/S6/S4/" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.cell.com/cell/pdf/S0092-8674\(14\)00876-9.pdf"><img src="../assets/img/papers/tcga-pancancer-subtypes.jpg" alt="Pan-Cancer Subtypes" /></a></p>
+
+    <p><strong>Multiplatform Analysis of 12 Cancer Types Reveals Molecular Classification within and across Tissues of Origin</strong>
+  <br />
+  K.A. Hoadley, C. Yau, D.M. Wolf, A.D. Cherniack, D. Tamborero, S. Ng, <em>M.D.M. Leiserson</em>, B. Niu, M.D. McLellan, V. Uzunangelov, J. Zhang, C. Kandoth, R. Akbani, H. Shen, L. Omberg, A. Chu, A.A. Margolin, L.J. van’t Veer, N. Lopez-Bigas, P.W. Laird, <em>B.J. Raphael</em>, L. Ding, A.G. Robertson, L.A. Byers, G.B. Mills, J.N. Weinstein, C. Van Waes, Z. Chen, E.A. Collisson, The Cancer Genome Atlas Research Network, C.C. Benz, C.M. Perou, J.M. Stuart</p>
+
+    <p><em>Cell</em>, 158(4):929-944.
+  <span class="label label-primary">
+      <a href="http://www.cell.com/cell/abstract/S0092-8674(14)00876-9" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://"><img src="../assets/img/papers/missing.svg" alt="NRG Review" /></a>
+<strong>Expanding the computational toolbox for mining cancer genomes.</strong>
+<br /></p>
+
+    <p>L. Ding, M.C. Wendl, J.F. McMichael, <em>B.J. Raphael</em></p>
+
+    <p><em>Nature Reviews Genetics.</em> (2014) 15(8):556-70.</p>
+  </li>
+  <li>
+    <p><a href="http://www.nature.com/nature/journal/v513/n7517/pdf/nature13480.pdf"><img src="../assets/img/papers/tcga-stad.gif" alt="TCGA STAD" /></a>
+  <strong>Comprehensive molecular characterization of gastric adenocarcinoma</strong></p>
+
+    <p>The Cancer Genome Atlas Research Network</p>
+
+    <p><em>Nature</em> 513:202-209.</p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.nature.com/nature/journal/v513/n7517/full/nature13480.html?WT.ec_id=NATURE-20140911" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://bioinformatics.oxfordjournals.org/content/30/12/i195.full"><img src="../assets/img/papers/raig.jpg" alt="RAIG Paper" /></a>
+  <strong>Detecting independent and recurrent copy number aberrations using interval graphs</strong></p>
+
+    <p><em>H. Wu</em>, <em>I. Hajirasouliha</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics 30 (12), i195-i203</em>.</p>
+
+    <p><em>Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://bioinformatics.oxfordjournals.org/content/30/12/i195.full.pdf" target="_new">PubLink</a>
+  </span>
+  <span class="label label-success">
+      <a href="http://compbio.cs.brown.edu/projects/raig" target="_new">Website</a>
+  </span>
+  <span class="label label-danger">
+      <a href="http://compbio-research.cs.brown.edu/software/RAIG/RAIG_1.02.tar.gz">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://bioinformatics.oxfordjournals.org/content/30/12/i78.full"><img src="../assets/img/papers/btp.jpg" alt="Structural Variation Paper" /></a>
+  <strong>A combinatorial approach for analyzing intra-tumor heterogeneity from high-throughput sequencing data</strong></p>
+
+    <p><em>I. Hajirasouliha</em>, <em>A. Mahmoody</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics  30 (12), i78-i86</em>.</p>
+
+    <p><em>Special issue for the 22nd Annual International Conference on Intelligent Systems in Molecular Biology (ISMB 2014)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://bioinformatics.oxfordjournals.org/content/30/12/i78.full.pdf" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0094476"><img src="../assets/img/papers/missing.svg" alt="Brodsky PLOSOne Paper" /></a>
+	     <strong>Expression profiling of primary and metastatic ovarian tumors reveals differences indicative of aggressive disease</strong></p>
+
+    <p>A.S. Brodsky, A. Fischer, D.H. Miller, S.Vang, S.Maclaughlan, <em>H.T. Wu</em>, J.Yu, M.Steinhoff, C.Collins, P.J.Smith, <em>B.J. Raphael</em>, L.Brard</p>
+
+    <p><em>PLoS One.</em> (2014) 9(4):e94476.</p>
+  </li>
+  <li>
+    <p><a href="http://genomemedicine.com/content/6/1/5"><img src="../assets/img/papers/driver-review.jpg" alt="Genome Medicine Review" /></a>
+  <strong>Identifying driver mutations in sequenced cancer genomes: computational approaches to enable precision medicine</strong></p>
+
+    <p><em>B.J. Raphael</em>, <em>J.R. Dobson</em>, <em>L. Oesper</em>, <em>F. Vandin</em></p>
+
+    <p><em>Genome Medicine</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://compbio-research.cs.brown.edu/publications/papers/Raphael_etAl_IdentifyingDriverMutations_GM.pdf" target="_new">PDF</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.nature.com/ncomms/2014/140122/ncomms4156/pdf/ncomms4156.pdf"><img src="../assets/img/papers/somatic-germline-ov.gif" alt="Network GWAS Paper" /></a> 
+  <strong>Integrated analysis of germline and somatic variants in ovarian cancer</strong></p>
+
+    <p>K.L. Kanchi, K.J. Johnson, C. Lu, M.D. McLellan, <em>M.D.M. Leiserson</em>, M.C. Wendl, Q. Zhang, D.C. Koboldt, M. Xie, C. Kandoth, J.F. McMichael, M.A. Wyczalkowski, D.E. Larson, H.K. Schmidt, C.A. Miller, R.S. Fulton, P.T. Spellman, E.R. Mardis, T.E. Druley, T.A Graubert, P.J. Goodfellow, <em>B.J. Raphael</em>, R. K. Wilson, L. Ding</p>
+
+    <p><em>Nature Communications</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.nature.com/ncomms/2014/140122/ncomms4156/full/ncomms4156.html" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="#"><img src="../assets/img/papers/missing.svg" alt="Structural Variation Paper" /></a>
+  <strong>Identification of Structural Variation</strong></p>
+
+    <p>S.S. Sindi, <em>B.J. Raphael</em></p>
+
+    <p><em>Genome Analysis: Current Procedures</em> (In Press)</p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-4">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><a href="http://link.springer.com/chapter/10.1007%2F978-3-662-44753-6_27"><img src="../assets/img/papers/missing.svg" alt="WABI2014 Paper" /></a> 
+  <strong>Reconstructing mutational history in multiply sampled tumors using perfect phylogeny mixtures</strong></p>
+
+    <p><em>I. Hajirasouliha</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>14th Workshop on Algorithms in Bioinformatics (WABI)</em> (2014) Lecture Notes in Computer Science Volume 8701, 2014, pp 354-367.</p>
+  </li>
+  <li>
+    <p><a href="http://link.springer.com/chapter/10.1007%2F978-3-319-05269-4_20#page-1"><img src="../assets/img/papers/missing.svg" alt="RECOMB2014 Paper" /></a> 
+  <strong>Simultaneous Inference of Cancer Pathways and Tumor Progression from Cross-Sectional Mutation Data</strong></p>
+
+    <p><em>B.J. Raphael</em>, F. Vandin</p>
+
+    <p><em>18th Annual International Conference on Research in Computational Molecular Biology (RECOMB)</em> (2014) Lecture Notes in Computer Science Volume 8394, 2014, pp 250-264.</p>
+  </li>
+</ul>
+
+<h3 id="2013">2013</h3>
+
+<h5 id="journal-articles-7">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://ac.els-cdn.com/S0959437X13001354/1-s2.0-S0959437X13001354-main.pdf?_tid=d320da4e-5b66-11e3-9f0a-00000aacb361&amp;acdnat=1385998473_4bc4eccdd09fdf8108bc2e3004c36b9d"><img src="../assets/img/papers/network-gwas-review.gif" alt="Network GWAS Paper" /></a> 
+  <strong>Network analysis of GWAS data</strong></p>
+
+    <p><em>M.D.M. Leiserson</em>, <em>J.V. Eldridge</em>, S. Ramachandran, <em>B.J. Raphael</em></p>
+
+    <p><em>Current Opinion in Genetics &amp; Development</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.sciencedirect.com/science/article/pii/S0959437X13001354" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.nature.com/nature/journal/v502/n7471/pdf/nature12634.pdf"><img src="../assets/img/papers/tcga-pancan-music.gif" alt="TCGA Pan-can Mutations Paper" /></a> 
+  <strong>Mutational landscape and significance across 12 major cancer types</strong></p>
+
+    <p>C. Kandoth, M.D. McLellan, <em>F. Vandin</em>, K. Ye, B. Niu, C. Lu, M. Xie, Q. Zhang, J.F. McMichael, M.A. Wyczalkowski, <em>M.D.M. Leiserson</em>, C.A. Miller, J.S. Welch, M.J. Walter, M.C. Wendl, T.J. Ley, R.K. Wilson, <em>B.J. Raphael</em>, L. Ding</p>
+
+    <p><em>Nature</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.nature.com/nature/journal/v502/n7471/pdf/nature12634.pdf" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.nature.com/ng/journal/v45/n10/pdf/ng.2764.pdf"><img src="../assets/img/papers/tcga-pancan.gif" alt="TCGA Pan-can Paper" /></a> 
+  <strong>The Cancer Genome Atlas Pan-Cancer analysis project</strong></p>
+
+    <p>The Cancer Genome Atlas Research Network, J.N. Weinstein, E.A. Collisson, G.B. Mills, K.R. Mills Shaw, B.A. Ozenberger, K. Ellrott, I. Shmulevich, C. Sander, J.M. Stuart</p>
+
+    <p><em>Nature Genetics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.nature.com/ng/journal/v45/n10/full/ng.2764.html" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1038/nmeth.2704"><img src="../assets/img/papers/missing.svg" alt="Nature Methods News and Views" /></a>
+  <strong>Making connections: using networks to stratify human tumors (News and Views)</strong></p>
+
+    <p><em>B.J. Raphael</em></p>
+
+    <p><em>Nature Methods</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1038/nmeth.2704" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/doi:10.1186/gb-2013-14-7-r80"><img src="../assets/img/papers/THetA-GenomeBiology.jpg" alt="THeTA Paper" /></a>
+  <strong>THetA: Inferring intra-tumor heterogeneity from high-throughput DNA sequencing data</strong></p>
+
+    <p><em>L. Oesper</em>, <em>A. Mahmoody</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Genome Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/doi:10.1186/gb-2013-14-7-r80" target="_new">PubLink</a>
+  </span>
+  <span class="label label-danger">
+      <a href="/projects/theta#download">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.nature.com/nature/journal/v499/n7456/full/nature12222.html"><img src="../assets/img/papers/missing.svg" alt="TCGA Renal Cell Paper" /></a>
+  <strong>Comprehensive molecular characterization of clear cell renal cell carcinoma</strong></p>
+
+    <p>The Cancer Genome Atlas Research Network</p>
+
+    <p><em>Nature</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.nature.com/nature/journal/v499/n7456/full/nature12222.html" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/doi:10.1038/ng.2643"><img src="../assets/img/papers/missing.svg" alt="ACC Paper" /></a>
+  <strong>The mutational landscape of adenoid cystic carcinoma</strong></p>
+
+    <p>Ho AS, Kannan K, Roy DM, Morris LG, Ganly I, Katabi N, Ramaswami D, Walsh LA, Eng S, Huse JT, Zhang J, Dolgalev I, Huberman K, Heguy A, Viale A, Drobnjak M, Leversha MA, Rice CE, Singh B, Iyer NG, Leemans CR, Bloemena E, Ferris RL, Seethala RR, Gross BE, Liang Y, Sinha R, Peng L, <em>Raphael BJ</em>, Turcan S, Gong Y, Schultz N, Kim S, Chiosea S, Shah JP, Sander C, Lee W, Chan TA</p>
+
+    <p><em>Nature Genetics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/doi:10.1038/ng.2643" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.ploscompbiol.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003054&amp;representation=PDF"><img src="../assets/img/papers/multi-dendrix.gif" alt="Multi-Dendrix Paper" /></a> 
+  <strong>Simultaneous Identification of Multiple Driver Pathways in Cancer</strong></p>
+
+    <p><em>M.D.M. Leiserson</em>, D. Blokh, R. Sharan, <em>B.J. Raphael</em></p>
+
+    <p><em>PLoS Computational Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1003054" target="_new">PubLink</a>
+  </span>
+  <span class="label label-danger">
+      <a href="https://github.com/raphael-group/multi-dendrix" target="_new">Software Release</a>
+  </span>
+  <span class="label label-success">
+      <a href="http://compbio-research.cs.brown.edu/projects/multi-dendrix" target="_new">Website</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1301689"><img src="../assets/img/papers/missing.svg" alt="TCGA AML Paper" /></a>
+  <strong>Genomic and Epigenomic Landscapes of Adult De Novo Acute Myeloid Leukemia</strong></p>
+
+    <p>The Cancer Genome Atlas Research Network</p>
+
+    <p><em>New England Journal of Medicine</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1301689" target="_new">PubLink</a>
+  </span>
+  <span class="label label-warning">
+      <a href="http://compbio-research.cs.brown.edu/aml_tcga/" target="_new">Interactive Visualization</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1016/j.canlet.2012.12.028"><img src="../assets/img/papers/missing.svg" alt="Clonal Evolution Paper" /></a>
+  <strong>Advances for Studying Clonal Evolution in Cancer</strong></p>
+
+    <p>L. Ding, <em>B.J. Raphael</em>, F. Chen, M.C. Wendl</p>
+
+    <p><em>Cancer Letters</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1016/j.canlet.2012.12.028" target="_new">PubLink</a>
+  </span></p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-5">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><a href="http://link.springer.com/chapter/10.1007%2F978-3-642-37195-0_14"><img src="../assets/img/papers/THetA-RECOMB.jpg" alt="THeTA RECOMB Paper" /></a>
+  <strong>Inferring Intra-Tumor Heterogeneity from High-Throughput DNA Sequencing Data</strong></p>
+
+    <p><em>L. Oesper</em>, <em>A. Mahmoody</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>17th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2013)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-37195-0_14" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://link.springer.com/chapter/10.1007%2F978-3-642-37195-0_26"><img src="../assets/img/papers/missing.svg" alt="Survival RECOMB Paper" /></a>
+  <strong>Genome-Wide Survival Analysis of Somatic Mutations in Cancer</strong></p>
+
+    <p><em>F. Vandin</em>, <em>A. Papoutsaki</em>, <em>B.J. Raphael</em>, E. Upfal</p>
+
+    <p><em>17th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2013)</em> — <strong>Best Paper Award</strong></p>
+
+    <p><span class="label label-primary">
+      <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-37195-0_26" target="_new">PubLink</a>
+  </span>
+  <span class="label label-danger">
+      <a href="/projects/survival#download">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://psb.stanford.edu/psb-online/proceedings/psb13/wkshp-modeling.pdf"><img src="../assets/img/papers/missing.svg" alt="PSB Heterogeneity Paper" /></a>
+  <strong>Modeling cell heterogeneity: from single-cell variations to mixed cells</strong></p>
+
+    <p>E. Batchelor, M.G. Kann, T.M. Przytycka, <em>B.J. Raphael</em>, D. Wojtowicz</p>
+
+    <p><em>Pacific Symposium on Biocomputing (PSB)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://psb.stanford.edu/psb-online/proceedings/psb13/wkshp-modeling.pdf" target="_new">PubLink</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2012">2012</h3>
+
+<h5 id="journal-articles-8">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002821"><img src="../assets/img/papers/missing.svg" alt="Structural Variation &amp; Medical Genomics Chapter" /></a>
+  <strong>Structural Variation and Medical Genomics</strong></p>
+
+    <p><em>B.J. Raphael</em></p>
+
+    <p><em>PLOS Computational Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002821" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002821"><img src="../assets/img/papers/missing.svg" alt="AMB Driver Pathways Paper" /></a>
+  <strong>Finding Driver Pathways in Cancer: Models and Algorithms</strong></p>
+
+    <p><em>F. Vandin</em>, E. Upfal, <em>B.J. Raphael</em></p>
+
+    <p><em>Algorithms for Molecular Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002821" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0046725"><img src="../assets/img/papers/missing.svg" alt="Quantitative Phosphoproteomics Paper" /></a>
+  <strong>Quantitative Phosphoproteomics Reveals SLP-76 Dependent Regulation of PAG and Src Family Kinases in T Cells</strong></p>
+
+    <p>L. Cao, Y. Ding, N. Hung, K. Yu, <em>A. Ritz</em>, <em>B.J. Raphael</em>, A.R. Salomon</p>
+
+    <p><em>PLOS One</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0046725" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1016/j.drugalcdep.2012.07.005"><img src="../assets/img/papers/missing.svg" alt="Alcohol Genetics Paper" /></a>
+  <strong>The genetics of alcohol dependence: Advancing towards systems-based approaches</strong></p>
+
+    <p>R.H. Palmer, J.E. McGeary, S. Francazio, <em>B.J. Raphael</em>, A.D. Lander, A.C. Heath, V.S. Knopik</p>
+
+    <p><em>Drug and Alcohol Dependence</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1016/j.drugalcdep.2012.07.005" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.nature.com/nature/journal/v487/n7406/full/nature11125.html"><img src="../assets/img/papers/missing.svg" alt="Prostate Cancer Paper" /></a>
+  <strong>The Mutational Landscape of Lethal Castrate Resistant Prostate Cancer</strong></p>
+
+    <p>C. Grasso, Y. Wu, D. Robinson, X. Cao, S. Dhanasekaran, A. Khan, M. Quist, X. Jing, R. Lonigro, J.C. Brenner, I. Asangani, B. Ateeq, S. Chun, J. Siddiqui, L. Sam, M. Anstett, R. Mehra, J. Prensner, N. Palanisamy, G. Ryslik, <em>F. Vandin</em>, <em>B.J. Raphael</em>, L. Kunju, D. Rhodes, K. Pienta, A. M. Chinnaiyan, S.A. Tomlins</p>
+
+    <p><em>Nature</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.nature.com/nature/journal/v487/n7406/full/nature11125.html" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://genomebiology.com/2012/13/3/R22/abstract"><img src="../assets/img/papers/missing.svg" alt="GASVPro Paper" /></a>
+  <strong>An Integrative Probabilistic Model for Identification of Structural Variation in Sequencing Data</strong></p>
+
+    <p><em>S. Sindi</em>, <em>S. Onal</em>, <em>L. Peng</em>, <em>H. Wu</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Genome Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://genomebiology.com/2012/13/3/R22/abstract" target="_new">PubLink</a>
+  </span>
+  <span class="label label-danger">
+      <a href="/projects/gasv#download">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://compbio-research.cs.brown.edu/publications/papers/VandinUpfalRaphael_IEEEComputer.pdf"><img src="../assets/img/papers/missing.svg" alt="IEEE Driver Pathways Paper" /></a>
+  <strong>Algorithms and Genome Sequencing: Identifying Driver Pathways in Cancer</strong></p>
+
+    <p><em>F. Vandin</em>, E. Upfal, <em>B.J. Raphael</em></p>
+
+    <p><em>IEEE Computer</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://compbio-research.cs.brown.edu/publications/papers/VandinUpfalRaphael_IEEEComputer.pdf" target="_new">PDF</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.biomedcentral.com/1471-2105/13/28"><img src="../assets/img/papers/missing.svg" alt="Polymorphic Inversions Paper" /></a>
+  <strong>Identification of Polymorphic Inversions from Genotypes</strong></p>
+
+    <p>A. Caceres, <em>S.S Sindi</em>, <em>B.J Raphael</em>, M. Caceres and J.R Gonzalez</p>
+
+    <p><em>BMC Bioinformatics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.biomedcentral.com/1471-2105/13/28" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://genome.cshlp.org/cgi/pmidlookup?view=long&amp;pmid=21653252"><img src="../assets/img/papers/missing.svg" alt="Dendrix Paper" /></a>
+  <strong>De novo Discovery of Mutated Driver Pathways in Cancer</strong></p>
+
+    <p><em>F. Vandin</em>, E. Upfal, <em>B.J. Raphael</em></p>
+
+    <p><em>Genome Research</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://genome.cshlp.org/cgi/pmidlookup?view=long&amp;pmid=21653252" target="_new">PubLink</a>
+  </span>
+  <span class="label label-danger">
+      <a href="/projects/dendrix#download">Software Release</a>
+  </span></p>
+
+    <p>[Preliminary version at 15th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2011)]</p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-6">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><a href="http://www.biomedcentral.com/1471-2105/13/S19/S9"><img src="../assets/img/papers/missing.svg" alt="Genome Mixtures Paper" /></a>
+  <strong>Reconstructing Genome Mixtures From Partial Adjacencies</strong></p>
+
+    <p><em>A. Mahmoody</em>, <em>C.L. Kahn</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Proceedings of the Tenth Annual RECOMB Satellite Workshop on Comparative Genomics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.biomedcentral.com/1471-2105/13/S19/S9" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://link.springer.com/book/10.1007/978-3-642-33122-0/page/1"><img src="../assets/img/papers/missing.svg" alt="WABI Proceedings" /></a>
+  <strong>Algorithms in Bioinformatics - 12th International Workshop, WABI 2012, Ljubljana, Slovenia, September 10-12, 2012. Proceedings.</strong></p>
+
+    <p><em>B.J. Raphael</em>, J. Tang (Eds.)</p>
+
+    <p><em>Lecture Notes in Computer Science</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://link.springer.com/book/10.1007/978-3-642-33122-0/page/1" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.biomedcentral.com/1471-2105/13/S6/S10"><img src="../assets/img/papers/PREGO.jpg" alt="PREGO Paper" /></a>
+  <strong>Reconstructing Cancer Genome Organization</strong></p>
+
+    <p><em>L. Oesper</em>, <em>A. Ritz</em>, <em>S.J. Aerni</em>, <em>R. Drebin</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>BMC Bioinformatics (Proceedings of 2nd RECOMB Satellite Workshop on Massively Parallel Sequencing (RECOMB-seq))</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.biomedcentral.com/1471-2105/13/S6/S10" target="_new">PubLink</a>
+  </span>
+  <span class="label label-danger">
+      <a href="/projects/prego#download">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://psb.stanford.edu/psb-online/proceedings/psb12/vandin.pdf"><img src="../assets/img/papers/missing.svg" alt="HotNet Survival Paper" /></a>
+  <strong>Discovery of Mutated Subnetworks Associated with Clinical Data in Cancer</strong></p>
+
+    <p><em>F. Vandin</em>, <em>P. Clay</em>, E. Upfal, <em>B.J. Raphael</em></p>
+
+    <p><em>Pacific Symposium on Biocomputing</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://psb.stanford.edu/psb-online/proceedings/psb12/vandin.pdf" target="_new">PDF</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2011">2011</h3>
+
+<h5 id="journal-articles-9">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://www.nature.com/nature/journal/v474/n7353/full/nature10166.html"><img src="../assets/img/papers/missing.svg" alt="TCGA Ovarian Paper" /></a>
+  <strong>Integrated Genomic Analyses of Ovarian Carcinoma</strong></p>
+
+    <p>The Cancer Genome Atlas Research Network</p>
+
+    <p><em>Nature</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.nature.com/nature/journal/v474/n7353/full/nature10166.html" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.biomedcentral.com/1471-2407/11/308"><img src="../assets/img/papers/missing.svg" alt="Ovarian BMC Cancer Paper" /></a>
+  <strong>Integrated Genomics of Ovarian Xenograft Tumor Progression and Chemotherapy Response</strong></p>
+
+    <p>A. Stuckey, A. Fischer, D.H. Miller, S. Hillenmeyer, K.K. Kim, <em>A. Ritz</em>, R.K. Singh, <em>B.J. Raphael</em>, L. Brard and A.S. Brodsky</p>
+
+    <p><em>BMC Cancer</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.biomedcentral.com/1471-2407/11/308" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.pnas.org/content/early/2011/06/06/1101135108.abstract"><img src="../assets/img/papers/missing.svg" alt="RNA Splicing Paper" /></a>
+  <strong>Using positional distribution to identify splicing elements and predict mRNA processing defects in human genes</strong></p>
+
+    <p>K.H. Lim, L. Ferraris, M. Filloux, <em>B.J. Raphael</em>, W. Fairbrother</p>
+
+    <p><em>Proceedings of the National Academy of Sciences (PNAS)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.pnas.org/content/early/2011/06/06/1101135108.abstract" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.biomedcentral.com/1471-2105/12/114"><img src="../assets/img/papers/missing.svg" alt="NBC Paper" /></a>
+  <strong>Detection of Recurrent Rearrangement Breakpoints from Copy Number Data</strong></p>
+
+    <p><em>A. Ritz</em>, P.L. Paris, M.M. Ittmann, C. Collins, <em>B.J. Raphael</em></p>
+
+    <p><em>BMC Bioinformatics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.biomedcentral.com/1471-2105/12/114" target="_new">PubLink</a>
+  </span>
+  <span class="label label-danger">
+      <a href="/projects/nbc#download">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1089/cmb.2010.0265"><img src="../assets/img/papers/missing.svg" alt="HotNet Paper" /></a>
+  <strong>Algorithms for Detecting Significantly Mutated Pathways in Cancer</strong></p>
+
+    <p><em>F. Vandin</em>, E. Upfal, <em>B.J. Raphael</em></p>
+
+    <p><em>Journal of Computational Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1089/cmb.2010.0265" target="_new">PubLink</a>
+  </span>
+  <span class="label label-danger">
+      <a href="/projects/hotnet#download">Software Release</a>
+  </span></p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-7">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><a href="http://www.nature.com/nature/journal/v474/n7353/full/nature10166.html"><img src="../assets/img/papers/missing.svg" alt="WABI Driver Pathways Paper" /></a>
+  <strong>Finding Driver Pathways in Cancer: Models and Algorithms</strong></p>
+
+    <p><em>F. Vandin</em>, E. Upfal, <em>B.J. Raphael</em></p>
+
+    <p><em>Proceedings of the 11th Workshop on Algorithms in Bioinformatics (WABI)</em></p>
+  </li>
+</ul>
+
+<h3 id="2010">2010</h3>
+
+<h5 id="journal-articles-10">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://www.computer.org/csdl/trans/tg/2010/06/ttg2010060918-abs.html"><img src="../assets/img/papers/missing.svg" alt="Gremlin Paper" /></a>
+  <strong>Gremlin: An Interactive Visualization Model for Analyzing Genomic Rearrangements</strong></p>
+
+    <p>T. O’Brien, <em>A. Ritz</em>, <em>B.J. Raphael</em>, D.H. Laidlaw</p>
+
+    <p><em>IEEE Transactions on Visualization and Computer Graphics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.computer.org/csdl/trans/tg/2010/06/ttg2010060918-abs.html" target="_new">PubLink</a>
+  </span>
+  <span class="label label-danger">
+      <a href="/projects/gremlin#download">Software Release</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1093/bioinformatics/btq368"><img src="../assets/img/papers/missing.svg" alt="Bioinformatics Parsimony Paper" /></a>
+  <strong>Parsimony and Likelihood Reconstruction of Human Segmental Duplications</strong></p>
+
+    <p><em>C.L. Kahn</em>, <em>B.H. Hristov</em>, and <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1093/bioinformatics/btq368" target="_new">PubLink</a>
+  </span></p>
+
+    <p>[Preliminary version at the 9th European Conference on Computational Biology (ECCB)</p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1038/nature08987"><img src="../assets/img/papers/missing.svg" alt="ICGC Paper" /></a>
+  <strong>International network of cancer genome projects</strong></p>
+
+    <p>International Cancer Genome Consortium</p>
+
+    <p><em>Nature</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1038/nature08987" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1093/bioinformatics/btq153"><img src="../assets/img/papers/missing.svg" alt="HITSEQ Structural Analysis Paper" /></a>
+  <strong>Structural Variation Analysis with Strobe Reads</strong></p>
+
+    <p><em>A. Ritz</em>, A. Bashir, and <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1093/bioinformatics/btq153" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1089/cmb.2009.0185"><img src="../assets/img/papers/missing.svg" alt="Inversion Prediction Paper" /></a>
+  <strong>Identification and Frequency Estimation of Inversion Polymorphisms from Haplotype Data</strong></p>
+
+    <p><em>S. Sindi</em> and <em>B.J. Raphael</em></p>
+
+    <p><em>Journal of Computational Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1089/cmb.2009.0185" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1089/cmb.2009.0203"><img src="../assets/img/papers/missing.svg" alt="PCR Assays Paper" /></a>
+  <strong>Optimizing PCR assays for DNA based cancer diagnostics</strong></p>
+
+    <p>A. Bashir, Q. Liu, <em>B.J. Raphael</em>, D. Carson, Y.T. Liu, V. Bafna</p>
+
+    <p><em>Journal of Computational Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1089/cmb.2009.0203" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.almob.org/content/5/1/11"><img src="../assets/img/papers/missing.svg" alt="Segmental Duplications Paper" /></a>
+  <strong>Efficient Algorithms for Analyzing Segmental Duplications with Deletions and Inversions in Genomes</strong></p>
+
+    <p><em>C.L. Kahn</em>, S. Mozes, and <em>B.J. Raphael</em></p>
+
+    <p><em>Algorithms for Molecular Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.almob.org/content/5/1/11" target="_new">PubLink</a>
+  </span></p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-8">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><a href="http://compbio-research.cs.brown.edu/publications/papers/VandinUpfalRaphael_RECOMB_2010.pdf"><img src="../assets/img/papers/missing.svg" alt="HotNet RECOMB Paper" /></a>
+  <strong>Algorithms for Detecting Significantly Mutated Pathways in Cancer</strong></p>
+
+    <p><em>F. Vandin</em>, E. Upfal, and <em>B.J. Raphael</em></p>
+
+    <p><em>Proceedings of the 14th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2010)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://compbio-research.cs.brown.edu/publications/papers/VandinUpfalRaphael_RECOMB_2010.pdf" target="_new">PDF</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2009">2009</h3>
+
+<h5 id="journal-articles-11">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://dx.doi.org/10.1074/mcp.8/11/2418"><img src="../assets/img/papers/missing.svg" alt="Nguyen2009 Paper" /></a>
+  <strong>A New Approach for Quantitative Phosphoproteomic Dissection of Signaling Pathways Applied to T cell Receptor Activation</strong></p>
+
+    <p>V. Nguyen, L. Cao, J.T. Lin, N. Hung, <em>A. Ritz</em>, K. Yu, R. Jianu, S.P. Ulin, <em>B.J. Raphael</em>, D.H. Laidlaw, L.Brossay, A.R. Salomon</p>
+
+    <p><em>Molecular Cell Proteomics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1074/mcp.8/11/2418" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1093/bioinformatics/btp208"><img src="../assets/img/papers/missing.svg" alt="Sindi2009 Paper" /></a>
+  <strong>A Geometric Approach for Classification and Comparison of Structural Variants</strong></p>
+
+    <p><em>S. Sindi</em>, E. Helman, A. Bashir, <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1093/bioinformatics/btp208" target="_new">PubLink</a>
+  </span></p>
+
+    <p>[Special issue for the Joint 17th Annual International Conference on Intelligent Systems in Molecular Biology and 8th Annual International European Conference on Computational Biology (ISMB/ECCB 09)]</p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1016/j.leukres.2008.05.022"><img src="../assets/img/papers/missing.svg" alt="Messmer2009 Paper" /></a>
+  <strong>Computational Identification Of CDR3 Sequence Archetypes Among Immunoglobulin Sequences in Chronic Lymphocytic Leukemia</strong></p>
+
+    <p>B.T Messmer, <em>B.J. Raphael</em>, S.J Aerni, G.F Widhopf, L.Z Rassenti, T.L Toy, T.J Kipps</p>
+
+    <p><em>Leukemia Research</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1016/j.leukres.2008.05.022" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1093/bioinformatics/btn569"><img src="../assets/img/papers/missing.svg" alt="Ritz2009 Paper" /></a>
+  <strong>Discovery of Phosphorylation Motif Mixtures in Phosphoproteomics Data</strong></p>
+
+    <p><em>A. Ritz</em>, G. Shakhnarovich, A.R. Salomon, and <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1093/bioinformatics/btn569" target="_new">PubLink</a>
+  </span>
+  <span class="label label-danger">
+      <a href="/projects/modl#download">Software Release</a>
+  </span></p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-9">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><a href="http://dx.doi.org/10.1007/978-3-642-04241-6_15"><img src="../assets/img/papers/missing.svg" alt="Kahn2009 Paper" /></a>
+  <strong>Efficient Algorithms for Analyzing Segmental Duplications, Deletions, and Inversions in Genomes</strong></p>
+
+    <p><em>C.L. Kahn</em>, S. Mozes, and <em>B.J. Raphael</em></p>
+
+    <p><em>Proceedings of the 9th Workshop on Algorithms in Bioinformatics (WABI)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1007/978-3-642-04241-6_15" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1007/978-3-642-02008-7_30"><img src="../assets/img/papers/missing.svg" alt="Sindi2009 Paper" /></a>
+  <strong>Identification and Frequency Estimation of Inversion Polymorphisms from Haplotype Data</strong></p>
+
+    <p><em>S. Sindi</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Proceedings of the 13th Annual International Conference on Research in Computational Molecular Biology (RECOMB)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1007/978-3-642-02008-7_30" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1007/978-3-642-02008-7_17"><img src="../assets/img/papers/missing.svg" alt="Bashir2009 Paper" /></a>
+  <strong>Optimizing PCR assays for DNA based cancer diagnostics</strong></p>
+
+    <p>A. Bashir, Q. Liu, <em>B.J. Raphael</em>, D. Carson, Y.T. Liu, V. Bafna</p>
+
+    <p><em>Proceedings of the 13th Annual International Conference on Research in Computational Molecular Biology (RECOMB)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1007/978-3-642-02008-7_17" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://psb.stanford.edu/psb-online/proceedings/psb09/kahn.pdf"><img src="../assets/img/papers/missing.svg" alt="Kahn2009 Paper" /></a>
+  <strong>A Parsimony Approach to Analysis of Human Segmental Duplications</strong></p>
+
+    <p><em>C.L. Kahn</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Pacific Symposium on Biocomputing</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://psb.stanford.edu/psb-online/proceedings/psb09/kahn.pdf" target="_new">PubLink</a>
+  </span>
+  <span class="label label-default">
+      <a href="http://compbio-research.cs.brown.edu/publications/papers/Kahn_camera_revised.pdf" target="_new">Corrected version</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2008">2008</h3>
+
+<h5 id="journal-articles-12">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://dx.doi.org/10.1093/bioinformatics/btn292"><img src="../assets/img/papers/missing.svg" alt="Kahn2008 Paper" /></a>
+  <strong>Analysis of Segmental Duplications via Duplication Distance</strong></p>
+
+    <p><em>C.L. Kahn</em>, <em>B.J. Raphael</em></p>
+
+    <p><em>Bioinformatics (Proceedings of the European Conference on Computational Biology)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1093/bioinformatics/btn292" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1371/journal.pcbi.1000051"><img src="../assets/img/papers/missing.svg" alt="Kahn2008 Paper" /></a>
+  <strong>Evaluation of Paired-end Sequencing Strategies for Detection of Genome Rearrangements in Cancer</strong></p>
+
+    <p>A. Bashir, S. Volik, C.C. Collins, V. Bafna, <em>B.J. Raphael</em></p>
+
+    <p><em>PLoS Computational Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1371/journal.pcbi.1000051" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://genomebiology.com/2008/9/3/R59"><img src="../assets/img/papers/missing.svg" alt="Raphael2008 Paper" /></a>
+  <strong>A sequence-based survey of the complex structural organization of tumor genomes</strong></p>
+
+    <p><em>B.J. Raphael</em>, S. Volik, Guiqing Huang, F.Waldman, J. Costello, S.Aerni, R.P. Brown, A. Bashir, K. Pienta, G. Mills, K. Bajsarowicz, P. Paris, Q. Tao, W. Kuo, J.W. Gray, J. Cheng, M. Nefedov, P. de Jong, and C. Collins</p>
+
+    <p><em>Genome Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://genomebiology.com/2008/9/3/R59" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://genomebiology.com/2008/9/3/R59"><img src="../assets/img/papers/missing.svg" alt="Agler2008 Paper" /></a>
+  <strong>Classical Function Theory, Operator Dilation Theory, and Machine Computation on Multiply-Connected Domains</strong></p>
+
+    <p>J. Agler, J. Harland, <em>B.J. Raphael</em></p>
+
+    <p><em>Memoirs of the American Mathematical Society</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://books.google.com/books?id=3rBUySnUI4QC&amp;lpg=PP9&amp;ots=m4ctgeaiPp&amp;dq=benjamin%20raphael&amp;lr=&amp;pg=PP1#v=onepage&amp;q=&amp;f=false" target="_new">Google Books Link</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2007">2007</h3>
+
+<h5 id="journal-articles-13">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://dx.doi.org/10.1093/bioinformatics/btm390"><img src="../assets/img/papers/missing.svg" alt="Bashir2007 Paper" /></a>
+  <strong>Optimization of primer design for the detection of variable genomic lesions in cancer</strong></p>
+
+    <p>A. Bashir A, Y.T. Liu, <em>B.J. Raphael</em>, D. Carson, V. Bafna</p>
+
+    <p><em>Bioinformatics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1093/bioinformatics/btm390" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://www.jimmunol.org/cgi/content/abstract/179/9/5864"><img src="../assets/img/papers/missing.svg" alt="Cao2007 Paper" /></a>
+  <strong>Quantitative Time-Resolved Phosphoproteomic Analysis of Mast Cell Signaling</strong></p>
+
+    <p>L. Cao, K. Yu, V. Nguyen, A. Ritz, <em>B.J. Raphael</em>, Y. Kawakami, T. Kawakami, A.R. Salomon</p>
+
+    <p><em>Journal of Immunology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.jimmunol.org/cgi/content/abstract/179/9/5864" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1371/journal.pbio.0050016"><img src="../assets/img/papers/missing.svg" alt="Yooseph2007 Paper" /></a>
+  <strong>The <em>Sorcerer II</em> Global Ocean Sampling Expedition: Expanding the Universe of Protein Families</strong></p>
+
+    <p>S. Yooseph, G. Sutton, D.B. Rusch, A.L. Halpern, S.J. Williamson, K.Remington, J.A. Eisen, K..B. Heidelberg, G. Manning, W. Li, L. Jaroszewski, P. Cieplak, C.S. Miller, H. Li, S. T. Mashiyama, M. P. Joachimiak, C. van Belle, J. Chandonia, D. A. Soergel, Y. Zhai, K. Natarajan, S. Lee, <em>B.J. Raphael</em>, V. Bafna, R. Friedman, S. E. Brenner, A. Godzik, D. Eisenberg, J.E. Dixon, S. S. Taylor, R.L. Strausberg, M. Frazier, J.C. Venter</p>
+
+    <p><em>PLoS Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1371/journal.pbio.0050016" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1371/journal.pbio.0050016"><img src="../assets/img/papers/missing.svg" alt="Raphael2007 Paper" /></a>
+  <strong>Analysis of Genomic Alterations in Cancer</strong></p>
+
+    <p><em>B.J. Raphael</em>, S. Volik, C. Collins</p>
+
+    <p><em>Genome Sequencing Technology and Algorithms</em>, H. Tang, S. Kim, E. Mardis (eds)</p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1371/journal.pbio.0050016" target="_new">PubLink</a>
+  </span></p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-10">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><a href="http://dx.doi.org/10.1007/978-3-540-71681-5_25"><img src="../assets/img/papers/missing.svg" alt="Corona2007 Paper" /></a>
+  <strong>Identifying Deletion Polymorphisms from Haplotypes</strong></p>
+
+    <p>E. Corona, <em>B.J. Raphael</em>, E. Eskin</p>
+
+    <p><em>Proceedings of the 11Th Annual International Conference on Research in Computational Biology (RECOMB 2007)</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1007/978-3-540-71681-5_25" target="_new">PubLink</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2006">2006</h3>
+
+<h5 id="journal-articles-14">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://www.pnas.org/content/103/52/19824"><img src="../assets/img/papers/missing.svg" alt="Chaisson2006 Paper" /></a>
+  <strong>Micro-inversions in Mammalian Evolution</strong></p>
+
+    <p>M. Chaisson, <em>B.J. Raphael</em>, and P. Pevzner</p>
+
+    <p><em>Proceedings of the National Academy of Sciences, USA</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://www.pnas.org/content/103/52/19824" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://genome.cshlp.org/cgi/content/full/16/3/394"><img src="../assets/img/papers/missing.svg" alt="Volik2006 Paper" /></a>
+  <strong>Decoding the Fine-scale Structure of a Breast Cancer Genome and Transcriptome</strong></p>
+
+    <p>S. Volik, <em>B.J. Raphael</em>, et al.</p>
+
+    <p><em>Genome Research</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://genome.cshlp.org/cgi/content/full/16/3/394" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://dx.doi.org/10.1093/nar/gkl288"><img src="../assets/img/papers/missing.svg" alt="Jones2006 Paper" /></a>
+  <strong>AliWABA: Alignment on the Web through an A-Bruijn Approach</strong></p>
+
+    <p>N.C. Jones, D. Zhi, <em>B.J. Raphael</em></p>
+
+    <p><em>Nucleic Acids Research</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1093/nar/gkl288" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://genomebiology.com/2006/7/1/R7"><img src="../assets/img/papers/missing.svg" alt="Zhi2006 Paper" /></a>
+  <strong>Identifying Repeat Domains in Large Genomes</strong></p>
+
+    <p>D.Zhi, <em>B.J. Raphael</em>, A.Price, H. Tang, P. Pevzner</p>
+
+    <p><em>Genome Biology</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://genomebiology.com/2006/7/1/R7" target="_new">PubLink</a>
+  </span></p>
+  </li>
+</ul>
+
+<h5 id="conference-proceedings-11">Conference Proceedings</h5>
+
+<ul>
+  <li>
+    <p><img src="../assets/img/papers/missing.svg" alt="Eskin2006 Paper" />
+  <strong>Systems Biology and Regulatory Genomics. Joint Annual RECOMB 2005 Satellite Workshops on Systems Biology and on Regulatory Genomics</strong></p>
+
+    <p>E. Eskin, T. Ideker, <em>B.J. Raphael</em>, C. Workman (eds.)</p>
+
+    <p><em>Lecture Notes in Computer Science</em></p>
+  </li>
+</ul>
+
+<h3 id="2002---2005">2002 - 2005</h3>
+
+<h5 id="journal-articles-15">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="http://dx.doi.org/10.1093/bioinformatics/bth931"><img src="../assets/img/papers/missing.svg" alt="Raphael2004 Paper" /></a>
+  <strong>Reconstructing Tumor Amplisomes</strong></p>
+
+    <p><em>B.J. Raphael</em>, P. Pevzner</p>
+
+    <p><em>Bioinformatics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://dx.doi.org/10.1093/bioinformatics/bth931" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://genome.cshlp.org/cgi/content/full/14/11/2336"><img src="../assets/img/papers/missing.svg" alt="Raphael2004 Paper" /></a>
+  <strong>A Novel Method for Multiple Alignment of Sequences with Repeated and Shuffled Domains</strong></p>
+
+    <p><em>B.J. Raphael</em>, D. Zhi, H. Tang, P. Pevzner</p>
+
+    <p><em>Genome Research</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://genome.cshlp.org/cgi/content/full/14/11/2336" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://csdl.computer.org/comp/trans/tb/2004/02/n0091abs.htm"><img src="../assets/img/papers/missing.svg" alt="Raphael2004 Paper" /></a>
+  <strong>A Uniform Projection Method for the Motif Discovery Problem</strong></p>
+
+    <p><em>B.J. Raphael</em>, L. Liu, and G. Varghese</p>
+
+    <p><em>IEEE Transactions on Computational Biology and Bioinformatics</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://csdl.computer.org/comp/trans/tb/2004/02/n0091abs.htm" target="_new">PubLink</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/19/suppl_2/ii162"><img src="../assets/img/papers/missing.svg" alt="Raphael2003 Paper" /></a>
+  <strong>Reconstructing Tumor Genome Architectures</strong></p>
+
+    <p><em>B.J. Raphael</em>, S. Volik, C. Collins, P. Pevzner</p>
+
+    <p><em>Bioinformatics</em> (Special ECCB 2003 Issue)</p>
+
+    <p><span class="label label-primary">
+      <a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/19/suppl_2/ii162" target="_new">PubLink</a>
+  </span></p>
+
+    <p>[Recognized by the <a href="http://www.facultyof1000.com/">Faculty of 1000</a>]</p>
+  </li>
+</ul>
+
+<h5 id="other-publications">Other Publications</h5>
+
+<ul>
+  <li>
+    <p><a href="http://roger.ucsd.edu/record=b4374801~S9"><img src="../assets/img/papers/missing.svg" alt="Raphael2002 Paper" /></a>
+  <strong>A Computational Investigation Of Spectral Sets And Rational Dilations Over Multiply-Connected Domains</strong></p>
+
+    <p><em>B.J. Raphael</em></p>
+
+    <p><em>Ph.D. Thesis</em></p>
+
+    <p><span class="label label-primary">
+      <a href="http://roger.ucsd.edu/record=b4374801~S9" target="_new">Link</a>
+  </span></p>
+  </li>
+</ul>
+:ET

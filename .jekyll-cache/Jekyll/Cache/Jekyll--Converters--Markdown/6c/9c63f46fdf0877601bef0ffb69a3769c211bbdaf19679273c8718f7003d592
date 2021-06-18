@@ -1,4 +1,4 @@
-I"5<h1 id="news">news</h1>
+I"Û4<h1 id="news">news</h1>
 <h2 id="may-1-2017">May 1, 2017</h2>
 <p>Congratulations to Postdoctoral Researcher <a href="http://www.el-kebir.net">Mohammed El-Kebir</a> who will start as a tenure-track Assistant Professor of <a href="http://cs.illinois.edu">Computer Science at University of Illinois, Urbana-Champaign</a> in January, 2018!</p>
 
@@ -104,7 +104,7 @@ wins the Best Paper Award at <a href="http://bioinfo.au.tsinghua.edu.cn/recomb20
 
 <h2 id="march-1-2012">March 1, 2012</h2>
 <p><a href="http://the-scientist.com/2012/03/01/combing-the-cancer-genome/">Article in The Scientist</a> discuses our
-<a href="http://localhost:4000/projects/dendrix">Dendrix</a> algorithm.</p>
+<a href="/projects/dendrix">Dendrix</a> algorithm.</p>
 
 <h2 id="feb-8-2012">Feb. 8, 2012</h2>
 <p>Quoted in <a href="http://compbio-research.cs.brown.edu/news/NatureMethodsSV.pdf">Nature Methods article</a> on structural variation.</p>
@@ -113,11 +113,11 @@ wins the Best Paper Award at <a href="http://bioinfo.au.tsinghua.edu.cn/recomb20
 <p>Talk at The Cancer Genome Atlas Symposium on <a href="http://www.youtube.com/watch?v=8JoFOsuheO4">YouTube</a>.</p>
 
 <h2 id="oct-17-2011">Oct. 17, 2011</h2>
-<p><a href="http://cancergenome.nih.gov/researchhighlights/tcgainaction/braphaelhotnet">The Cancer Genome Atlas article</a> on <a href="http://localhost:4000/projects/hotnet">HotNet</a>.</p>
+<p><a href="http://cancergenome.nih.gov/researchhighlights/tcgainaction/braphaelhotnet">The Cancer Genome Atlas article</a> on <a href="/projects/hotnet">HotNet</a>.</p>
 
 <h2 id="sept-20-2011">Sept 20, 2011</h2>
 <p><a href="http://news.brown.edu/features/2011/09/hotnet">Brown news feature</a> describes
-<a href="http://localhost:4000/projects/hotnet">HotNet</a> contribution to The Cancer Genome Atlas.</p>
+<a href="/projects/hotnet">HotNet</a> contribution to The Cancer Genome Atlas.</p>
 
 <h2 id="june-13-2011">June 13, 2011</h2>
 <p><a href="http://news.brown.edu/pressreleases/2011/06/splicing">Brown news story</a> describes work on RNA splicing motifs,

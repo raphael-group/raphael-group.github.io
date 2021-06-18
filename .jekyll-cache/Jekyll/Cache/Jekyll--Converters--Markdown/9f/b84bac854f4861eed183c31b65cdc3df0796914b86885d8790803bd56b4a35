@@ -1,4 +1,4 @@
-I"¡<h1 id="research">research</h1>
+I"Œ<h1 id="research">research</h1>
 
 <p>We develop algorithms and mathematical models to address biological problems. Major areas of interest include computational cancer genomics, human structural variation, and comparative genomics.</p>
 
@@ -53,5 +53,5 @@ In particular, we designed the <a href="/projects/multibreaksv/">MultiBreak-SV</
   <li>Motif finding (Raphael, Liu and Varghese, 2004)</li>
 </ul>
 
-<p>See the <a href="http://localhost:4000/publications">publications page</a> for further details.</p>
+<p>See the <a href="/publications">publications page</a> for further details.</p>
 :ET

@@ -1,10 +1,88 @@
-I"N8<h4 id="pubmed--google-scholar--dblp"><a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=%28raphael+bj+%5Bau%5D+OR+raphael+bj+%5BInvestigator%5D%29+OR+21720365%5Buid%5D+OR+17048384+%5Buid%5D+OR+15520295+%5Buid%5D">PubMed</a> | <a href="https://scholar.google.com/citations?user=GhvZjJUAAAAJ&amp;hl=en&amp;authuser=1">Google Scholar</a> | <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Raphael:Benjamin_J=.html">DBLP</a></h4>
+I",I<h4 id="pubmed--google-scholar--dblp"><a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=%28raphael+bj+%5Bau%5D+OR+raphael+bj+%5BInvestigator%5D%29+OR+21720365%5Buid%5D+OR+17048384+%5Buid%5D+OR+15520295+%5Buid%5D">PubMed</a> | <a href="https://scholar.google.com/citations?user=GhvZjJUAAAAJ&amp;hl=en&amp;authuser=1">Google Scholar</a> | <a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Raphael:Benjamin_J=.html">DBLP</a></h4>
 
 <h1 id="publications">publications</h1>
 
 <h3 id="preprints-and-in-press">Preprints and In press</h3>
 
 <ul>
+  <li>
+    <p>[<img src="../assets/img/papers/missing.svg" alt="CND-aliquoting" />]
+<strong>Genome Halving and Aliquoting under the Copy Number Distance</strong></p>
+
+    <p><em>R. Zeira</em>, <em>G. Mon</em>, <em>B.J. Raphael</em></p>
+
+    <p>WABI 2021 [In Press]</p>
+
+    <p><span class="label label-danger">
+      <a href="https://github.com/raphael-group/CND-aliquoting">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1"><img src="../assets/img/papers/missing.svg" alt="PASTE" /></a>
+<strong>Alignment and Integration of Spatial Transcriptomics Data</strong></p>
+
+    <p><em>R. Zeira</em>, <em>M. Land</em>, <em>B.J. Raphael</em></p>
+
+    <p>RECOMB 2021 [In Press]</p>
+
+    <p>bioRxiv (Mar. 13, 2021).</p>
+
+    <p><span class="label label-info">
+      	<a href="https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1" target="_new">bioRxiv preprint</a>
+  	</span>
+    	<span class="label label-danger">
+      <a href="https://github.com/raphael-group/paste">Software</a>
+  </span></p>
+  </li>
+</ul>
+
+<h3 id="2021">2021</h3>
+
+<h3 id="2020">2020</h3>
+
+<h5 id="journal-articles">Journal Articles</h5>
+
+<ul>
+  <li>
+    <p><a href="https://iopscience.iop.org/article/10.1088/1478-3975/abbe99"><img src="../assets/img/papers/missing.svg" alt="STARCH" /></a>
+  <strong>STARCH: Copy number and clone inference from spatial transcriptomics data</strong></p>
+
+    <p><em>R. Elyanow</em>, <em>R. Zeira</em>, <em>M. Land</em>, <em>B.J. Raphael</em></p>
+
+    <p>Physical Biology <strong>18</strong> 035001 (Oct 2020)</p>
+
+    <p><span class="label label-info">
+      	<a href="https://iopscience.iop.org/article/10.1088/1478-3975/abbe99" target="_new">Publication</a>
+  	</span></p>
+
+    <p><span class="label label-danger"><a href="https://github.com/raphael-group/starch/">Software</a></span></p>
+  </li>
+  <li>
+    <p><a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i344/5870462"><img src="../assets/img/papers/missing.svg" alt="WCND" /></a>
+  <strong>Copy number evolution with weighted aberrations in cancer</strong></p>
+
+    <p><em>R. Zeira</em>, <em>B.J. Raphael</em></p>
+
+    <p>ISMB 2020, Bioinformatics (July 13, 2020).</p>
+
+    <p><span class="label label-info">
+     		<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i344/5870462" target="_new">Publication</a>
+  	</span>
+  <span class="label label-danger"><a href="https://github.com/raphael-group/WCND">Software</a></span></p>
+  </li>
+  <li>
+    <p><a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i186/5870493"><img src="../assets/img/papers/missing.svg" alt="SBMClone" /></a>
+  <strong>Identifying tumor clones in sparse single-cell mutation data</strong></p>
+
+    <p><em>M.A. Myers*</em>, <em>S. Zaccaria*</em>, <em>B.J. Raphael</em></p>
+
+    <p>ISMB 2020, Bioinformatics (July 13, 2020).</p>
+
+    <p><span class="label label-info">
+     		<a href="https://academic.oup.com/bioinformatics/article/36/Supplement_1/i186/5870493" target="_new">Publication</a>
+  	</span>
+  <span class="label label-danger"><a href="https://github.com/raphael-group/sbmclone/">Software</a></span></p>
+  </li>
   <li>
     <p><a href="https://www.biorxiv.org/content/10.1101/840355v1"><img src="../assets/img/papers/missing.svg" alt="SCARLET" /></a>
 <strong>Single-cell tumor phylogeny inference with copy-number constrained mutation losses</strong></p>
@@ -31,38 +109,6 @@
     <p>RECOMB 2020 [In Press]</p>
   </li>
   <li>
-    <p><a href="https://www.biorxiv.org/content/10.1101/560839v1"><img src="../assets/img/papers/missing.svg" alt="RCK" /></a>
-<strong>Reconstruction of clone- and haplotype-specific cancer genome karyotypes from bulk tumor samples</strong></p>
-
-    <p>S Aganezov, <em>BJ Raphael</em></p>
-
-    <p>bioRxiv (Feb. 25, 2019)</p>
-
-    <p><span class="label label-info">
-      	<a href="https://www.biorxiv.org/content/10.1101/560839v1" target="_new">bioRxiv preprint</a>
-  	</span>
-  	<span class="label label-danger">
-      <a href="https://github.com/raphael-group/RCK">Software</a>
-  </span></p>
-  </li>
-  <li>
-    <p><a href="https://www.biorxiv.org/content/10.1101/544346v1"><img src="../assets/img/papers/netNMF-sc.jpg" alt="netNMF-sc" /></a>
-<strong>netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis</strong></p>
-
-    <p><em>R Elyanow</em>, B Dumitrascu, B Engelgardt, <em>BJ Raphael</em></p>
-
-    <p>RECOMB 2019, In Press</p>
-
-    <p>bioRxiv (Feb. 8, 2019).</p>
-
-    <p><span class="label label-info">
-     		<a href="https://www.biorxiv.org/content/10.1101/544346v1" target="_new">bioRxiv preprint</a>
-  	</span>
-	<span class="label label-danger">
-      <a href="https://github.com/raphael-group/netNMF-sc">Software</a>
-  </span></p>
-  </li>
-  <li>
     <p><a href="https://www.biorxiv.org/content/10.1101/496174v1"><img src="../assets/img/papers/missing.svg" alt="HATCHet" /></a>
 <strong>Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data</strong></p>
 
@@ -78,6 +124,21 @@
  </span></p>
   </li>
   <li>
+    <p><a href="https://www.biorxiv.org/content/10.1101/560839v1"><img src="../assets/img/papers/missing.svg" alt="RCK" /></a>
+<strong>Reconstruction of clone- and haplotype-specific cancer genome karyotypes from bulk tumor samples</strong></p>
+
+    <p>S Aganezov, <em>BJ Raphael</em></p>
+
+    <p>bioRxiv (Feb. 25, 2019)</p>
+
+    <p><span class="label label-info">
+      	<a href="https://www.biorxiv.org/content/10.1101/560839v1" target="_new">bioRxiv preprint</a>
+  	</span>
+  	<span class="label label-danger">
+      <a href="https://github.com/raphael-group/RCK">Software</a>
+  </span></p>
+  </li>
+  <li>
     <p><a href="https://www.biorxiv.org/content/10.1101/385294v1"><img src="../assets/img/papers/missing.svg" alt="ICGCPCAWGNetworks" /></a>
   <strong>Pathway and network analysis of more than 2,500 whole cancer genomes</strong></p>
 
@@ -89,11 +150,34 @@
       	<a href="https://www.biorxiv.org/content/10.1101/385294v1" target="_new">bioRxiv preprint</a>
   </span></p>
   </li>
+  <li>
+    <p><a href="https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119"><img src="../assets/img/papers/netNMF-sc.jpg" alt="netNMF-sc" /></a>
+<strong>netNMF-sc: Leveraging gene-gene interactions for imputation and dimensionality reduction in single-cell expression analysis</strong></p>
+
+    <p><em>R Elyanow</em>, B Dumitrascu, B Engelgardt, <em>BJ Raphael</em></p>
+
+    <p>Genome Research (Jan. 28, 2020).</p>
+
+    <p><span class="label label-info">
+     		<a href="https://genome.cshlp.org/content/early/2020/01/28/gr.251603.119" target="_new">Publication</a>
+  	</span>
+	<span class="label label-danger">
+      <a href="https://github.com/raphael-group/netNMF-sc">Software</a>
+  </span></p>
+  </li>
+  <li>
+    <p><a href="https://ashpublications.org/blood/article/135/1/41/422540/Therapy-induced-mutations-drive-the-genomic"><img src="../assets/img/papers/missing.svg" alt="AMLStJudesBlood" /></a>
+  <strong>Therapy-induced mutations drive the genomic landscape of relapsed acute lymphoblastic leukemia</strong></p>
+
+    <p>B. Li, S.W. Brady, X. Ma, S. Shen, Y. Zhang, Y. Li, K. Szlachta, L. Dong, Y. Liu, F. Yang, N. Wang, D.A. Flasch, <em>M.A. Myers</em>, H.L. Mulder, L. Ding, Y. Liu, L. Tian, K. Hagiwara, K. Xu, X. Zhou, E. Sioson, T. Wang, L. Yang, J. Zhao, H. Zhang, Y. Shao, H. Sun, L. Sun, J. Cai, H. Sun, T. Lin, L. Du, H. Li, M. Rusch, M.N. Edmonson, J. Easton, X. Zhu, J. Zhang, C. Cheng, <em>B.J. Raphael</em>, J. Tang, J.R. Downing, L.B. Alexandrov, B.S. Zhou, C. Pui, J.J. Yang, J. Zhang</p>
+
+    <p><em>Blood</em> (2020). 135 (1), 41-55.</p>
+  </li>
 </ul>
 
 <h3 id="2019">2019</h3>
 
-<h5 id="journal-articles">Journal Articles</h5>
+<h5 id="journal-articles-1">Journal Articles</h5>
 
 <ul>
   <li>
@@ -104,7 +188,10 @@
 
     <p><em>RECOMB 2019, Cell Systems</em> (2019). 8 (6), 514-522.e5.</p>
 
-    <p><span class="label label-danger">
+    <p><span class="label label-info">
+     		<a href="https://www.sciencedirect.com/science/article/pii/S2405471219301917" target="_new">Publication</a>
+  	</span>
+  <span class="label label-danger">
       <a href="https://github.com/raphael-group/calder">Software</a>
   </span></p>
   </li>
@@ -122,12 +209,12 @@
 
 <ul>
   <li>
-    <p><a href=""><img src="../assets/img/papers/missing.svg" alt="ICML2019" /></a>
+    <p><a href="http://proceedings.mlr.press/v97/chitra19a.html"><img src="../assets/img/papers/missing.svg" alt="ICML2019" /></a>
   <strong>Random Walks on Hypergraphs with Edge-Dependent Vertex Weights</strong></p>
 
     <p><em>U. Chitra</em>, <em>B.J. Raphael</em></p>
 
-    <p><em>ICML 2019</em>.</p>
+    <p><em>International Conference on Machine Learning (ICML) 2019</em>.</p>
 
     <p><span class="label label-success">
       <a href="http://proceedings.mlr.press/v97/chitra19a.html" target="_new">Proceedings</a>
@@ -140,7 +227,7 @@
 
 <h3 id="2018">2018</h3>
 
-<h5 id="journal-articles-1">Journal Articles</h5>
+<h5 id="journal-articles-2">Journal Articles</h5>
 
 <ul>
   <li>
@@ -247,7 +334,7 @@
 
 <h3 id="2017">2017</h3>
 
-<h5 id="journal-articles-2">Journal Articles</h5>
+<h5 id="journal-articles-3">Journal Articles</h5>
 
 <ul>
   <li>
@@ -368,7 +455,7 @@
 
 <h3 id="2016">2016</h3>
 
-<h5 id="journal-articles-3">Journal Articles</h5>
+<h5 id="journal-articles-4">Journal Articles</h5>
 
 <ul>
   <li>
@@ -465,7 +552,7 @@
 
 <h3 id="2015">2015</h3>
 
-<h5 id="journal-articles-4">Journal Articles</h5>
+<h5 id="journal-articles-5">Journal Articles</h5>
 
 <ul>
   <li>
@@ -642,7 +729,7 @@
 
 <h3 id="2014">2014</h3>
 
-<h5 id="journal-articles-5">Journal Articles</h5>
+<h5 id="journal-articles-6">Journal Articles</h5>
 <ul>
   <li>
     <p><a href="http://bioinformatics.oxfordjournals.org/content/30/24/3458.long"><img src="../assets/img/papers/missing.svg" alt="Ritz Single Molecule" /></a>
@@ -826,7 +913,7 @@
 
 <h3 id="2013">2013</h3>
 
-<h5 id="journal-articles-6">Journal Articles</h5>
+<h5 id="journal-articles-7">Journal Articles</h5>
 
 <ul>
   <li>
@@ -1009,7 +1096,7 @@
 
 <h3 id="2012">2012</h3>
 
-<h5 id="journal-articles-7">Journal Articles</h5>
+<h5 id="journal-articles-8">Journal Articles</h5>
 
 <ul>
   <li>
@@ -1188,7 +1275,7 @@
 
 <h3 id="2011">2011</h3>
 
-<h5 id="journal-articles-8">Journal Articles</h5>
+<h5 id="journal-articles-9">Journal Articles</h5>
 
 <ul>
   <li>
@@ -1274,7 +1361,7 @@
 
 <h3 id="2010">2010</h3>
 
-<h5 id="journal-articles-9">Journal Articles</h5>
+<h5 id="journal-articles-10">Journal Articles</h5>
 
 <ul>
   <li>
@@ -1387,7 +1474,7 @@
 
 <h3 id="2009">2009</h3>
 
-<h5 id="journal-articles-10">Journal Articles</h5>
+<h5 id="journal-articles-11">Journal Articles</h5>
 
 <ul>
   <li>
@@ -1503,7 +1590,7 @@
 
 <h3 id="2008">2008</h3>
 
-<h5 id="journal-articles-11">Journal Articles</h5>
+<h5 id="journal-articles-12">Journal Articles</h5>
 
 <ul>
   <li>
@@ -1558,7 +1645,7 @@
 
 <h3 id="2007">2007</h3>
 
-<h5 id="journal-articles-12">Journal Articles</h5>
+<h5 id="journal-articles-13">Journal Articles</h5>
 
 <ul>
   <li>
@@ -1630,7 +1717,7 @@
 
 <h3 id="2006">2006</h3>
 
-<h5 id="journal-articles-13">Journal Articles</h5>
+<h5 id="journal-articles-14">Journal Articles</h5>
 
 <ul>
   <li>
@@ -1698,7 +1785,7 @@
 
 <h3 id="2002---2005">2002 - 2005</h3>
 
-<h5 id="journal-articles-14">Journal Articles</h5>
+<h5 id="journal-articles-15">Journal Articles</h5>
 
 <ul>
   <li>

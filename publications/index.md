@@ -10,7 +10,21 @@ container_css_class: container publications
 
 ### Preprints and In press ###
 
-* [![CND-aliquoting](../assets/img/papers/missing.svg)]
+* [![structured-anomalies](../assets/img/papers/missing.svg)](https://arxiv.org/abs/2007.07878)
+**Quantifying and Reducing Bias in Maximum Likelihood Estimation of Structured Anomalies**
+
+	_U. Chitra_, _K. Ding_, J.C.H. Lee, _B.J. Raphael_ 
+	
+	ICML 2021 [In Press] 
+	
+	<span class="label label-info">
+        	<a href="https://arxiv.org/abs/2007.07878" target="_new">arXiv preprint</a>
+    </span>
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/structured-anomalies">Software</a>
+	</span>
+
+* [![CND-aliquoting](../assets/img/papers/missing.svg)]()
 **Genome Halving and Aliquoting under the Copy Number Distance**
 
 	_R. Zeira_, _G. Mon_, _B.J. Raphael_ 
@@ -98,12 +112,19 @@ container_css_class: container publications
 		<a href="https://github.com/raphael-group/scarlet">Software</a>
 	</span>
 
-* [![NetMix](../assets/img/papers/missing.svg)]()
+* [![NetMix](../assets/img/papers/missing.svg)](https://www.liebertpub.com/doi/full/10.1089/cmb.2020.0435)
 **NetMix: A network-structured mixture model for less biased identification of altered subnetworks**
 
 	_M.A. Reyna*_, _U. Chitra*_, _R Elyanow_, _BJ Raphael_ 
 	
-	RECOMB 2020 [In Press] 
+	RECOMB 2020, Journal of Computational Biology (May 20, 2021)
+
+	<span class="label label-info">
+       	<a href="https://www.liebertpub.com/doi/full/10.1089/cmb.2020.0435" target="_new">Publication</a>
+    </span>
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/netmix/">Software</a>
+	</span>
 	
  * [![HATCHet](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/496174v1)
 **Accurate quantification of copy-number aberrations and whole-genome duplications in multi-sample tumor sequencing data**
