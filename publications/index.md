@@ -24,16 +24,6 @@ container_css_class: container publications
 		<a href="https://github.com/raphael-group/structured-anomalies">Software</a>
 	</span>
 
-* [![CND-aliquoting](../assets/img/papers/missing.svg)]()
-**Genome Halving and Aliquoting under the Copy Number Distance**
-
-	_R. Zeira_, _G. Mon_, _B.J. Raphael_ 
-	
-	WABI 2021 [In Press] 
-	
-	<span class="label label-danger">
-		<a href="https://github.com/raphael-group/CND-aliquoting">Software</a>
-	</span>
 
 * [![PASTE](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
 **Alignment and Integration of Spatial Transcriptomics Data**
@@ -53,6 +43,21 @@ container_css_class: container publications
 
 ### 2021 ###
 
+##### Conference Proceedings
+* [![CND-aliquoting](../assets/img/papers/missing.svg)](https://drops.dagstuhl.de/opus/volltexte/2021/14371)
+**Genome Halving and Aliquoting under the Copy Number Distance**
+
+	_R. Zeira_, _G. Mon_, _B.J. Raphael_ 
+	
+	WABI 2021, LIPIcs (July 22, 2021)
+	
+	<span class="label label-info">
+        	<a href="https://drops.dagstuhl.de/opus/volltexte/2021/14371" target="_new">Publication</a>
+    	</span>
+	
+	<span class="label label-danger">
+		<a href="https://github.com/raphael-group/CND-aliquoting">Software</a>
+	</span>
 
 ### 2020 ###
 
