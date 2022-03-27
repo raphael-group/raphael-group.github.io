@@ -13,22 +13,21 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 
 ### Postdoctoral Fellows
 * Cong Ma (Postdoctoral Research Associate, October 2020 - present)
-* Pijus Simonaitis (Postdoctoral Research Associate, January 2021 - present)
-* [Ron Zeira](http://www.cs.tau.ac.il/~ronzeira/) (Postdoctoral Research Associate, January 2019-present)
+* Palash Sashittal (Postdoctoral Research Associate, September 2021 - present)
 
 
 ### Ph.D. Students
 * [Uthsav Chitra](https://uthsavc.github.io) (Computer Science). 2018-present
+* Xinhao Liu (Computer Science). 2021-present
 * Matthew Myers (Computer Science). 2017-present
 * Tyler Park (Quantitative and Computational Biology). 2018-present
 * Ahmed Shuaibi (Quantitative and Computational Biology). 2021-present
 * Alexander Strzalkowski (Computer Science). 2020-present
+* Madelyne Xiao (Computer Science). 2021-present
 
 ### Undergraduates
-* Yaw Asante
-* Kimberly Ding
-* Max Land
-
+* Rishabh Rout 
+* Ellen Su
 
 <a name="jobs"></a> 
 
@@ -52,6 +51,8 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 * [Crystal Kahn](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [NSF Graduate Research Fellowship, 2005-2008] &rarr; Ab Initio &rarr; Assistant Professor, Amherst College 
 
 #### Postdoctoral Fellows and Research Faculty
+* Pijus Simonaitis (Postdoctoral Research Associate, January 2021 - March 2022)
+* [Ron Zeira](http://www.cs.tau.ac.il/~ronzeira/) (Postdoctoral Research Associate, January 2019-February 2022) &rarr; Verily, Israel 
 * [Simone Zaccaria](https://simozacca.github.io/) (Postdoctoral Research Associate, April 2017-August 2020) &rarr; Group Leader at University College London 
 * Sergey Aganezov (Postdoctoral Research Associate, July 2017-July 2018) &rarr; Postdoctoral Fellow, Johns Hopkins University
 * [Mohammed El-Kebir](https://scholar.google.com/citations?user=8mUzslcAAAAJ&hl=en) (Postdoctoral Research Associate, October 2014-January 2018) &rarr; Assistant Professor, Computer Science, University of Illinois Urbana-Champaign
@@ -76,6 +77,10 @@ There are currently openings in the group for outstanding postdoctoral fellows, 
 
 
 #### Undergraduate and Visiting Students
+* Kimberly Ding (Thesis, 2021)
+* Yaw Asante (Thesis, 2021)
+* Shirley Zhang (2020)
+* Max Land (2020)
 * Chandler Ault (Summer 2020)
 * Claire Du (Honors Thesis, 2020)
 * Geoffrey Mon (Summer 2018, 2019)
