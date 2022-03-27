@@ -32,10 +32,12 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 <a name="jobs"></a> 
 
 ## Jobs
+* Ph.D. students.  We recruit students primarily through the Princeton [Computer Science Ph.D. program](https://www.cs.princeton.edu/grad) and the [Quantitative and Computational Biology Ph.D. program](https://lsi.princeton.edu/qcbgraduate).  Please consult the program websites for further details.
+* Postdoctoral fellows and staff programmers, or undergraduate students. Contact Professor Raphael for further information about current positions. Please include in your email your CV and, if you are a student, a list of courses you are taking this year. 
 
-There are currently openings in the group for outstanding postdoctoral fellows, staff programmers, graduate students or undergraduate students. Contact me for further information. Please include in your email your CV and, if you are a student, a list of courses you are taking this year. If you are interesting in applying to Brown Computer Science, more information is [available here](http://cs.brown.edu/).
-
+<!--
 *Undergraduates*: We are recruiting undergraduate research assistants (URAs). Please see our [URA Program Page](http://compbio-research.cs.brown.edu/ura) for more information.
+--> 
 
 ## Alumni
 
