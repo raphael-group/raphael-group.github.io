@@ -27,17 +27,19 @@ container_css_class: container publications
 	</span>
 
 
+### 2022 ###
+
+##### Journal Articles
+
 * [![PASTE](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
 **Alignment and Integration of Spatial Transcriptomics Data**
 
-	_R. Zeira_, _M. Land_, _B.J. Raphael_ 
+	_R. Zeira_, _M. Land_, A. Strzalkowski, _B.J. Raphael_ 
 	
-	RECOMB 2021 [In Press] 
-	
-	bioRxiv (Mar. 13, 2021).
+	Nature Methods (May. 16, 2022).
 	
 	<span class="label label-info">
-        	<a href="https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1" target="_new">bioRxiv preprint</a>
+        	<a href="https://www.nature.com/articles/s41592-022-01459-6" target="_new">Publication</a>
     	</span>
 	  	<span class="label label-danger">
 		<a href="https://github.com/raphael-group/paste">Software</a>
