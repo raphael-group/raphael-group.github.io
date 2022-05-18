@@ -31,7 +31,7 @@ container_css_class: container publications
 
 ##### Journal Articles
 
-* [![PASTE](../assets/img/papers/missing.svg)](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1)
+* [![PASTE](../assets/img/papers/missing.svg)](https://www.nature.com/articles/s41592-022-01459-6)
 **Alignment and Integration of Spatial Transcriptomics Data**
 
 	_R. Zeira_, _M. Land_, A. Strzalkowski, _B.J. Raphael_ 
