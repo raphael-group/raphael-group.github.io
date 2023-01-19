@@ -12,18 +12,21 @@ container_css_class: container
 Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
 
 ### Postdoctoral Fellows
+* Metin Balaban (Postdoctoral Research Associate, August 2022 - present)
 * Cong Ma (Postdoctoral Research Associate, October 2020 - present)
-* Palash Sashittal (Postdoctoral Research Associate, September 2021 - present)
+* Uyen Mai (August 2022 - present)
+* Palash Sashittal (Postdoctoral Research Associate, September 2021 - present) 
 
 
 ### Ph.D. Students
 * [Uthsav Chitra](https://uthsavc.github.io) (Computer Science). 2018-present
+* Maya Gupta (Computer Science). 2021-present
 * Xinhao Liu (Computer Science). 2021-present
-* Matthew Myers (Computer Science). 2017-present
 * Tyler Park (Quantitative and Computational Biology). 2018-present
+* Henri Schmidt (Computer Science). 2021-present
 * Ahmed Shuaibi (Quantitative and Computational Biology). 2021-present
 * Alexander Strzalkowski (Computer Science). 2020-present
-* Madelyne Xiao (Computer Science). 2021-present
+
 
 ### Undergraduates
 * Rishabh Rout 
@@ -42,6 +45,7 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 ## Alumni
 
 #### Ph.D. Students
+* Matthew Myers (Ph.D. Computer Science, 2017-2022)
 * [Gryte Satas](https://cs.brown.edu/people/gsatas/) (Ph.D. Computer Science, 2020) &rarr; Postdoctoral Fellow, Memorial Sloan Kettering Cancer Center 
 * Rebecca Elyanow (Ph.D. Computational Biology and Computer Science, 2020)&rarr; Adaptive Biotechnologies
 * [Max Leiserson](http://maxleiserson.com) (Ph.D. Computational Biology and Computer Science, 2016) [NSF Graduate Research Fellowship, 2012-2015] &rarr; Postdoctoral Fellow, Microsoft Research New England &rarr; Assistant Professor, University of Maryland (Starting Fall 2017)
