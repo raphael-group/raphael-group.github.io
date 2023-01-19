@@ -14,7 +14,7 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 ### Postdoctoral Fellows
 * Metin Balaban (Postdoctoral Research Associate, August 2022 - present)
 * Cong Ma (Postdoctoral Research Associate, October 2020 - present)
-* Uyen Mai (August 2022 - present)
+* Uyen Mai (Princeton Presidential Postdoctoral Rsearch Fellow, August 2022 - present)
 * Palash Sashittal (Postdoctoral Research Associate, September 2021 - present) 
 
 
