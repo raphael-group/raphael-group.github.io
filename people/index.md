@@ -15,22 +15,29 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 * Metin Balaban (Postdoctoral Research Associate, August 2022 - present)
 * [Cong Ma](https://congm12.github.io/) (Postdoctoral Research Associate, October 2020 - present)
 * Uyen Mai ([Princeton Presidential Postdoctoral Research Fellow](https://www.princeton.edu/news/2022/09/21/twelve-scholars-named-presidential-postdoctoral-research-fellows-aim-source-talent), August 2022 - present)
-* Palash Sashittal (Postdoctoral Research Associate, September 2021 - present) 
+* Hirak Sarkar (Ludwig Scholar, February 2023 - present)
+* Palash Sashittal (Postdoctoral Research Associate, September 2021 - present)
+* Hongyu Zheng (Postdoctoral Research Associate, September 2023 - present 
 
 
 ### Ph.D. Students
 * [Uthsav Chitra](https://uthsavc.github.io) (Computer Science). 2018-present
-* Maya Gupta (Computer Science). 2021-present
+* Gillian Chu (Computer Science). 2022-present
+* Maya Gupta (Computer Science). 2022-present
+* Peter Halmos (Computer Science). 2023-present
+* Gary Hu (Computer Science).  2022-present
+* Akhil Jakatdar (Computer Science). 2022-present
 * Xinhao Liu (Computer Science). 2021-present
-* Tyler Park (Quantitative and Computational Biology). 2018-present
+* Sereno Lopez-Darwin (Quantitative and Computational Biology, Co-advised with Yibin Kang), 2022-present
 * Henri Schmidt (Computer Science). 2021-present
 * Ahmed Shuaibi (Quantitative and Computational Biology). 2021-present
 * Alexander Strzalkowski (Computer Science). 2020-present
+* Richard Zhang (Quantitative and Computational Biology, Co-advised with Michelle Chan), 2022-present
 
 
 ### Undergraduates
-* Rishabh Rout 
-* Ellen Su
+* Rishabh Rout (Summer 2021 - present)
+
 
 <a name="jobs"></a> 
 
@@ -45,7 +52,8 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 ## Alumni
 
 #### Ph.D. Students
-* Matthew Myers (Ph.D. Computer Science, 2017-2022)
+* Tyler Park (Ph.D. Quantitative and Computational Biology, 2018-2023) &rarr; Postdoctoral Fellow, Memorial Sloan Kettering Cancer Center
+* Matthew Myers (Ph.D. Computer Science, 2017-2022) &rarr; Computational Biologist, Memorial Sloan Kettering Cancer Center
 * [Gryte Satas](https://cs.brown.edu/people/gsatas/) (Ph.D. Computer Science, 2020) &rarr; Postdoctoral Fellow, Memorial Sloan Kettering Cancer Center 
 * Rebecca Elyanow (Ph.D. Computational Biology and Computer Science, 2020)&rarr; Adaptive Biotechnologies
 * [Max Leiserson](http://maxleiserson.com) (Ph.D. Computational Biology and Computer Science, 2016) [NSF Graduate Research Fellowship, 2012-2015] &rarr; Postdoctoral Fellow, Microsoft Research New England &rarr; Assistant Professor, University of Maryland (Starting Fall 2017)
@@ -85,6 +93,7 @@ Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/p
 #### Undergraduate and Visiting Students
 * Kimberly Ding (Thesis, 2021)
 * Yaw Asante (Thesis, 2021)
+* Ellen Su (Summer 2021)
 * Shirley Zhang (2020)
 * Max Land (2020)
 * Chandler Ault (Summer 2020)
