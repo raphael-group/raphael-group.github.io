@@ -9,7 +9,7 @@ container_css_class: container
 ## Current Group Members
 
 ### PI
-Ben Raphael (PI). Curriculum Vitae: [PDF](http://compbio-research.cs.brown.edu/people/BRaphael_CV.pdf)
+[Ben Raphael](https://www.cs.princeton.edu/~braphael/) (PI). Curriculum Vitae: [PDF](https://www.cs.princeton.edu/~braphael/BRaphael_CV.pdf)
 
 ### Postdoctoral Fellows
 * Metin Balaban (Postdoctoral Research Associate, August 2022 - present)
