@@ -8,7 +8,8 @@ container_css_class: container publications
 
 # publications
 
-**This list of publications is almost definitely out of date.  Recent lists of publications are available at [Google Scholar](https://scholar.google.com/citations?user=GhvZjJUAAAAJ&hl=en&authuser=1), [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=%28raphael+bj+%5Bau%5D+OR+raphael+bj+%5BInvestigator%5D%29+OR+21720365%5Buid%5D+OR+17048384+%5Buid%5D+OR+15520295+%5Buid%5D), or [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Raphael:Benjamin_J=.html).**
+<span style="color:red">**This list of publications is almost definitely out of date.**</span> <br>
+**Recent lists of publications are available at [Google Scholar](https://scholar.google.com/citations?user=GhvZjJUAAAAJ&hl=en), [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=%28raphael+bj+%5Bau%5D+OR+raphael+bj+%5BInvestigator%5D%29+OR+21720365%5Buid%5D+OR+17048384+%5Buid%5D+OR+15520295+%5Buid%5D), or [DBLP](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Raphael:Benjamin_J=.html).**
 
 ### Preprints and In press ###
 
