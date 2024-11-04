@@ -12,18 +12,14 @@ container_css_class: container
 [Ben Raphael](https://www.cs.princeton.edu/~braphael/) (PI). Curriculum Vitae: [PDF](https://www.cs.princeton.edu/~braphael/BRaphael_CV.pdf)
 
 ### Postdoctoral Fellows
-* Metin Balaban (Postdoctoral Research Associate, August 2022 - present)
-* [Cong Ma](https://congm12.github.io/) (Postdoctoral Research Associate, October 2020 - present)
+* Yihang Shen (Postdoctoral Research Associate, September 2024 - present)
 * Uyen Mai ([Princeton Presidential Postdoctoral Research Fellow](https://www.princeton.edu/news/2022/09/21/twelve-scholars-named-presidential-postdoctoral-research-fellows-aim-source-talent), August 2022 - present)
 * Hirak Sarkar (Ludwig Scholar, February 2023 - present)
-* Palash Sashittal (Postdoctoral Research Associate, September 2021 - present)
-* Hongyu Zheng (Postdoctoral Research Associate, September 2023 - present 
+* Hongyu Zheng (Postdoctoral Research Associate, September 2023 - present) 
 
 
 ### Ph.D. Students
-* [Uthsav Chitra](https://uthsavc.github.io) (Computer Science). 2018-present
 * Gillian Chu (Computer Science). 2022-present
-* Maya Gupta (Computer Science). 2022-present
 * Peter Halmos (Computer Science). 2023-present
 * Gary Hu (Computer Science).  2022-present
 * Akhil Jakatdar (Computer Science). 2022-present
@@ -31,7 +27,6 @@ container_css_class: container
 * Sereno Lopez-Darwin (Quantitative and Computational Biology, Co-advised with Yibin Kang), 2022-present
 * Henri Schmidt (Computer Science). 2021-present
 * Ahmed Shuaibi (Quantitative and Computational Biology). 2021-present
-* Alexander Strzalkowski (Computer Science). 2020-present
 * Richard Zhang (Quantitative and Computational Biology, Co-advised with Michelle Chan), 2022-present
 
 
@@ -52,6 +47,8 @@ container_css_class: container
 ## Alumni
 
 #### Ph.D. Students
+* [Uthsav Chitra](https://uthsavc.github.io) (Ph.D. Computer Science, 2018-2024) &rarr; Schmidt Postdoctoral Fellow, Broad Institute
+* Alexander Strzalkowski (Ph.D. Computer Science, 2020-2024)
 * Tyler Park (Ph.D. Quantitative and Computational Biology, 2018-2023) &rarr; Postdoctoral Fellow, Memorial Sloan Kettering Cancer Center
 * Matthew Myers (Ph.D. Computer Science, 2017-2022) &rarr; Computational Biologist, Memorial Sloan Kettering Cancer Center
 * [Gryte Satas](https://cs.brown.edu/people/gsatas/) (Ph.D. Computer Science, 2020) &rarr; Postdoctoral Fellow, Memorial Sloan Kettering Cancer Center 
@@ -65,6 +62,9 @@ container_css_class: container
 * [Crystal Kahn](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [NSF Graduate Research Fellowship, 2005-2008] &rarr; Ab Initio &rarr; Assistant Professor, Amherst College 
 
 #### Postdoctoral Fellows and Research Faculty
+* Metin Balaban (Postdoctoral Research Associate, August 2022 - August 2024) &rarr; Computational Scientist, Myriad Genetics
+* Palash Sashittal (Postdoctoral Research Associate, September 2021 - August 2024) &rarr; Assistant Professor, Department of Computer Science, Virgina Tech
+* [Cong Ma](https://congm12.github.io/) (Postdoctoral Research Associate, October 2020 - August 2024) &rarr; Assistant Professor, Department of Computational Medicine, University of Michigan
 * Pijus Simonaitis (Postdoctoral Research Associate, January 2021 - March 2022)
 * [Ron Zeira](http://www.cs.tau.ac.il/~ronzeira/) (Postdoctoral Research Associate, January 2019-February 2022) &rarr; Verily, Israel 
 * [Simone Zaccaria](https://simozacca.github.io/) (Postdoctoral Research Associate, April 2017-August 2020) &rarr; Group Leader at University College London 
@@ -78,6 +78,7 @@ container_css_class: container
 * [Suzanne Sindi](http://faculty.ucmerced.edu/ssindi/) (Postdoctoral Fellow 2006-2012) &rarr; Assistant Professor, UC Merced
 
 ### Master's Students
+* Maya Gupta (Computer Science, MSE 2024)
 * Ashley Conard (Sc.M. Computational Biology and Computer Science 2018) &rarr; Ph.D. student, Brown University
 * Jeremy Watson (Sc.M. 2016)
 * John Shen (Sc.M. 2015) &rarr; IBM Watson
