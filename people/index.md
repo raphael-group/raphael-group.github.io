@@ -19,6 +19,7 @@ container_css_class: container
 
 
 ### Ph.D. Students
+* Viola Chen (Computer Science). 2023-present
 * Gillian Chu (Computer Science). 2022-present
 * Peter Halmos (Computer Science). 2023-present
 * Gary Hu (Computer Science).  2022-present
@@ -31,7 +32,7 @@ container_css_class: container
 
 
 ### Undergraduates
-* Rishabh Rout (Summer 2021 - present)
+* 
 
 
 <a name="jobs"></a> 
@@ -92,6 +93,7 @@ container_css_class: container
 
 
 #### Undergraduate and Visiting Students
+* Rishabh Rout (Summer 2021 - Spring 2024)
 * Kimberly Ding (Thesis, 2021)
 * Yaw Asante (Thesis, 2021)
 * Ellen Su (Summer 2021)
