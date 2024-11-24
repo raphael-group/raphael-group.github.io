@@ -29,6 +29,7 @@ container_css_class: container
 * Henri Schmidt (Computer Science). 2021-present
 * Ahmed Shuaibi (Quantitative and Computational Biology). 2021-present
 * Richard Zhang (Quantitative and Computational Biology, Co-advised with Michelle Chan), 2022-present
+* Clover Zheng (Computer Science). 2022-present
 
 
 ### Undergraduates
