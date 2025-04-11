@@ -13,18 +13,21 @@ container_css_class: container
 
 ### Postdoctoral Fellows
 * Yihang Shen (Postdoctoral Research Associate, September 2024 - present)
-* Uyen Mai ([Princeton Presidential Postdoctoral Research Fellow](https://www.princeton.edu/news/2022/09/21/twelve-scholars-named-presidential-postdoctoral-research-fellows-aim-source-talent), August 2022 - present)
 * Hirak Sarkar (Ludwig Scholar, February 2023 - present)
 * Hongyu Zheng (Postdoctoral Research Associate, September 2023 - present) 
 
+### Research Scientists
+* Julian Gold (DataX Data Scientist, March 2023 - present)
 
 ### Ph.D. Students
 * Viola Chen (Computer Science). 2023-present
 * Gillian Chu (Computer Science). 2022-present
 * Peter Halmos (Computer Science). 2023-present
+* William Howard-Synder (Computer Science). 2024-present
 * Gary Hu (Computer Science).  2022-present
 * Akhil Jakatdar (Computer Science). 2022-present
 * Xinhao Liu (Computer Science). 2021-present
+* Runpeng Luo (Computer Science). 2024-present
 * Sereno Lopez-Darwin (Quantitative and Computational Biology, Co-advised with Yibin Kang), 2022-present
 * Henri Schmidt (Computer Science). 2021-present
 * Ahmed Shuaibi (Quantitative and Computational Biology). 2021-present
@@ -64,6 +67,7 @@ container_css_class: container
 * [Crystal Kahn](http://www3.amherst.edu/~cvalentine/cvalentine/Welcome.html) (Ph.D. Computer Science 2010) [NSF Graduate Research Fellowship, 2005-2008] &rarr; Ab Initio &rarr; Assistant Professor, Amherst College 
 
 #### Postdoctoral Fellows and Research Faculty
+* Uyen Mai ([Princeton Presidential Postdoctoral Research Fellow](https://www.princeton.edu/news/2022/09/21/twelve-scholars-named-presidential-postdoctoral-research-fellows-aim-source-talent), August 2022 - October 2024)
 * Metin Balaban (Postdoctoral Research Associate, August 2022 - August 2024) &rarr; Computational Scientist, Myriad Genetics
 * Palash Sashittal (Postdoctoral Research Associate, September 2021 - August 2024) &rarr; Assistant Professor, Department of Computer Science, Virgina Tech
 * [Cong Ma](https://congm12.github.io/) (Postdoctoral Research Associate, October 2020 - August 2024) &rarr; Assistant Professor, Department of Computational Medicine, University of Michigan
